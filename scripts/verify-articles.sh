@@ -71,6 +71,7 @@ for SLUG in "${SLUGS[@]}"; do
     INTERDIT=$(grep -ciE "$FORBIDDEN" "$FILEPATH") || INTERDIT=0
     TYPO=$(grep -c "$BAD_PATTERN" "$FILEPATH") || TYPO=0
     CALLOUTS=$(grep -c '> \[!' "$FILEPATH") || CALLOUTS=0
+    MERMAID=$(grep -c '\`\`\`mermaid' "$FILEPATH") || MERMAID=0
 
     # Status
     ERRORS=0
@@ -79,7 +80,9 @@ for SLUG in "${SLUGS[@]}"; do
     [ "$INTERDIT" -gt 0 ] && ERRORS=$((ERRORS+1)) && ISSUES="${ISSUES}fbd "
     [ "$TYPO" -gt 0 ] && ERRORS=$((ERRORS+1)) && ISSUES="${ISSUES}typo "
     [ "$CALLOUTS" -lt 3 ] && ERRORS=$((ERRORS+1)) && ISSUES="${ISSUES}call< "
-    [ "$CALLOUTS" -gt 5 ] && ISSUES="${ISSUES}call> "
+    [ "$CALLOUTS" -gt 5 ] && ERRORS=$((ERRORS+1)) && ISSUES="${ISSUES}call> "
+    [ "$MERMAID" -lt 1 ] && ERRORS=$((ERRORS+1)) && ISSUES="${ISSUES}mmd< "
+    [ "$MERMAID" -gt 3 ] && ERRORS=$((ERRORS+1)) && ISSUES="${ISSUES}mmd> "
     [ "$WORDS" -gt 3000 ] && ISSUES="${ISSUES}long "
     if ! head -1 "$FILEPATH" | grep -q '^---'; then
         ERRORS=$((ERRORS+1)) && ISSUES="${ISSUES}fm "
@@ -94,7 +97,7 @@ for SLUG in "${SLUGS[@]}"; do
         STATUS="OK"
     fi
 
-    printf "%-35s %6s %5s %4s %4s %5s  %s\n" "$SLUG" "$WORDS" "$ACCENTS" "$INTERDIT" "$TYPO" "$CALLOUTS" "$STATUS"
+    printf "%-35s %6s %5s %4s %4s %5s %4s  %s\n" "$SLUG" "$WORDS" "$ACCENTS" "$INTERDIT" "$TYPO" "$CALLOUTS" "$MERMAID" "$STATUS"
 done
 
 # --- Detail of forbidden words ---

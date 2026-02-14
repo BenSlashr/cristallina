@@ -137,6 +137,68 @@ de plus, en outre, par consequent, neanmoins, toutefois, cependant, ainsi, en ef
 
 Le script verifie : accents, mots interdits, caracteres typo, callouts, longueur, frontmatter, build.
 
+### Pipeline automatise (benchmark-redaction.sh)
+
+Le script `scripts/benchmark-redaction.sh` automatise le workflow complet en une seule commande : preprocessing, redaction via API LLM, quiz, verification, et deploiement.
+
+**Usage :**
+```bash
+# Lancer le pipeline complet
+./scripts/benchmark-redaction.sh --model sonnet --articles articles.csv
+
+# Avec options
+./scripts/benchmark-redaction.sh --model haiku --articles articles.csv --parallel 5 --no-deploy
+```
+
+**Format CSV (5 champs, avec header) :**
+```csv
+slug,keyword,branch,parent,order
+mon-article,mot cle seo,branche,hub-parent,1
+```
+
+**Modeles supportes :**
+- Anthropic : `opus`, `sonnet`, `haiku`
+- OpenAI : `nano` (gpt-5-nano), `mini` (gpt-5-mini)
+
+**Options :**
+| Option | Description |
+|--------|-------------|
+| `--model <id>` | Modele LLM (defaut: sonnet) |
+| `--articles <csv>` | Fichier CSV des articles (requis) |
+| `--parallel <n>` | Nombre d'articles en parallele (defaut: 3) |
+| `--cooldown <s>` | Pause entre articles en secondes (auto: 30s Anthropic, 0s OpenAI) |
+| `--skip-preprocess` | Sauter la Phase 1 si les donnees existent deja |
+| `--no-deploy` | Ne pas copier les articles valides dans le projet |
+| `--max-tokens <n>` | Limite de tokens en sortie (defaut: 8192) |
+
+**Les 6 phases :**
+
+| Phase | Action | Detail |
+|-------|--------|--------|
+| 1. Preprocessing | `preprocess-article.sh` en parallele | Recherche Tavily + brief SEO Slashr + image fal.ai |
+| 2. Redaction | Appel API LLM | Article complet genere avec le system prompt du persona |
+| 2b. Quiz | Appel API LLM | 3 questions quiz par article |
+| 3. Verification | Inline | Mots interdits, accents, typo, callouts, Mermaid, longueur |
+| 4. Rapport | Inline | Tokens, cout, temps, taux de succes |
+| 5. Merge quiz | `jq` | Fusionne les quiz dans `site/src/data/quizzes.json` |
+| 6. Deploiement | `cp` | Copie les articles OK dans `site/src/content/guides/{branch}/` |
+
+**Fichiers du pipeline :**
+- `scripts/benchmark-redaction.sh` - Script principal (6 phases)
+- `scripts/preprocess-article.sh` - Preprocessing (Tavily + Slashr + fal.ai)
+- `scripts/verify-articles.sh` - Verification qualite standalone
+- `scripts/redaction-system-prompt.md` - Prompt persona (a personnaliser, voir PERSONNALISATION.md)
+- `scripts/quiz-system-prompt.md` - Prompt generation quiz (a personnaliser)
+- `scripts/PERSONNALISATION.md` - Guide complet de personnalisation du pipeline
+- `site/src/data/quizzes.json` - Stockage des quiz generes
+
+**Cles API requises** (dans `site/.env`) :
+- `ANTHROPIC_API_KEY` ou `OPENAI_API_KEY` (selon le modele)
+- `TAVILY_API_KEY` (recherche factuelle)
+- `FAL_KEY` (generation d'images)
+
+**Personnalisation :** Voir `scripts/PERSONNALISATION.md` pour la liste complete des elements a adapter quand on cree un nouveau site (persona, palette, maillage, prompts image, seuils de mots, etc.).
+
 ## Generation d'images - Recraft V3 via fal.ai
 
 ```bash

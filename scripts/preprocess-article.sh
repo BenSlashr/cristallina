@@ -54,6 +54,19 @@ if [ ! -f "$SITE_DIR/.env" ]; then
 fi
 source "$SITE_DIR/.env"
 
+# --- API key validation ---
+TAVILY_AVAILABLE=true
+if [ -z "${TAVILY_API_KEY:-}" ]; then
+    echo "[$SLUG] Warning: TAVILY_API_KEY missing, Tavily search skipped." >&2
+    TAVILY_AVAILABLE=false
+fi
+
+FAL_AVAILABLE=true
+if [ -z "${FAL_KEY:-}" ]; then
+    echo "[$SLUG] Warning: FAL_KEY missing, image generation skipped." >&2
+    FAL_AVAILABLE=false
+fi
+
 # --- Setup ---
 mkdir -p "$OUT" "$IMAGE_DIR"
 
@@ -62,7 +75,8 @@ echo "[$SLUG] Preprocessing..."
 # ============================================================
 # 1. TAVILY — Factual research
 # ============================================================
-echo "[$SLUG]   Tavily..."
+if [ "$TAVILY_AVAILABLE" = true ]; then
+    echo "[$SLUG]   Tavily..."
 TAVILY_PAYLOAD=$(jq -n --arg q "$KEYWORD" --arg k "$TAVILY_API_KEY" \
     '{api_key: $k, query: $q, search_depth: "advanced", max_results: 5, include_answer: true}')
 curl -s --max-time 30 -X POST "https://api.tavily.com/search" \
@@ -70,6 +84,10 @@ curl -s --max-time 30 -X POST "https://api.tavily.com/search" \
     -d "$TAVILY_PAYLOAD" \
     -o "$OUT/tavily.json" 2>/dev/null || echo '{}' > "$OUT/tavily.json"
 echo "[$SLUG]   Tavily: $(jq -r '.results | length // 0' "$OUT/tavily.json" 2>/dev/null || echo 0) sources"
+else
+    echo "[$SLUG]   Tavily: skipped (no API key)"
+    echo '{}' > "$OUT/tavily.json"
+fi
 
 # ============================================================
 # 2. SEO BRIEF (Slashr)
@@ -82,13 +100,18 @@ curl -s --max-time 60 -X POST "https://outils.agence-slashr.fr/brief-contenu/api
     -d "$BRIEF_PAYLOAD" \
     -o "$OUT/brief.json" 2>/dev/null || echo '{}' > "$OUT/brief.json"
 BRIEF_WORDS=$(jq -r '.semanticData.recommended_words // 2500' "$OUT/brief.json" 2>/dev/null || echo 2500)
-BRIEF_WORDS=$(echo "$BRIEF_WORDS" | grep -oE '^[0-9]+$' || echo 2500)
+if [[ "$BRIEF_WORDS" =~ ^[0-9]+$ ]]; then
+    : # valid number
+else
+    BRIEF_WORDS=2500
+fi
 echo "[$SLUG]   Brief: $BRIEF_WORDS recommended words"
 
 # ============================================================
 # 3. IMAGE (fal.ai / Recraft V3)
 # ============================================================
-echo "[$SLUG]   Image fal.ai..."
+if [ "$FAL_AVAILABLE" = true ]; then
+    echo "[$SLUG]   Image fal.ai..."
 # TODO: Customize the image prompt template for your domain
 IMAGE_PROMPT="no text, no letters, no numbers, no words. Dark atmospheric digital illustration with grain texture. Scene depicting ${KEYWORD}. Dark void background with golden and violet accent lighting. Asymmetric composition, concrete visual metaphor, cinematic mood."
 FAL_PAYLOAD=$(jq -n --arg p "$IMAGE_PROMPT" \
@@ -173,7 +196,9 @@ $(jq -r '.answer // "No synthesis"' "$OUT/tavily.json" 2>/dev/null || echo "Not 
 $(jq -r '.results[]? | "- \(.title) (\(.url))\n  \(.content[:500])\n"' "$OUT/tavily.json" 2>/dev/null || echo "No sources")
 
 ## Parent hub content (do not repeat)
-$(cat "$OUT/parent.md")
 DATAEOF
+
+# Append parent content separately (avoids shell expansion of backticks/$ in markdown)
+cat "$OUT/parent.md" >> "$OUT/prompt-data.md"
 
 echo "[$SLUG] OK -> $OUT/prompt-data.md"
