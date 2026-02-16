@@ -1,0 +1,190 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+---
+
+<BaseLayout title="Politique de confidentialité | Cristallina"
+            description="Politique de confidentialité et protection des données personnelles sur cristallina.fr - Conformité RGPD."
+            canonical="https://www.cristallina.fr/politique-confidentialite"
+>
+  <Navbar />
+
+  <main class="pt-16">
+    <section class="py-20">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-16">
+          <h1 class="text-4xl md:text-5xl font-bold text-gray-800 mb-6">
+            Politique de <span class="text-blue-300">confidentialité</span>
+          </h1>
+          <p class="text-lg text-gray-600">
+            Comment nous protégeons et utilisons vos données personnelles
+          </p>
+        </div>
+
+        <div class="prose-custom max-w-none">
+          
+          <div class="bg-blue-50/50 p-6 rounded-2xl border-l-4 border-blue-200 mb-8">
+            <p class="text-blue-800 font-medium">
+              <strong>Transparence totale :</strong> Nous croyons en une approche simple et honnête concernant vos données. 
+              Cette page vous explique tout ce que vous devez savoir sur la façon dont nous collectons, utilisons et protégeons vos informations personnelles.
+            </p>
+          </div>
+
+          <h2>1. Qui sommes-nous ?</h2>
+          
+          <p>Le site <strong>cristallina.fr</strong> est un blog personnel tenu par Laure, passionnée de décoration et lifestyle.</p>
+          
+          <p><strong>Responsable du traitement :</strong> Laure [Nom de famille]<br>
+          <strong>Contact :</strong> contact@cristallina.fr</p>
+
+          <h2>2. Quelles données collectons-nous ?</h2>
+
+          <h3>2.1 Données que vous nous fournissez directement</h3>
+          
+          <ul>
+            <li><strong>Formulaire de contact :</strong> Prénom, email, sujet et message</li>
+            <li><strong>Newsletter :</strong> Adresse email uniquement</li>
+            <li><strong>Commentaires :</strong> Prénom et email (si cette fonctionnalité est activée)</li>
+          </ul>
+
+          <h3>2.2 Données collectées automatiquement</h3>
+          
+          <ul>
+            <li><strong>Données techniques :</strong> Adresse IP, type de navigateur, pages visitées</li>
+            <li><strong>Cookies techniques :</strong> Nécessaires au bon fonctionnement du site</li>
+            <li><strong>Statistiques anonymisées :</strong> Pour améliorer l'expérience utilisateur</li>
+          </ul>
+
+          <h2>3. Pourquoi collectons-nous ces données ?</h2>
+          
+          <div class="grid md:grid-cols-2 gap-6 my-8">
+            <div class="bg-pink-50/50 p-6 rounded-2xl">
+              <h4 class="font-bold text-pink-700 mb-3">📧 Communication</h4>
+              <p class="text-gray-600 text-sm">Répondre à vos messages et vous envoyer la newsletter si vous vous êtes inscrite.</p>
+            </div>
+            <div class="bg-blue-50/50 p-6 rounded-2xl">
+              <h4 class="font-bold text-blue-700 mb-3">📊 Amélioration</h4>
+              <p class="text-gray-600 text-sm">Comprendre comment vous utilisez le site pour l'améliorer continuellement.</p>
+            </div>
+            <div class="bg-purple-50/50 p-6 rounded-2xl">
+              <h4 class="font-bold text-purple-700 mb-3">🔒 Sécurité</h4>
+              <p class="text-gray-600 text-sm">Protéger le site contre le spam et les utilisations malveillantes.</p>
+            </div>
+            <div class="bg-green-50/50 p-6 rounded-2xl">
+              <h4 class="font-bold text-green-700 mb-3">⚖️ Légal</h4>
+              <p class="text-gray-600 text-sm">Respecter nos obligations légales en matière de protection des données.</p>
+            </div>
+          </div>
+
+          <h2>4. Combien de temps conservons-nous vos données ?</h2>
+          
+          <ul>
+            <li><strong>Messages de contact :</strong> 3 ans maximum</li>
+            <li><strong>Newsletter :</strong> Jusqu'à votre désinscription</li>
+            <li><strong>Données techniques :</strong> 13 mois maximum</li>
+            <li><strong>Commentaires :</strong> Jusqu'à suppression sur demande</li>
+          </ul>
+
+          <h2>5. Avec qui partageons-nous vos données ?</h2>
+          
+          <p><strong>Principe général :</strong> Nous ne vendons, ne louons ni n'échangeons vos données personnelles avec des tiers.</p>
+          
+          <p>Les seuls cas où vos données peuvent être transmises :</p>
+          
+          <ul>
+            <li><strong>Hébergeur web :</strong> Pour le fonctionnement technique du site</li>
+            <li><strong>Service email :</strong> Pour l'envoi de la newsletter (avec votre consentement)</li>
+            <li><strong>Obligation légale :</strong> Si la loi nous y oblige</li>
+          </ul>
+
+          <h2>6. Vos droits sur vos données</h2>
+          
+          <p>Conformément au RGPD, vous disposez des droits suivants :</p>
+          
+          <div class="bg-gray-50 p-6 rounded-2xl my-8">
+            <h3 class="font-bold mb-4">✨ Vos droits en un clic</h3>
+            <div class="grid md:grid-cols-2 gap-4 text-sm">
+              <div>
+                <strong>🔍 Droit d'accès :</strong> Savoir quelles données nous avons sur vous
+              </div>
+              <div>
+                <strong>✏️ Droit de rectification :</strong> Corriger des informations inexactes
+              </div>
+              <div>
+                <strong>🗑️ Droit à l'effacement :</strong> Demander la suppression de vos données
+              </div>
+              <div>
+                <strong>⏸️ Droit d'opposition :</strong> Vous opposer au traitement de vos données
+              </div>
+              <div>
+                <strong>📦 Droit à la portabilité :</strong> Récupérer vos données dans un format lisible
+              </div>
+              <div>
+                <strong>⚠️ Droit de limitation :</strong> Limiter le traitement de vos données
+              </div>
+            </div>
+          </div>
+
+          <p><strong>Comment exercer vos droits ?</strong><br>
+          Envoyez-nous simplement un email à <strong>contact@cristallina.fr</strong> en précisant votre demande. 
+          Nous vous répondrons dans les 30 jours maximum.</p>
+
+          <h2>7. Cookies et technologies similaires</h2>
+          
+          <p>Ce site utilise uniquement des <strong>cookies techniques essentiels</strong> :</p>
+          
+          <ul>
+            <li>Cookies de session (fonctionnement du site)</li>
+            <li>Cookies de préférences (thème, langue)</li>
+            <li>Cookies de sécurité (protection contre le spam)</li>
+          </ul>
+          
+          <p><strong>Aucun cookie de tracking, publicitaire ou de réseaux sociaux n'est utilisé.</strong></p>
+
+          <h2>8. Sécurité de vos données</h2>
+          
+          <p>Nous mettons en place toutes les mesures techniques et organisationnelles appropriées pour protéger vos données :</p>
+          
+          <ul>
+            <li>Chiffrement HTTPS sur tout le site</li>
+            <li>Serveurs sécurisés et mis à jour</li>
+            <li>Accès limité aux données personnelles</li>
+            <li>Sauvegardes régulières et sécurisées</li>
+          </ul>
+
+          <h2>9. Transferts de données hors UE</h2>
+          
+          <p>Vos données personnelles sont stockées et traitées au sein de l'Union Européenne. 
+          Aucun transfert vers des pays tiers n'a lieu sans garanties appropriées.</p>
+
+          <h2>10. Modifications de cette politique</h2>
+          
+          <p>Cette politique de confidentialité peut être mise à jour. En cas de modification importante, 
+          nous vous en informerons par email (si vous êtes abonnée à la newsletter) ou par un bandeau sur le site.</p>
+
+          <h2>11. Contact et réclamations</h2>
+          
+          <p>Pour toute question sur cette politique ou sur le traitement de vos données :</p>
+          
+          <ul>
+            <li><strong>Email :</strong> contact@cristallina.fr</li>
+            <li><strong>Délai de réponse :</strong> 30 jours maximum</li>
+          </ul>
+          
+          <p>Si vous estimez que vos droits ne sont pas respectés, vous pouvez saisir la <strong>CNIL</strong> :</p>
+          <p>Commission Nationale de l'Informatique et des Libertés<br>
+          3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07<br>
+          <a href="https://www.cnil.fr" class="text-blue-600 hover:text-blue-700">www.cnil.fr</a></p>
+
+          <hr>
+          
+          <p><em>Dernière mise à jour : Février 2026</em></p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>

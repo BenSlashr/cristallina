@@ -1,0 +1,158 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+---
+
+<BaseLayout 
+  title="À propos - Laure, créatrice de Cristallina"
+  description="Découvrez l'histoire de Laure, passionnée de déco et lifestyle, qui vous accompagne pour créer un intérieur qui vous ressemble vraiment."
+  canonical="https://www.cristallina.fr/a-propos/"
+>
+  <Navbar />
+  
+  <main class="pt-16">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <!-- Hero Section -->
+    <section class="text-center mb-16">
+      <div class="w-48 h-48 mx-auto mb-8 rounded-full overflow-hidden shadow-soft border-2 border-feminine animate-gentle-float">
+        <div class="w-full h-full bg-gradient-to-br from-rose-100 to-purple-100 flex items-center justify-center">
+          <span class="text-4xl title-elegant">L</span>
+        </div>
+      </div>
+      <h1 class="text-4xl md:text-5xl mb-6">
+        <span class="title-elegant">Salut, moi c'est</span> <span class="font-display" style="color: #D4A574; font-style: italic;">Laure</span>
+      </h1>
+      <div class="quote-feminine max-w-2xl mx-auto">
+        Passionnée de déco et lifestyle, je t'accompagne pour créer un intérieur qui te ressemble vraiment, 
+        sans te ruiner et sans prise de tête.
+      </div>
+    </section>
+
+    <!-- Mon Histoire -->
+    <section class="mb-16">
+      <h2 class="text-3xl font-bold text-gray-900 mb-8 text-center">Mon histoire</h2>
+      <div class="prose prose-lg mx-auto text-gray-700 leading-relaxed">
+        <p>
+          Il y a quelques années, j'étais comme beaucoup d'entre nous : perdue devant un appartement vide, 
+          avec plein d'envies mais aucune idée par où commencer. Entre les magazines qui montrent des 
+          intérieurs à 50 000€ et Pinterest qui nous fait rêver sans nous dire comment faire, j'ai eu 
+          du mal à trouver MA voie.
+        </p>
+        
+        <p>
+          C'est en testant, en me trompant (beaucoup !), en chinant et en apprenant à faire avec mon budget 
+          que j'ai découvert ma passion pour la déco accessible. Pas celle des magazines, mais celle du quotidien. 
+          Celle qui nous ressemble et nous fait du bien au quotidien.
+        </p>
+
+        <p>
+          Aujourd'hui, à 32 ans, j'ai transformé cette passion en expertise. Mon appartement parisien 
+          est devenu mon terrain de jeu et mon laboratoire. Chaque transformation, chaque astuce, 
+          chaque erreur évitée, je les partage ici avec toi.
+        </p>
+      </div>
+    </section>
+
+    <!-- Ma Philosophie -->
+    <section class="mb-16 card-feminine section-soft">
+      <h2 class="text-3xl font-bold text-gray-900 mb-8 text-center">Ma philosophie déco</h2>
+      <div class="grid md:grid-cols-2 gap-8">
+        <div class="space-y-6">
+          <div class="flex items-start space-x-4">
+            <div class="w-3 h-3 bg-rose-400 rounded-full mt-2 flex-shrink-0"></div>
+            <div>
+              <h3 class="font-semibold text-gray-900 mb-2">Accessible à tous les budgets</h3>
+              <p class="text-gray-600">Ikea, seconde main, DIY... Je te montre comment avoir du style sans se ruiner.</p>
+            </div>
+          </div>
+          
+          <div class="flex items-start space-x-4">
+            <div class="w-3 h-3 bg-purple-400 rounded-full mt-2 flex-shrink-0"></div>
+            <div>
+              <h3 class="font-semibold text-gray-900 mb-2">Pratique avant tout</h3>
+              <p class="text-gray-600">Du concret : où acheter, combien ça coûte, combien de temps ça prend.</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="space-y-6">
+          <div class="flex items-start space-x-4">
+            <div class="w-3 h-3 bg-orange-400 rounded-full mt-2 flex-shrink-0"></div>
+            <div>
+              <h3 class="font-semibold text-gray-900 mb-2">Authentique et personnel</h3>
+              <p class="text-gray-600">Pas de copier-coller Pinterest, mais des conseils pour révéler ton style.</p>
+            </div>
+          </div>
+          
+          <div class="flex items-start space-x-4">
+            <div class="w-3 h-3 bg-rose-400 rounded-full mt-2 flex-shrink-0"></div>
+            <div>
+              <h3 class="font-semibold text-gray-900 mb-2">Bienveillant et sans jugement</h3>
+              <p class="text-gray-600">On fait toutes des erreurs. L'important c'est d'apprendre et de s'amuser !</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Ce que tu trouveras ici -->
+    <section class="mb-16">
+      <h2 class="text-3xl font-bold text-gray-900 mb-8 text-center">Ce que tu trouveras sur Cristallina</h2>
+      <div class="grid md:grid-cols-3 gap-8">
+        <div class="text-center p-6 rounded-2xl bg-white shadow-sm border border-gray-100">
+          <div class="w-16 h-16 bg-rose-100 rounded-full mx-auto mb-4 flex items-center justify-center">
+            <span class="text-2xl">🏡</span>
+          </div>
+          <h3 class="font-semibold text-gray-900 mb-3">Guides déco</h3>
+          <p class="text-gray-600 text-sm">Des tutoriels pas à pas pour transformer chaque pièce de ta maison</p>
+        </div>
+        
+        <div class="text-center p-6 rounded-2xl bg-white shadow-sm border border-gray-100">
+          <div class="w-16 h-16 bg-purple-100 rounded-full mx-auto mb-4 flex items-center justify-center">
+            <span class="text-2xl">💡</span>
+          </div>
+          <h3 class="font-semibold text-gray-900 mb-3">Astuces budget</h3>
+          <p class="text-gray-600 text-sm">Comment avoir un intérieur stylé avec des petits moyens</p>
+        </div>
+        
+        <div class="text-center p-6 rounded-2xl bg-white shadow-sm border border-gray-100">
+          <div class="w-16 h-16 bg-orange-100 rounded-full mx-auto mb-4 flex items-center justify-center">
+            <span class="text-2xl">✨</span>
+          </div>
+          <h3 class="font-semibold text-gray-900 mb-3">Lifestyle</h3>
+          <p class="text-gray-600 text-sm">Organisation, bien-être et petits bonheurs du quotidien</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA Contact -->
+    <section class="text-center card-feminine section-soft">
+      <h2 class="text-3xl title-elegant mb-4">Restons en contact !</h2>
+      <div class="quote-feminine mb-8">
+        Tu as une question déco ? Une idée d'article ? Ou tout simplement envie de papoter intérieur ?
+      </div>
+      <div class="flex flex-col sm:flex-row gap-6 justify-center">
+        <a 
+          href="mailto:laure@cristallina.fr" 
+          class="btn-feminine shadow-soft-hover"
+        >
+          🌸 Me contacter par email
+        </a>
+        <a 
+          href="https://instagram.com/cristallina.fr" 
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn-feminine shadow-soft-hover"
+          style="background: rgba(255,255,255,0.8);"
+        >
+          ✨ Me suivre sur Instagram
+        </a>
+      </div>
+    </section>
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>

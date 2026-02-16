@@ -1,0 +1,543 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+
+const title = "Mobilier Scandinave : 15 Pièces Emblématiques du Design Nordique";
+const description = "Découvrez les 15 meubles scandinaves iconiques ! Chaises Eames, canapés modulaires, tables en bois... Guide complet du design nordique authentique.";
+---
+
+<BaseLayout {title} {description} canonical="https://www.cristallina.fr/mobilier-scandinave-design-nordique/">
+  <Navbar />
+  <main class="pt-16">
+    <!-- Hero Section -->
+    <div class="relative overflow-hidden bg-gradient-to-br from-slate-50 to-blue-50 py-16">
+      <div class="mx-auto max-w-7xl px-6 lg:px-8">
+        <div class="mx-auto max-w-4xl text-center">
+          <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl bg-gradient-to-r from-blue-600 to-rose-500 bg-clip-text text-transparent">
+            Mobilier Scandinave : 15 Pièces Emblématiques
+          </h1>
+          <p class="mt-6 text-xl leading-8 text-gray-600">
+            Plongez dans l'univers du design nordique avec notre guide complet des meubles scandinaves les plus iconiques. De la chaise Ant d'Arne Jacobsen aux canapés modulaires contemporains, découvrez l'essence du style nordique.
+          </p>
+          <div class="mt-10 flex items-center justify-center gap-x-6">
+            <a href="#pieces-emblematiques" class="rounded-md bg-blue-600 px-6 py-3 text-base font-semibold text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600">
+              Découvrir les pièces
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Article Content -->
+    <div class="mx-auto max-w-4xl px-6 py-16">
+      <!-- Sommaire -->
+      <div class="border-l-4 border-rose-300 pl-4 my-8 bg-rose-50 p-6 rounded-r-lg">
+        <h2 class="text-lg font-semibold text-gray-900 mb-4">Au sommaire</h2>
+        <ul class="space-y-2 text-gray-700">
+          <li><a href="#histoire-design" class="text-blue-600 hover:text-blue-800">• L'histoire du design scandinave</a></li>
+          <li><a href="#pieces-emblematiques" class="text-blue-600 hover:text-blue-800">• Les 15 pièces emblématiques</a></li>
+          <li><a href="#materiaux-authentiques" class="text-blue-600 hover:text-blue-800">• Matériaux et techniques authentiques</a></li>
+          <li><a href="#integration-moderne" class="text-blue-600 hover:text-blue-800">• Intégrer le style nordique aujourd'hui</a></li>
+          <li><a href="#faq" class="text-blue-600 hover:text-blue-800">• Questions fréquentes</a></li>
+        </ul>
+      </div>
+
+      <!-- Introduction -->
+      <div class="prose prose-lg max-w-none">
+        <img src="/images/unsplash-scandinavian-furniture-nordic-design-minimalist-1771177375.jpg" alt="Salon avec mobilier scandinave authentique" class="w-full h-80 object-cover rounded-lg shadow-lg mb-8">
+        
+        <p class="text-xl text-gray-700 leading-relaxed">
+          Le mobilier scandinave incarne une philosophie de vie où simplicité, fonctionnalité et beauté naturelle se rencontrent. Né dans les pays nordiques au milieu du XXe siècle, ce mouvement design a révolutionné notre façon de concevoir l'habitat moderne. Chaque pièce raconte une histoire d'artisanat, d'innovation et de respect pour les matériaux naturels.
+        </p>
+
+        <p>
+          Au-delà des tendances éphémères, le style scandinave s'impose comme une référence intemporelle. Ses lignes épurées, ses tons neutres et sa praticité font écho à notre besoin contemporain de sérénité et d'authenticité. Découvrons ensemble les 15 pièces qui ont façonné ce mouvement et continuent d'inspirer les créateurs d'aujourd'hui.
+        </p>
+
+        <!-- Callout 1 -->
+        <div class="my-8 p-6 bg-amber-50 border-l-4 border-amber-400 rounded-r-lg">
+          <div class="flex">
+            <div class="flex-shrink-0">
+              <svg class="h-5 w-5 text-amber-400" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M8.485 2.495c.673-1.167 2.357-1.167 3.03 0l6.28 10.875c.673 1.167-.17 2.625-1.516 2.625H3.72c-1.345 0-2.189-1.458-1.515-2.625L8.485 2.495zM10 5a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0v-3.5A.75.75 0 0110 5zm0 9a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd"></path>
+              </svg>
+            </div>
+            <div class="ml-3">
+              <h3 class="text-sm font-medium text-amber-800 mb-1">[!TIP]</h3>
+              <p class="text-sm text-amber-700">
+                Pour reconnaître un authentique meuble scandinave, observez la qualité du bois, la simplicité des lignes et l'absence d'ornements superflus. Les pièces originales portent souvent la signature de leur créateur.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Section Histoire -->
+        <section id="histoire-design">
+          <h2 class="text-3xl font-bold text-gray-900 mt-16 mb-8">L'histoire du design scandinave</h2>
+          
+
+          <p>
+            Le mouvement du design scandinave émerge dans les années 1930-1950, porté par une vision démocratique de la beauté. Contrairement aux styles élitistes de l'époque, les créateurs nordiques comme Alvar Aalto, Arne Jacobsen et Finn Juhl prônent un design accessible à tous, alliant esthétique et fonctionnalité.
+          </p>
+
+          <p>
+            Cette révolution esthétique s'enracine dans la culture nordique elle-même. Les longs hivers scandinaves ont forgé une sensibilité particulière pour les intérieurs chaleureux et lumineux. L'abondance des forêts de pins, bouleaux et chênes influence naturellement le choix des matériaux, donnant naissance à cette esthétique si reconnaissable.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-4">Les pionniers du mouvement</h3>
+          
+          <p>
+            Kaare Klint au Danemark pose les bases théoriques du design fonctionnaliste dès les années 1920. Il développe une approche scientifique du mobilier, étudiant l'ergonomie et les proportions humaines pour créer des pièces parfaitement adaptées à l'usage. Cette méthodologie influencera toute une génération de créateurs.
+          </p>
+
+          <p>
+            En Finlande, Alvar Aalto révolutionne le travail du bois avec ses techniques de cintrage. Ses créations, comme le tabouret Stool 60, démontrent qu'innovation technique et beauté peuvent cohabiter dans la simplicité. En Suède, Bruno Mathsson développe une approche organique du design, créant des sièges aux courbes naturelles qui épousent parfaitement le corps humain.
+          </p>
+        </section>
+
+        <!-- Callout 2 -->
+        <div class="my-8 p-6 bg-blue-50 border-l-4 border-blue-400 rounded-r-lg">
+          <div class="flex">
+            <div class="flex-shrink-0">
+              <svg class="h-5 w-5 text-blue-400" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a.75.75 0 000 1.5h.253a.25.25 0 01.244.304l-.459 2.066A1.75 1.75 0 0010.747 15H11a.75.75 0 000-1.5h-.253a.25.25 0 01-.244-.304l.459-2.066A1.75 1.75 0 009.253 9H9z" clip-rule="evenodd"></path>
+              </svg>
+            </div>
+            <div class="ml-3">
+              <h3 class="text-sm font-medium text-blue-800 mb-1">[!NOTE]</h3>
+              <p class="text-sm text-blue-700">
+                Le concept de "hygge" danois influence profondément le design scandinave. Cette philosophie du bien-être quotidien se traduit par des meubles qui créent une atmosphère chaleureuse et accueillante.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Section Pièces emblématiques -->
+        <section id="pieces-emblematiques">
+          <h2 class="text-3xl font-bold text-gray-900 mt-16 mb-8">Les 15 pièces emblématiques du mobilier scandinave</h2>
+          
+
+          <p>
+            Certaines créations transcendent leur époque pour devenir des icônes intemporelles. Ces 15 pièces emblématiques incarnent l'essence du design scandinave et continuent d'inspirer les intérieurs contemporains. Chacune raconte une histoire unique d'innovation, de créativité et de savoir-faire nordique.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-6">1. La chaise Ant d'Arne Jacobsen (1952)</h3>
+          
+          <p>
+            La chaise Ant révolutionne l'industrie du mobilier avec sa coque moulée en contreplaqué. Arne Jacobsen réussit le tour de force de créer une assise confortable, empilable et esthétiquement remarquable. Ses trois pieds tubulaires en acier chromé et sa silhouette évoquant une fourmi donnent son nom à cette pièce devenue mythique.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-6">2. Le fauteuil Egg Chair d'Arne Jacobsen (1958)</h3>
+          
+          <p>
+            Conçu pour l'hôtel SAS Royal de Copenhague, l'Egg Chair représente l'apogée de l'art scandinave. Sa forme organique, sculpturale, crée un cocon protecteur tout en affirmant une présence forte dans l'espace. Le processus de fabrication artisanal, nécessitant plusieurs semaines, en fait une pièce d'exception.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-6">3. Le tabouret Stool 60 d'Alvar Aalto (1933)</h3>
+          
+          <p>
+            Véritable prouesse technique, ce tabouret empilable utilise la technique révolutionnaire de cintrage du bois d'Aalto. Avec seulement trois pieds en bouleau massif et une assise circulaire, il atteint une simplicité parfaite. Plus de 8 millions d'exemplaires ont été vendus, témoignant de son succès universel.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-6">4. La chaise Wishbone de Hans Wegner (1949)</h3>
+          
+          <p>
+            Surnommée "Y-Chair" pour sa forme caractéristique, cette création de Hans Wegner sublime l'artisanat traditionnel danois. Chaque exemplaire nécessite plus de 100 opérations manuelles. L'assise tressée en papier danish cord et la structure en bois massif incarnent l'harmonie parfaite entre tradition et modernité.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-6">5. Le canapé modulaire de Finn Juhl (1945)</h3>
+          
+          <p>
+            Finn Juhl révolutionne le concept de canapé avec ses créations modulaires aux lignes sculpturales. L'assise semble "flotter" au-dessus de la structure en bois, créant un effet visuel saisissant. Cette approche architecturale du mobilier influence durablement le design contemporain.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-6">6. La table en tronc d'arbre de George Nelson (1955)</h3>
+          
+          <p>
+            George Nelson transpose l'esthétique scandinave en Amérique avec sa table coffee table aux pieds fusiformes. Inspirée des troncs d'arbres, elle incarne parfaitement la connexion nordique avec la nature. Sa forme organique contraste avec les lignes géométriques du mobilier de l'époque.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-6">7. L'étagère String de Nils Strinning (1949)</h3>
+          
+          <p>
+            Le système String révolutionne le rangement avec sa structure modulaire en métal et bois. Conçu initialement pour un concours de bibliothèque économique, il devient rapidement un classique du design scandinave. Sa flexibilité et sa simplicité d'assemblage en font un incontournable des intérieurs nordiques.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-6">8. La lampe PH5 de Poul Henningsen (1958)</h3>
+          
+          <p>
+            Poul Henningsen révolutionne l'éclairage avec sa suspension PH5 aux multiples réflecteurs. Chaque élément est calculé pour diffuser une lumière douce et uniforme, sans éblouissement. Cette approche scientifique de la lumière caractérise l'excellence technique du design danois.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-6">9. Le fauteuil Papa Bear de Hans Wegner (1951)</h3>
+          
+          <p>
+            Ce fauteuil imposant tire son surnom de ses proportions généreuses et protectrices. Hans Wegner mélange influences traditionnelles danoises et modernisme, créant une pièce à la fois majestueuse et accueillante. Son dossier haut et ses accoudoirs enveloppants invitent à la détente.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-6">10. Le lit plateforme danois (années 1960)</h3>
+          
+          <p>
+            Le concept de lit plateforme scandinave privilégie les lignes basses et épurées. Cette approche minimaliste transforme la chambre en espace de sérénité, conforme à l'esthétique nordique. Les bois clairs et les formes simples créent une atmosphère apaisante.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-6">11. La commode Teak de Arne Vodder (1955)</h3>
+          
+          <p>
+            Arne Vodder sublime le bois de teck avec ses commodes aux lignes parfaitement équilibrées. Les poignées intégrées et les proportions harmonieuses exemplifient l'approche scandinave du rangement. Chaque pièce est conçue pour durer et bien vieillir.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-6">12. Le fauteuil Swan d'Arne Jacobsen (1958)</h3>
+          
+          <p>
+            Compagnon de l'Egg Chair, le Swan Chair adopte une approche plus angulaire tout en conservant son caractère sculptural. Sa base pivotante et son confort remarquable en font une pièce polyvalente, adaptée aux espaces résidentiels comme professionnels.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-6">13. La table Dining Table de Børge Mogensen (1950)</h3>
+          
+          <p>
+            Børge Mogensen conçoit des tables aux proportions parfaites pour la vie familiale nordique. Ses créations privilégient le bois massif et les assemblages traditionnels, garantissant une transmission générationnelle. L'esthétique fonctionnelle prime sur l'ornementation.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-6">14. Le système de rangement Cado (1960)</h3>
+          
+          <p>
+            Le système Cado révolutionne l'aménagement avec ses éléments modulaires suspendus. Cette innovation danoise permet de créer des configurations personnalisées sans percer le sol. La flexibilité et l'esthétique épurée séduisent une génération en quête de liberté d'aménagement.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-6">15. Le rocking chair de Hans Wegner (1947)</h3>
+          
+          <p>
+            Hans Wegner réinterprète le traditionnel rocking chair américain avec sa sensibilité scandinave. Les courbes parfaites et le choix des essences de bois créent une pièce à la fois dynamique et apaisante. Ce fauteuil à bascule incarne l'art de vivre nordique centré sur le bien-être.
+          </p>
+        </section>
+
+        <!-- Callout 3 -->
+        <div class="my-8 p-6 bg-purple-50 border-l-4 border-purple-400 rounded-r-lg">
+          <div class="flex">
+            <div class="flex-shrink-0">
+              <svg class="h-5 w-5 text-purple-400" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd"></path>
+              </svg>
+            </div>
+            <div class="ml-3">
+              <h3 class="text-sm font-medium text-purple-800 mb-1">[!IMPORTANT]</h3>
+              <p class="text-sm text-purple-700">
+                Investir dans du mobilier scandinave authentique représente un choix durable. Ces pièces, conçues pour traverser les décennies, conservent leur valeur et peuvent même devenir des objets de collection.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Section Matériaux -->
+        <section id="materiaux-authentiques">
+          <h2 class="text-3xl font-bold text-gray-900 mt-16 mb-8">Matériaux et techniques authentiques</h2>
+          
+
+          <p>
+            L'authenticité du mobilier scandinave réside dans le choix minutieux des matériaux et la maîtrise des techniques traditionnelles. Les créateurs nordiques privilégient les ressources locales, transformant contraintes géographiques en atouts esthétiques. Cette approche durable et respectueuse forge l'identité unique du design scandinave.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-4">Les bois nobles nordiques</h3>
+          
+          <p>
+            Le bouleau finlandais se distingue par sa couleur claire et sa résistance exceptionnelle. Alvar Aalto en exploite les propriétés mécaniques pour ses créations cintrées révolutionnaires. Le hêtre danois, plus dense, convient parfaitement aux structures porteuses exigeantes comme les piétements de chaises.
+          </p>
+
+          <p>
+            Le teck, importé mais adopté par les créateurs danois, apporte ses qualités esthétiques uniques. Ses veines prononcées et sa patine naturelle subliment les commodes et tables des années 1950-1960. Le pin et l'épicéa, essences locales abondantes, trouvent leur place dans les créations plus rustiques et les meubles de rangement.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-4">Techniques artisanales préservées</h3>
+          
+          <p>
+            Le cintrage à la vapeur, technique ancestrale perfectionnée par les créateurs nordiques, permet de donner aux bois des formes impossibles par usinage traditionnel. Cette méthode préserve les fibres du bois, garantissant résistance et longévité. Chaque courbe raconte l'histoire d'un savoir-faire transmis de génération en génération.
+          </p>
+
+          <p>
+            L'assemblage par tenons et mortaises, caractéristique de l'ébénisterie scandinave, assure une solidité durable sans colle ni vis apparentes. Cette technique exige une précision millimétrique et révèle la maîtrise technique des artisans nordiques. Le résultat allie robustesse et esthétique épurée.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-4">Finitions naturelles et durables</h3>
+          
+          <p>
+            Les créateurs scandinaves privilégient les finitions qui révèlent la beauté naturelle du bois. L'huile de lin, appliquée en plusieurs couches fines, nourrit le bois tout en préservant son aspect naturel. Cette finition permet au meuble de bien vieillir, développant une patine chaleureuse avec le temps.
+          </p>
+
+          <p>
+            Le savon noir, technique traditionnelle scandinave, blanchit légèrement le bois tout en le protégeant. Cette finition, particulièrement appréciée sur les bois clairs, crée cette esthétique nordique si reconnaissable. L'entretien régulier au savon noir maintient l'aspect d'origine tout en renforçant la protection.
+          </p>
+        </section>
+
+        <!-- Section Intégration moderne -->
+        <section id="integration-moderne">
+          <h2 class="text-3xl font-bold text-gray-900 mt-16 mb-8">Intégrer le style nordique dans votre intérieur</h2>
+          
+
+          <p>
+            Adopter le style scandinave dans son intérieur va bien au-delà de l'acquisition de quelques pièces emblématiques. Cette démarche implique une réflexion globale sur l'art de vivre, privilégiant simplicité, fonctionnalité et connexion avec la nature. Découvrons comment créer un environnement authentiquement nordique adapté à notre époque.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-4">Palette de couleurs et matières</h3>
+          
+          <p>
+            La base chromatique scandinave s'articule autour du blanc et des tons naturels. Ces couleurs neutres créent une toile de fond apaisante qui valorise les matériaux authentiques. Introduisez progressivement des nuances de gris perle, beige sable et blanc cassé pour créer de la profondeur sans rompre l'harmonie générale.
+          </p>
+
+          <p>
+            Les touches de couleur s'inspirent de la nature nordique : bleu glacier, vert sapin, ocre terreux. Ces accents colorés s'expriment à travers textiles, céramiques et objets décoratifs. L'équilibre reste la règle d'or : une ou deux couleurs maximum en complément de la base neutre.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-4">Agencement et circulation</h3>
+          
+          <p>
+            L'espace scandinave respire grâce à un agencement réfléchi qui privilégie la circulation fluide. Évitez l'encombrement et préservez des zones de passage généreuses. Chaque meuble doit avoir sa raison d'être et sa place optimale dans l'ensemble.
+          </p>
+
+          <p>
+            La règle du "moins mais mieux" guide tous les choix. Préférez quelques pièces de qualité à une accumulation d'objets. Cette approche minimaliste met en valeur chaque élément tout en créant cette sensation de sérénité caractéristique des intérieurs nordiques.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-4">Éclairage et atmosphère</h3>
+          
+          <p>
+            L'éclairage revêt une importance capitale dans l'esthétique scandinave. Multipliez les sources lumineuses douces : lampes à poser, suspensions design, guirlandes LED. Cette approche recrée l'atmosphère chaleureuse qui compense les longs hivers nordiques.
+          </p>
+
+          <p>
+            Privilégiez les ampoules à température chaude (2700K maximum) qui subliment les bois clairs. Les abat-jours en matériaux naturels - lin, raphia, bois - diffusent une lumière tamisée propice à la détente. Chaque pièce devrait proposer plusieurs ambiances lumineuses selon les moments de la journée.
+          </p>
+
+          <h3 class="text-2xl font-semibold text-gray-900 mt-8 mb-4">Textiles et accessoires nordiques</h3>
+          
+          <p>
+            Les textiles apportent chaleur et douceur dans l'univers épuré scandinave. Privilégiez fibres naturelles et motifs géométriques simples : lin, coton, laine vierge. Les plaids en mohair, coussins en laine et tapis tissés main créent des îlots de confort dans l'ensemble minimaliste.
+          </p>
+
+          <p>
+            Les accessoires décoratifs s'inspirent de l'artisanat nordique : céramiques artisanales, objets en bois tourné, bougies naturelles. Ces éléments racontent une histoire et personnalisent l'espace sans le surcharger. La nature s'invite aussi avec branches, plantes vertes et compositions florales épurées.
+          </p>
+        </section>
+
+        <!-- Callout 4 -->
+        <div class="my-8 p-6 bg-red-50 border-l-4 border-red-400 rounded-r-lg">
+          <div class="flex">
+            <div class="flex-shrink-0">
+              <svg class="h-5 w-5 text-red-400" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M8.485 2.495c.673-1.167 2.357-1.167 3.03 0l6.28 10.875c.673 1.167-.17 2.625-1.516 2.625H3.72c-1.345 0-2.189-1.458-1.515-2.625L8.485 2.495zM10 6a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0v-3.5A.75.75 0 0110 6zm0 9a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd"></path>
+              </svg>
+            </div>
+            <div class="ml-3">
+              <h3 class="text-sm font-medium text-red-800 mb-1">[!WARNING]</h3>
+              <p class="text-sm text-red-700">
+                Attention aux contrefaçons ! Le succès du mobilier scandinave génère de nombreuses copies de qualité médiocre. Vérifiez toujours l'authenticité auprès de revendeurs agréés et examinez la qualité des finitions.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Section Budget et investissement -->
+        <h2 class="text-3xl font-bold text-gray-900 mt-16 mb-8">Budget et stratégie d'investissement</h2>
+        
+        <p>
+          Constituer une collection de mobilier scandinave authentique demande patience et stratégie. Les pièces iconiques représentent un investissement conséquent, mais leur valeur se maintient dans le temps. Commencez par identifier vos priorités et établissez un plan d'acquisition progressif.
+        </p>
+
+        <p>
+          Les ventes aux enchères, marchés d'antiquités et plateformes spécialisées offrent parfois de belles opportunités. Développez votre œil pour reconnaître les bonnes affaires et n'hésitez pas à négocier. Une pièce avec quelques imperfections peut souvent être restaurée par un professionnel à moindre coût.
+        </p>
+
+        <!-- Maillage interne -->
+        <div class="my-12 p-6 bg-gradient-to-r from-blue-50 to-rose-50 rounded-lg border border-blue-100">
+          <h3 class="text-xl font-semibold text-gray-900 mb-4">Outils et ressources complémentaires</h3>
+          <div class="grid md:grid-cols-2 gap-4">
+            <div>
+              <h4 class="font-medium text-gray-800 mb-2">Outils d'aménagement</h4>
+              <ul class="space-y-1 text-sm">
+                <li><a href="/planificateur-amenagement/" class="text-blue-600 hover:text-blue-800">→ Planificateur 3D gratuit</a></li>
+                <li><a href="/calculateur-budget-decoration/" class="text-blue-600 hover:text-blue-800">→ Calculateur budget déco</a></li>
+                <li><a href="/guide-couleurs-harmonieuses/" class="text-blue-600 hover:text-blue-800">→ Guide des couleurs</a></li>
+              </ul>
+            </div>
+            <div>
+              <h4 class="font-medium text-gray-800 mb-2">Styles connexes</h4>
+              <ul class="space-y-1 text-sm">
+                <li><a href="/style-minimaliste-japonais/" class="text-blue-600 hover:text-blue-800">→ Minimalisme japonais</a></li>
+                <li><a href="/decoration-hygge-danoise/" class="text-blue-600 hover:text-blue-800">→ Décoration hygge</a></li>
+                <li><a href="/mobilier-eco-responsable/" class="text-blue-600 hover:text-blue-800">→ Mobilier éco-responsable</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- FAQ Section -->
+        <section id="faq" class="mt-16">
+          <h2 class="text-3xl font-bold text-gray-900 mb-8">Questions fréquentes</h2>
+          
+          <div class="space-y-6">
+            <div class="bg-gray-50 rounded-lg p-6">
+              <h3 class="text-lg font-semibold text-gray-900 mb-3">Comment reconnaître un authentique meuble scandinave ?</h3>
+              <p class="text-gray-700">
+                Vérifiez la qualité du bois, la finition soignée et la signature du créateur. Les pièces authentiques présentent des assemblages parfaits, des proportions harmonieuses et utilisent des essences nordiques traditionnelles. La documentation d'origine et la provenance attestent de l'authenticité.
+              </p>
+            </div>
+            
+            <div class="bg-gray-50 rounded-lg p-6">
+              <h3 class="text-lg font-semibold text-gray-900 mb-3">Quel budget prévoir pour s'équiper en mobilier scandinave ?</h3>
+              <p class="text-gray-700">
+                Comptez 3 000 à 8 000 euros pour équiper un salon avec des pièces authentiques de qualité. Les créations iconiques comme l'Egg Chair ou les chaises Wegner dépassent souvent 1 000 euros l'unité. Les reproductions officielles proposent une alternative plus accessible (200-800 euros).
+              </p>
+            </div>
+            
+            <div class="bg-gray-50 rounded-lg p-6">
+              <h3 class="text-lg font-semibold text-gray-900 mb-3">Comment entretenir et préserver le mobilier scandinave ?</h3>
+              <p class="text-gray-700">
+                Utilisez des produits d'entretien naturels : huile de lin pour nourrir le bois, savon noir pour les finitions traditionnelles. Évitez l'exposition directe au soleil et maintenez une hygrométrie stable. Un entretien régulier mais doux préserve la beauté naturelle des matériaux.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Articles similaires -->
+        <div class="mt-16 p-6 bg-gradient-to-r from-slate-50 to-blue-50 rounded-lg border border-slate-200">
+          <h3 class="text-xl font-semibold text-gray-900 mb-4">Articles similaires à découvrir</h3>
+          <div class="grid md:grid-cols-3 gap-4">
+            <a href="/style-hygge-decoration-danoise/" class="block p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow">
+              <h4 class="font-medium text-gray-800 mb-2">Style hygge : l'art de vivre danois</h4>
+              <p class="text-sm text-gray-600">Découvrez les secrets de la décoration hygge pour créer un intérieur chaleureux et apaisant.</p>
+            </a>
+            <a href="/minimalisme-nordique-decoration/" class="block p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow">
+              <h4 class="font-medium text-gray-800 mb-2">Minimalisme nordique en décoration</h4>
+              <p class="text-sm text-gray-600">Guide complet pour adopter l'esthétique minimaliste scandinave dans votre maison.</p>
+            </a>
+            <a href="/bois-clairs-decoration-interieure/" class="block p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow">
+              <h4 class="font-medium text-gray-800 mb-2">Bois clairs en décoration</h4>
+              <p class="text-sm text-gray-600">Comment utiliser les essences de bois clair pour illuminer et réchauffer vos espaces de vie.</p>
+            </a>
+          </div>
+        </div>
+
+        <!-- Conclusion -->
+        <div class="mt-16 p-8 bg-gradient-to-br from-blue-50 to-rose-50 rounded-xl border border-blue-100">
+          <h2 class="text-2xl font-bold text-gray-900 mb-4">L'héritage intemporel du design scandinave</h2>
+          <p class="text-gray-700 leading-relaxed">
+            Le mobilier scandinave transcende les modes pour s'imposer comme une référence intemporelle. Ces 15 pièces emblématiques continuent d'inspirer créateurs et amoureux du design à travers le monde. Bien plus qu'un simple style décoratif, elles incarnent une philosophie de vie où beauté, fonctionnalité et durabilité se rencontrent harmonieusement.
+          </p>
+          <p class="text-gray-700 leading-relaxed mt-4">
+            Investir dans l'authentique mobilier scandinave, c'est choisir des pièces conçues pour traverser le temps et créer des intérieurs empreints de sérénité. Chaque création raconte l'histoire d'un savoir-faire unique, d'une culture du bien-vivre et d'un respect profond pour les matériaux naturels.
+          </p>
+        </div>
+      </div>
+    </div>
+  </main>
+  <Footer />
+</BaseLayout>
+
+<style>
+  /* Styles personnalisés pour l'article */
+  .prose {
+    color: #374151;
+  }
+  
+  .prose h2 {
+    position: relative;
+    padding-bottom: 0.5rem;
+  }
+  
+  .prose h2::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 60px;
+    height: 3px;
+    background: linear-gradient(to right, #3B82F6, #EC4899);
+    border-radius: 2px;
+  }
+  
+  .prose h3 {
+    color: #1F2937;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .prose p {
+    margin-bottom: 1.5rem;
+    line-height: 1.8;
+  }
+  
+  .prose img {
+    border-radius: 12px;
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  }
+  
+  .prose a {
+    color: #3B82F6;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  .prose a:hover {
+    color: #1D4ED8;
+    text-decoration: underline;
+  }
+  
+  /* Callouts styles */
+  .prose .callout {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    border-radius: 8px;
+    border-left: 4px solid;
+  }
+  
+  /* Responsive typography */
+  @media (max-width: 640px) {
+    .prose {
+      font-size: 16px;
+    }
+    
+    .prose h1 {
+      font-size: 2.25rem;
+      line-height: 1.2;
+    }
+    
+    .prose h2 {
+      font-size: 1.875rem;
+    }
+    
+    .prose h3 {
+      font-size: 1.5rem;
+    }
+  }
+  
+  /* Table of contents styles */
+  .border-l-4.border-rose-300 {
+    background: linear-gradient(135deg, #FDF2F8 0%, #FCE7F3 100%);
+  }
+  
+  /* Hero gradient text */
+  .bg-gradient-to-r.from-blue-600.to-rose-500 {
+    background: linear-gradient(135deg, #3B82F6 0%, #EC4899 100%);
+  }
+  
+  /* FAQ accordion effect */
+  .bg-gray-50:hover {
+    background-color: #F3F4F6;
+    transition: background-color 0.2s ease;
+  }
+  
+  /* Grid responsive improvements */
+  @media (max-width: 768px) {
+    .grid.md\\:grid-cols-2 {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+    
+    .grid.md\\:grid-cols-3 {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+  }
+</style>

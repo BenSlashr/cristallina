@@ -1,0 +1,372 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+
+const title = "Éclairage Moderne : 10 Tendances pour Sublimer votre Intérieur";
+const description = "Découvrez les dernières tendances d'éclairage moderne ! LED connecté, luminaires sculpturaux, éclairage naturel... 10 idées pour transformer votre décoration intérieure.";
+---
+
+<BaseLayout {title} {description} canonical="https://www.cristallina.fr/eclairage-moderne-tendances/">
+  <Navbar />
+  
+  <main class="pt-16">
+    <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <header class="mb-8">
+        <h1 class="text-3xl md:text-4xl title-elegant mb-4">{title}</h1>
+        <p class="text-lg mb-6" style="color: #8B8B8B;">{description}</p>
+        <div class="flex items-center gap-4 text-sm" style="color: #B5B5B5;">
+          <span>💡 12 min de lecture</span>
+          <span>🏠 Éclairage</span>
+        </div>
+      </header>
+
+      <div class="max-w-none">
+        <div class="content-prose">
+          <p>L'éclairage, c'est l'âme de ta maison ! Plus qu'une simple fonction pratique, c'est ce qui va créer l'ambiance, mettre en valeur ta déco et transformer complètement l'atmosphère de tes pièces. En 2026, l'éclairage moderne révolutionne nos intérieurs avec des technologies innovantes et des designs époustouflants.</p>
+
+          <div class="my-8">
+            <img src="/images/unsplash-modern-led-lighting-interior-design-contemporary-1771175613.jpg" alt="Éclairage moderne dans salon contemporain" class="w-full rounded-lg shadow-soft" />
+            <p class="text-xs text-center mt-2" style="color: #B5B5B5;">L'éclairage moderne transforme complètement l'ambiance d'un espace</p>
+          </div>
+
+          <!-- Sommaire -->
+          <div class="bg-gradient-to-br from-rose-50 to-pink-50 border-l-4 border-rose-300 rounded-2xl p-8 my-10 shadow-sm hover:shadow-md transition-shadow">
+            <div class="flex items-center mb-6">
+              <div class="bg-rose-100 rounded-full p-3 mr-4">
+                <svg class="w-6 h-6 text-rose-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/>
+                </svg>
+              </div>
+              <h2 class="text-xl font-bold text-rose-800">Au programme de cet article</h2>
+            </div>
+            <ul class="space-y-3">
+              <li class="flex items-start">
+                <span class="inline-block w-6 h-6 bg-rose-200 text-rose-800 rounded-full text-xs font-bold flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">1</span>
+                <a href="#revolution-led" class="text-rose-700 hover:text-rose-900 transition-colors font-medium hover:underline">La Révolution LED et Technologies Connectées</a>
+              </li>
+              <li class="flex items-start">
+                <span class="inline-block w-6 h-6 bg-rose-200 text-rose-800 rounded-full text-xs font-bold flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">2</span>
+                <a href="#luminaires-sculpturaux" class="text-rose-700 hover:text-rose-900 transition-colors font-medium hover:underline">Luminaires Sculpturaux : Quand l'Art Rencontre la Lumière</a>
+              </li>
+              <li class="flex items-start">
+                <span class="inline-block w-6 h-6 bg-rose-200 text-rose-800 rounded-full text-xs font-bold flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">3</span>
+                <a href="#eclairage-naturel" class="text-rose-700 hover:text-rose-900 transition-colors font-medium hover:underline">Maximiser l'Éclairage Naturel</a>
+              </li>
+              <li class="flex items-start">
+                <span class="inline-block w-6 h-6 bg-rose-200 text-rose-800 rounded-full text-xs font-bold flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">4</span>
+                <a href="#eclairage-fonctionnel" class="text-rose-700 hover:text-rose-900 transition-colors font-medium hover:underline">Éclairage Fonctionnel et Décoratif</a>
+              </li>
+            </ul>
+          </div>
+
+          <h2 id="revolution-led">La Révolution LED et Technologies Connectées</h2>
+
+          <h3>Éclairage Connecté : Contrôle Total de l'Ambiance</h3>
+
+          <p>L'éclairage connecté n'est plus un gadget de luxe ! Les ampoules Philips Hue (à partir de 15€ l'ampoule) ou IKEA Tradfri (8€) te permettent de contrôler la couleur, l'intensité et même programmer tes éclairages depuis ton smartphone. Imagine rentrer chez toi avec un éclairage chaud qui se déclenche automatiquement !</p>
+
+          <div class="callout-tip">
+            <strong>Mon conseil :</strong> Commence par équiper ton salon et ta chambre, les deux pièces où l'ambiance lumineuse compte le plus. Utilise notre <a href="/outils/calculateur-eclairage/" class="text-rose-600 hover:text-rose-800 underline">calculateur d'éclairage</a> pour déterminer le nombre de lumens nécessaires.
+          </div>
+
+          <p>Les rubans LED sont parfaits pour l'éclairage indirect ! Placés derrière un meuble TV (ruban Govee 25€), sous les placards de cuisine ou le long d'un escalier, ils créent une ambiance moderne et sophistiquée. Compatible avec Alexa et Google Home, tu peux même synchroniser tes lumières avec ta musique !</p>
+
+          <h3>LED Nouvelle Génération : Efficacité et Esthétisme</h3>
+
+          <p>Les LED modernes ont révolutionné le rendu des couleurs ! Fini l'éclairage froid et artificiel. Recherche un IRC (Indice de Rendu des Couleurs) supérieur à 90 pour un rendu naturel des couleurs. Les LED Osram Parathom (12€) ou Philips CorePro (8€) offrent un excellent rapport qualité-prix.</p>
+
+          <div class="callout-note">
+            <strong>Info technique :</strong> Une ampoule LED de 10W équivaut à 60W en incandescent, pour une durée de vie de 15 ans ! Le calcul est vite fait niveau économies.
+          </div>
+
+          <div class="my-8">
+            <img src="/images/unsplash-modern-lighting-led-strips-1775621903.jpg" alt="Éclairage LED moderne avec rubans lumineux" class="w-full rounded-lg shadow-soft" />
+            <p class="text-xs text-center mt-2" style="color: #B5B5B5;">Les rubans LED créent une ambiance moderne et chaleureuse</p>
+          </div>
+
+          <h2 id="luminaires-sculpturaux">Luminaires Sculpturaux : Quand l'Art Rencontre la Lumière</h2>
+
+          <h3>Suspensions Statement : Le Luminaire qui Fait tout le Style</h3>
+
+          <p>La suspension XXL au-dessus de ta table à manger, c'est LE détail qui va transformer ton espace ! Les formes organiques sont ultra tendance : pensé aux modèles Tom Dixon Beat (320€) ou plus accessible, la suspension IKEA Foto (45€) qui ressemble à s'y méprendre aux modèles designers.</p>
+
+          <p>Pour le salon, ose la suspension géométrique ! Les modèles en métal noir mat (Maisons du Monde Origami 189€) ou cuivre brossé (AM.PM 299€) apportent une touche industrielle chic qui fonctionne avec tous les styles.</p>
+
+          <h3>Appliques Murales : Éclairage et Décoration</h3>
+
+          <p>Les appliques murales libèrent ton espace ! Plus besoin de lampes de chevet qui encombrent tes tables de nuit. Les appliques articulées (IKEA Ranarp 25€, version luxe Artemide Tolomeo 180€) sont parfaites pour lire au lit.</p>
+
+          <div class="callout-important">
+            <strong>Astuce d'éclairagiste :</strong> Place tes appliques à 160-170cm du sol pour un éclairage optimal sans éblouissement. Pense à prévoir l'installation électrique avant de peindre !
+          </div>
+
+          <p>Pour le salon, les appliques directionnelles mettent en valeur tes œuvres d'art ou créent un éclairage d'ambiance. Les modèles LED intégrés (Philips myLiving 45€) consomment très peu et ne chauffent pas.</p>
+
+          <h3>Lampadaires Design : Sculpturer la Lumière</h3>
+
+          <p>Le lampadaire arc reste un classique indémodable ! Celui d'IKEA Regolit (79€) fait parfaitement l'affaire, mais si tu veux investir, le Arco de Flos (2400€) est une pièce iconique qui traverse les décennies.</p>
+
+          <p>Plus original : les lampadaires à éclairage indirect qui projettent la lumière au plafond. L'effet est magique, surtout avec un variateur ! Le lampadaire IKEA Not (20€) est parfait pour débuter, et tu peux customiser l'abat-jour.</p>
+
+          <div class="my-8">
+            <img src="/images/unsplash-modern-lighting-sculptural-1775621916.jpg" alt="Luminaires sculpturaux modernes dans salon design" class="w-full rounded-lg shadow-soft" />
+            <p class="text-xs text-center mt-2" style="color: #B5B5B5;">Les luminaires sculpturaux deviennent de véritables œuvres d'art</p>
+          </div>
+
+          <h2 id="eclairage-naturel">Maximiser l'Éclairage Naturel</h2>
+
+          <h3>Miroirs Stratégiques pour Démultiplier la Lumière</h3>
+
+          <p>Les miroirs sont tes meilleurs alliés pour agrandir et éclairer ! Un grand miroir face à une fenêtre double littéralement la luminosité de ta pièce. Mon conseil : investis dans un miroir de qualité (La Redoute à partir de 89€, AM.PM gamme premium 200€) plutôt que plusieurs petits.</p>
+
+          <p>Les miroirs convexes (miroirs sorcière) sont parfaits dans les petits espaces ! Celui de chez Maisons du Monde (45€) crée un effet "œil de poisson" qui agrandit visuellement l'espace tout en reflétant la lumière dans toutes les directions.</p>
+
+          <h3>Traitement des Fenêtres : Laisser Entrer la Lumière</h3>
+
+          <p>Tes rideaux peuvent tuer la luminosité ! Privilégie des voilages légers (lin ou coton, IKEA à partir de 8€) ou des stores vénitiens (Leroy Merlin 35€/m²) qui filtrent sans obscurcir.</p>
+
+          <div class="callout-warning">
+            <strong>Erreur fréquente :</strong> Des rideaux trop étroits ou trop courts ! Ils doivent dépasser de 20cm de chaque côté de la fenêtre et toucher le sol pour un effet "pro".
+          </div>
+
+          <p>Pour les grandes baies vitrées, les films adhésifs décoratifs (3M à partir de 15€/m²) filtrent les UV et la chaleur tout en préservant la luminosité. Parfait pour l'intimité sans perdre de lumière !</p>
+
+          <h3>Puits de Lumière et Verrières Intérieures</h3>
+
+          <p>Si tu peux faire des travaux, la verrière intérieure est LA solution pour diffuser la lumière ! Comptez 300-600€/m² pour une verrière d'atelier (Lapeyre, Castorama). Elle sépare visuellement les espaces tout en gardant la lumière.</p>
+
+          <p>Plus abordable : les cloisons ajourées ou semi-transparentes. Des panneaux en polycarbonate (50€/m²) dans un cadre métallique créent le même effet division/lumière pour un budget réduit.</p>
+
+          <h2 id="eclairage-fonctionnel">Éclairage Fonctionnel et Décoratif</h2>
+
+          <h3>Cuisine : L'Éclairage qui Facilite la Vie</h3>
+
+          <p>En cuisine, on ne badine pas avec l'éclairage ! Sous les meubles hauts, installe des réglettes LED (Paulmann 25€/50cm) pour éclairer parfaitement ton plan de travail. Fini les ombres portées quand tu cuisines !</p>
+
+          <p>Au-dessus de l'îlot central, les suspensions multiples font sensation ! Trois petites suspensions identiques (IKEA Foto 3x45€) ou une barre avec spots orientables (Philips 89€). L'éclairage doit être fonctionnel ET beau.</p>
+
+          <h3>Salle de Bain : Sécurité et Bien-être</h3>
+
+          <p>Autour du miroir, évite l'éclairage par le haut qui crée des ombres ! Des appliques de chaque côté (indices IP44 minimum) ou un éclairage LED intégré au miroir (miroir Sensea Bluetooth 199€) pour un éclairage parfait.</p>
+
+          <p>Pour l'ambiance, quelques spots LED encastrés dans le plafond avec un variateur transforment ta salle de bain en spa ! Spots Philips étanches IP65 à 15€ pièce.</p>
+
+          <div class="callout-note">
+            <strong>Conseil sécurité :</strong> Respecte les zones électriques en salle de bain ! Zone 0 et 1 nécessitent du matériel étanche (IP67), zone 2 du IP44 minimum.
+          </div>
+
+          <h3>Bureau : Éclairage pour la Productivité</h3>
+
+          <p>Ton éclairage de bureau impact directement ta productivité ! Une lampe de bureau LED avec variateur (Philips Geometry 45€, version premium BenQ ScreenBar 120€) évite la fatigue oculaire.</p>
+
+          <p>L'éclairage d'ambiance reste important : une lampe d'appoint derrière ton écran (bias lighting) réduit les contrastes et repose tes yeux. Un simple ruban LED blanc froid (10€) fait l'affaire !</p>
+
+          <div class="my-8">
+            <img src="/images/unsplash-modern-lighting-workspace-1775621929.jpg" alt="Éclairage moderne dans espace de travail" class="w-full rounded-lg shadow-soft" />
+            <p class="text-xs text-center mt-2" style="color: #B5B5B5;">Un éclairage bien pensé améliore le confort et la productivité</p>
+          </div>
+
+          <h3>Chambre : Créer une Atmosphère Cocooning</h3>
+
+          <p>En chambre, privilégie la lumière chaude (2700K) pour favoriser l'endormissement. Des guirlandes LED (IKEA Blötsnö 8€) créent une ambiance cosy sans effort. Évite les éclairages trop puissants après 21h pour préserver ton sommeil !</p>
+
+          <p>Les lampes de chevet avec variateur sont indispensables ! Si tu n'as pas de tables de nuit, les appliques liseuses (IKEA Nym 25€) se fixent directement au mur et libèrent l'espace.</p>
+
+          <h3>Extérieur : Prolonger la Magie dehors</h3>
+
+          <p>L'éclairage extérieur prolonge tes espaces de vie ! Des spots LED encastrés dans la terrasse (Philips Hue Lily 89€ pièce) créent des chemins de lumière magiques. Pour le budget serré, les bornes solaires (Leroy Merlin 15€) font très bien l'affaire.</p>
+
+          <p>Les guirlandes guinguette transforment n'importe quelle terrasse en café parisien ! Version basic chez Action (12€), version premium avec ampoules Edison chez La Redoute (45€).</p>
+
+          <div class="callout-tip">
+            <strong>Astuce déco :</strong> Éclaire de bas en haut tes arbres et plantes avec des spots jardin. L'effet est spectaculaire et met en valeur ta végétation même la nuit !
+          </div>
+
+          <h3>Domotique et Automatisation</h3>
+
+          <p>L'éclairage automatisé, c'est le futur aujourd'hui ! Des détecteurs de mouvement (Philips Hue Motion 35€) dans les couloirs et toilettes, programmation automatique lever/coucher du soleil... Ta maison s'adapte à ton rythme de vie !</p>
+
+          <p>Les scénarios d'éclairage transforment l'usage de tes pièces : "Soirée film" (éclairage tamisé), "Dîner romantique" (bougies LED), "Réveil en douceur" (simulation lever de soleil). Une seule commande vocale et l'ambiance change !</p>
+
+          <p>Voilà ma vision de l'éclairage moderne ! Plus qu'une fonction technique, c'est un véritable outil de bien-être et de décoration. L'idée : créer des ambiances qui s'adaptent à tes envies et ton mode de vie. Un éclairage bien pensé transforme complètement l'atmosphère de ta maison !</p>
+
+          <p>Si tu veux continuer à transformer ton intérieur, découvre comment créer un <a href="/decoration-salon-naturel-chic/" class="text-rose-600 hover:text-rose-800 underline">salon naturel chic</a> ou nos conseils pour <a href="/amenager-chambre-cocooning/" class="text-rose-600 hover:text-rose-800 underline">aménager une chambre cocooning</a> avec le bon éclairage !</p>
+        </div>
+
+        <!-- Articles similaires -->
+        <section class="mt-16 mb-12">
+          <div class="flex items-center mb-8">
+            <div class="bg-rose-100 rounded-full p-3 mr-4">
+              <svg class="w-6 h-6 text-rose-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
+              </svg>
+            </div>
+            <h2 class="text-2xl font-bold text-rose-800">Articles similaires</h2>
+          </div>
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <a href="/decoration-salon-naturel-chic/" class="group bg-white rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 overflow-hidden border border-rose-100">
+              <div class="aspect-[16/9] overflow-hidden">
+                <img src="/images/unsplash-natural-linen-living-room-decor-1771167640.jpg" alt="Salon naturel chic" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
+              </div>
+              <div class="p-6">
+                <div class="flex items-center gap-2 mb-3">
+                  <span class="bg-rose-100 text-rose-700 text-xs font-medium px-3 py-1 rounded-full">Salon</span>
+                  <span class="text-xs text-gray-500 flex items-center">
+                    <svg class="w-3 h-3 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                    </svg>
+                    8 min
+                  </span>
+                </div>
+                <h3 class="font-semibold text-gray-800 mb-2 group-hover:text-rose-700 transition-colors">Décoration Salon Naturel Chic : 12 Idées Tendance 2026</h3>
+                <p class="text-sm text-gray-600 line-clamp-2">Transformez votre salon avec un style naturel chic ! Matières nobles et couleurs apaisantes pour un intérieur élégant.</p>
+              </div>
+            </a>
+            <a href="/amenager-chambre-cocooning/" class="group bg-white rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 overflow-hidden border border-rose-100">
+              <div class="aspect-[16/9] overflow-hidden">
+                <img src="/images/unsplash-cozy-bedroom-lighting-1775621942.jpg" alt="Chambre cocooning avec éclairage doux" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
+              </div>
+              <div class="p-6">
+                <div class="flex items-center gap-2 mb-3">
+                  <span class="bg-purple-100 text-purple-700 text-xs font-medium px-3 py-1 rounded-full">Chambre</span>
+                  <span class="text-xs text-gray-500 flex items-center">
+                    <svg class="w-3 h-3 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                    </svg>
+                    10 min
+                  </span>
+                </div>
+                <h3 class="font-semibold text-gray-800 mb-2 group-hover:text-rose-700 transition-colors">Aménager une Chambre Cocooning : Guide Complet 2026</h3>
+                <p class="text-sm text-gray-600 line-clamp-2">Créez votre refuge douillet avec nos conseils d'aménagement et d'éclairage pour une chambre cocooning parfaite.</p>
+              </div>
+            </a>
+          </div>
+        </section>
+
+        <!-- Articles récents -->
+        <section class="mt-12 mb-12">
+          <div class="flex items-center mb-8">
+            <div class="bg-indigo-100 rounded-full p-3 mr-4">
+              <svg class="w-6 h-6 text-indigo-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+              </svg>
+            </div>
+            <h2 class="text-2xl font-bold text-indigo-800">Articles récents</h2>
+          </div>
+          <div class="space-y-4">
+            <a href="/salle-de-bain-cosy/" class="flex items-center p-4 bg-white rounded-xl border border-gray-100 hover:border-indigo-200 hover:shadow-md transition-all duration-300 group">
+              <img src="/images/unsplash-cozy-bathroom-spa-lighting-1771167669.jpg" alt="Salle de bain cosy" class="w-16 h-16 object-cover rounded-lg flex-shrink-0 mr-4" />
+              <div class="flex-grow">
+                <h3 class="font-medium text-gray-800 group-hover:text-indigo-700 transition-colors mb-1">Salle de Bain Cosy : 15 Astuces pour un Espace Cocoon</h3>
+                <p class="text-sm text-gray-600 mb-2">Transformez votre salle de bain en refuge cosy avec nos conseils déco et éclairage.</p>
+                <div class="flex items-center gap-3 text-xs text-gray-500">
+                  <span class="bg-rose-100 text-rose-700 px-2 py-1 rounded">Salle de bain</span>
+                  <span>10 min de lecture</span>
+                </div>
+              </div>
+            </a>
+            <a href="/style-industriel-moderne/" class="flex items-center p-4 bg-white rounded-xl border border-gray-100 hover:border-indigo-200 hover:shadow-md transition-all duration-300 group">
+              <img src="/images/unsplash-industrial-modern-lighting-1775621955.jpg" alt="Style industriel moderne" class="w-16 h-16 object-cover rounded-lg flex-shrink-0 mr-4" />
+              <div class="flex-grow">
+                <h3 class="font-medium text-gray-800 group-hover:text-indigo-700 transition-colors mb-1">Style Industriel Moderne : Tendances et Inspirations 2026</h3>
+                <p class="text-sm text-gray-600 mb-2">Adoptez le style industriel moderne avec éclairage métallique et matières brutes sublimées.</p>
+                <div class="flex items-center gap-3 text-xs text-gray-500">
+                  <span class="bg-gray-100 text-gray-700 px-2 py-1 rounded">Style</span>
+                  <span>9 min de lecture</span>
+                </div>
+              </div>
+            </a>
+          </div>
+        </section>
+
+        <!-- FAQ SEO -->
+        <section class="mt-12 py-8">
+          <h2 class="text-xl title-elegant mb-6 text-center">Questions fréquentes</h2>
+          <div class="space-y-4">
+            <div class="card-feminine p-4">
+              <h3 class="font-medium mb-2 text-sm">Quel type d'éclairage LED choisir pour son salon ?</h3>
+              <p class="text-xs" style="color: #8B8B8B;">Optez pour des LED blanc chaud (2700-3000K) avec un IRC supérieur à 90. Mélangez éclairage général (plafonnier), fonctionnel (liseuse) et d'ambiance (lampes d'appoint) pour un confort optimal.</p>
+            </div>
+            <div class="card-feminine p-4">
+              <h3 class="font-medium mb-2 text-sm">Comment calculer le nombre de lumens nécessaires par pièce ?</h3>
+              <p class="text-xs" style="color: #8B8B8B;">Comptez 150-200 lumens/m² pour un salon, 300-400 lumens/m² pour une cuisine. Multipliez la surface par ce ratio puis répartissez entre vos différents luminaires selon vos besoins.</p>
+            </div>
+            <div class="card-feminine p-4">
+              <h3 class="font-medium mb-2 text-sm">L'éclairage connecté est-il vraiment utile au quotidien ?</h3>
+              <p class="text-xs" style="color: #8B8B8B;">Absolument ! Programmation automatique, contrôle à distance, création d'ambiances... L'éclairage connecté améliore le confort et permet des économies d'énergie significatives avec un retour sur investissement rapide.</p>
+            </div>
+          </div>
+        </section>
+      </div>
+    </article>
+  </main>
+  
+  <Footer />
+</BaseLayout>
+
+<style>
+.content-prose p {
+  margin-bottom: 1.5rem;
+  line-height: 1.7;
+  color: #4B5563;
+}
+
+.content-prose h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+  color: #1F2937;
+}
+
+.content-prose h3 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #374151;
+}
+
+.content-prose ul {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.content-prose li {
+  margin-bottom: 0.5rem;
+}
+
+.callout-tip {
+  background: rgba(245, 158, 11, 0.1);
+  border-left: 4px solid #F59E0B;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+.callout-note {
+  background: rgba(59, 130, 246, 0.1);
+  border-left: 4px solid #3B82F6;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+.callout-important {
+  background: rgba(139, 92, 246, 0.1);
+  border-left: 4px solid #8B5CF6;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+.callout-warning {
+  background: rgba(249, 115, 22, 0.1);
+  border-left: 4px solid #F97316;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+}
+</style>

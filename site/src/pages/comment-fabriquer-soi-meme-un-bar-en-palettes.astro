@@ -1,0 +1,377 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+
+const title = "Comment Fabriquer un Bar en Palettes : Guide Complet DIY";
+const description = "Créez votre bar en palettes fait maison ! Tutoriel détaillé, liste matériaux, techniques et conseils pour fabriquer un bar design et économique.";
+---
+
+<BaseLayout {title} {description} canonical="https://www.cristallina.fr/comment-fabriquer-soi-meme-un-bar-en-palettes/">
+  <Navbar />
+  
+  <main class="pt-16">
+    <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <header class="mb-8">
+        <h1 class="text-3xl md:text-4xl title-elegant mb-4">{title}</h1>
+        <p class="text-lg mb-6" style="color: #8B8B8B;">{description}</p>
+        <div class="flex items-center gap-4 text-sm" style="color: #B5B5B5;">
+          <span>📖 12 min de lecture</span>
+          <span>🔨 DIY</span>
+        </div>
+      </header>
+
+      <div class="max-w-none">
+        <div class="content-prose">
+          <p>Fabriquer son bar en palettes combine créativité, économies et satisfaction personnelle. Ce projet DIY accessible transforme des palettes récupérées en meuble design, parfait pour créer un espace convivial dans votre intérieur ou jardin.</p>
+
+          <div class="my-8">
+            <img src="/images/unsplash-wooden-pallet-bar-diy-furniture-1771168378.jpg" alt="Banc en bois avec lattes horizontales, style palettes DIY" class="w-full rounded-lg shadow-soft" />
+            <p class="text-xs text-center mt-2" style="color: #B5B5B5;">Mobilier en bois de récupération, inspiration pour votre projet DIY</p>
+          </div>
+
+          <!-- Sommaire Stylisé -->
+          <div class="bg-gradient-to-br from-rose-50 to-pink-50 border-2 border-rose-200 rounded-2xl p-8 my-10 shadow-sm hover:shadow-md transition-shadow">
+            <div class="flex items-center mb-6">
+              <div class="bg-rose-100 rounded-full p-3 mr-4">
+                <svg class="w-6 h-6 text-rose-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v8a2 2 0 002 2h5.586a1 1 0 00.707-.293l5.414-5.414a1 1 0 000-1.414l-4-4a1 1 0 00-1.414 0L9 9V5z"/>
+                </svg>
+              </div>
+              <h2 class="text-xl font-bold text-rose-800">Sommaire de l'article</h2>
+            </div>
+            <ul class="space-y-3">
+              <li class="flex items-start">
+                <span class="inline-block w-6 h-6 bg-rose-200 text-rose-800 rounded-full text-xs font-bold flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">1</span>
+                <a href="#pourquoi-palettes" class="text-rose-700 hover:text-rose-900 transition-colors font-medium hover:underline">Pourquoi Choisir les Palettes pour Votre Bar ?</a>
+              </li>
+              <li class="flex items-start">
+                <span class="inline-block w-6 h-6 bg-rose-200 text-rose-800 rounded-full text-xs font-bold flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">2</span>
+                <a href="#materiel-outils" class="text-rose-700 hover:text-rose-900 transition-colors font-medium hover:underline">Matériel et Outils Nécessaires</a>
+              </li>
+              <li class="flex items-start">
+                <span class="inline-block w-6 h-6 bg-rose-200 text-rose-800 rounded-full text-xs font-bold flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">3</span>
+                <a href="#etapes-fabrication" class="text-rose-700 hover:text-rose-900 transition-colors font-medium hover:underline">Étapes de Fabrication Détaillées</a>
+              </li>
+              <li class="flex items-start">
+                <span class="inline-block w-6 h-6 bg-rose-200 text-rose-800 rounded-full text-xs font-bold flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">4</span>
+                <a href="#couts-budget" class="text-rose-700 hover:text-rose-900 transition-colors font-medium hover:underline">Coûts et Budget Prévisionnel</a>
+              </li>
+            </ul>
+          </div>
+
+          <h2 id="pourquoi-palettes">Pourquoi Choisir les Palettes pour Votre Bar ?</h2>
+
+          <h3>Avantages Écologiques et Économiques</h3>
+
+          <p>Les palettes de récupération offrent une alternative écologique au mobilier industriel. Leur seconde vie évite le gaspillage tout en créant des meubles uniques à petit budget.</p>
+
+          <p>Le coût d'un bar en palettes DIY représente 60-80% d'économie par rapport à l'achat d'un meuble équivalent. Comptez 50-150€ selon les finitions choisies, contre 300-800€ pour un bar du commerce.</p>
+
+          <div class="callout-tip">
+            <strong>Conseil :</strong> Recherchez des palettes marquées "EUR EPAL" : elles respectent les normes européennes et sont plus sûres pour un usage intérieur.
+          </div>
+
+          <h3>Esthétique Rustique et Personnalisable</h3>
+
+          <p>Le bois brut des palettes apporte charme authentique et caractère industriel. Cette matière première se personnalise facilement : ponçage, lasure, peinture ou patine créent l'ambiance désirée.</p>
+
+          <h2 id="materiel-outils">Matériel et Outils Nécessaires</h2>
+
+          <h3>Liste Complète des Matériaux</h3>
+
+          <p><strong>Palettes et Bois :</strong></p>
+          <ul>
+            <li>4-5 palettes européennes (120x80cm)</li>
+            <li>Planches de bois supplémentaires (pin ou sapin)</li>
+            <li>Tasseaux 40x40mm pour renforcements</li>
+          </ul>
+
+          <p><strong>Quincaillerie :</strong></p>
+          <ul>
+            <li>Vis à bois 4x50mm et 4x70mm</li>
+            <li>Équerre de renfort métalliques</li>
+            <li>Charnières pour portes (si applicable)</li>
+            <li>Poignées et boutons décoratifs</li>
+          </ul>
+
+          <p><strong>Finitions :</strong></p>
+          <ul>
+            <li>Lasure ou vernis bois</li>
+            <li>Peinture acrylique (si colorisation)</li>
+            <li>Papier abrasif grain 120 et 240</li>
+            <li>Pinceau et rouleau</li>
+          </ul>
+
+          <h3>Outils Indispensables</h3>
+
+          <p><strong>Électroportatif :</strong></p>
+          <ul>
+            <li>Perceuse-visseuse</li>
+            <li>Scie sauteuse ou scie circulaire</li>
+            <li>Ponceuse électrique</li>
+            <li>Défonceuse (optionnelle)</li>
+          </ul>
+
+          <p><strong>Outillage Manuel :</strong></p>
+          <ul>
+            <li>Mètre et équerre</li>
+            <li>Crayon de menuisier</li>
+            <li>Pied-de-biche pour démontage</li>
+            <li>Serre-joints</li>
+            <li>Marteau</li>
+          </ul>
+
+          <h2 id="etapes-fabrication">Étapes de Fabrication Détaillées</h2>
+
+          <h3>1. Préparation et Démontage des Palettes</h3>
+
+          <p>Inspectez chaque palette pour détecter clous saillants, échardes ou bois abîmé. Démontez soigneusement avec le pied-de-biche en préservant l'intégrité des planches.</p>
+
+          <p>Triez les éléments récupérés : planches de facade, traverses de renfort et dés de calage. Cette classification facilite l'assemblage ultérieur.</p>
+
+          <div class="callout-important">
+            <strong>Important :</strong> Portez gants et lunettes de protection lors du démontage pour éviter les blessures.
+          </div>
+
+          <h3>2. Conception et Plans</h3>
+
+          <p>Définissez les dimensions selon votre espace : hauteur standard 110cm, largeur 120-180cm, profondeur 60cm. Ces proportions assurent confort d'utilisation et stabilité.</p>
+
+          <p>Dessinez un plan simple avec :</p>
+          <ul>
+            <li>Structure porteuse (montants et traverses)</li>
+            <li>Plan de travail</li>
+            <li>Espaces de rangement (étagères, casiers)</li>
+            <li>Repose-pieds</li>
+          </ul>
+
+          <h3>3. Découpe et Préparation du Bois</h3>
+
+          <p>Recoupez les planches aux dimensions finales avec la scie. Respectez le proverbe menuisier : "Mesurer deux fois, couper une fois" pour éviter le gaspillage.</p>
+
+          <p>Poncez toutes les surfaces avec grain 120 puis 240 pour éliminer échardes et rugosités. Cette étape conditionne la qualité de finition finale.</p>
+
+          <h3>4. Assemblage de la Structure</h3>
+
+          <h4>Base et Montants</h4>
+
+          <p>Assemblez d'abord la structure porteuse : quatre montants verticaux reliés par des traverses horizontales. Utilisez équerres métalliques pour renforcer les angles.</p>
+
+          <p>Fixez avec vis de 70mm en pré-perçant pour éviter le fendillement du bois. Vérifiez l'équerre et les niveaux à chaque étape.</p>
+
+          <h4>Plan de Travail</h4>
+
+          <p>Réalisez le plan de travail en assemblant planches côte à côte. Utilisez tasseaux transversaux en dessous pour maintenir la planéité et la solidité.</p>
+
+          <div class="callout-note">
+            <strong>À noter :</strong> Un plan de travail épais (4-5cm) offre meilleure résistance et finition plus professionnelle.
+          </div>
+
+          <h3>5. Finitions et Protection</h3>
+
+          <p>Effectuez un ponçage fin (grain 240) sur toutes les surfaces visibles. Cette étape garantit accroche optimale des finitions.</p>
+
+          <p>Appliquez lasure incolore pour préserver aspect naturel ou teintée pour modification de couleur. Deux couches minimum avec ponçage léger entre couches.</p>
+
+          <div class="callout-warning">
+            <strong>Attention :</strong> Respectez temps de séchage indiqués sur emballages pour éviter défauts de finition.
+          </div>
+
+          <h2 id="couts-budget">Coûts et Budget Prévisionnel</h2>
+
+          <p><strong>Matériaux de base :</strong></p>
+          <ul>
+            <li>Palettes : 0-30€ (gratuites ou achetées)</li>
+            <li>Quincaillerie : 40-60€</li>
+            <li>Finitions : 30-50€</li>
+          </ul>
+
+          <p><strong>Outils (si acquisition) :</strong></p>
+          <ul>
+            <li>Location outillage : 50-80€/weekend</li>
+            <li>Achat outils de base : 200-400€</li>
+          </ul>
+
+          <p><strong>Total projet : 120-220€</strong> selon finitions et outillage possédé.</p>
+
+          <p>Un bar commercial équivalent coûte 400-1200€. L'économie DIY atteint 50-80% tout en obtenant meuble sur-mesure et satisfaction personnelle.</p>
+
+          <p>Fabriquer son bar en palettes représente projet DIY gratifiant alliant créativité, économies et respect environnemental. Cette réalisation personnalisée devient pièce maîtresse de vos moments conviviaux, témoignant de votre savoir-faire artisanal.</p>
+
+          <p>Pour planifier ton budget DIY, utilise notre <a href="/outils/budget-renovation/" class="text-rose-600 hover:text-rose-800 underline">calculateur de budget rénovation</a>. Et si tu cherches d'autres idées déco, découvre comment créer un <a href="/decoration-salon-naturel-chic/" class="text-rose-600 hover:text-rose-800 underline">salon naturel chic</a> ou une <a href="/salle-de-bain-cosy/" class="text-rose-600 hover:text-rose-800 underline">salle de bain cosy</a> pour compléter ton intérieur !</p>
+
+        </div>
+
+        <!-- Articles similaires -->
+        <section class="mt-16 py-8 border-t border-rose-100">
+          <div class="flex items-center mb-8">
+            <div class="bg-rose-100 rounded-full p-3 mr-4">
+              <svg class="w-6 h-6 text-rose-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"/>
+              </svg>
+            </div>
+            <h2 class="text-2xl title-elegant text-rose-800">Articles similaires</h2>
+          </div>
+          
+          <div class="grid md:grid-cols-2 gap-8">
+            <!-- Article 1 -->
+            <article class="group">
+              <a href="/decoration-salon-naturel-chic/" class="block">
+                <div class="relative overflow-hidden rounded-2xl shadow-soft group-hover:shadow-lg transition-all duration-300">
+                  <img src="/images/unsplash-natural-linen-living-room-decor-1771167640.jpg" alt="Salon naturel chic" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300" />
+                  <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+                  <div class="absolute bottom-0 left-0 right-0 p-6">
+                    <h3 class="text-white font-semibold text-lg mb-2 group-hover:text-rose-200 transition-colors">Décoration Salon Naturel Chic</h3>
+                    <p class="text-white/80 text-sm">Créez un salon élégant et naturel avec nos 12 idées déco tendance pour un intérieur harmonieux.</p>
+                  </div>
+                </div>
+              </a>
+            </article>
+
+            <!-- Article 2 -->
+            <article class="group">
+              <a href="/salle-de-bain-cosy/" class="block">
+                <div class="relative overflow-hidden rounded-2xl shadow-soft group-hover:shadow-lg transition-all duration-300">
+                  <img src="/images/unsplash-cozy-bathroom-spa-lighting-1771167669.jpg" alt="Salle de bain cosy" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300" />
+                  <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+                  <div class="absolute bottom-0 left-0 right-0 p-6">
+                    <h3 class="text-white font-semibold text-lg mb-2 group-hover:text-rose-200 transition-colors">Salle de Bain Cosy</h3>
+                    <p class="text-white/80 text-sm">15 astuces pour créer une salle de bain cosy et chaleureuse avec couleurs douces et éclairages tamisés.</p>
+                  </div>
+                </div>
+              </a>
+            </article>
+          </div>
+        </section>
+
+        <!-- Articles récents -->
+        <section class="mt-16 py-8 border-t border-rose-100">
+          <div class="flex items-center mb-8">
+            <div class="bg-rose-100 rounded-full p-3 mr-4">
+              <svg class="w-6 h-6 text-rose-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+              </svg>
+            </div>
+            <h2 class="text-2xl title-elegant text-rose-800">Articles récents</h2>
+          </div>
+          
+          <div class="space-y-4">
+            <article class="group">
+              <a href="/decoration-salon-naturel-chic/" class="flex items-center p-4 rounded-xl border border-rose-100 hover:border-rose-200 hover:bg-rose-50/50 transition-all duration-200">
+                <div>
+                  <h3 class="font-medium text-rose-800 group-hover:text-rose-900 transition-colors">Décoration Salon Naturel Chic : 12 Idées Tendance 2026</h3>
+                  <p class="text-sm text-rose-600 mt-1">📖 15 min de lecture • 🌿 Décoration</p>
+                </div>
+              </a>
+            </article>
+            
+            <article class="group">
+              <a href="/salle-de-bain-cosy/" class="flex items-center p-4 rounded-xl border border-rose-100 hover:border-rose-200 hover:bg-rose-50/50 transition-all duration-200">
+                <div>
+                  <h3 class="font-medium text-rose-800 group-hover:text-rose-900 transition-colors">Salle de Bain Cosy : 15 Astuces pour un Espace Cocoon</h3>
+                  <p class="text-sm text-rose-600 mt-1">📖 10 min de lecture • 🛁 Salle de bain</p>
+                </div>
+              </a>
+            </article>
+          </div>
+        </section>
+
+        <!-- FAQ SEO -->
+        <section class="mt-12 py-8">
+          <h2 class="text-xl title-elegant mb-6 text-center">Questions fréquentes</h2>
+          <div class="space-y-4">
+            <div class="card-feminine p-4">
+              <h3 class="font-medium mb-2 text-sm">Quel type de palettes choisir pour un bar d'intérieur ?</h3>
+              <p class="text-xs" style="color: #8B8B8B;">Privilégiez les palettes EUR EPAL, traitées thermiquement (marquage HT). Évitez les palettes chimiques (MB) et inspectez l'état du bois avant utilisation.</p>
+            </div>
+            <div class="card-feminine p-4">
+              <h3 class="font-medium mb-2 text-sm">Combien de temps faut-il pour fabriquer un bar en palettes ?</h3>
+              <p class="text-xs" style="color: #8B8B8B;">Comptez 2-3 weekends : démontage et préparation (1 jour), assemblage (1 jour), finitions et séchage (2-3 jours). Le temps varie selon l'expérience et les finitions choisies.</p>
+            </div>
+            <div class="card-feminine p-4">
+              <h3 class="font-medium mb-2 text-sm">Comment protéger un bar en palettes pour l'extérieur ?</h3>
+              <p class="text-xs" style="color: #8B8B8B;">Utilisez un vernis marine ou une huile teck pour la résistance aux intempéries. Traitez le bois avant assemblage et renouvelez la protection annuellement.</p>
+            </div>
+          </div>
+        </section>
+      </div>
+    </article>
+  </main>
+  
+  <Footer />
+</BaseLayout>
+
+<style>
+.content-prose p {
+  margin-bottom: 1.5rem;
+  line-height: 1.7;
+  color: #4B5563;
+}
+
+.content-prose h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+  color: #1F2937;
+}
+
+.content-prose h3 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #374151;
+}
+
+.content-prose h4 {
+  font-size: 1.125rem;
+  font-weight: 500;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  color: #374151;
+}
+
+.content-prose ul {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.content-prose li {
+  margin-bottom: 0.5rem;
+}
+
+.callout-tip {
+  background: rgba(245, 158, 11, 0.1);
+  border-left: 4px solid #F59E0B;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+.callout-note {
+  background: rgba(59, 130, 246, 0.1);
+  border-left: 4px solid #3B82F6;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+.callout-important {
+  background: rgba(139, 92, 246, 0.1);
+  border-left: 4px solid #8B5CF6;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+.callout-warning {
+  background: rgba(234, 88, 12, 0.1);
+  border-left: 4px solid #EA580C;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+}
+</style>

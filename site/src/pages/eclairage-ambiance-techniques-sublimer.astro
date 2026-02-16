@@ -1,0 +1,398 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+
+const title = "Éclairage d'Ambiance : 16 Techniques pour Sublimer votre Intérieur";
+const description = "Créez des ambiances magiques ! 16 techniques d'éclairage professionnel, jeux de lumières et astuces pour transformer chaque pièce avec style.";
+---
+
+<BaseLayout {title} {description} canonical="https://www.cristallina.fr/eclairage-ambiance-techniques-sublimer/">
+  <Navbar />
+  <main class="pt-16">
+    <article class="max-w-4xl mx-auto px-4 py-12">
+      <!-- Hero Section -->
+      <header class="text-center mb-12">
+        <h1 class="text-4xl md:text-5xl font-bold text-slate-900 mb-6 leading-tight">
+          Éclairage d'Ambiance : 16 Techniques pour Sublimer votre Intérieur
+        </h1>
+        <p class="text-xl text-slate-600 mb-8 max-w-3xl mx-auto">
+          Transformez vos espaces avec des jeux de lumière sophistiqués. Découvrez 16 techniques d'éclairage d'ambiance pour créer des atmosphères uniques et chaleureuses dans chaque pièce.
+        </p>
+        <img 
+          src="/images/unsplash-eclairage-ambiance-techniques-1771180020.jpg" 
+          alt="Salon moderne avec éclairage d'ambiance sophistiqué" 
+          class="w-full max-w-3xl mx-auto rounded-lg shadow-lg mb-8"
+          loading="eager"
+        />
+      </header>
+
+      <!-- Sommaire -->
+      <nav class="bg-rose-50 p-6 rounded-lg mb-12 border-l-4 border-rose-300">
+        <h2 class="text-lg font-semibold text-slate-900 mb-4">Sommaire</h2>
+        <ul class="space-y-2 text-slate-700">
+          <li><a href="#bases-eclairage-ambiance" class="hover:text-rose-600 transition-colors">Les bases de l'éclairage d'ambiance</a></li>
+          <li><a href="#eclairage-indirect-diffus" class="hover:text-rose-600 transition-colors">Éclairage indirect et diffus</a></li>
+          <li><a href="#spots-rails-encastres" class="hover:text-rose-600 transition-colors">Spots et rails encastrés</a></li>
+          <li><a href="#guirlandes-led-decoratifs" class="hover:text-rose-600 transition-colors">Guirlandes et LED décoratifs</a></li>
+          <li><a href="#lampes-ambiance-variateurs" class="hover:text-rose-600 transition-colors">Lampes d'ambiance et variateurs</a></li>
+          <li><a href="#eclairage-architectural" class="hover:text-rose-600 transition-colors">Éclairage architectural</a></li>
+          <li><a href="#jeux-ombres-lumieres" class="hover:text-rose-600 transition-colors">Jeux d'ombres et de lumières</a></li>
+          <li><a href="#faq" class="hover:text-rose-600 transition-colors">Questions fréquentes</a></li>
+        </ul>
+      </nav>
+
+      <!-- Introduction -->
+      <section class="prose prose-lg max-w-none mb-12">
+        <p class="text-lg text-slate-700 leading-relaxed">
+          L'éclairage d'ambiance transforme radicalement l'atmosphère de votre intérieur. Bien plus qu'une simple source de lumière, il crée des émotions, structure l'espace et révèle la beauté de votre décoration. Chaque technique d'éclairage offre des possibilités uniques pour personnaliser vos pièces selon vos envies et vos activités.
+        </p>
+
+        <p class="text-lg text-slate-700 leading-relaxed">
+          Que vous souhaitiez créer une ambiance cosy dans votre salon, une atmosphère romantique dans votre chambre ou un éclairage fonctionnel mais élégant dans votre cuisine, ces 16 techniques vous donneront toutes les clés pour réussir votre projet d'éclairage.
+        </p>
+      </section>
+
+      <!-- Les bases de l'éclairage d'ambiance -->
+      <section id="bases-eclairage-ambiance" class="mb-12">
+        <h2 class="text-3xl font-bold text-slate-900 mb-6">Les bases de l'éclairage d'ambiance</h2>
+        
+        <p class="text-lg text-slate-700 mb-6">
+          L'éclairage d'ambiance repose sur trois principes fondamentaux : la température de couleur, l'intensité lumineuse et la répartition de la lumière. Comprendre ces éléments vous permettra de créer des atmosphères sur mesure.
+        </p>
+
+        <div class="my-8">
+          <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235376750.jpg" alt="Eclairage d'ambiance avec luminaires design modernes" class="w-full rounded-lg shadow-sm" loading="lazy" />
+        </div>
+
+
+        <div class="bg-amber-50 border-l-4 border-amber-400 p-4 mb-6">
+          <div class="flex">
+            <div class="flex-shrink-0">
+              <svg class="h-5 w-5 text-amber-400" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clip-rule="evenodd" />
+              </svg>
+            </div>
+            <div class="ml-3">
+              <p class="text-sm text-amber-700">
+                <strong>Astuce pro :</strong> Utilisez toujours des ampoules de température similaire (2700K-3000K) dans une même pièce pour éviter les contrastes visuels désagréables.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">Les trois types d'éclairage</h3>
+        <ul class="list-disc list-inside space-y-2 text-slate-700 mb-6">
+          <li><strong>Éclairage général :</strong> illumine uniformément l'ensemble de la pièce</li>
+          <li><strong>Éclairage d'appoint :</strong> éclaire des zones spécifiques (lecture, cuisine)</li>
+          <li><strong>Éclairage décoratif :</strong> met en valeur des éléments et crée l'ambiance</li>
+        </ul>
+      </section>
+
+      <!-- Éclairage indirect et diffus -->
+      <section id="eclairage-indirect-diffus" class="mb-12">
+        <h2 class="text-3xl font-bold text-slate-900 mb-6">Éclairage indirect et diffus : 4 techniques essentielles</h2>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">1. L'éclairage par réflexion murale</h3>
+        <p class="text-slate-700 mb-4">
+          Positionnez vos luminaires de manière à ce qu'ils projettent la lumière sur les murs plutôt que directement dans la pièce. Cette technique crée une luminosité douce et uniforme, parfaite pour les espaces de détente.
+        </p>
+
+        <div class="my-8">
+          <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232900022.jpg" alt="Salon avec eclairage indirect et bougies decoratives" class="w-full rounded-lg shadow-sm" loading="lazy" />
+        </div>
+
+        <ul class="list-disc list-inside space-y-2 text-slate-700 mb-6">
+          <li>Appliques murales orientées vers le haut</li>
+          <li>Lampadaires avec abat-jour opaque</li>
+          <li>Spots orientés vers les surfaces claires</li>
+        </ul>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">2. Les corniches lumineuses</h3>
+        <p class="text-slate-700 mb-4">
+          Installez des bandes LED derrière des corniches ou des moulures pour créer un éclairage périphérique élégant. Cette solution architectural sublime les plafonds hauts et agrandit visuellement l'espace.
+        </p>
+
+        <div class="bg-blue-50 border-l-4 border-blue-400 p-4 mb-6">
+          <div class="flex">
+            <div class="flex-shrink-0">
+              <svg class="h-5 w-5 text-blue-400" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd" />
+              </svg>
+            </div>
+            <div class="ml-3">
+              <p class="text-sm text-blue-700">
+                <strong>À noter :</strong> Les LED 2700K offrent une lumière chaude proche de celle des ampoules incandescentes, idéale pour l'éclairage d'ambiance.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">3. L'éclairage par transparence</h3>
+        <p class="text-slate-700 mb-6">
+          Utilisez des matériaux translucides pour diffuser la lumière en douceur. Abat-jour en tissu, panneaux de verre dépoli ou cloisons en polycarbonate créent des ambiances feutrées et sophistiquées.
+        </p>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">4. L'éclairage au sol</h3>
+        <p class="text-slate-700 mb-6">
+          Placez des sources lumineuses au niveau du sol pour créer des effets dramatiques. Spots encastrés dans le parquet, bandes LED sous les meubles ou bornes lumineuses basses transforment totalement la perception de l'espace.
+        </p>
+      </section>
+
+      <!-- Spots et rails encastrés -->
+      <section id="spots-rails-encastres" class="mb-12">
+        <h2 class="text-3xl font-bold text-slate-900 mb-6">Spots et rails encastrés : 3 approches modernes</h2>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">5. Les spots sur rail apparent</h3>
+        <p class="text-slate-700 mb-4">
+          Les rails de spots offrent une flexibilité maximale pour orienter la lumière selon vos besoins. Parfaits pour mettre en valeur des œuvres d'art ou créer des zones d'éclairage modulables.
+        </p>
+
+        <div class="my-8">
+          <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771236136417.jpg" alt="Techniques d'eclairage pour creer une ambiance chaleureuse" class="w-full rounded-lg shadow-sm" loading="lazy" />
+        </div>
+
+        <ul class="list-disc list-inside space-y-2 text-slate-700 mb-6">
+          <li>Rails droits pour un style industriel épuré</li>
+          <li>Rails courbes pour suivre l'architecture de la pièce</li>
+          <li>Spots orientables avec angles variables</li>
+        </ul>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">6. L'encastrement invisible</h3>
+        <p class="text-slate-700 mb-6">
+          Les spots encastrés se fondent dans le plafond pour un rendu minimaliste. Choisissez des modèles à éclairage orientable pour diriger la lumière précisément où vous le souhaitez.
+        </p>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">7. Le wash lighting</h3>
+        <p class="text-slate-700 mb-6">
+          Cette technique consiste à "laver" les murs d'une lumière uniforme grâce à des spots positionnés à distance égale. Idéal pour mettre en valeur les textures et créer une ambiance feutrée.
+        </p>
+
+        <div class="bg-purple-50 border-l-4 border-purple-400 p-4 mb-6">
+          <div class="flex">
+            <div class="flex-shrink-0">
+              <svg class="h-5 w-5 text-purple-400" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M3 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd" />
+              </svg>
+            </div>
+            <div class="ml-3">
+              <p class="text-sm text-purple-700">
+                <strong>Important :</strong> Respectez une distance de 60 à 80 cm entre chaque spot encastré pour obtenir un éclairage uniforme sans zones d'ombre.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Guirlandes et LED décoratifs -->
+      <section id="guirlandes-led-decoratifs" class="mb-12">
+        <h2 class="text-3xl font-bold text-slate-900 mb-6">Guirlandes et LED décoratifs : 3 idées créatives</h2>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">8. Les guirlandes lumineuses intégrées</h3>
+        <p class="text-slate-700 mb-4">
+          Intégrez subtilement des guirlandes LED dans votre décoration pour créer une ambiance magique. Enroulez-les autour de plantes, dans des bocaux en verre ou le long d'étagères.
+        </p>
+
+        <div class="my-8">
+          <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235486688.jpg" alt="Luminaires suspendus modernes dans un interieur contemporain" class="w-full rounded-lg shadow-sm" loading="lazy" />
+        </div>
+
+        <ul class="list-disc list-inside space-y-2 text-slate-700 mb-6">
+          <li>Guirlandes à micro-LED pour un effet scintillant</li>
+          <li>Modèles à piles pour éviter les contraintes électriques</li>
+          <li>Couleurs chaudes (blanc chaud ou doré) pour l'ambiance</li>
+        </ul>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">9. L'éclairage néon flexible</h3>
+        <p class="text-slate-700 mb-6">
+          Les bandes LED néon donnent un style contemporain à vos espaces. Utilisez-les pour souligner des lignes architecturales, encadrer des miroirs ou créer des motifs géométriques au mur.
+        </p>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">10. Les panneaux LED décoratifs</h3>
+        <p class="text-slate-700 mb-6">
+          Ces panneaux ultra-fins s'intègrent parfaitement dans les faux plafonds ou derrière des cloisons ajourées. Ils offrent un éclairage uniforme et peuvent changer de couleur selon vos envies.
+        </p>
+      </section>
+
+      <!-- Lampes d'ambiance et variateurs -->
+      <section id="lampes-ambiance-variateurs" class="mb-12">
+        <h2 class="text-3xl font-bold text-slate-900 mb-6">Lampes d'ambiance et variateurs : 3 solutions pratiques</h2>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">11. Les variateurs d'intensité</h3>
+        <p class="text-slate-700 mb-4">
+          Installez des variateurs sur vos circuits d'éclairage pour ajuster l'intensité selon le moment de la journée. Cette solution simple transforme immédiatement l'ambiance de vos pièces.
+        </p>
+
+        <div class="my-8">
+          <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771236608407.jpg" alt="Eclairage de salle de bain moderne avec spots et LED" class="w-full rounded-lg shadow-sm" loading="lazy" />
+        </div>
+
+
+        <div class="bg-green-50 border-l-4 border-green-400 p-4 mb-6">
+          <div class="flex">
+            <div class="flex-shrink-0">
+              <svg class="h-5 w-5 text-green-400" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
+              </svg>
+            </div>
+            <div class="ml-3">
+              <p class="text-sm text-green-700">
+                <strong>Conseil pratique :</strong> Réglez vos variateurs sur 30-40% le soir pour créer une ambiance relaxante qui prépare au sommeil.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">12. Les lampes à poser tactiles</h3>
+        <p class="text-slate-700 mb-6">
+          Choisissez des lampes avec contrôle tactile intégré pour ajuster facilement l'intensité d'un simple geste. Parfait pour les tables de chevet, les bureaux ou les espaces de lecture.
+        </p>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">13. L'éclairage connecté</h3>
+        <p class="text-slate-700 mb-6">
+          Les ampoules connectées vous permettent de programmer vos éclairages et de créer des scénarios personnalisés. Réveil en douceur, ambiance cinéma ou éclairage sécurisé en votre absence.
+        </p>
+      </section>
+
+      <!-- Éclairage architectural -->
+      <section id="eclairage-architectural" class="mb-12">
+        <h2 class="text-3xl font-bold text-slate-900 mb-6">Éclairage architectural : 2 techniques sophistiquées</h2>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">14. L'éclairage structurel</h3>
+        <p class="text-slate-700 mb-4">
+          Intégrez l'éclairage directement dans l'architecture de votre intérieur. Niches lumineuses, escaliers éclairés par en dessous ou poutres équipées de LED créent des effets spectaculaires.
+        </p>
+        <ul class="list-disc list-inside space-y-2 text-slate-700 mb-6">
+          <li>Marches d'escalier avec LED intégrées</li>
+          <li>Bibliothèques avec éclairage par étagère</li>
+          <li>Cloisons ajourées rétroéclairées</li>
+        </ul>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">15. Le grazing light</h3>
+        <p class="text-slate-700 mb-6">
+          Cette technique consiste à effleurer une surface texturée avec un faisceau lumineux rasant. Idéal pour révéler la beauté des murs en pierre, en brique ou des papiers peints à relief.
+        </p>
+      </section>
+
+      <!-- Jeux d'ombres et de lumières -->
+      <section id="jeux-ombres-lumieres" class="mb-12">
+        <h2 class="text-3xl font-bold text-slate-900 mb-6">Jeux d'ombres et de lumières : la technique ultime</h2>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">16. Les projections décoratives</h3>
+        <p class="text-slate-700 mb-4">
+          Créez des motifs d'ombre en utilisant des cache-lumières perforés, des plantes aux feuillages découpés ou des objets décoratifs positionnés devant vos sources lumineuses.
+        </p>
+
+        <div class="bg-rose-50 border-l-4 border-rose-400 p-4 mb-6">
+          <div class="flex">
+            <div class="flex-shrink-0">
+              <svg class="h-5 w-5 text-rose-400" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z" clip-rule="evenodd" />
+              </svg>
+            </div>
+            <div class="ml-3">
+              <p class="text-sm text-rose-700">
+                <strong>Idée déco :</strong> Placez une plante aux feuilles découpées devant un spot pour projeter des ombres végétales qui bougent avec l'air et créent une ambiance vivante.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <p class="text-slate-700 mb-6">
+          Les jeux d'ombres transforment vos murs en véritables œuvres d'art éphémères. Experimentez avec différentes sources et distances pour obtenir des effets uniques qui évoluent selon l'angle de vue.
+        </p>
+      </section>
+
+      <!-- Conseils de mise en œuvre -->
+      <section class="mb-12">
+        <h2 class="text-3xl font-bold text-slate-900 mb-6">Conseils pratiques pour réussir votre éclairage d'ambiance</h2>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">Planification et installation</h3>
+        <p class="text-slate-700 mb-4">
+          Avant de vous lancer, dessinez un plan précis de votre éclairage en tenant compte de l'usage de chaque zone. Prévoyez plusieurs circuits indépendants pour créer différents scénarios lumineux.
+        </p>
+
+        <ul class="list-disc list-inside space-y-2 text-slate-700 mb-6">
+          <li>Multipliez les sources lumineuses plutôt qu'un seul éclairage puissant</li>
+          <li>Testez vos ampoules avant l'installation définitive</li>
+          <li>Prévoyez l'accès aux transformateurs et variateurs</li>
+          <li>Respectez les normes électriques, surtout dans les pièces humides</li>
+        </ul>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">Harmonisation avec la décoration</h3>
+        <p class="text-slate-700 mb-6">
+          Votre éclairage doit s'intégrer naturellement à votre style décoratif. Un intérieur scandinave privilégiera des lumières douces et naturelles, tandis qu'un style industriel acceptera des éclairages plus contrastés et directifs.
+        </p>
+
+        <h3 class="text-xl font-semibold text-slate-900 mb-4">Économies d'énergie</h3>
+        <p class="text-slate-700 mb-6">
+          Optez systématiquement pour des LED qui consomment 10 fois moins que les ampoules traditionnelles. Leur durée de vie exceptionnelle compense largement l'investissement initial.
+        </p>
+      </section>
+
+      <!-- FAQ -->
+      <section id="faq" class="mb-12">
+        <h2 class="text-3xl font-bold text-slate-900 mb-8">Questions fréquentes sur l'éclairage d'ambiance</h2>
+
+        <div class="space-y-8">
+          <div class="bg-gray-50 p-6 rounded-lg">
+            <h3 class="text-xl font-semibold text-slate-900 mb-3">Combien de sources lumineuses prévoir par pièce ?</h3>
+            <p class="text-slate-700">
+              Comptez au minimum 3 à 5 sources lumineuses différentes pour une pièce de vie : un éclairage général, un éclairage d'appoint (lecture, travail) et 1 à 3 éclairages décoratifs. Cette multiplicité permet de créer diverses ambiances selon les moments de la journée.
+            </p>
+          </div>
+
+          <div class="bg-gray-50 p-6 rounded-lg">
+            <h3 class="text-xl font-semibold text-slate-900 mb-3">Quelle température de couleur choisir pour l'ambiance ?</h3>
+            <p class="text-slate-700">
+              Pour l'éclairage d'ambiance, privilégiez des températures chaudes entre 2700K et 3000K. Ces teintes créent une atmosphère cosy et relaxante. Réservez les couleurs froides (4000K et plus) aux espaces de travail nécessitant concentration et vigilance.
+            </p>
+          </div>
+
+          <div class="bg-gray-50 p-6 rounded-lg">
+            <h3 class="text-xl font-semibold text-slate-900 mb-3">Comment éviter l'éblouissement avec les LED ?</h3>
+            <p class="text-slate-700">
+              Utilisez toujours des diffuseurs, abat-jour ou réflecteurs pour adoucir la lumière directe des LED. Orientez vos sources vers les surfaces (murs, plafonds) plutôt que vers les yeux. Les LED de qualité avec un IRC élevé (>80) offrent également un rendu plus confortable.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Conclusion -->
+      <section class="mb-12">
+        <h2 class="text-3xl font-bold text-slate-900 mb-6">Conclusion : Créez votre ambiance lumineuse parfaite</h2>
+        
+        <p class="text-lg text-slate-700 mb-6">
+          L'éclairage d'ambiance révèle la véritable personnalité de votre intérieur. Ces 16 techniques vous offrent une palette complète pour transformer chaque pièce selon vos envies et vos besoins. N'hésitez pas à combiner plusieurs approches pour créer des ambiances riches et nuancées.
+        </p>
+
+        <p class="text-lg text-slate-700 mb-6">
+          Rappelez-vous que le plus bel éclairage est celui qui se fait oublier tout en sublimant votre décoration. Prenez le temps d'expérimenter et d'ajuster vos installations pour obtenir l'effet désiré. Votre intérieur n'en sera que plus chaleureux et accueillant.
+        </p>
+
+        <div class="bg-slate-100 p-6 rounded-lg">
+          <p class="text-slate-700 text-center italic">
+            "La lumière ne se contente pas d'éclairer, elle révèle l'âme des espaces et transforme le quotidien en moments magiques."
+          </p>
+        </div>
+      </section>
+
+      <!-- Navigation vers d'autres articles -->
+      <nav class="border-t border-gray-200 pt-8">
+        <h3 class="text-lg font-semibold text-slate-900 mb-4">Articles connexes</h3>
+        <div class="grid md:grid-cols-2 gap-4">
+          <a href="/luminaires-salon-moderne" class="block p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors">
+            <h4 class="font-semibold text-slate-900 mb-2">Luminaires de salon modernes</h4>
+            <p class="text-sm text-slate-600">Découvrez les tendances actuelles en matière de luminaires pour salon</p>
+          </a>
+          <a href="/eclairage-led-maison" class="block p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors">
+            <h4 class="font-semibold text-slate-900 mb-2">Guide complet de l'éclairage LED</h4>
+            <p class="text-sm text-slate-600">Tout savoir sur les LED : avantages, installation et économies</p>
+          </a>
+        </div>
+      </nav>
+    </article>
+  </main>
+  <Footer />
+</BaseLayout>

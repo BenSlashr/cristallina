@@ -1,0 +1,331 @@
+---
+title: "Guides Déco & Aménagement - Toutes nos Catégories"
+description: "Découvrez tous nos guides d'aménagement et de décoration classés par catégories : salon, cuisine, chambre, salle de bain, bureau, extérieur et plus encore."
+canonical: "https://www.cristallina.fr/guides/"
+---
+
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guides Déco & Aménagement - Toutes nos Catégories</title>
+    <meta name="description" content="Découvrez tous nos guides d'aménagement et de décoration classés par catégories : salon, cuisine, chambre, salle de bain, bureau, extérieur et plus encore.">
+    <link rel="canonical" href="https://www.cristallina.fr/guides/">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #f1f5f9;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #334155 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 4rem;
+            padding: 2rem 0;
+            background: rgba(15, 23, 42, 0.8);
+            border-radius: 16px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(245, 158, 11, 0.2);
+        }
+        
+        .header h1 {
+            font-size: 3.5rem;
+            margin-bottom: 1rem;
+            background: linear-gradient(45deg, #f59e0b, #8b5cf6);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+        
+        .header p {
+            font-size: 1.25rem;
+            color: #cbd5e1;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        .categories-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 2rem;
+            margin-bottom: 4rem;
+        }
+        
+        .category-card {
+            background: rgba(15, 23, 42, 0.6);
+            border-radius: 16px;
+            padding: 2rem;
+            border: 2px solid transparent;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .category-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #f59e0b, #8b5cf6);
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        
+        .category-card:hover {
+            border-color: rgba(245, 158, 11, 0.4);
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(245, 158, 11, 0.15);
+        }
+        
+        .category-card:hover::before {
+            opacity: 1;
+        }
+        
+        .category-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+        
+        .category-title {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+            color: #f59e0b;
+        }
+        
+        .category-description {
+            color: #cbd5e1;
+            margin-bottom: 1.5rem;
+            line-height: 1.6;
+        }
+        
+        .article-count {
+            display: inline-block;
+            background: rgba(245, 158, 11, 0.2);
+            color: #f59e0b;
+            padding: 0.5rem 1rem;
+            border-radius: 25px;
+            font-size: 0.9rem;
+            font-weight: 500;
+            border: 1px solid rgba(245, 158, 11, 0.3);
+        }
+        
+        .popular-articles {
+            background: rgba(15, 23, 42, 0.8);
+            border-radius: 16px;
+            padding: 2rem;
+            border: 1px solid rgba(139, 92, 246, 0.3);
+        }
+        
+        .popular-title {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 2rem;
+            color: #8b5cf6;
+            text-align: center;
+        }
+        
+        .articles-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        
+        .article-item {
+            background: rgba(30, 41, 59, 0.6);
+            padding: 1.5rem;
+            border-radius: 12px;
+            border: 1px solid rgba(75, 85, 99, 0.3);
+            transition: all 0.3s ease;
+        }
+        
+        .article-item:hover {
+            border-color: rgba(139, 92, 246, 0.4);
+            transform: translateY(-2px);
+        }
+        
+        .article-title {
+            font-weight: bold;
+            color: #f1f5f9;
+            margin-bottom: 0.5rem;
+        }
+        
+        .article-excerpt {
+            color: #94a3b8;
+            font-size: 0.9rem;
+        }
+        
+        .navigation-home {
+            text-align: center;
+            margin-top: 3rem;
+            padding: 2rem;
+            background: rgba(15, 23, 42, 0.6);
+            border-radius: 12px;
+            border: 1px solid rgba(245, 158, 11, 0.2);
+        }
+        
+        .btn-home {
+            display: inline-block;
+            background: linear-gradient(45deg, #f59e0b, #d97706);
+            color: #0f172a;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(245, 158, 11, 0.3);
+        }
+        
+        .btn-home:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(245, 158, 11, 0.4);
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2.5rem;
+            }
+            
+            .categories-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .container {
+                padding: 1rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🏡 Guides Déco & Aménagement</h1>
+            <p>Explorez nos guides complets pour transformer chaque espace de votre maison en un lieu unique qui vous ressemble.</p>
+        </div>
+
+        <div class="categories-grid">
+            <div class="category-card">
+                <span class="category-icon">🛋️</span>
+                <h2 class="category-title">Salon & Séjour</h2>
+                <p class="category-description">Créez un salon chaleureux et accueillant avec nos conseils d'aménagement, de décoration et de choix de mobilier moderne.</p>
+                <span class="article-count">25+ articles</span>
+            </div>
+
+            <div class="category-card">
+                <span class="category-icon">🍳</span>
+                <h2 class="category-title">Cuisine</h2>
+                <p class="category-description">Optimisez votre cuisine avec des solutions d'aménagement intelligentes, des tendances déco et des idées rangement.</p>
+                <span class="article-count">20+ articles</span>
+            </div>
+
+            <div class="category-card">
+                <span class="category-icon">🛏️</span>
+                <h2 class="category-title">Chambre</h2>
+                <p class="category-description">Transformez votre chambre en cocon douillet avec nos idées déco, couleurs apaisantes et conseils d'aménagement.</p>
+                <span class="article-count">18+ articles</span>
+            </div>
+
+            <div class="category-card">
+                <span class="category-icon">🚿</span>
+                <h2 class="category-title">Salle de Bain</h2>
+                <p class="category-description">Rénovez votre salle de bain avec style : carrelage, mobilier, éclairage et optimisation de l'espace.</p>
+                <span class="article-count">15+ articles</span>
+            </div>
+
+            <div class="category-card">
+                <span class="category-icon">💼</span>
+                <h2 class="category-title">Bureau & Télétravail</h2>
+                <p class="category-description">Créez un espace de travail productif et inspirant avec nos conseils d'aménagement et d'organisation.</p>
+                <span class="article-count">12+ articles</span>
+            </div>
+
+            <div class="category-card">
+                <span class="category-icon">🌿</span>
+                <h2 class="category-title">Extérieur & Terrasse</h2>
+                <p class="category-description">Aménagez vos espaces extérieurs : terrasse, balcon, jardin avec du mobilier design et des plantes.</p>
+                <span class="article-count">22+ articles</span>
+            </div>
+
+            <div class="category-card">
+                <span class="category-icon">🎨</span>
+                <h2 class="category-title">Couleurs & Peinture</h2>
+                <p class="category-description">Maîtrisez l'art des couleurs : palettes harmonieuses, tendances peinture et associations réussies.</p>
+                <span class="article-count">16+ articles</span>
+            </div>
+
+            <div class="category-card">
+                <span class="category-icon">💡</span>
+                <h2 class="category-title">Éclairage</h2>
+                <p class="category-description">Illuminez vos espaces avec style : éclairage moderne, ambiances lumineuses et conseils d'installation.</p>
+                <span class="article-count">10+ articles</span>
+            </div>
+
+            <div class="category-card">
+                <span class="category-icon">🛠️</span>
+                <h2 class="category-title">DIY & Rangement</h2>
+                <p class="category-description">Créez et organisez avec nos tutoriels DIY, solutions de rangement créatives et projets faits maison.</p>
+                <span class="article-count">14+ articles</span>
+            </div>
+
+            <div class="category-card">
+                <span class="category-icon">✨</span>
+                <h2 class="category-title">Tendances 2026</h2>
+                <p class="category-description">Découvrez les dernières tendances déco, matériaux innovants et styles qui feront 2026.</p>
+                <span class="article-count">8+ articles</span>
+            </div>
+        </div>
+
+        <div class="popular-articles">
+            <h2 class="popular-title">📈 Articles les Plus Populaires</h2>
+            <div class="articles-list">
+                <div class="article-item">
+                    <h3 class="article-title">Salon Scandinave : Le Guide Complet 2026</h3>
+                    <p class="article-excerpt">Créez un salon scandinave authentique avec nos conseils d'experts, sélection mobilier et palette couleurs.</p>
+                </div>
+                <div class="article-item">
+                    <h3 class="article-title">Cuisine Ouverte : Optimiser l'Espace</h3>
+                    <p class="article-excerpt">Aménagez une cuisine ouverte fonctionnelle et esthétique avec nos solutions d'optimisation d'espace.</p>
+                </div>
+                <div class="article-item">
+                    <h3 class="article-title">Chambre Cocooning : 20 Idées Déco</h3>
+                    <p class="article-excerpt">Transformez votre chambre en cocon douillet avec nos idées déco, textiles et conseils d'aménagement.</p>
+                </div>
+                <div class="article-item">
+                    <h3 class="article-title">Couleurs Apaisantes : Guide Zen</h3>
+                    <p class="article-excerpt">Découvrez les couleurs qui apaisent l'esprit et créent une atmosphère sereine dans votre intérieur.</p>
+                </div>
+                <div class="article-item">
+                    <h3 class="article-title">Plantes d'Intérieur : Top 15 Déco</h3>
+                    <p class="article-excerpt">Purifiez l'air et décorez avec style grâce à notre sélection des meilleures plantes d'intérieur.</p>
+                </div>
+                <div class="article-item">
+                    <h3 class="article-title">Rangement Créatif : Solutions Malicieuses</h3>
+                    <p class="article-excerpt">Optimisez vos espaces avec nos idées de rangement créatives et solutions d'organisation ingénieuses.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="navigation-home">
+            <h2 style="color: #f59e0b; margin-bottom: 1rem;">🏠 Retour à l'Accueil</h2>
+            <p style="color: #cbd5e1; margin-bottom: 1.5rem;">Explorez tous nos contenus déco et aménagement sur la page d'accueil</p>
+            <a href="/" class="btn-home">🏡 Accueil Cristallina</a>
+        </div>
+    </div>
+</body>
+</html>

@@ -6,93 +6,936 @@ import Footer from '@/components/Footer.astro';
 import NewsletterCTA from '@/components/NewsletterCTA.astro';
 import { getCollection } from 'astro:content';
 
-// Get recent blog posts (published only)
-const now = new Date();
-const recentPosts = (await getCollection('blog', ({ data }) =>
-  data.pubDate.valueOf() <= now.valueOf()
-)).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()).slice(0, 6);
-
-// Get guide hubs
-const guideHubs = (await getCollection('guides', ({ data }) =>
-  data.type === 'hub' && (!data.pubDate || data.pubDate.valueOf() <= now.valueOf())
-)).sort((a, b) => a.data.order - b.data.order);
+// Recent articles (hardcoded for now - to be automated later)
+const recentArticles = [
+  {
+    title: "Éclairage d'Ambiance : 16 Techniques pour Sublimer votre Intérieur",
+    description: "Transformez vos espaces avec des jeux de lumière sophistiqués. Découvrez 16 techniques d'éclairage d'ambiance pour créer des atmosphères uniques et chaleureuses.",
+    href: "/eclairage-ambiance-techniques-sublimer/",
+    readingTime: "20 min",
+    category: "Éclairage",
+    image: "/images/unsplash-eclairage-ambiance-techniques-1771180020.jpg"
+  },
+  {
+    title: "Balcon Petit Espace : 18 Astuces d'Aménagement Optimisé",
+    description: "Maximisez votre petit balcon ! 18 solutions créatives pour aménager un balcon fonctionnel et esthétique malgré l'espace réduit.",
+    href: "/balcon-amenagement-petit-espace-optimise/",
+    readingTime: "17 min",
+    category: "Extérieur",
+    image: "/images/unsplash-balcon-amenagement-petit-espace-1771180021.jpg"
+  },
+  {
+    title: "Entrée de Maison : 14 Idées Déco pour un Accueil Chaleureux",
+    description: "Première impression réussie ! 14 idées pour décorer l'entrée de votre maison avec style et créer un accueil mémorable dès le seuil franchi.",
+    href: "/entree-maison-idees-decoration-accueil/",
+    readingTime: "16 min",
+    category: "Entrée",
+    image: "/images/unsplash-entree-maison-idees-decoration-1771180022.jpg"
+  },
+  {
+    title: "Dressing Optimisé : 20 Solutions Rangement Garde-Robe",
+    description: "Organisez parfaitement votre dressing ! 20 solutions de rangement intelligentes pour optimiser l'espace et trouver vos affaires en un clin d'œil.",
+    href: "/dressing-optimise-solutions-rangement-garde-robe/",
+    readingTime: "19 min",
+    category: "Rangement",
+    image: "/images/unsplash-dressing-optimise-solutions-rangement-1771180023.jpg"
+  },
+  {
+    title: "Salon Cocooning Hiver : 15 Idées pour une Ambiance Ultra-Cosy",
+    description: "Créez l'ambiance hivernale parfaite ! 15 astuces déco pour transformer votre salon en cocon douillet et chaleureux pendant les mois froids.",
+    href: "/salon-cocooning-hiver-ambiance-ultra-cosy/",
+    readingTime: "18 min",
+    category: "Salon",
+    image: "/images/unsplash-salon-cocooning-hiver-ambiance-1771180024.jpg"
+  },
+  {
+    title: "Home Office Zen : 12 Astuces pour un Bureau Apaisant et Productif",
+    description: "Travaillez dans la sérénité ! 12 techniques pour créer un bureau zen à domicile qui booste votre productivité tout en préservant votre bien-être.",
+    href: "/home-office-zen-bureau-apaisant-productif/",
+    readingTime: "16 min",
+    category: "Bureau",
+    image: "/images/unsplash-home-office-zen-bureau-apaisant-1771180025.jpg"
+  },
+  {
+    title: "Chambre Ado Moderne : 16 Idées Déco Tendance qui Plairont",
+    description: "Chambre d'ado stylée garantie ! 16 idées déco modernes et tendance pour créer un espace personnel qui reflète leur personnalité unique.",
+    href: "/chambre-ado-moderne-idees-decoration-tendance/",
+    readingTime: "17 min",
+    category: "Chambre",
+    image: "/images/unsplash-chambre-ado-moderne-idees-decoration-1771180026.jpg"
+  },
+  {
+    title: "Salle à Manger Conviviale : 13 Secrets d'une Décoration Chaleureuse",
+    description: "Créez une salle à manger chaleureuse ! 13 secrets déco pour des repas conviviaux : mobilier accueillant, éclairage intime et art de recevoir.",
+    href: "/salle-manger-conviviale-decoration-chaleureuse/",
+    readingTime: "15 min",
+    category: "Salle à manger",
+    image: "/images/unsplash-salle-manger-conviviale-decoration-1771180033.jpg"
+  },
+  {
+    title: "Couloir Décoration : 17 Idées pour Transformer cet Espace Oublié",
+    description: "Sublimez vos couloirs ! 17 idées déco créatives pour transformer ces espaces de passage en véritables atouts charme de votre intérieur.",
+    href: "/couloir-decoration-idees-transformation-espace/",
+    readingTime: "16 min",
+    category: "Couloir",
+    image: "/images/unsplash-couloir-decoration-idees-transformation-1771180027.jpg"
+  },
+  {
+    title: "Déco Récup & Upcycling : 25 Idées pour une Maison Unique",
+    description: "Créez une déco unique avec l'upcycling ! 25 idées créatives pour transformer vos objets du quotidien en pièces déco originales et écologiques.",
+    href: "/decoration-recup-upcycling-maison-unique/",
+    readingTime: "22 min",
+    category: "DIY",
+    image: "/images/unsplash-decoration-recup-upcycling-maison-1771180028.jpg"
+  },
+  {
+    title: "Sous-sol Aménagé : 14 Idées pour un Espace de Vie Cosy",
+    description: "Transformez votre sous-sol en pièce à vivre ! 14 idées d'aménagement pour créer un espace cosy et fonctionnel dans votre cave ou basement.",
+    href: "/sous-sol-amenage-espace-vie-cosy/",
+    readingTime: "18 min",
+    category: "Aménagement",
+    image: "/images/unsplash-sous-sol-amenage-espace-vie-1771180029.jpg"
+  },
+  {
+    title: "Décoration Vintage-Moderne : 19 Astuces pour Mixer les Époques avec Style",
+    description: "Mariez vintage et moderne avec brio ! 19 techniques expertes pour créer un intérieur éclectique qui mélange les époques avec goût et cohérence.",
+    href: "/decoration-vintage-moderne-mixer-epoques-style/",
+    readingTime: "20 min",
+    category: "Style",
+    image: "/images/unsplash-decoration-vintage-moderne-mixer-1771180034.jpg"
+  },
+  {
+    title: "Chambre Parentale Spa : 15 Idées pour un Cocon Bien-être",
+    description: "Créez votre suite parentale spa ! 15 aménagements luxueux pour transformer votre chambre en sanctuaire de détente et bien-être absolu.",
+    href: "/chambre-parentale-spa-cocon-bien-etre/",
+    readingTime: "19 min",
+    category: "Chambre",
+    image: "/images/unsplash-chambre-parentale-spa-cocon-1771180030.jpg"
+  },
+  {
+    title: "Cuisine Vintage Campagne : 21 Idées Déco Charme Authentique",
+    description: "Succombez au charme campagne chic ! 21 idées pour créer une cuisine vintage authentique alliant caractère rustique et fonctionnalité moderne.",
+    href: "/cuisine-vintage-campagne-charme-authentique/",
+    readingTime: "21 min",
+    category: "Cuisine",
+    image: "/images/unsplash-cuisine-vintage-campagne-charme-1771180031.jpg"
+  },
+  {
+    title: "Studio Étudiant : 22 Astuces Déco Petit Espace Malin",
+    description: "Studio étudiant stylé et fonctionnel ! 22 astuces déco pour optimiser chaque m² et créer un espace de vie agréable même dans un petit budget.",
+    href: "/studio-etudiant-astuces-decoration-petit-espace/",
+    readingTime: "18 min",
+    category: "Petit espace",
+    image: "/images/unsplash-studio-etudiant-astuces-decoration-1771180032.jpg"
+  },
+  {
+    title: "Terrasse Design : 15 Aménagements Extérieurs Tendance 2026",
+    description: "Transformez votre terrasse en oasis de design ! Mobilier tendance, végétalisation et éclairage pour créer un espace extérieur exceptionnel.",
+    href: "/terrasse-design-amenagements-exterieurs-tendance/",
+    readingTime: "18 min",
+    category: "Extérieur",
+    image: "/images/unsplash-modern-terrace-design-outdoor-furniture-landscaping-1771177414.jpg"
+  },
+  {
+    title: "Déco Murale : 20 Idées Créatives pour Habiller vos Murs avec Style",
+    description: "Révolutionnez vos murs ! Galeries photo, papier peint design, étagères suspendues... 20 idées pour une décoration murale qui vous ressemble.",
+    href: "/deco-murale-idees-habiller-murs-style/",
+    readingTime: "16 min",
+    category: "Décoration",
+    image: "/images/unsplash-wall-decoration-stylish-interior-design-art-1771177410.jpg"
+  },
+  {
+    title: "Jardin d'Hiver : 12 Vérandas Végétales Inspirantes",
+    description: "Créez votre oasis verte ! Verrières botaniques, plantes exotiques et ambiances tropicales pour un jardin d'hiver enchanteur toute l'année.",
+    href: "/jardin-hiver-verandas-vegetales-inspirantes/",
+    readingTime: "17 min",
+    category: "Plantes",
+    image: "/images/unsplash-winter-garden-veranda-plants-indoor-greenhouse-1771177405.jpg"
+  },
+  {
+    title: "Bureau Moderne : 15 Aménagements Productifs 2026",
+    description: "Optimisez votre espace de travail ! Mobilier ergonomique, rangements intelligents et ambiances motivantes pour un bureau moderne et efficace.",
+    href: "/bureau-moderne-amenagements-productifs-2026/",
+    readingTime: "19 min",
+    category: "Bureau",
+    image: "/images/unsplash-modern-office-workspace-productive-design-1771177402.jpg"
+  },
+  {
+    title: "Salon Bohème : 18 Idées Déco Chic et Colorée",
+    description: "Adoptez l'esprit bohème chic ! Motifs ethniques, couleurs chaudes et textiles naturels pour un salon plein de caractère et d'authenticité.",
+    href: "/salon-boheme-deco-chic-coloree/",
+    readingTime: "16 min",
+    category: "Salon",
+    image: "/images/unsplash-bohemian-chic-living-room-colorful-textiles-1771177397.jpg"
+  },
+  {
+    title: "Chambre Moderne : 12 Designs Minimalistes Inspirants",
+    description: "Créez votre havre de paix ! Lignes épurées, couleurs douces et fonctionnalité optimale pour une chambre moderne et apaisante.",
+    href: "/chambre-moderne-design-minimaliste/",
+    readingTime: "15 min",
+    category: "Chambre",
+    image: "/images/unsplash-modern-minimalist-bedroom-design-contemporary-1771177387.jpg"
+  },
+  {
+    title: "Salle de Bain Zen : 14 Idées Spa à la Maison",
+    description: "Transformez votre salle de bain en spa privé ! Matériaux naturels, éclairage apaisant et rangements astucieux pour un espace zen et relaxant.",
+    href: "/salle-de-bain-zen-spa-maison/",
+    readingTime: "17 min",
+    category: "Salle de bain",
+    image: "/images/unsplash-zen-spa-bathroom-home-interior-1771177385.jpg"
+  },
+  {
+    title: "Cuisine Moderne 2026 : 10 Aménagements Innovants",
+    description: "Réinventez votre cuisine avec les tendances 2026 ! Îlots multifonctions, électroménager connecté, rangements intelligents... 10 idées innovantes.",
+    href: "/cuisine-moderne-2026-amenagements-innovants/",
+    readingTime: "20 min",
+    category: "Cuisine",
+    image: "/images/unsplash-modern-kitchen-2026-innovative-layouts-1771177382.jpg"
+  },
+  {
+    title: "Carrelage Moderne : 12 Tendances Carreaux 2026",
+    description: "Découvrez les tendances carrelage 2026 ! Grands formats, effet béton, carreaux métro revisités... 12 styles pour moderniser vos sols et murs.",
+    href: "/carrelage-moderne-tendances-2026/",
+    readingTime: "16 min",
+    category: "Revêtements",
+    image: "/images/unsplash-modern-tile-kitchen-bathroom-2026-1771177379.jpg"
+  },
+  {
+    title: "Mobilier Scandinave : 15 Pièces Emblématiques du Design Nordique",
+    description: "Découvrez les 15 meubles scandinaves iconiques ! Chaises Eames, canapés modulaires, tables en bois... Guide complet du design nordique authentique.",
+    href: "/mobilier-scandinave-design-nordique/",
+    readingTime: "18 min",
+    category: "Mobilier",
+    image: "/images/unsplash-scandinavian-furniture-nordic-design-minimalist-1771177375.jpg"
+  },
+  {
+    title: "Textiles Maison : 12 Matières Tendance pour un Intérieur Cosy",
+    description: "Lin, velours, mohair... Découvrez les 12 matières textiles incontournables pour créer une ambiance cosy. Guide complet avec conseils d'entretien.",
+    href: "/textiles-maison-cosy/",
+    readingTime: "16 min",
+    category: "Textiles",
+    image: "/images/unsplash-cozy-textiles-home-fabrics-natural-materials-1771176042.jpg"
+  },
+  {
+    title: "Couleurs Apaisantes : 8 Palettes pour un Intérieur Zen",
+    description: "Créez une ambiance zen avec les bonnes couleurs ! 8 palettes apaisantes, psychologie des couleurs et conseils pour un intérieur relaxant.",
+    href: "/couleurs-apaisantes-zen/",
+    readingTime: "14 min",
+    category: "Couleurs",
+    image: "/images/unsplash-calming-colors-zen-interior-soft-pastels-1771175693.jpg"
+  },
+  {
+    title: "Rangement Créatif : 20 Idées Astucieuses pour Optimiser l'Espace",
+    description: "Solutions modulaires, rangement vertical et DIY créatif ! 20 idées pour organiser et optimiser vos espaces avec style et ingéniosité.",
+    href: "/rangement-creatif-optimisation/",
+    readingTime: "18 min",
+    category: "Organisation",
+    image: "/images/unsplash-organized-storage-shelves-home-organization-1771176083.jpg"
+  },
+  {
+    title: "Éclairage Moderne : 10 Tendances pour Sublimer votre Intérieur",
+    description: "LED connecté, luminaires sculpturaux, éclairage naturel... Découvrez les 10 tendances qui révolutionnent l'éclairage moderne en 2026.",
+    href: "/eclairage-moderne-tendances/",
+    readingTime: "15 min",
+    category: "Éclairage",
+    image: "/images/unsplash-modern-led-lighting-interior-design-contemporary-1771175613.jpg"
+  },
+  {
+    title: "Plantes d'Intérieur : 15 Variétés Déco pour Purifier l'Air",
+    description: "Transformez votre intérieur avec des plantes purifiantes ! Guide complet des meilleures variétés, entretien facile et arrangements déco.",
+    href: "/plantes-interieur-deco/",
+    readingTime: "14 min",
+    category: "Plantes",
+    image: "/images/unsplash-indoor-plants-air-purifying-home-decor-1771175763.jpg"
+  },
+  {
+    title: "Aménagement Feng Shui : 12 Principes pour Harmoniser votre Intérieur",
+    description: "Transformez votre habitat avec le feng shui ! Circulation d'énergie, placement des meubles et couleurs harmonieuses pour un intérieur équilibré.",
+    href: "/amenagement-feng-shui/",
+    readingTime: "16 min",
+    category: "Feng Shui",
+    image: "/images/unsplash-feng-shui-harmonious-interior-zen-meditation-space-1771175109.jpg"
+  },
+  {
+    title: "Tendances Déco 2026 : 15 Styles qui Vont Révolutionner votre Intérieur",
+    description: "Découvrez les tendances déco incontournables de 2026 ! Couleurs tendance, matériaux innovants et styles émergents pour transformer votre intérieur.",
+    href: "/tendances-deco-2026/",
+    readingTime: "20 min",
+    category: "Tendances",
+    image: "/images/unsplash-contemporary-home-decor-trends-2026-modern-interior-1771174801.jpg"
+  },
+  {
+    title: "Style Industriel Moderne : Guide Complet 2026",
+    description: "Adoptez le style industriel moderne ! Matériaux bruts, mobilier métallique et éclairages factory pour un intérieur urbain et authentique.",
+    href: "/style-industriel-moderne/",
+    readingTime: "15 min",
+    category: "Style",
+    image: "/images/unsplash-industrial-loft-raw-materials-exposed-brick-1771174640.jpg"
+  },
+  {
+    title: "Petit Espace : 15 Astuces Infaillibles pour Agrandir Visuellement",
+    description: "Maximisez vos petits espaces ! Techniques d'aménagement, couleurs et rangements malins pour créer une illusion d'espace et de volume.",
+    href: "/agrandir-petit-espace-astuces/",
+    readingTime: "18 min",
+    category: "Aménagement",
+    image: "/images/unsplash-small-space-design-bright-1771172753.jpg"
+  },
+  {
+    title: "Cuisine Ouverte : 12 Astuces pour Optimiser Espace et Fonctionnalité",
+    description: "Maximisez votre cuisine ouverte ! Aménagement intelligent, rangements astucieux et design harmonieux pour un espace vie parfaitement optimisé.",
+    href: "/cuisine-ouverte-optimiser-espace/",
+    readingTime: "16 min",
+    category: "Cuisine",
+    image: "/images/unsplash-modern-open-kitchen-design-1771172218.jpg"
+  },
+  {
+    title: "Chambre Cocooning : 10 Idées pour un Espace Relaxant",
+    description: "Transformez votre chambre en véritable cocon ! Couleurs apaisantes, textiles douillets et ambiance tamisée pour un repos optimal.",
+    href: "/amenager-chambre-cocooning/",
+    readingTime: "14 min",
+    category: "Chambre",
+    image: "/images/unsplash-cozy-bedroom-natural-textures-1771172070.jpg"
+  },
+  {
+    title: "Décoration Salon Naturel Chic : 12 Idées Tendance 2026",
+    description: "Tu rêves d'un salon qui respire la sérénité sans tomber dans le rustique ? Le naturel chic, c'est exactement ce qu'il te faut !",
+    href: "/decoration-salon-naturel-chic/",
+    readingTime: "8 min",
+    category: "Décoration",
+    image: "/images/unsplash-natural-linen-living-room-decor-1771167640.jpg"
+  },
+  {
+    title: "Salle de Bain Cosy : 15 Astuces pour un Espace Cocoon",
+    description: "Créez une salle de bain cosy et chaleureuse ! Découvrez couleurs douces, éclairages tamisés et matières naturelles.",
+    href: "/salle-de-bain-cosy/",
+    readingTime: "10 min",
+    category: "Salle de bain",
+    image: "/images/unsplash-cozy-bathroom-spa-lighting-1771167669.jpg"
+  },
+  {
+    title: "Comment Fabriquer un Bar en Palettes : Guide DIY",
+    description: "Créez votre bar en palettes fait maison ! Tutoriel détaillé, liste matériaux et techniques pour un bar design et économique.",
+    href: "/comment-fabriquer-soi-meme-un-bar-en-palettes/",
+    readingTime: "12 min", 
+    category: "DIY",
+    image: "/images/unsplash-wooden-pallet-bar-diy-furniture-1771168378.jpg"
+  }
+];
 ---
 
-<BaseLayout title="Mon Site | Accueil">
+<BaseLayout title="Cristallina | Inspiration déco et lifestyle"
+            description="Découvre mes conseils déco accessible et mes astuces lifestyle pour créer un intérieur qui te ressemble vraiment, sans te ruiner."
+            canonical="https://www.cristallina.fr/"
+>
   <Navbar />
 
-  <main class="pt-32 pb-16">
-    <!-- Hero -->
-    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-section">
-      <div class="max-w-3xl">
-        <h1 class="font-display font-800 text-display-lg leading-[1.05] mb-6 tracking-tight">
-          <!-- TODO: Replace with your headline -->
-          Votre titre<br />
-          <span class="text-gradient-primary">accrocheur ici</span>
-        </h1>
-        <p class="text-body-lg text-text-secondary max-w-xl mb-8">
-          Description de votre site. Guides pratiques, outils et ressources pour votre audience.
-        </p>
-        <div class="flex flex-wrap gap-3">
-          <a href="/guides" class="px-6 py-3 bg-primary text-void font-semibold rounded-lg hover:bg-primary-light transition-colors cursor-pointer">
-            Decouvrir les guides
+  <main class="pt-16">
+    <!-- Hero féminin et délicat -->
+    <section class="relative min-h-screen flex items-center section-soft">
+      <!-- Background doux -->
+      <div class="absolute inset-0 bg-gradient-to-br from-rose-50/20 via-purple-50/20 to-orange-50/20"></div>
+      
+      <!-- Contenu principal -->
+      <div class="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+        <div class="text-center space-y-12">
+          
+          <!-- Badge d'accueil délicat -->
+          <div class="inline-block">
+            <span class="inline-flex items-center px-6 py-3 bg-white/90 backdrop-blur-sm shadow-soft rounded-full border border-feminine">
+              <span class="mr-3 text-lg">🌸</span> 
+              <span class="title-elegant text-sm">Salut, moi c'est Laure</span>
+            </span>
+          </div>
+          
+          <!-- Titre principal élégant -->
+          <div class="space-y-6">
+            <h1 class="text-5xl md:text-7xl lg:text-8xl font-display leading-tight">
+              <span class="block title-elegant">Ton intérieur</span>
+              <span class="block text-6xl md:text-8xl lg:text-9xl" style="color: #D4A574; font-style: italic;">rêvé</span>
+              <span class="block title-elegant">sans te ruiner</span>
+            </h1>
+            
+            <!-- Citation inspirante -->
+            <div class="quote-feminine max-w-2xl mx-auto mt-8">
+              Parce que créer un chez-soi qui nous ressemble ne devrait pas coûter une fortune
+            </div>
+          </div>
+            
+          <!-- Description délicate -->
+          <p class="text-lg max-w-2xl mx-auto leading-relaxed" style="color: #8B8B8B; font-family: var(--font-accent);">
+            Inspiration déco accessible, DIY créatifs et astuces lifestyle pour transformer 
+            ton chez-toi avec style et petit budget. Prête à créer la maison de tes rêves ?
+          </p>
+          
+          <!-- Boutons féminins -->
+          <div class="flex flex-col sm:flex-row gap-6 justify-center">
+            <a href="/outils" class="btn-feminine shadow-soft-hover">
+              <span class="mr-3">🛠️</span>
+              Mes outils gratuits
+            </a>
+            <a href="/guides/decoration" class="btn-feminine shadow-soft-hover" style="background: rgba(255,255,255,0.8); border-color: rgba(139, 122, 168, 0.2);">
+              <span class="mr-3">🌿</span>
+              Découvrir mes conseils
+            </a>
+          </div>
+          </div>
+          
+          <!-- Galerie visuelle -->
+          <div class="relative">
+            <div class="grid grid-cols-2 gap-4 transform rotate-2">
+              <!-- Image 1 -->
+              <div class="space-y-4">
+                <div class="bg-white p-3 rounded-2xl shadow-lg transform -rotate-2 hover:rotate-0 transition-transform duration-300">
+                  <div class="aspect-square bg-blue-50 rounded-xl flex items-center justify-center">
+                    <div class="text-center">
+                      <div class="text-4xl mb-2">🛋️</div>
+                      <p class="text-sm font-medium text-gray-600">Salon cocooning</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="bg-white p-3 rounded-2xl shadow-lg transform rotate-3 hover:rotate-0 transition-transform duration-300">
+                  <div class="aspect-[4/5] bg-purple-50 rounded-xl flex items-center justify-center">
+                    <div class="text-center">
+                      <div class="text-4xl mb-2">✨</div>
+                      <p class="text-sm font-medium text-gray-600">DIY créatifs</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <!-- Image 2 -->
+              <div class="space-y-4 mt-8">
+                <div class="bg-white p-3 rounded-2xl shadow-lg transform rotate-2 hover:rotate-0 transition-transform duration-300">
+                  <div class="aspect-[4/5] bg-pink-50 rounded-xl flex items-center justify-center">
+                    <div class="text-center">
+                      <div class="text-4xl mb-2">🌿</div>
+                      <p class="text-sm font-medium text-gray-600">Plantes & nature</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="bg-white p-3 rounded-2xl shadow-lg transform -rotate-1 hover:rotate-0 transition-transform duration-300">
+                  <div class="aspect-square bg-indigo-50 rounded-xl flex items-center justify-center">
+                    <div class="text-center">
+                      <div class="text-4xl mb-2">🏠</div>
+                      <p class="text-sm font-medium text-gray-600">Organisation</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <!-- Élément décoratif flottant -->
+            <div class="absolute -top-4 -left-4 w-12 h-12 bg-blue-100 rounded-full opacity-15 animate-pulse"></div>
+            <div class="absolute -bottom-6 -right-6 w-8 h-8 bg-pink-100 rounded-full opacity-20 animate-pulse" style="animation-delay: 0.5s;"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Scroll indicator -->
+      <div class="absolute bottom-8 left-1/2 transform -translate-x-1/2 text-gray-400 animate-bounce">
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"/>
+        </svg>
+      </div>
+    </section>
+
+    <!-- Mes univers préférés -->
+    <section class="py-20 bg-sky-50/50">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-16">
+          <h2 class="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
+            Mes univers <span class="text-sky-400">préférés</span>
+          </h2>
+          <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+            Plonge dans mes thématiques favorites pour transformer ton intérieur avec style et personnalité
+          </p>
+        </div>
+        
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <!-- Décoration -->
+          <a href="/guides/decoration" class="group cursor-pointer">
+            <div class="relative bg-white rounded-3xl p-8 shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2">
+              <div class="absolute -top-4 -right-4 w-16 h-16 bg-sky-300 rounded-2xl flex items-center justify-center shadow-lg transform rotate-12 group-hover:rotate-0 transition-transform duration-300">
+                <span class="text-2xl">🏡</span>
+              </div>
+              <div class="mb-6">
+                <h3 class="text-2xl font-bold text-gray-800 mb-3">Décoration</h3>
+                <p class="text-gray-600">Salon cocooning, chambre zen, cuisine tendance... Mes astuces pour chaque pièce de ta maison</p>
+              </div>
+              <div class="flex items-center text-sky-600 font-medium group-hover:text-sky-700 transition-colors">
+                <span class="mr-2">Découvrir</span>
+                <svg class="w-4 h-4 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                </svg>
+              </div>
+            </div>
           </a>
-          <a href="/outils" class="px-6 py-3 border border-border text-text-secondary rounded-lg hover:border-primary/50 hover:text-primary transition-all cursor-pointer">
-            Voir les outils
+          
+          <!-- DIY -->
+          <div class="group cursor-pointer">
+            <div class="relative bg-white rounded-3xl p-8 shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2">
+              <div class="absolute -top-4 -right-4 w-16 h-16 bg-indigo-300 rounded-2xl flex items-center justify-center shadow-lg transform rotate-12 group-hover:rotate-0 transition-transform duration-300">
+                <span class="text-2xl">✨</span>
+              </div>
+              <div class="mb-6">
+                <h3 class="text-2xl font-bold text-gray-800 mb-3">DIY Créatifs</h3>
+                <p class="text-gray-600">Projets fait-main, upcycling et créations originales pour personnaliser ton intérieur petit budget</p>
+              </div>
+              <div class="flex items-center text-indigo-600 font-medium group-hover:text-indigo-700 transition-colors">
+                <span class="mr-2">Créer</span>
+                <svg class="w-4 h-4 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                </svg>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Lifestyle -->
+          <a href="/guides/lifestyle" class="group cursor-pointer">
+            <div class="relative bg-white rounded-3xl p-8 shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2">
+              <div class="absolute -top-4 -right-4 w-16 h-16 bg-rose-300 rounded-2xl flex items-center justify-center shadow-lg transform rotate-12 group-hover:rotate-0 transition-transform duration-300">
+                <span class="text-2xl">🌿</span>
+              </div>
+              <div class="mb-6">
+                <h3 class="text-2xl font-bold text-gray-800 mb-3">Lifestyle</h3>
+                <p class="text-gray-600">Organisation, bien-être à la maison et rituels cocooning pour un quotidien plus harmonieux</p>
+              </div>
+              <div class="flex items-center text-rose-600 font-medium group-hover:text-rose-700 transition-colors">
+                <span class="mr-2">S'inspirer</span>
+                <svg class="w-4 h-4 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                </svg>
+              </div>
+            </div>
           </a>
         </div>
       </div>
     </section>
 
-    <!-- Guide Branches -->
-    {guideHubs.length > 0 && (
-      <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-section">
-        <h2 class="font-display font-700 text-h2 mb-8">Nos guides</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-          {guideHubs.map((hub) => (
-            <a
-              href={`/guides/${hub.id}`}
-              class="p-5 rounded-card border border-border bg-surface-raised/30 hover:border-primary/30 transition-all cursor-pointer group"
-            >
-              <h3 class="font-display font-600 text-body-lg text-text-primary group-hover:text-primary transition-colors mb-2">
-                {hub.data.title}
-              </h3>
-              <p class="text-sm text-text-secondary line-clamp-2">{hub.data.description}</p>
-            </a>
+    <!-- Derniers articles -->
+    <section class="py-20 bg-white">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-16">
+          <div class="inline-block mb-6">
+            <span class="inline-flex items-center px-6 py-3 bg-white/90 backdrop-blur-sm shadow-soft rounded-full border border-feminine">
+              <span class="mr-3 text-lg">📖</span> 
+              <span class="title-elegant text-sm">Mes derniers conseils</span>
+            </span>
+          </div>
+          <h2 class="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
+            Mes derniers <span style="color: #E879F9;">articles</span>
+          </h2>
+          <p class="text-lg text-gray-600 max-w-3xl mx-auto">
+            Découvre mes conseils les plus récents pour transformer ton intérieur avec style, sans te ruiner
+          </p>
+        </div>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {recentArticles.map(article => (
+            <article class="group bg-white rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 overflow-hidden">
+              <div class="aspect-[4/3] overflow-hidden">
+                <img src={article.image} alt={article.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
+              </div>
+              <div class="p-6">
+                <div class="flex items-center gap-2 mb-3">
+                  <span class="text-xs px-2 py-1 bg-primary/10 text-primary rounded-full font-medium">{article.category}</span>
+                  <span class="text-xs text-gray-400">📖 {article.readingTime}</span>
+                </div>
+                
+                <h3 class="text-xl font-bold text-gray-800 mb-3 group-hover:text-primary transition-colors line-clamp-2">
+                  <a href={article.href} class="block">
+                    {article.title}
+                  </a>
+                </h3>
+                
+                <p class="text-gray-600 text-sm mb-4 line-clamp-3">{article.description}</p>
+                
+                <a 
+                  href={article.href}
+                  class="inline-flex items-center text-sm font-medium text-primary hover:text-primary-dark transition-colors group-hover:translate-x-1"
+                >
+                  Lire l'article 
+                  <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                  </svg>
+                </a>
+              </div>
+            </article>
           ))}
         </div>
-      </section>
-    )}
+        
+        <div class="text-center mt-12">
+          <a href="/guides/decoration" class="btn-feminine shadow-soft-hover">
+            <span class="mr-3">🌟</span>
+            Découvrir tous mes conseils
+          </a>
+        </div>
+      </div>
+    </section>
 
-    <!-- Recent Posts -->
-    {recentPosts.length > 0 && (
-      <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-section">
-        <h2 class="font-display font-700 text-h2 mb-8">Articles recents</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {recentPosts.map((post) => (
-            <a
-              href={`/${post.id}`}
-              class="rounded-card border border-border bg-surface-raised/30 overflow-hidden hover:border-primary/30 transition-all cursor-pointer group"
-            >
-              {post.data.image && (
-                <img src={post.data.image} alt={post.data.title} class="w-full h-40 object-cover" loading="lazy" />
-              )}
-              <div class="p-5">
-                <div class="flex items-center gap-2 mb-2">
-                  <span class="px-2 py-0.5 text-xs bg-secondary/10 text-secondary-light rounded-full border border-secondary/20">
-                    {post.data.category}
-                  </span>
-                  {post.data.readingTime && (
-                    <span class="text-xs text-text-muted">{post.data.readingTime}</span>
-                  )}
-                </div>
-                <h3 class="font-display font-600 text-body text-text-primary group-hover:text-primary transition-colors mb-1">
-                  {post.data.title}
-                </h3>
-                <p class="text-sm text-text-secondary line-clamp-2">{post.data.description}</p>
+    <!-- Pourquoi j'adore la déco accessible -->
+    <section class="py-20 bg-white">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="grid lg:grid-cols-2 gap-16 items-center">
+          <!-- Texte -->
+          <div class="space-y-8">
+            <div class="inline-block">
+              <span class="inline-flex items-center px-3 py-1 bg-pink-50 text-pink-600 rounded-full font-medium text-sm border border-pink-100">
+                <span class="mr-2">💝</span> Ma philosophie
+              </span>
+            </div>
+            
+            <h2 class="text-3xl md:text-4xl font-bold text-gray-800 leading-tight">
+              Pourquoi j'adore la déco <span class="text-pink-300">accessible</span> ?
+            </h2>
+            
+            <div class="space-y-6 text-gray-600">
+              <p class="text-lg leading-relaxed">
+                <strong class="text-gray-700">La beauté ne devrait jamais être un luxe.</strong> C'est ma conviction profonde depuis que j'ai aménagé mon premier studio étudiant avec 200€ en poche.
+              </p>
+              
+              <p>
+                Aujourd'hui, je partage toutes mes astuces pour créer des intérieurs qui ont du caractère sans se ruiner. Parce que ton budget ne définit pas ton style, et que les plus belles transformations naissent souvent de la créativité plutôt que du porte-monnaie.
+              </p>
+              
+              <div class="bg-blue-50/50 p-6 rounded-2xl border-l-4 border-blue-200">
+                <p class="text-blue-800 font-medium italic">
+                  "Un intérieur qui te ressemble, ça n'a pas de prix... mais ça peut coûter trois fois rien !"
+                </p>
               </div>
+            </div>
+            
+            <div class="flex flex-wrap gap-4">
+              <div class="flex items-center text-blue-600">
+                <span class="mr-2">✅</span>
+                <span class="font-medium">DIY budget-friendly</span>
+              </div>
+              <div class="flex items-center text-purple-600">
+                <span class="mr-2">✅</span>
+                <span class="font-medium">Astuces de récup</span>
+              </div>
+              <div class="flex items-center text-pink-600">
+                <span class="mr-2">✅</span>
+                <span class="font-medium">Déco petit prix</span>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Stats visuelles -->
+          <div class="grid grid-cols-2 gap-6">
+            <div class="bg-blue-50/50 p-8 rounded-3xl text-center transform hover:-translate-y-2 transition-transform duration-300">
+              <div class="text-4xl mb-4">🏡</div>
+              <div class="text-3xl font-bold text-blue-600 mb-2">500+</div>
+              <p class="text-gray-600 font-medium">Projets inspirés</p>
+            </div>
+            <div class="bg-purple-50/50 p-8 rounded-3xl text-center transform hover:-translate-y-2 transition-transform duration-300">
+              <div class="text-4xl mb-4">✨</div>
+              <div class="text-3xl font-bold text-purple-600 mb-2">200€</div>
+              <p class="text-gray-600 font-medium">Budget moyen</p>
+            </div>
+            <div class="bg-pink-50/50 p-8 rounded-3xl text-center transform hover:-translate-y-2 transition-transform duration-300">
+              <div class="text-4xl mb-4">💕</div>
+              <div class="text-3xl font-bold text-pink-600 mb-2">10k+</div>
+              <p class="text-gray-600 font-medium">Lectrices inspirées</p>
+            </div>
+            <div class="bg-indigo-50/50 p-8 rounded-3xl text-center transform hover:-translate-y-2 transition-transform duration-300">
+              <div class="text-4xl mb-4">🌿</div>
+              <div class="text-3xl font-bold text-indigo-600 mb-2">100%</div>
+              <p class="text-gray-600 font-medium">Conseils testés</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Mes outils déco gratuits -->
+    <section class="py-20 bg-gradient-to-r from-purple-50/50 via-pink-50/50 to-orange-50/50">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-16">
+          <div class="inline-block mb-6">
+            <span class="inline-flex items-center px-6 py-3 bg-white/90 backdrop-blur-sm shadow-soft rounded-full border border-feminine">
+              <span class="mr-3 text-lg">🛠️</span> 
+              <span class="title-elegant text-sm">Nouveauté</span>
+            </span>
+          </div>
+          <h2 class="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
+            Mes outils déco <span style="color: #D4A574;">gratuits</span>
+          </h2>
+          <p class="text-lg text-gray-600 max-w-3xl mx-auto">
+            Calculateurs, simulateurs et générateurs pour réussir ta déco sans te tromper. 
+            Tous mes secrets de pro enfin accessibles !
+          </p>
+        </div>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+          <!-- Simulateur d'ambiances -->
+          <a href="/outils/simulateur-ambiances" class="group bg-white p-6 rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2">
+            <div class="w-16 h-16 bg-gradient-to-br from-pink-100 to-purple-100 rounded-2xl flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
+              <span class="text-3xl">🎨</span>
+            </div>
+            <h3 class="font-bold text-xl text-gray-800 mb-2 group-hover:text-purple-600 transition-colors">Simulateur d'Ambiances</h3>
+            <p class="text-gray-600 text-sm mb-4">Découvre ton style déco idéal avec mon quiz personnalisé</p>
+            <div class="flex items-center justify-between">
+              <span class="text-purple-600 font-medium text-xs bg-purple-50 px-3 py-1 rounded-full">
+                25K+ utilisatrices
+              </span>
+              <span class="text-gray-400 group-hover:text-purple-500 transition-colors">→</span>
+            </div>
+          </a>
+
+          <!-- Calculateur Budget -->
+          <a href="/outils/budget-renovation" class="group bg-white p-6 rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2">
+            <div class="w-16 h-16 bg-gradient-to-br from-green-100 to-blue-100 rounded-2xl flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
+              <span class="text-3xl">💰</span>
+            </div>
+            <h3 class="font-bold text-xl text-gray-800 mb-2 group-hover:text-blue-600 transition-colors">Calculateur Budget</h3>
+            <p class="text-gray-600 text-sm mb-4">Estime le coût de ta rénovation pièce par pièce</p>
+            <div class="flex items-center justify-between">
+              <span class="text-blue-600 font-medium text-xs bg-blue-50 px-3 py-1 rounded-full">
+                22K+ calculs
+              </span>
+              <span class="text-gray-400 group-hover:text-blue-500 transition-colors">→</span>
+            </div>
+          </a>
+
+          <!-- Générateur Palettes -->
+          <a href="/outils/palette-couleurs" class="group bg-white p-6 rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2">
+            <div class="w-16 h-16 bg-gradient-to-br from-yellow-100 to-orange-100 rounded-2xl flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
+              <span class="text-3xl">🌈</span>
+            </div>
+            <h3 class="font-bold text-xl text-gray-800 mb-2 group-hover:text-orange-600 transition-colors">Générateur Palettes</h3>
+            <p class="text-gray-600 text-sm mb-4">Crée des harmonies couleurs parfaites avec les codes</p>
+            <div class="flex items-center justify-between">
+              <span class="text-orange-600 font-medium text-xs bg-orange-50 px-3 py-1 rounded-full">
+                20K+ palettes
+              </span>
+              <span class="text-gray-400 group-hover:text-orange-500 transition-colors">→</span>
+            </div>
+          </a>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+          <!-- Calculateurs techniques -->
+          <a href="/outils/calculateur-peinture" class="group bg-white p-4 rounded-2xl shadow-md hover:shadow-lg transition-all duration-300 transform hover:-translate-y-1">
+            <div class="w-12 h-12 bg-red-50 rounded-xl flex items-center justify-center mb-3 group-hover:bg-red-100 transition-colors">
+              <span class="text-xl">🎨</span>
+            </div>
+            <h4 class="font-semibold text-gray-800 mb-1 text-sm">Peinture</h4>
+            <p class="text-gray-500 text-xs">Calcul précis litres</p>
+          </a>
+
+          <a href="/outils/calculateur-carrelage" class="group bg-white p-4 rounded-2xl shadow-md hover:shadow-lg transition-all duration-300 transform hover:-translate-y-1">
+            <div class="w-12 h-12 bg-gray-50 rounded-xl flex items-center justify-center mb-3 group-hover:bg-gray-100 transition-colors">
+              <span class="text-xl">⬛</span>
+            </div>
+            <h4 class="font-semibold text-gray-800 mb-1 text-sm">Carrelage</h4>
+            <p class="text-gray-500 text-xs">Nombre carreaux</p>
+          </a>
+
+          <a href="/outils/calculateur-eclairage" class="group bg-white p-4 rounded-2xl shadow-md hover:shadow-lg transition-all duration-300 transform hover:-translate-y-1">
+            <div class="w-12 h-12 bg-yellow-50 rounded-xl flex items-center justify-center mb-3 group-hover:bg-yellow-100 transition-colors">
+              <span class="text-xl">💡</span>
+            </div>
+            <h4 class="font-semibold text-gray-800 mb-1 text-sm">Éclairage</h4>
+            <p class="text-gray-500 text-xs">Lumens optimaux</p>
+          </a>
+
+          <a href="/outils/taille-tapis" class="group bg-white p-4 rounded-2xl shadow-md hover:shadow-lg transition-all duration-300 transform hover:-translate-y-1">
+            <div class="w-12 h-12 bg-indigo-50 rounded-xl flex items-center justify-center mb-3 group-hover:bg-indigo-100 transition-colors">
+              <span class="text-xl">🏠</span>
+            </div>
+            <h4 class="font-semibold text-gray-800 mb-1 text-sm">Tapis</h4>
+            <p class="text-gray-500 text-xs">Taille parfaite</p>
+          </a>
+        </div>
+
+        <!-- CTA vers tous les outils -->
+        <div class="text-center bg-white/60 backdrop-blur-sm rounded-3xl p-8 border border-white/50">
+          <h3 class="text-2xl font-bold text-gray-800 mb-3">+ 6 autres outils</h3>
+          <p class="text-gray-600 mb-6">DIY, rangement, agencement... Tous mes calculateurs et simulateurs gratuits</p>
+          <a href="/outils" class="btn-feminine shadow-soft-hover inline-flex items-center">
+            <span class="mr-3">🛠️</span>
+            Voir tous mes outils
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Mes derniers coups de cœur -->
+    <section class="py-20 bg-white">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-16">
+          <h2 class="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
+            Mes derniers <span class="text-pink-300">coups de cœur</span>
+          </h2>
+          <p class="text-lg text-gray-600">
+            Les trouvailles déco qui m'ont fait craquer récemment
+          </p>
+        </div>
+        
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <!-- Coup de cœur 1 -->
+          <div class="bg-blue-50/50 rounded-3xl p-8 relative overflow-hidden">
+            <div class="absolute top-4 right-4">
+              <span class="bg-blue-200 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">15€</span>
+            </div>
+            <div class="text-center">
+              <div class="text-6xl mb-4">🕯️</div>
+              <h3 class="text-xl font-bold text-gray-800 mb-3">Bougies Action</h3>
+              <p class="text-gray-600 mb-4">Des bougies parfumées qui sentent comme celles à 40€. Mon secret pour une ambiance cocooning à petit prix !</p>
+              <div class="flex items-center justify-center text-blue-600 font-medium">
+                <span class="mr-2">⭐</span>
+                <span>Mon favori du mois</span>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Coup de cœur 2 -->
+          <div class="bg-pink-50/50 rounded-3xl p-8 relative overflow-hidden">
+            <div class="absolute top-4 right-4">
+              <span class="bg-pink-200 text-pink-800 px-3 py-1 rounded-full text-xs font-medium">8€</span>
+            </div>
+            <div class="text-center">
+              <div class="text-6xl mb-4">🪴</div>
+              <h3 class="text-xl font-bold text-gray-800 mb-3">Cache-pots Ikea</h3>
+              <p class="text-gray-600 mb-4">Parfaits pour mes plantes ! Je les customise avec de la peinture dorée pour un look plus chic.</p>
+              <div class="flex items-center justify-center text-pink-600 font-medium">
+                <span class="mr-2">💡</span>
+                <span>DIY en préparation</span>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Coup de cœur 3 -->
+          <div class="bg-purple-50/50 rounded-3xl p-8 relative overflow-hidden">
+            <div class="absolute top-4 right-4">
+              <span class="bg-purple-200 text-purple-800 px-3 py-1 rounded-full text-xs font-medium">25€</span>
+            </div>
+            <div class="text-center">
+              <div class="text-6xl mb-4">🧺</div>
+              <h3 class="text-xl font-bold text-gray-800 mb-3">Paniers tressés</h3>
+              <p class="text-gray-600 mb-4">Parfaits pour ranger avec style ! J'en ai pris 3 tailles différentes pour toute la maison.</p>
+              <div class="flex items-center justify-center text-purple-600 font-medium">
+                <span class="mr-2">✨</span>
+                <span>Rapport qualité-prix top</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Mes astuces du moment -->
+    <section class="py-20">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="bg-blue-200 rounded-3xl p-8 md:p-16 text-blue-900 relative overflow-hidden">
+          <!-- Motifs décoratifs -->
+          <div class="absolute top-0 right-0 w-32 h-32 bg-white/10 rounded-full transform translate-x-8 -translate-y-8"></div>
+          <div class="absolute bottom-0 left-0 w-24 h-24 bg-white/10 rounded-full transform -translate-x-4 translate-y-4"></div>
+          
+          <div class="relative z-10 text-center max-w-3xl mx-auto">
+            <div class="mb-6">
+              <span class="inline-block px-4 py-2 bg-white/20 rounded-full font-medium text-sm backdrop-blur-sm">
+                💡 Mes astuces du moment
+              </span>
+            </div>
+            <h2 class="text-3xl md:text-4xl font-bold mb-6">
+              Transforme ton salon en cocon pour moins de 100€
+            </h2>
+            <p class="text-lg mb-8 opacity-90">
+              Découvre mes 5 astuces secrètes pour créer une ambiance cocooning sans te ruiner. 
+              Plaid doux, bougies parfumées et plantes vertes... le combo gagnant !
+            </p>
+            <a href="/guides/decoration/salon-cocooning" class="inline-flex items-center px-8 py-4 bg-white text-blue-700 font-semibold rounded-2xl hover:bg-blue-50 transition-all transform hover:scale-105 shadow-xl">
+              <span class="mr-2">🛋️</span>
+              Découvrir mes astuces
             </a>
-          ))}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Mes derniers articles -->
+    {false && (
+      <section class="py-20 bg-indigo-50/30">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="text-center mb-16">
+            <h2 class="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
+              Mes derniers <span class="text-indigo-400">conseils</span>
+            </h2>
+            <p class="text-lg text-gray-600">
+              Les dernières inspirations déco et astuces lifestyle tout frais sorties de mon carnet
+            </p>
+          </div>
+          
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {recentArticles.map((post, index) => (
+              <a
+                href={`/${post.id}`}
+                class="group cursor-pointer"
+              >
+                <article class="bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2">
+                  {post.data.image ? (
+                    <div class="aspect-[4/3] overflow-hidden">
+                      <img 
+                        src={post.data.image} 
+                        alt={post.data.title} 
+                        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" 
+                        loading="lazy" 
+                      />
+                    </div>
+                  ) : (
+                    <div class={`aspect-[4/3] ${
+                      index % 3 === 0 ? 'bg-sky-100' :
+                      index % 3 === 1 ? 'bg-indigo-100' : 
+                      'bg-rose-100'
+                    } flex items-center justify-center`}>
+                      <div class="text-center">
+                        <div class="text-4xl mb-2">
+                          {index % 3 === 0 ? '🏡' : index % 3 === 1 ? '✨' : '🌿'}
+                        </div>
+                        <p class="text-gray-600 font-medium">Article Cristallina</p>
+                      </div>
+                    </div>
+                  )}
+                  
+                  <div class="p-6">
+                    <div class="flex items-center gap-3 mb-3">
+                      <span class={`px-3 py-1 text-xs font-medium rounded-full ${
+                        index % 3 === 0 ? 'bg-sky-100 text-sky-700' :
+                        index % 3 === 1 ? 'bg-indigo-100 text-indigo-700' : 
+                        'bg-rose-100 text-rose-700'
+                      }`}>
+                        {post.data.category || 'Déco'}
+                      </span>
+                      {post.data.readingTime && (
+                        <span class="text-xs text-gray-500 flex items-center">
+                          <svg class="w-3 h-3 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                          </svg>
+                          {post.data.readingTime}
+                        </span>
+                      )}
+                    </div>
+                    
+                    <h3 class="font-bold text-xl text-gray-800 group-hover:text-sky-600 transition-colors mb-2 leading-tight">
+                      {post.data.title}
+                    </h3>
+                    <p class="text-gray-600 text-sm leading-relaxed line-clamp-2">
+                      {post.data.description}
+                    </p>
+                    
+                    <div class="mt-4 flex items-center text-sky-600 font-medium group-hover:text-sky-700 transition-colors">
+                      <span class="text-sm mr-2">Lire l'article</span>
+                      <svg class="w-4 h-4 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                      </svg>
+                    </div>
+                  </div>
+                </article>
+              </a>
+            ))}
+          </div>
         </div>
       </section>
     )}

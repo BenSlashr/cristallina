@@ -1,0 +1,374 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+
+const title = "Balcon Petit Espace : 18 Astuces pour un Aménagement Optimisé";
+const description = "Transformez votre petit balcon en oasis ! 18 astuces d'aménagement, mobilier compact et végétalisation pour optimiser chaque centimètre.";
+---
+
+<BaseLayout {title} {description} canonical="https://www.cristallina.fr/balcon-amenagement-petit-espace-optimise/">
+  <Navbar />
+  <main class="pt-16">
+    <!-- Hero Section -->
+    <section class="relative py-16 bg-gradient-to-br from-void via-abyss to-surface overflow-hidden">
+      <div class="absolute inset-0 bg-gradient-to-br from-primary/5 via-transparent to-secondary/5"></div>
+      <div class="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div class="animate-fade-in-up">
+          <h1 class="text-4xl md:text-5xl lg:text-6xl font-display font-bold text-text-primary mb-6 leading-tight">
+            Balcon Petit Espace : 18 Astuces 
+            <span class="text-gradient-primary">d'Aménagement Optimisé</span>
+          </h1>
+          <p class="text-lg md:text-xl text-text-secondary max-w-3xl mx-auto mb-8 leading-relaxed">
+            Transformez votre petit balcon en véritable oasis urbaine ! Découvrez 18 astuces expertes pour optimiser chaque centimètre avec style et fonctionnalité.
+          </p>
+          <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+            <div class="flex items-center gap-2 text-sm text-text-muted">
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clip-rule="evenodd" />
+              </svg>
+              14 min de lecture
+            </div>
+            <div class="flex items-center gap-2 text-sm text-text-muted">
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+              Guide pratique 2026
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Image principale -->
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 -mt-8">
+      <div class="relative rounded-2xl overflow-hidden shadow-soft animate-fade-in-up delay-200">
+        <img 
+          src="/images/unsplash-balcon-amenagement-petit-espace-1771180021.jpg" 
+          alt="Petit balcon aménagé avec mobilier compact, plantes verticales et éclairage cosy"
+          class="w-full h-64 md:h-96 object-cover"
+        />
+        <div class="absolute inset-0 bg-gradient-to-t from-void/20 to-transparent"></div>
+      </div>
+    </section>
+
+    <!-- Sommaire -->
+    <section class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div class="border-l-4 border-rose-300 pl-4 my-8 animate-fade-in-up delay-300">
+        <h2 class="font-display text-xl font-semibold text-text-primary mb-4">Sommaire</h2>
+        <nav class="space-y-2">
+          <a href="#mobilier-compact" class="block text-text-secondary hover:text-primary transition-colors duration-200">→ Mobilier multifonction et compact</a>
+          <a href="#vegetalisation-verticale" class="block text-text-secondary hover:text-primary transition-colors duration-200">→ Végétalisation verticale optimisée</a>
+          <a href="#rangements-intelligents" class="block text-text-secondary hover:text-primary transition-colors duration-200">→ Solutions de rangement ingénieuses</a>
+          <a href="#eclairage-ambiance" class="block text-text-secondary hover:text-primary transition-colors duration-200">→ Éclairage cosy et fonctionnel</a>
+          <a href="#intimite-protection" class="block text-text-secondary hover:text-primary transition-colors duration-200">→ Intimité et protection du regard</a>
+          <a href="#decoration-resistante" class="block text-text-secondary hover:text-primary transition-colors duration-200">→ Décoration résistante aux intempéries</a>
+        </nav>
+      </div>
+    </section>
+
+    <!-- Contenu principal -->
+    <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
+      <div class="prose-custom">
+        <p class="text-lg leading-relaxed">
+          Un petit balcon peut devenir un <strong>havre de paix urbain</strong> avec les bonnes astuces d'aménagement. Même sur 2 à 4 m², il est possible de créer un espace fonctionnel qui combine détente, jardinage et rangement. Découvrez 18 stratégies expertes pour maximiser chaque centimètre disponible.
+        </p>
+
+        <div class="markdown-alert markdown-alert-tip my-6">
+          <div class="markdown-alert-title">
+            <svg class="octicon octicon-light-bulb" viewBox="0 0 16 16" width="16" height="16">
+              <path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path>
+            </svg>
+            Principe d'Optimisation
+          </div>
+          <p>Pensez en 3D : exploitez la hauteur, utilisez chaque angle et superposez les fonctions pour créer plusieurs zones d'usage sur un espace réduit.</p>
+        </div>
+
+        <h2 id="mobilier-compact" class="scroll-mt-16">Mobilier multifonction et compact</h2>
+
+        <p>Le choix du mobilier détermine la réussite de votre aménagement. Sur un petit balcon, chaque meuble doit servir à plusieurs usages pour rentabiliser l'espace au maximum.</p>
+
+        <div class="my-8">
+          <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237768376.jpg" alt="Amenagement de balcon avec mobilier compact et plantes vertes" class="w-full rounded-lg shadow-sm" loading="lazy" />
+        </div>
+
+
+        <h3>1. Tables pliantes et escamotables</h3>
+
+        <p>Une <strong>table murale rabattable</strong> libère l'espace au sol quand elle n'est pas utilisée. Fixée sur la rambarde ou le mur, elle se déplie en quelques secondes pour les repas ou le travail en extérieur. Les modèles en teck ou en composite résistent parfaitement aux intempéries.</p>
+
+        <p>Les <strong>tables gigognes</strong> offrent une surface modulable : la petite table se glisse sous la grande pour gagner de la place. Choisissez des modèles avec plateaux en HPL (stratifié haute pression) pour une résistance optimale aux rayures et aux taches.</p>
+
+        <h3>2. Assises avec rangement intégré</h3>
+
+        <p>Les <strong>coffres-bancs</strong> cumulent trois fonctions : assise, rangement et table d'appoint. Optez pour des modèles avec coussins déhoussables et compartiment étanche pour protéger les accessoires de jardinage ou les coussins supplémentaires.</p>
+
+        <p>Les <strong>poufs cubes empilables</strong> se rangent les uns dans les autres hors saison. Leur forme cubique permet de les utiliser comme table basse en ajoutant un plateau amovible.</p>
+
+        <div class="markdown-alert markdown-alert-note my-6">
+          <div class="markdown-alert-title">
+            <svg class="octicon octicon-info" viewBox="0 0 16 16" width="16" height="16">
+              <path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path>
+            </svg>
+            Bon à Savoir
+          </div>
+          <p>Vérifiez la charge maximale supportée par votre balcon auprès de votre syndic. Un balcon standard supporte généralement 350 kg/m², mobilier et personnes compris.</p>
+        </div>
+
+        <h3>3. Chaises empilables haute résistance</h3>
+
+        <p>Les <strong>chaises en polypropylène armé</strong> combinent légèreté et solidité. Empilables par 6 ou 8, elles libèrent l'espace en hiver. Les modèles avec accoudoirs intégrés offrent plus de confort pour les longues soirées.</p>
+
+        <p>Pour une ambiance plus chaleureuse, les <strong>chaises en eucalyptus</strong> apportent la beauté du bois avec un entretien minimal. Ce bois australien possède une résistance naturelle comparable au teck.</p>
+
+        <h2 id="vegetalisation-verticale" class="scroll-mt-16">Végétalisation verticale optimisée</h2>
+
+        <p>La végétalisation verticale transforme les murs aveugles en jardins luxuriants sans empiéter sur l'espace au sol. Elle apporte fraîcheur, couleur et intimité à votre petit balcon.</p>
+
+        <div class="my-8">
+          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237198931.jpg" alt="Petit balcon decore avec des elements scandinaves" class="w-full rounded-lg shadow-sm" loading="lazy" />
+        </div>
+
+
+        <h3>4. Systèmes de treillis modulaires</h3>
+
+        <p>Un <strong>treillis extensible en bambou</strong> se fixe facilement au mur et s'adapte à différentes hauteurs. Il supporte le poids des plantes grimpantes comme la passiflore, le jasmin étoilé ou la vigne vierge qui créent un mur végétal naturel.</p>
+
+        <p>Les <strong>panneaux treillage PVC</strong> résistent mieux aux intempéries et se nettoient d'un simple coup d'éponge. Leur structure alvéolée permet une fixation aisée des tuteurs et attaches pour guider la croissance des plantes.</p>
+
+        <h3>5. Jardins verticaux en modules</h3>
+
+        <p>Les <strong>bacs à réserve d'eau superposables</strong> créent un mur végétal autonome. Le système d'arrosage intégré réduit la fréquence d'entretien, idéal pour les absences ou les périodes de canicule.</p>
+
+        <p>Les <strong>poches de culture en feutre</strong> se fixent directement sur un support vertical. Légères et perméables, elles accueillent herbes aromatiques, fraisiers ou petites fleurs annuelles. Comptez 4 à 6 poches par m² pour un effet dense.</p>
+
+        <div class="mermaid-diagram my-8">
+          <pre class="mermaid">
+            graph TD
+              A[Mur aveugle] --> B[Treillis extensible]
+              A --> C[Panneaux modulaires]
+              B --> D[Plantes grimpantes]
+              C --> E[Bacs superposables]
+              C --> F[Poches textile]
+              E --> G[Légumes/Aromatiques]
+              F --> H[Fleurs/Cascades]
+              D --> I[Intimité + Fraîcheur]
+              G --> I
+              H --> I
+              
+              style A fill:#141D30,stroke:#F59E0B,color:#F1F5F9
+              style I fill:#141D30,stroke:#8B5CF6,color:#F1F5F9
+              style B fill:#141D30,stroke:#8B5CF6,color:#F1F5F9
+              style C fill:#141D30,stroke:#8B5CF6,color:#F1F5F9
+          </pre>
+        </div>
+
+        <h3>6. Suspensions et cache-pots aériens</h3>
+
+        <p>Les <strong>suspensions macramé</strong> ajoutent une dimension décorative tout en libérant l'espace au sol. Elles mettent en valeur les plantes retombantes comme les pothos, chlorophytums ou pétunias cascades.</p>
+
+        <p>Un <strong>système de poulies réglables</strong> permet de moduler la hauteur des suspensions selon les besoins d'entretien. Très pratique pour l'arrosage ou le rempotage sans décrocher les plantes.</p>
+
+        <h2 id="rangements-intelligents" class="scroll-mt-16">Solutions de rangement ingénieuses</h2>
+
+        <p>L'optimisation du rangement fait la différence entre un balcon encombré et un espace fonctionnel. Chaque recoin peut devenir une zone de stockage discrète.</p>
+
+        <div class="my-8">
+          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237095436.jpg" alt="Balcon optimise avec rangements et vegetalisation verticale" class="w-full rounded-lg shadow-sm" loading="lazy" />
+        </div>
+
+
+        <h3>7. Étagères d'angle sur roulettes</h3>
+
+        <p>Une <strong>étagère d'angle mobile</strong> exploite les coins souvent délaissés. Sur roulettes, elle se déplace facilement pour le nettoyage ou la réorganisation. Ses étagères accueillent pots, outils de jardinage et accessoires déco.</p>
+
+        <p>Les <strong>étagères télescopiques</strong> s'ajustent à la hauteur sous plafond. Elles créent un rangement vertical sans perçage, parfait pour les locataires ou les structures fragiles.</p>
+
+        <h3>8. Coffres de rangement étanches</h3>
+
+        <p>Un <strong>coffre en résine tressée</strong> protège efficacement les coussins, produits d'entretien et outils. Sa surface plane sert de table d'appoint ou de banc supplémentaire lors des réceptions.</p>
+
+        <p>Les <strong>bacs de rangement empilables</strong> se glissent sous les bancs ou dans les angles. Transparents, ils permettent d'identifier rapidement leur contenu sans les ouvrir.</p>
+
+        <div class="markdown-alert markdown-alert-tip my-6">
+          <div class="markdown-alert-title">
+            <svg class="octicon octicon-light-bulb" viewBox="0 0 16 16" width="16" height="16">
+              <path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path>
+            </svg>
+            Astuce Rangement
+          </div>
+          <p>Utilisez l'espace sous les jardinières : glissez des bacs de rangement plats pour stocker les soucoupe, terreau et petits outils à l'abri des regards.</p>
+        </div>
+
+        <h3>9. Crochets et barres murales multifonctions</h3>
+
+        <p>Une <strong>barre de crédence</strong> fixée au mur supporte ustensiles de jardinage, arrosoirs et paniers. Les crochets amovibles s'adaptent à vos besoins changeants au fil des saisons.</p>
+
+        <p>Les <strong>panneaux perforés</strong> créent un mur de rangement personnalisable. Crochets, étagères et porte-outils se repositionnent en quelques secondes selon vos activités du moment.</p>
+
+        <h2 id="eclairage-ambiance" class="scroll-mt-16">Éclairage cosy et fonctionnel</h2>
+
+        <p>Un bon éclairage prolonge l'usage de votre balcon en soirée tout en créant une ambiance chaleureuse. Pensez à multiplier les sources lumineuses pour un rendu harmonieux.</p>
+
+        <div class="my-8">
+          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237193167.jpg" alt="Decoration de balcon minimaliste et fonctionnelle" class="w-full rounded-lg shadow-sm" loading="lazy" />
+        </div>
+
+
+        <h3>10. Guirlandes LED solaires</h3>
+
+        <p>Les <strong>guirlandes LED à énergie solaire</strong> s'installent sans raccordement électrique. Enroulées autour des rambardes ou suspendues en festons, elles créent une ambiance féérique dès la tombée de la nuit.</p>
+
+        <p>Les modèles avec <strong>capteur crépusculaire</strong> s'allument automatiquement à la nuit tombée. Certaines guirlandes proposent plusieurs modes : fixe, clignotant ou variation d'intensité pour s'adapter à l'ambiance souhaitée.</p>
+
+        <h3>11. Lanternes et bornes autonomes</h3>
+
+        <p>Les <strong>lanternes solaires en rotin synthétique</strong> diffusent une lumière douce et tamisée. Posées au sol ou suspendues, elles structurent l'espace en créant des îlots lumineux.</p>
+
+        <p>Une <strong>borne LED rechargeable</strong> offre un éclairage d'appoint mobile. Transportable à l'intérieur pour la recharge, elle éclaire efficacement les soirées lecture ou les dîners improvisés.</p>
+
+        <div class="mermaid-diagram my-8">
+          <pre class="mermaid">
+            graph LR
+              A[Éclairage Balcon] --> B[Sources Hautes]
+              A --> C[Sources Basses]
+              A --> D[Sources Mobiles]
+              B --> E[Guirlandes suspendues]
+              B --> F[Appliques murales]
+              C --> G[Bornes au sol]
+              C --> H[Éclairage plantes]
+              D --> I[Lanternes portables]
+              D --> J[Bougies LED]
+              
+              style A fill:#141D30,stroke:#F59E0B,color:#F1F5F9
+              style B fill:#141D30,stroke:#8B5CF6,color:#F1F5F9
+              style C fill:#141D30,stroke:#8B5CF6,color:#F1F5F9
+              style D fill:#141D30,stroke:#8B5CF6,color:#F1F5F9
+          </pre>
+        </div>
+
+        <h3>12. Projecteurs LED encastrés</h3>
+
+        <p>Des <strong>spots LED encastrés dans les jardinières</strong> créent un éclairage par le bas qui met en valeur les végétaux. Cette technique d'<em>uplighting</em> sculpte les formes et projette des ombres décoratives sur les murs.</p>
+
+        <p>Les <strong>réglettes LED sous les étagères</strong> éclairent fonctionnellement les plantes sans éblouir. Connectées à un variateur, elles s'adaptent aux besoins : éclairage fort pour l'entretien, ambiance tamisée pour la détente.</p>
+
+        <h2 id="intimite-protection" class="scroll-mt-16">Intimité et protection du regard</h2>
+
+        <p>Créer de l'intimité sur un balcon exposé aux regards nécessite des solutions esthétiques qui ne bloquent pas complètement la lumière naturelle.</p>
+
+        <div class="my-8">
+          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238008500.jpg" alt="Balcon cosy avec eclairage tamisé et plantes suspendues" class="w-full rounded-lg shadow-sm" loading="lazy" />
+        </div>
+
+
+        <h3>13. Claustras et panneaux ajourés</h3>
+
+        <p>Un <strong>claustra en bois composite</strong> filtre les regards tout en laissant passer l'air et la lumière. Sa structure géométrique ajoute un élément graphique moderne à votre aménagement.</p>
+
+        <p>Les <strong>panneaux en bambou naturel</strong> apportent une ambiance zen et exotique. Leur trame serrée protège efficacement de la vue des voisins sans créer d'effet de confinement.</p>
+
+        <h3>14. Voilages et stores extérieurs</h3>
+
+        <p>Un <strong>store vertical enroulable</strong> se déploie selon les besoins. En tissu technique déperlant, il résiste au vent et aux intempéries. Ses couleurs claires réfléchissent la chaleur en été.</p>
+
+        <p>Les <strong>rideaux en cordage marine</strong> créent une séparation souple et décorative. Leur tissage lâche laisse passer la brise tout en masquant partiellement la vue depuis l'extérieur.</p>
+
+        <div class="markdown-alert markdown-alert-caution my-6">
+          <div class="markdown-alert-title">
+            <svg class="octicon octicon-alert" viewBox="0 0 16 16" width="16" height="16">
+              <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+            </svg>
+            Réglementation
+          </div>
+          <p>Vérifiez le règlement de copropriété avant d'installer des protections visuelles. Certains syndics imposent des couleurs ou matériaux spécifiques pour préserver l'harmonie architecturale.</p>
+        </div>
+
+        <h3>15. Végétalisation écran</h3>
+
+        <p>Un <strong>mur de bambous en bacs</strong> crée rapidement une haie naturelle. Choisissez des variétés non traçantes comme le bambou Fargesia pour éviter les débordements chez les voisins.</p>
+
+        <p>Les <strong>graminées ornementales</strong> en jardinières hautes forment un rideau végétal mobile. Miscanthus, pennisetum ou carex apportent mouvement et légèreté avec leur feuillage ondulant au vent.</p>
+
+        <h2 id="decoration-resistante" class="scroll-mt-16">Décoration résistante aux intempéries</h2>
+
+        <p>Les éléments décoratifs subissent les agressions climatiques plus intensément qu'en intérieur. Privilégiez des matériaux adaptés à l'usage extérieur pour conserver un bel aspect dans le temps.</p>
+
+        <h3>16. Textiles outdoor haute performance</h3>
+
+        <p>Les <strong>coussins en tissu Sunbrella</strong> conservent leurs couleurs malgré les UV intensifs. Ce textile acrylique solution-teintée résiste aussi aux taches et à l'humidité sans développer de moisissures.</p>
+
+        <p>Un <strong>tapis d'extérieur en polypropylène</strong> délimite l'espace salon et apporte chaleur et confort. Perméable à l'eau, il sèche rapidement après une averse et se nettoie au jet sans détériorer les fibres.</p>
+
+        <h3>17. Objets déco anti-corrosion</h3>
+
+        <p>Les <strong>sculptures en acier corten</strong> développent une patine rouille stable qui les protège naturellement de la corrosion. Cette esthétique industrielle s'harmonise parfaitement avec les aménagements contemporains.</p>
+
+        <p>Les <strong>miroirs en inox poli</strong> résistent parfaitement aux embruns et à l'humidité. Positionnés stratégiquement, ils agrandissent visuellement l'espace en reflétant la végétalisation et le ciel.</p>
+
+        <div class="markdown-alert markdown-alert-important my-6">
+          <div class="markdown-alert-title">
+            <svg class="octicon octicon-report" viewBox="0 0 16 16" width="16" height="16">
+              <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0 1 14.25 13H8.06l-2.573 2.573A1.458 1.458 0 0 1 3 14.543V13H1.75A1.75 1.75 0 0 1 0 11.25Zm1.75-.25a.25.25 0 0 0-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25Zm7 2.25v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 9a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+            </svg>
+            Point Clé
+          </div>
+          <p>Investissez dans des matériaux de qualité pour les éléments fixes : ils déterminent la durabilité et l'esthétique générale de votre aménagement sur le long terme.</p>
+        </div>
+
+        <h3>18. Plantes résistantes et décoratives</h3>
+
+        <p>Les <strong>succulentes</strong> allient beauté et facilité d'entretien. Sedums, echeverias et crassulas supportent sécheresse et exposition directe. Leurs formes graphiques créent des compositions sculpturales originales.</p>
+
+        <p>Les <strong>graminées persistantes</strong> structurent l'espace toute l'année. Festuca glauca, carex ou ophiopogon gardent leur feuillage en hiver et nécessitent un arrosage minimal une fois installées.</p>
+
+        <div class="mermaid-diagram my-8">
+          <pre class="mermaid">
+            graph TD
+              A[Balcon Optimisé] --> B[Zone Détente]
+              A --> C[Zone Verte]  
+              A --> D[Zone Fonctionnelle]
+              B --> E[Mobilier compact]
+              B --> F[Éclairage ambiance]
+              C --> G[Vertical garden]
+              C --> H[Plantes résistantes]
+              D --> I[Rangements cachés]
+              D --> J[Multi-fonctions]
+              E --> K[2-4m² optimisés]
+              F --> K
+              G --> K
+              H --> K
+              I --> K
+              J --> K
+              
+              style A fill:#141D30,stroke:#F59E0B,color:#F1F5F9
+              style K fill:#141D30,stroke:#8B5CF6,color:#F1F5F9
+              style B fill:#141D30,stroke:#8B5CF6,color:#F1F5F9
+              style C fill:#141D30,stroke:#8B5CF6,color:#F1F5F9
+              style D fill:#141D30,stroke:#8B5CF6,color:#F1F5F9
+          </pre>
+        </div>
+
+        <h2>Récapitulatif des 18 astuces d'optimisation</h2>
+
+        <p>Votre petit balcon peut ainsi combiner <strong>fonctionnalité maximale et esthétique soignée</strong> en appliquant ces stratégies d'aménagement. L'organisation en zones dédiées - détente, végétale et fonctionnelle - permet de profiter pleinement de chaque mètre carré disponible.</p>
+
+        <p>Les <strong>solutions multifonctions</strong> restent la clé du succès : mobilier avec rangement intégré, végétalisation qui fait écran, éclairage décoratif et fonctionnel. Cette approche globale transforme votre balcon en véritable extension de vie, utilisable toute l'année.</p>
+
+        <p>L'investissement dans des <strong>matériaux durables</strong> se rentabilise rapidement : moins d'entretien, meilleure résistance aux intempéries et conservation de l'aspect esthétique sur plusieurs années. Votre oasis urbaine gardera ainsi son charme au fil des saisons.</p>
+
+        <div class="markdown-alert markdown-alert-tip my-6">
+          <div class="markdown-alert-title">
+            <svg class="octicon octicon-light-bulb" viewBox="0 0 16 16" width="16" height="16">
+              <path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path>
+            </svg>
+            Dernier Conseil
+          </div>
+          <p>Aménagez progressivement en commençant par les éléments structurants (mobilier, végétalisation). Ajoutez ensuite les détails décoratifs pour personnaliser votre espace selon vos goûts et votre budget.</p>
+        </div>
+      </div>
+    </article>
+  </main>
+  <Footer />
+</BaseLayout>

@@ -1,0 +1,468 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+
+const title = "Salon Cocooning Hiver : 15 Astuces pour une Ambiance Ultra-Cosy";
+const description = "Créez votre cocon hivernal ! 15 astuces déco pour un salon ultra-cosy : textiles douillets, éclairage tamisé et couleurs chaudes.";
+---
+
+<BaseLayout title={title} description={description}>
+  <Navbar />
+  
+  <main class="flex-1 bg-slate-900 min-h-screen">
+    <!-- Hero Section -->
+    <section class="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-slate-800 to-slate-900">
+      <div class="max-w-4xl mx-auto text-center">
+        <h1 class="text-4xl md:text-5xl font-bold text-slate-100 mb-6 leading-tight">
+          Salon Cocooning Hiver : 15 Astuces pour une Ambiance Ultra-Cosy
+        </h1>
+        <p class="text-xl text-slate-300 mb-8 leading-relaxed">
+          Transformez votre salon en véritable cocon hivernal avec nos conseils d'expert pour créer une atmosphère chaleureuse et réconfortante
+        </p>
+        <div class="flex flex-wrap justify-center gap-4 text-sm text-slate-400">
+          <span class="bg-slate-800 px-3 py-1 rounded-full">Décoration intérieure</span>
+          <span class="bg-slate-800 px-3 py-1 rounded-full">Ambiance cosy</span>
+          <span class="bg-slate-800 px-3 py-1 rounded-full">Hiver 2024</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Article Content -->
+    <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <!-- Featured Image -->
+      <div class="mb-12 rounded-xl overflow-hidden shadow-2xl">
+        <img 
+          src="/images/unsplash-salon-cocooning-hiver-ambiance-cosy-placeholder.jpg" 
+          alt="Salon cocooning d'hiver avec ambiance chaleureuse et cosy"
+          class="w-full h-64 md:h-96 object-cover"
+        />
+      </div>
+
+      <!-- Introduction -->
+      <div class="prose prose-invert prose-lg max-w-none mb-16">
+        <p class="text-xl text-slate-300 leading-relaxed mb-8">
+          L'hiver arrive et avec lui, cette envie irrésistible de se créer un petit nid douillet à la maison. Votre salon devient alors le cœur de votre cocon, l'endroit où vous passerez vos soirées à lire, regarder des films ou simplement vous détendre après une journée froide.
+        </p>
+        
+        <p class="text-slate-300 leading-relaxed mb-8">
+          Créer une ambiance ultra-cosy dans son salon ne nécessite pas forcément un budget conséquent ou une rénovation complète. Quelques astuces bien pensées suffisent à transformer radicalement l'atmosphère de votre pièce principale. Entre le choix des textiles, l'art de l'éclairage et les petits détails qui font toute la différence, découvrez comment métamorphoser votre salon en véritable refuge hivernal.
+        </p>
+
+        <div class="bg-amber-500/10 border-l-4 border-amber-500 p-6 my-8 rounded-r-lg">
+          <h3 class="text-amber-400 font-semibold mb-2">💡 Conseil d'expert</h3>
+          <p class="text-slate-300 mb-0">
+            L'ambiance cocooning repose sur trois piliers : le confort tactile, la lumière douce et la sensation de sécurité. Chaque élément ajouté doit répondre à au moins un de ces critères.
+          </p>
+        </div>
+      </div>
+
+      <!-- Section 1: Textiles et matières douillettes -->
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-100 mb-8 border-b border-slate-700 pb-4">
+          1. Textiles et matières : La base du confort
+        </h2>
+        
+        <div class="space-y-8">
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Multipliez les plaids et coussins</h3>
+            <p class="text-slate-300 leading-relaxed mb-4">
+              Le secret d'un salon ultra-cosy réside dans l'accumulation intelligente de textiles moelleux. Disposez plusieurs plaids de textures différentes sur votre canapé : laine bouclée, cachemire, fausse fourrure ou mohair. Cette superposition créée une invitation permanente à la détente.
+            </p>
+
+        <div class="my-8">
+          <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771228635722.jpg" alt="Salon cocooning hivernal avec plaids et coussins moelleux" class="w-full rounded-lg shadow-sm" loading="lazy" />
+        </div>
+
+            <p class="text-slate-300 leading-relaxed">
+              Pour les coussins, misez sur la règle du "nombre impair" : 3, 5 ou 7 coussins de tailles et formes variées créent un effet plus naturel et accueillant qu'un arrangement symétrique.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Choisissez un tapis épais et moelleux</h3>
+            <p class="text-slate-300 leading-relaxed mb-4">
+              Un tapis épais sous la table basse transforme immédiatement l'atmosphère du salon. Optez pour des matières naturelles comme la laine ou des fibres synthétiques ultra-douces. La sensation sous les pieds nus participe grandement au sentiment de bien-être.
+            </p>
+            <p class="text-slate-300 leading-relaxed">
+              Côté dimensions, le tapis doit être suffisamment grand pour que les pieds avant de tous vos meubles (canapé, fauteuils) reposent dessus, créant ainsi une zone cohérente et unifiée.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Intégrez des rideaux épais</h3>
+            <p class="text-slate-300 leading-relaxed">
+              Les rideaux épais ne servent pas seulement à isoler du froid, ils créent aussi une sensation d'intimité et de protection. Choisissez des tissus lourds comme le velours ou la laine, dans des tons chauds qui s'harmonisent avec votre palette couleur générale.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section 2: Éclairage tamisé -->
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-100 mb-8 border-b border-slate-700 pb-4">
+          2. L'art de l'éclairage tamisé
+        </h2>
+        
+        <div class="space-y-8">
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Bannissez l'éclairage central</h3>
+            <p class="text-slate-300 leading-relaxed mb-4">
+              L'ennemi numéro un de l'ambiance cosy ? Le plafonnier central qui diffuse une lumière crue et uniforme. Préférez multiplier les sources de lumière indirecte : lampes de table, lampadaires avec abat-jour, appliques murales.
+            </p>
+
+        <div class="my-8">
+          <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231414252.jpg" alt="Ambiance hygge dans un salon aux tons chauds" class="w-full rounded-lg shadow-sm" loading="lazy" />
+        </div>
+
+            <p class="text-slate-300 leading-relaxed">
+              Cette multiplication des sources créée des zones d'ombre et de lumière qui donnent du relief à votre salon et invitent naturellement à la détente.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Adoptez les bougies sans modération</h3>
+            <p class="text-slate-300 leading-relaxed mb-4">
+              Rien ne vaut la lumière tremblotante des bougies pour créer une atmosphère magique. Disposez des bougies de différentes tailles sur votre table basse, vos étagères, votre cheminée. Les bougies parfumées ajoutent une dimension olfactive à votre cocon.
+            </p>
+            <p class="text-slate-300 leading-relaxed">
+              Pour la sécurité, pensez aux bougies LED flamme vacillante : l'effet visuel est saisissant sans les risques d'une vraie flamme.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Installez des guirlandes lumineuses</h3>
+            <p class="text-slate-300 leading-relaxed">
+              Les guirlandes lumineuses ne sont pas réservées à Noël ! Choisissez des modèles à LED blanc chaud et disposez-les subtilement : derrière un miroir, le long d'une étagère, autour d'un cadre. Cette lumière ponctuelle créée une atmosphère féerique toute l'année.
+            </p>
+          </div>
+        </div>
+
+        <div class="bg-purple-500/10 border-l-4 border-purple-500 p-6 my-8 rounded-r-lg">
+          <h3 class="text-purple-400 font-semibold mb-2">🔧 Astuce pratique</h3>
+          <p class="text-slate-300 mb-0">
+            Utilisez des ampoules à intensité variable (dimmables) et des interrupteurs variateurs. Vous pourrez ainsi adapter l'intensité lumineuse selon vos activités et l'heure de la journée.
+          </p>
+        </div>
+      </section>
+
+      <!-- Section 3: Couleurs chaudes -->
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-100 mb-8 border-b border-slate-700 pb-4">
+          3. Une palette de couleurs réchauffantes
+        </h2>
+        
+        <div class="space-y-8">
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Misez sur les tons terreux</h3>
+            <p class="text-slate-300 leading-relaxed mb-4">
+              Les couleurs chaudes sont vos meilleures alliées pour créer une ambiance cosy. Terracotta, ocre, brun caramel, beige rosé... Ces teintes évoquent naturellement la chaleur et le réconfort. Intégrez-les par touches : coussins, plaids, vases, cadres.
+            </p>
+
+        <div class="my-8">
+          <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231402218.jpg" alt="Salon cosy avec tapis epais et eclairage tamisé" class="w-full rounded-lg shadow-sm" loading="lazy" />
+        </div>
+
+            <p class="text-slate-300 leading-relaxed">
+              Si vos murs sont clairs, n'hésitez pas à peindre un pan de mur dans une teinte plus soutenue pour créer un point focal chaleureux.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Intégrez des touches de bordeaux et d'orange</h3>
+            <p class="text-slate-300 leading-relaxed mb-4">
+              Le bordeaux et les oranges brûlés apportent une sophistication immédiate à votre salon d'hiver. Ces couleurs profondes s'associent parfaitement aux matières naturelles comme le bois et le cuir.
+            </p>
+            <p class="text-slate-300 leading-relaxed">
+              Attention à ne pas surcharger : quelques accessoires dans ces teintes suffisent à réchauffer l'ensemble de votre décoration.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Équilibrez avec des neutres chaleureux</h3>
+            <p class="text-slate-300 leading-relaxed">
+              Pour éviter l'effet "trop chargé", équilibrez vos couleurs chaudes avec des neutres : blanc cassé, beige, gris taupe. Ces teintes servent de base apaisante et mettent en valeur vos accents colorés.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section 4: Mobilier confortable -->
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-100 mb-8 border-b border-slate-700 pb-4">
+          4. Mobilier et aménagement du confort
+        </h2>
+        
+        <div class="space-y-8">
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Créez des coins lecture</h3>
+            <p class="text-slate-300 leading-relaxed mb-4">
+              Un fauteuil confortable dans un angle avec une lampe de lecture et une petite table pour poser sa tasse : voilà la recette du parfait coin cosy. Choisissez un fauteuil aux lignes enveloppantes, type bergère ou fauteuil œuf.
+            </p>
+
+        <div class="my-8">
+          <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231404377.jpg" alt="Coin lecture douillet avec fauteuil et couverture" class="w-full rounded-lg shadow-sm" loading="lazy" />
+        </div>
+
+            <p class="text-slate-300 leading-relaxed">
+              Ajoutez un repose-pieds et un plaid à portée de main pour créer un véritable nid douillet dédié à la détente.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Réorganisez votre canapé</h3>
+            <p class="text-slate-300 leading-relaxed mb-4">
+              Positionnez votre canapé de façon à créer une conversation intime. Si votre salon le permet, préférez une disposition en "U" ou en "L" plutôt qu'un alignement contre le mur.
+            </p>
+            <p class="text-slate-300 leading-relaxed">
+              Cette configuration favorise les échanges et créée une sensation d'intimité, renforcée par l'ajout d'une table basse au centre pour poser boissons chaudes et en-cas.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Ajoutez des poufs et ottomans</h3>
+            <p class="text-slate-300 leading-relaxed">
+              Les assises basses et décontractées invitent à adopter des positions relaxantes. Un gros pouf en fausse fourrure ou un ottoman vintage apportent cette décontraction nécessaire à l'ambiance cocooning.
+            </p>
+          </div>
+        </div>
+
+        <div class="bg-blue-500/10 border-l-4 border-blue-500 p-6 my-8 rounded-r-lg">
+          <h3 class="text-blue-400 font-semibold mb-2">📏 Astuce aménagement</h3>
+          <p class="text-slate-300 mb-0">
+            Respectez la règle des "60 cm" : laissez au moins 60 cm entre votre canapé et la table basse pour pouvoir circuler confortablement tout en gardant tout à portée de main.
+          </p>
+        </div>
+      </section>
+
+      <!-- Section 5: Plantes et éléments naturels -->
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-100 mb-8 border-b border-slate-700 pb-4">
+          5. La nature invite chez vous
+        </h2>
+        
+        <div class="space-y-8">
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Sélectionnez des plantes d'hiver</h3>
+            <p class="text-slate-300 leading-relaxed mb-4">
+              Certaines plantes s'épanouissent particulièrement bien en hiver et apportent cette touche de vie indispensable au cocon. Le ficus, le monstera, l'anthurium ou encore les plantes grasses créent des îlots de verdure réconfortants.
+            </p>
+
+        <div class="my-8">
+          <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231944944.jpg" alt="Decoration salon naturel chic avec materiaux bruts" class="w-full rounded-lg shadow-sm" loading="lazy" />
+        </div>
+
+            <p class="text-slate-300 leading-relaxed">
+              Disposez-les à différentes hauteurs : grandes plantes au sol, moyennes sur des supports, petites sur les étagères pour créer un effet de jungle urbaine.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Intégrez des matières naturelles</h3>
+            <p class="text-slate-300 leading-relaxed mb-4">
+              Le bois brut, l'osier, le rotin, la pierre... Ces matières naturelles réchauffent instantanément l'atmosphère. Un plateau en bois sur la table basse, des paniers en osier pour ranger les plaids, une sculpture en bois flotté sur l'étagère.
+            </p>
+            <p class="text-slate-300 leading-relaxed">
+              Ces éléments créent une connexion avec la nature même quand il fait froid dehors et participent à cette sensation de refuge naturel.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Créez des compositions hivernales</h3>
+            <p class="text-slate-300 leading-relaxed">
+              Branches de sapin, pommes de pin, bois flotté, galets... Composez des arrangements naturels qui évoquent les promenades hivernales. Ces éléments gratuits ramassés lors de vos sorties apportent une authenticité particulière à votre décoration.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section 6: Accessoires réconfortants -->
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-100 mb-8 border-b border-slate-700 pb-4">
+          6. Les petits détails qui font la différence
+        </h2>
+        
+        <div class="space-y-8">
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Installez un diffuseur d'huiles essentielles</h3>
+            <p class="text-slate-300 leading-relaxed mb-4">
+              L'odorat joue un rôle important dans la création d'une ambiance. Un diffuseur avec des huiles essentielles de sapin, cannelle, orange douce ou lavande transforme votre salon en véritable cocon sensoriel.
+            </p>
+            <p class="text-slate-300 leading-relaxed">
+              Alternez les parfums selon vos humeurs : énergisants le matin, relaxants le soir.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Créez une bibliothèque accessible</h3>
+            <p class="text-slate-300 leading-relaxed mb-4">
+              Rien n'évoque plus le cocooning qu'une belle bibliothèque à portée de main. Organisez vos livres par couleur ou par thème, ajoutez quelques objets décoratifs entre les volumes.
+            </p>
+            <p class="text-slate-300 leading-relaxed">
+              Si vous manquez d'espace, une petite étagère flottante avec vos lectures du moment suffit à créer cette invitation à la détente.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Préparez un coin thé/café</h3>
+            <p class="text-slate-300 leading-relaxed mb-4">
+              Un plateau avec théière, tasses et quelques gourmandises toujours prêt sur la table basse ou sur une console. Cette mise en scène invite aux pauses réconfortantes et renforce l'aspect "nid douillet" de votre salon.
+            </p>
+            <p class="text-slate-300 leading-relaxed">
+              Variez les plaisirs : thés parfumés, chocolats chauds, biscuits faits maison... Ces petits rituels participent grandement à l'ambiance cosy.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="text-2xl font-semibold text-amber-400 mb-4">Ajoutez des objets à histoire</h3>
+            <p class="text-slate-300 leading-relaxed">
+              Photos de famille, souvenirs de voyage, objets chinés, créations personnelles... Ces éléments personnels racontent votre histoire et rendent votre salon unique. Ils créent cette sensation de "chez-soi" indispensable au véritable cocooning.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Conseils finaux -->
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-100 mb-8 border-b border-slate-700 pb-4">
+          Conseils pour maintenir l'ambiance cosy
+        </h2>
+        
+        <div class="space-y-6">
+          <div class="bg-slate-800 p-6 rounded-lg">
+            <h3 class="text-xl font-semibold text-amber-400 mb-3">Adaptez selon la météo</h3>
+            <p class="text-slate-300">
+              Les jours de pluie, ajoutez une bougie supplémentaire et sortez le plaid le plus doux. Quand le soleil perce, ouvrez grands les rideaux pour faire entrer cette lumière naturelle précieuse en hiver.
+            </p>
+          </div>
+          
+          <div class="bg-slate-800 p-6 rounded-lg">
+            <h3 class="text-xl font-semibold text-amber-400 mb-3">Renouvelez régulièrement</h3>
+            <p class="text-slate-300">
+              Changez la disposition des coussins, alternez les plaids, modifiez l'arrangement des bougies. Ces petits changements maintiennent la fraîcheur de votre décoration sans effort ni budget.
+            </p>
+          </div>
+          
+          <div class="bg-slate-800 p-6 rounded-lg">
+            <h3 class="text-xl font-semibold text-amber-400 mb-3">Pensez fonctionnel</h3>
+            <p class="text-slate-300">
+              Chaque élément décoratif doit aussi être fonctionnel. Un beau panier peut ranger les télécommandes, une jolie boîte accueillir les câbles de rechargement, un plateau organiser vos essentiels du soir.
+            </p>
+          </div>
+        </div>
+
+        <div class="bg-green-500/10 border-l-4 border-green-500 p-6 my-8 rounded-r-lg">
+          <h3 class="text-green-400 font-semibold mb-2">🌿 Conseil écologique</h3>
+          <p class="text-slate-300 mb-0">
+            Privilégiez les matières naturelles et les objets de seconde main pour créer une ambiance cosy responsable. Chineurs, brocantes et créations DIY ajoutent du caractère tout en préservant l'environnement.
+          </p>
+        </div>
+      </section>
+
+      <!-- Conclusion -->
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-100 mb-8">Votre salon cocooning vous attend</h2>
+        <div class="prose prose-invert prose-lg max-w-none">
+          <p class="text-slate-300 leading-relaxed mb-6">
+            Créer un salon ultra-cosy pour l'hiver ne demande finalement que peu de moyens mais beaucoup d'attention aux détails. C'est la combinaison harmonieuse de tous ces éléments - textiles moelleux, éclairage doux, couleurs chaudes, mobilier confortable - qui transforme votre espace de vie en véritable refuge hivernal.
+          </p>
+          
+          <p class="text-slate-300 leading-relaxed mb-6">
+            L'important est de procéder progressivement, d'écouter vos sensations et d'ajuster au fur et à mesure. Votre salon cosy doit avant tout vous ressembler et répondre à vos besoins de confort et de détente.
+          </p>
+          
+          <p class="text-slate-300 leading-relaxed">
+            Alors n'attendez plus : allumez quelques bougies, enveloppez-vous dans votre plaid préféré et savourez ces premiers moments dans votre nouveau cocon hivernal. L'hiver n'a jamais été aussi accueillant !
+          </p>
+        </div>
+      </section>
+
+      <!-- FAQ Schema -->
+      <section class="mb-16">
+        <h2 class="text-3xl font-bold text-slate-100 mb-8">Questions fréquentes</h2>
+        <div class="space-y-6">
+          <div class="bg-slate-800 p-6 rounded-lg">
+            <h3 class="text-xl font-semibold text-amber-400 mb-3">Quel budget prévoir pour transformer son salon en cocon hivernal ?</h3>
+            <p class="text-slate-300">
+              Avec 100-300€, vous pouvez déjà transformer l'ambiance de votre salon : quelques plaids de qualité (30-50€ chacun), des bougies (20-30€), des coussins (15-25€ pièce) et une ou deux lampes d'appoint (40-80€). L'essentiel est de prioriser le confort tactile et l'éclairage doux.
+            </p>
+          </div>
+          
+          <div class="bg-slate-800 p-6 rounded-lg">
+            <h3 class="text-xl font-semibold text-amber-400 mb-3">Comment créer une ambiance cosy dans un petit salon ?</h3>
+            <p class="text-slate-300">
+              Dans un petit espace, misez sur la verticalité : étagères hautes, plantes suspendues, guirlandes lumineuses en hauteur. Choisissez des meubles multifonctions (pouf-coffre, table basse avec rangement) et utilisez des miroirs pour amplifier la lumière naturelle et artificielle.
+            </p>
+          </div>
+          
+          <div class="bg-slate-800 p-6 rounded-lg">
+            <h3 class="text-xl font-semibold text-amber-400 mb-3">Quelles plantes choisir pour un salon peu lumineux en hiver ?</h3>
+            <p class="text-slate-300">
+              Optez pour des plantes qui tolèrent la faible luminosité : pothos, sansevieria, zamioculcas, aglaonema ou encore le philodendron. Ces plantes dépolluantes s'adaptent bien aux intérieurs chauffés et demandent peu d'entretien.
+            </p>
+          </div>
+        </div>
+      </section>
+    </article>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Salon Cocooning Hiver : 15 Astuces pour une Ambiance Ultra-Cosy",
+  "description": "Créez votre cocon hivernal ! 15 astuces déco pour un salon ultra-cosy : textiles douillets, éclairage tamisé et couleurs chaudes.",
+  "image": "/images/unsplash-salon-cocooning-hiver-ambiance-cosy-placeholder.jpg",
+  "author": {
+    "@type": "Organization",
+    "name": "Cristallina"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Cristallina",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/logo.png"
+    }
+  },
+  "datePublished": "2024-12-15",
+  "dateModified": "2024-12-15",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/salon-cocooning-hiver-ambiance-ultra-cosy"
+  },
+  "mainEntity": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Quel budget prévoir pour transformer son salon en cocon hivernal ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Avec 100-300€, vous pouvez déjà transformer l'ambiance de votre salon : quelques plaids de qualité (30-50€ chacun), des bougies (20-30€), des coussins (15-25€ pièce) et une ou deux lampes d'appoint (40-80€). L'essentiel est de prioriser le confort tactile et l'éclairage doux."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Comment créer une ambiance cosy dans un petit salon ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dans un petit espace, misez sur la verticalité : étagères hautes, plantes suspendues, guirlandes lumineuses en hauteur. Choisissez des meubles multifonctions (pouf-coffre, table basse avec rangement) et utilisez des miroirs pour amplifier la lumière naturelle et artificielle."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Quelles plantes choisir pour un salon peu lumineux en hiver ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Optez pour des plantes qui tolèrent la faible luminosité : pothos, sansevieria, zamioculcas, aglaonema ou encore le philodendron. Ces plantes dépolluantes s'adaptent bien aux intérieurs chauffés et demandent peu d'entretien."
+        }
+      }
+    ]
+  }
+}
+</script>

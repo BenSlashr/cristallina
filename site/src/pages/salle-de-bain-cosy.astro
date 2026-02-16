@@ -1,0 +1,353 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+
+const title = "Salle de Bain Cosy : 15 Astuces pour un Espace Cocoon";
+const description = "Créez une salle de bain cosy et chaleureuse ! Découvrez couleurs douces, éclairages tamisés et matières naturelles pour transformer votre espace détente.";
+---
+
+<BaseLayout {title} {description} canonical="https://www.cristallina.fr/salle-de-bain-cosy/">
+  <Navbar />
+  
+  <main class="pt-16">
+    <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <header class="mb-8">
+        <h1 class="text-3xl md:text-4xl title-elegant mb-4">{title}</h1>
+        <p class="text-lg mb-6" style="color: #8B8B8B;">{description}</p>
+        <div class="flex items-center gap-4 text-sm" style="color: #B5B5B5;">
+          <span>📖 10 min de lecture</span>
+          <span>🛁 Salle de bain</span>
+        </div>
+      </header>
+
+      <div class="max-w-none">
+        <div class="content-prose">
+          <p>Transformer sa salle de bain en véritable cocon de bien-être devient l'une des priorités déco 2026. L'esprit cosy apporte chaleur et sérénité dans cet espace d'intimité, créant un refuge personnel au quotidien.</p>
+
+          <div class="my-8">
+            <img src="/images/unsplash-cozy-bathroom-spa-lighting-1771167669.jpg" alt="Salle de bain luxueuse avec vasques en pierre et décoration rustique" class="w-full rounded-lg shadow-soft" />
+            <p class="text-xs text-center mt-2" style="color: #B5B5B5;">Une salle de bain cosy qui inspire détente et bien-être</p>
+          </div>
+
+          <!-- Sommaire Stylisé -->
+          <div class="bg-gradient-to-br from-rose-50 to-pink-50 border-2 border-rose-200 rounded-2xl p-8 my-10 shadow-sm hover:shadow-md transition-shadow">
+            <div class="flex items-center mb-6">
+              <div class="bg-rose-100 rounded-full p-3 mr-4">
+                <svg class="w-6 h-6 text-rose-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v8a2 2 0 002 2h5.586a1 1 0 00.707-.293l5.414-5.414a1 1 0 000-1.414l-4-4a1 1 0 00-1.414 0L9 9V5z"/>
+                </svg>
+              </div>
+              <h2 class="text-xl font-bold text-rose-800">Sommaire de l'article</h2>
+            </div>
+            <ul class="space-y-3">
+              <li class="flex items-start">
+                <span class="inline-block w-6 h-6 bg-rose-200 text-rose-800 rounded-full text-xs font-bold flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">1</span>
+                <a href="#secrets-salle-bain-cosy" class="text-rose-700 hover:text-rose-900 transition-colors font-medium hover:underline">Les Secrets d'une Salle de Bain Cosy Réussie</a>
+              </li>
+              <li class="flex items-start">
+                <span class="inline-block w-6 h-6 bg-rose-200 text-rose-800 rounded-full text-xs font-bold flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">2</span>
+                <a href="#15-astuces" class="text-rose-700 hover:text-rose-900 transition-colors font-medium hover:underline">15 Astuces pour une Salle de Bain Cosy</a>
+              </li>
+              <li class="flex items-start">
+                <span class="inline-block w-6 h-6 bg-rose-200 text-rose-800 rounded-full text-xs font-bold flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">3</span>
+                <a href="#petite-salle-bain" class="text-rose-700 hover:text-rose-900 transition-colors font-medium hover:underline">Optimiser une Petite Salle de Bain Cosy</a>
+              </li>
+              <li class="flex items-start">
+                <span class="inline-block w-6 h-6 bg-rose-200 text-rose-800 rounded-full text-xs font-bold flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">4</span>
+                <a href="#budget-renovation" class="text-rose-700 hover:text-rose-900 transition-colors font-medium hover:underline">Budget et Rénovation Cosy</a>
+              </li>
+            </ul>
+          </div>
+
+          <h2 id="secrets-salle-bain-cosy">Les Secrets d'une Salle de Bain Cosy Réussie</h2>
+
+          <h3>Créer une Ambiance Chaleureuse</h3>
+
+          <p>L'ambiance cosy naît de la superposition d'éléments sensoriels qui réconfortent. La douceur visuelle se combine aux textures moelleuses et aux parfums apaisants pour envelopper ce lieu de ressourcement.</p>
+
+          <p>L'éclairage joue un rôle primordial : bannissez les néons froids au profit de sources lumineuses multiples et tamisées. Appliques murales, guirlandes LED et bougies créent cette atmosphère feutrée indispensable.</p>
+
+          <div class="callout-tip">
+            <strong>Conseil :</strong> Installez un variateur sur l'éclairage principal pour adapter l'intensité selon les moments de la journée.
+          </div>
+
+          <h3>Palette de Couleurs Réconfortantes</h3>
+
+          <p>Les teintes cosy privilégient les nuances poudrées et les tons naturels. Le rose poudré, le beige rosé et le blanc cassé apportent douceur et luminosité. Les terres cuites et les ocres ajoutent profondeur et caractère.</p>
+
+          <p><strong>Associations harmonieuses :</strong></p>
+          <ul>
+            <li>Blanc cassé + rose poudré + doré mat</li>
+            <li>Beige lin + terracotta doux + blanc ivoire</li>
+            <li>Gris perle + rose ancien + cuivre brossé</li>
+          </ul>
+
+          <p>Ces palettes enveloppantes créent un environnement rassurant, propice à la détente et au bien-être.</p>
+
+          <h2 id="15-astuces">15 Astuces pour une Salle de Bain Cosy</h2>
+
+          <h3>1. Textiles Moelleux Partout</h3>
+
+          <p>Multipliez les textiles douillets : tapis de bain épais, serviettes en coton égyptien, rideaux en lin froissé. Cette accumulation textile réchauffe visuellement l'espace tout en apportant confort tactile.</p>
+
+          <h3>2. Éclairage Indirect et Varié</h3>
+
+          <p>Créez plusieurs ambiances lumineuses avec spots encastrés, appliques latérales et éclairage LED derrière le miroir. Cette superposition évite les ombres dures et flatte le teint.</p>
+
+          <h3>3. Matières Naturelles et Authentiques</h3>
+
+          <p>Intégrez bois brut, pierre naturelle et fibres végétales. Un plateau en teck pour les cosmétiques, des paniers en osier pour le linge, des galets pour la décoration ancrent l'espace dans l'authenticité.</p>
+
+          <div class="callout-note">
+            <strong>À noter :</strong> Le bois en salle de bain nécessite un traitement hydrofuge spécifique pour résister à l'humidité.
+          </div>
+
+          <h3>4. Plantes Dépolluantes</h3>
+
+          <p>Les plantes d'intérieur transforment la salle de bain en oasis urbaine. Sansevieria, pothos ou fougères prospèrent dans l'humidité tout en purifiant l'air naturellement.</p>
+
+          <h3>5. Parfums d'Ambiance Naturels</h3>
+
+          <p>Diffusez des huiles essentielles relaxantes : lavande pour apaiser, eucalyptus pour purifier, ylang-ylang pour sensualiser. Ces fragrances naturelles complètent l'expérience sensorielle cosy.</p>
+
+          <h3>6. Mobilier Chaleureux</h3>
+
+          <p>Intégrez un petit fauteuil en velours, un tabouret en bois massif ou une échelle décorative. Ces meubles "salon" humanisent l'espace et invitent à la détente.</p>
+
+          <h3>7. Art et Objets Personnels</h3>
+
+          <p>Exposez photos encadrées, sculptures artisanales ou collections d'objets précieux. Cette personnalisation transforme la salle de bain utilitaire en espace de vie authentique.</p>
+
+          <h3>8. Rangements Esthétiques</h3>
+
+          <p>Optez pour des rangements qui se montrent : étagères ouvertes, paniers tressés, flacons en verre ambré. L'organisation visible participe à l'esthétique cosy.</p>
+
+          <h3>9. Baignoire Îlot Chaleureuse</h3>
+
+          <p>Si l'espace le permet, une baignoire îlot devient l'élément central cosy. Entourez-la de bougies, coussins de sol et plantes pour créer un véritable spa maison.</p>
+
+          <h3>10. Miroirs aux Formes Douces</h3>
+
+          <p>Privilégiez miroirs ronds, ovales ou aux angles arrondis. Ces formes organiques adoucissent l'espace et reflètent mieux la lumière tamisée.</p>
+
+          <div class="callout-important">
+            <strong>Important :</strong> Un grand miroir agrandit visuellement l'espace tout en multipliant les sources lumineuses.
+          </div>
+
+          <h3>11. Carrelage Effet Matières</h3>
+
+          <p>Choisissez carrelages imitant bois vieilli, pierre naturelle ou terre cuite. Ces effets de matière apportent authenticité sans les contraintes d'entretien des matériaux bruts.</p>
+
+          <h3>12. Accessoires en Matières Nobles</h3>
+
+          <p>Porte-serviettes en laiton brossé, patères en bois tourné, distributeurs de savon en céramique artisanale élèvent le niveau esthétique par leurs finitions soignées.</p>
+
+          <h3>13. Coin Lecture Détente</h3>
+
+          <p>Aménagez un petit coin lecture avec coussin moelleux et étagère à magazines. Cette zone de pause prolonge le plaisir de la salle de bain cosy.</p>
+
+          <h3>14. Chauffage Invisible</h3>
+
+          <p>Intégrez chauffage au sol ou radiateur sèche-serviettes design. La chaleur constante et invisible participe au confort cosy sans encombrer visuellement.</p>
+
+          <h3>15. Fenêtre Habillée avec Délicatesse</h3>
+
+          <p>Habillez la fenêtre de rideaux en lin naturel ou stores en bambou. Ces matériaux filtrent la lumière tout en préservant l'intimité nécessaire.</p>
+
+          <h2 id="petite-salle-bain">Optimiser une Petite Salle de Bain Cosy</h2>
+
+          <h3>Maximaliser l'Espace Vertical</h3>
+
+          <p>Exploitez la hauteur avec étagères murales, armoires hautes et patères superposées. Cette organisation verticale libère l'espace au sol tout en créant du rangement esthétique.</p>
+
+          <h3>Jouer avec les Reflets</h3>
+
+          <p>Multipliez miroirs et surfaces réfléchissantes pour créer une impression d'espace. Les carrelages métro blanc brillant et les robinetteries chromées amplifient la lumière naturelle.</p>
+
+          <div class="callout-warning">
+            <strong>Attention :</strong> Évitez la surcharge décorative dans les petits espaces : privilégiez quelques éléments impactants plutôt que de nombreux petits objets.
+          </div>
+
+          <h2 id="budget-renovation">Budget et Rénovation Cosy</h2>
+
+          <p><strong>Budget indicatif pour 5m² :</strong></p>
+          <ul>
+            <li>Éclairage : 300-600€</li>
+            <li>Textiles et accessoires : 200-400€</li>
+            <li>Peinture et décoration : 150-300€</li>
+            <li>Plantes et parfums : 100-200€</li>
+          </ul>
+
+          <p>Chinéz mobilier vintage, fabriquez vos propres étagères et utilisez la peinture pour transformer l'existant. Les bougies artisanales et plantes bouturées ajoutent du charme sans investissement lourd. Notre <a href="/outils/budget-renovation/" class="text-rose-600 hover:text-rose-800 underline">calculateur de budget rénovation</a> t'aidera à planifier tes dépenses de salle de bain.</p>
+
+          <p>La salle de bain cosy transforme la routine quotidienne en moments de plaisir. Cette approche décorative privilégie le bien-être sensoriel et l'authenticité, créant un espace personnel où se ressourcer devient un art de vivre.</p>
+
+          <p>Pour compléter l'ambiance cosy de ta maison, découvre aussi mes conseils pour créer un <a href="/decoration-salon-naturel-chic/" class="text-rose-600 hover:text-rose-800 underline">salon naturel chic</a> ou apprends à <a href="/comment-fabriquer-soi-meme-un-bar-en-palettes/" class="text-rose-600 hover:text-rose-800 underline">fabriquer ton propre mobilier DIY</a> !</p>
+
+        </div>
+
+        <!-- Articles similaires -->
+        <section class="mt-16 py-8 border-t border-rose-100">
+          <div class="flex items-center mb-8">
+            <div class="bg-rose-100 rounded-full p-3 mr-4">
+              <svg class="w-6 h-6 text-rose-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"/>
+              </svg>
+            </div>
+            <h2 class="text-2xl title-elegant text-rose-800">Articles similaires</h2>
+          </div>
+          
+          <div class="grid md:grid-cols-2 gap-8">
+            <!-- Article 1 -->
+            <article class="group">
+              <a href="/decoration-salon-naturel-chic/" class="block">
+                <div class="relative overflow-hidden rounded-2xl shadow-soft group-hover:shadow-lg transition-all duration-300">
+                  <img src="/images/unsplash-natural-linen-living-room-decor-1771167640.jpg" alt="Salon naturel chic" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300" />
+                  <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+                  <div class="absolute bottom-0 left-0 right-0 p-6">
+                    <h3 class="text-white font-semibold text-lg mb-2 group-hover:text-rose-200 transition-colors">Décoration Salon Naturel Chic</h3>
+                    <p class="text-white/80 text-sm">Créez un salon élégant et naturel avec nos 12 idées déco tendance pour un intérieur harmonieux.</p>
+                  </div>
+                </div>
+              </a>
+            </article>
+
+            <!-- Article 2 -->
+            <article class="group">
+              <a href="/comment-fabriquer-soi-meme-un-bar-en-palettes/" class="block">
+                <div class="relative overflow-hidden rounded-2xl shadow-soft group-hover:shadow-lg transition-all duration-300">
+                  <img src="/images/unsplash-wooden-pallet-bar-diy-furniture-1771168378.jpg" alt="Bar en palettes DIY" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300" />
+                  <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+                  <div class="absolute bottom-0 left-0 right-0 p-6">
+                    <h3 class="text-white font-semibold text-lg mb-2 group-hover:text-rose-200 transition-colors">Bar en Palettes DIY</h3>
+                    <p class="text-white/80 text-sm">Guide complet pour fabriquer votre propre bar en palettes : matériaux, outils et étapes détaillées.</p>
+                  </div>
+                </div>
+              </a>
+            </article>
+          </div>
+        </section>
+
+        <!-- Articles récents -->
+        <section class="mt-16 py-8 border-t border-rose-100">
+          <div class="flex items-center mb-8">
+            <div class="bg-rose-100 rounded-full p-3 mr-4">
+              <svg class="w-6 h-6 text-rose-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+              </svg>
+            </div>
+            <h2 class="text-2xl title-elegant text-rose-800">Articles récents</h2>
+          </div>
+          
+          <div class="space-y-4">
+            <article class="group">
+              <a href="/decoration-salon-naturel-chic/" class="flex items-center p-4 rounded-xl border border-rose-100 hover:border-rose-200 hover:bg-rose-50/50 transition-all duration-200">
+                <div>
+                  <h3 class="font-medium text-rose-800 group-hover:text-rose-900 transition-colors">Décoration Salon Naturel Chic : 12 Idées Tendance 2026</h3>
+                  <p class="text-sm text-rose-600 mt-1">📖 15 min de lecture • 🌿 Décoration</p>
+                </div>
+              </a>
+            </article>
+            
+            <article class="group">
+              <a href="/comment-fabriquer-soi-meme-un-bar-en-palettes/" class="flex items-center p-4 rounded-xl border border-rose-100 hover:border-rose-200 hover:bg-rose-50/50 transition-all duration-200">
+                <div>
+                  <h3 class="font-medium text-rose-800 group-hover:text-rose-900 transition-colors">Comment Fabriquer un Bar en Palettes : Guide Complet DIY</h3>
+                  <p class="text-sm text-rose-600 mt-1">📖 12 min de lecture • 🔨 DIY</p>
+                </div>
+              </a>
+            </article>
+          </div>
+        </section>
+
+        <!-- FAQ SEO -->
+        <section class="mt-12 py-8">
+          <h2 class="text-xl title-elegant mb-6 text-center">Questions fréquentes</h2>
+          <div class="space-y-4">
+            <div class="card-feminine p-4">
+              <h3 class="font-medium mb-2 text-sm">Comment rendre une petite salle de bain cosy sans l'encombrer ?</h3>
+              <p class="text-xs" style="color: #8B8B8B;">Privilégiez l'éclairage indirect, les tons clairs, un grand miroir et l'organisation verticale. Quelques textiles doux et une plante suffisent à créer l'ambiance cosy.</p>
+            </div>
+            <div class="card-feminine p-4">
+              <h3 class="font-medium mb-2 text-sm">Quelles plantes choisir pour une salle de bain cosy ?</h3>
+              <p class="text-xs" style="color: #8B8B8B;">Sansevieria, pothos, fougères et orchidées prospèrent dans l'humidité. Évitez les plantes nécessitant beaucoup de soleil direct.</p>
+            </div>
+            <div class="card-feminine p-4">
+              <h3 class="font-medium mb-2 text-sm">Quel budget prévoir pour une rénovation salle de bain cosy ?</h3>
+              <p class="text-xs" style="color: #8B8B8B;">Comptez 800-1500€ pour une rénovation cosy complète (5m²), ou 200-500€ pour une transformation avec peinture, textiles et accessoires uniquement.</p>
+            </div>
+          </div>
+        </section>
+      </div>
+    </article>
+  </main>
+  
+  <Footer />
+</BaseLayout>
+
+<style>
+.content-prose p {
+  margin-bottom: 1.5rem;
+  line-height: 1.7;
+  color: #4B5563;
+}
+
+.content-prose h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+  color: #1F2937;
+}
+
+.content-prose h3 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #374151;
+}
+
+.content-prose ul {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.content-prose li {
+  margin-bottom: 0.5rem;
+}
+
+.callout-tip {
+  background: rgba(245, 158, 11, 0.1);
+  border-left: 4px solid #F59E0B;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+.callout-note {
+  background: rgba(59, 130, 246, 0.1);
+  border-left: 4px solid #3B82F6;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+.callout-important {
+  background: rgba(139, 92, 246, 0.1);
+  border-left: 4px solid #8B5CF6;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+.callout-warning {
+  background: rgba(234, 88, 12, 0.1);
+  border-left: 4px solid #EA580C;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+}
+</style>

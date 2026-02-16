@@ -1,0 +1,437 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+
+const title = "Terrasse Design : 10 Aménagements Extérieurs Tendance";
+const description = "Aménagez une terrasse design ! 10 idées tendance avec mobilier extérieur, végétalisation, éclairage et sols modernes pour espace outdoor stylé.";
+---
+
+<BaseLayout {title} {description} canonical="https://www.cristallina.fr/terrasse-design-amenagements-exterieurs-tendance/">
+  <Navbar />
+  <main class="pt-16">
+    <!-- Hero Section -->
+    <section class="relative py-16 bg-gradient-to-br from-void via-abyss to-surface overflow-hidden">
+      <div class="absolute inset-0 bg-gradient-to-br from-primary/5 via-transparent to-secondary/5"></div>
+      <div class="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div class="animate-fade-in-up">
+          <h1 class="text-4xl md:text-5xl lg:text-6xl font-display font-bold text-text-primary mb-6 leading-tight">
+            Terrasse Design : 10 Aménagements 
+            <span class="text-gradient-primary">Extérieurs Tendance</span>
+          </h1>
+          <p class="text-lg md:text-xl text-text-secondary max-w-3xl mx-auto mb-8 leading-relaxed">
+            Transformez votre terrasse en véritable extension de votre maison avec nos idées d'aménagements design, du mobilier résistant aux solutions d'éclairage modernes.
+          </p>
+          <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+            <div class="flex items-center gap-2 text-sm text-text-muted">
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clip-rule="evenodd" />
+              </svg>
+              12 min de lecture
+            </div>
+            <div class="flex items-center gap-2 text-sm text-text-muted">
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+              Guide complet 2026
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Image principale -->
+    <section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 -mt-8">
+      <div class="relative rounded-2xl overflow-hidden shadow-soft animate-fade-in-up delay-200">
+        <img 
+          src="/images/unsplash-modern-terrace-design-outdoor-furniture-landscaping-1771177414.jpg" 
+          alt="Terrasse design moderne avec mobilier contemporain et végétalisation"
+          class="w-full h-64 md:h-96 object-cover"
+        />
+        <div class="absolute inset-0 bg-gradient-to-t from-void/20 to-transparent"></div>
+      </div>
+    </section>
+
+    <!-- Sommaire -->
+    <section class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div class="border-l-4 border-rose-300 pl-4 my-8 animate-fade-in-up delay-300">
+        <h2 class="font-display text-xl font-semibold text-text-primary mb-4">Sommaire</h2>
+        <nav class="space-y-2">
+          <a href="#mobilier-resistant" class="block text-text-secondary hover:text-primary transition-colors duration-200">→ Mobilier extérieur résistant et design</a>
+          <a href="#sols-techniques" class="block text-text-secondary hover:text-primary transition-colors duration-200">→ Sols techniques et esthétiques</a>
+          <a href="#vegetal-structurant" class="block text-text-secondary hover:text-primary transition-colors duration-200">→ Végétalisation structurante</a>
+          <a href="#eclairage-outdoor" class="block text-text-secondary hover:text-primary transition-colors duration-200">→ Éclairage outdoor moderne</a>
+          <a href="#amenagement-zones" class="block text-text-secondary hover:text-primary transition-colors duration-200">→ Délimitation des zones d'usage</a>
+        </nav>
+      </div>
+    </section>
+
+    <!-- Contenu principal -->
+    <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
+      <div class="prose-custom">
+        <p class="text-lg leading-relaxed">
+          Une terrasse bien aménagée devient rapidement le <strong>cœur de votre vie extérieure</strong>. Entre détente, repas en plein air et moments conviviaux, cet espace mérite une attention particulière pour allier fonctionnalité et esthétisme. Découvrez 10 aménagements tendance qui transformeront votre terrasse en véritable salon à ciel ouvert.
+        </p>
+
+        <div class="markdown-alert markdown-alert-tip my-6">
+          <div class="markdown-alert-title">
+            <svg class="octicon octicon-light-bulb" viewBox="0 0 16 16" width="16" height="16">
+              <path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path>
+            </svg>
+            Astuce Design
+          </div>
+          <p>Pensez votre terrasse comme une pièce supplémentaire : définissez d'abord les usages (repas, détente, jardinage) puis adaptez l'aménagement en conséquence.</p>
+        </div>
+
+        <h2 id="mobilier-resistant" class="scroll-mt-16">1. Mobilier extérieur résistant et design</h2>
+
+        <p>Le choix du mobilier détermine l'ambiance et la durabilité de votre aménagement extérieur. Privilégiez des matériaux qui résistent aux intempéries tout en conservant leur esthétique.</p>
+
+        <h3>Matériaux nobles et durables</h3>
+
+        <p>L'<strong>aluminium thermolaqué</strong> reste un choix excellent pour les structures de salon de jardin. Léger, inoxydable et disponible dans de nombreuses finitions, il s'adapte à tous les styles. Les <strong>textiles techniques</strong> comme les toiles déperlantes offrent un confort optimal même après une averse.</p>
+
+        <p>Le <strong>teck certifié FSC</strong> apporte une chaleur naturelle incomparable. Ce bois exotique vieillit magnifiquement en prenant une patine gris argenté. Pour un entretien minimal, optez pour des <strong>résines tressées haut de gamme</strong> qui imitent parfaitement le rotin naturel.</p>
+
+        <div class="markdown-alert markdown-alert-note my-6">
+          <div class="markdown-alert-title">
+            <svg class="octicon octicon-info" viewBox="0 0 16 16" width="16" height="16">
+              <path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path>
+            </svg>
+            Bon à savoir
+          </div>
+          <p>Les coussins déhoussables avec housses lavables en machine facilitent l'entretien. Stockez-les dans un coffre étanche durant l'hiver pour préserver leurs couleurs.</p>
+        </div>
+
+        <h3>Agencement modulaire et fonctionnel</h3>
+
+        <p>Les <strong>systèmes modulaires</strong> permettent de reconfigurer l'espace selon les occasions. Un canapé d'angle transformable en méridienne individuelle s'adapte parfaitement aux réceptions comme aux moments d'intimité.</p>
+
+        <p>Intégrez du <strong>mobilier multifonction</strong> : poufs-coffres pour le rangement, tables basses avec plateaux amovibles, bancs avec espace de stockage intégré. Ces solutions optimisent l'espace tout en gardant la terrasse ordonnée.</p>
+
+
+        <h2 id="sols-techniques" class="scroll-mt-16">2. Sols techniques et esthétiques</h2>
+
+        <p>Le revêtement de sol influence considérablement l'ambiance de la terrasse. Les solutions techniques modernes allient performance et beauté pour créer des espaces durables et élégants.</p>
+
+        <h3>Lames composites nouvelle génération</h3>
+
+        <p>Les <strong>lames composites co-extrudées</strong> représentent l'évolution du composite traditionnel. Leur surface protégée résiste aux taches, aux rayures et à la décoloration. Disponibles en finitions bois authentiques, elles reproduisent fidèlement les essences nobles sans leurs contraintes d'entretien.</p>
+
+        <p>L'installation sur <strong>lambourdes ajustables</strong> permet de rattraper les défauts de niveau tout en créant une ventilation optimale sous le plancher. Cette technique préserve la structure et évite les stagnations d'humidité.</p>
+
+        <div class="markdown-alert markdown-alert-warning my-6">
+          <div class="markdown-alert-title">
+            <svg class="octicon octicon-alert" viewBox="0 0 16 16" width="16" height="16">
+              <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+            </svg>
+            Attention aux finitions
+          </div>
+          <p>Évitez les lames composites premiers prix qui blanchissent rapidement au soleil. Privilégiez les marques certifiées avec garantie de tenue couleur sur 15-20 ans.</p>
+        </div>
+
+        <h3>Carrelages grand format et dalles techniques</h3>
+
+        <p>Les <strong>dalles grès cérame grand format</strong> (90x90 cm ou plus) créent un effet contemporain saisissant. Posées sur plots réglables, elles s'adaptent parfaitement aux terrasses avec évacuation des eaux pluviales. Les finitions effet bois, béton ou pierre naturelle s'intègrent harmonieusement dans tous les styles architecturaux.</p>
+
+        <p>Pour les budgets serrés, les <strong>dalles béton haute performance</strong> offrent une alternative intéressante. Traitées anti-mousse et disponibles en plusieurs textures, elles se posent facilement sur lit de sable stabilisé.</p>
+
+        <h2 id="vegetal-structurant" class="scroll-mt-16">3. Végétalisation structurante et décorative</h2>
+
+        <p>Les plantes transforment une terrasse en oasis urbaine. Une végétalisation réfléchie crée des volumes, délimite les espaces et apporte fraîcheur et intimité à votre aménagement extérieur.</p>
+
+        <h3>Brise-vues végétaux et claustra naturels</h3>
+
+        <p>Les <strong>graminées ornementales</strong> constituent d'excellents écrans visuels. Le miscanthus, les cannas ou les bambous non traçants créent des ridèaux végétaux élégants. Plantés dans des bacs linéaires, ils structurent l'espace tout en préservant l'intimité.</p>
+
+        <p>Les <strong>treillages végétalisés</strong> maximisent l'effet brise-vue sur peu d'espace. Jasmin étoilé, clématites ou vignes vierges s'épanouissent sur supports métalliques fins. Cette solution convient particulièrement aux terrasses urbaines où chaque mètre carré compte.</p>
+
+        <div class="markdown-alert markdown-alert-important my-6">
+          <div class="markdown-alert-title">
+            <svg class="octicon octicon-report" viewBox="0 0 16 16" width="16" height="16">
+              <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0 1 14.25 13H8.06l-2.573 2.573A1.75 1.75 0 0 1 2.75 15h-.186a.25.25 0 0 1-.177-.427L4.69 12.28a.25.25 0 0 1 .177-.073h9.383a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25v9.5a.25.25 0 0 0 .25.25h2.5a.75.75 0 0 1 0 1.5h-2.5A1.75 1.75 0 0 1 0 11.25Zm1.75-.25a.25.25 0 0 0-.25.25v9.5c0 .138.112.25.25.25h2.5a.75.75 0 0 1 0 1.5h-2.5A1.75 1.75 0 0 1 0 11.25v-9.5C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0 1 14.25 13H8.06l-2.573 2.573A1.75 1.75 0 0 1 2.75 15h-.186a.25.25 0 0 1-.177-.427L4.69 12.28a.25.25 0 0 1 .177-.073h9.383a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25v9.5a.25.25 0 0 0 .25.25h2.5a.75.75 0 0 1 0 1.5h-2.5A1.75 1.75 0 0 1 0 11.25V1.75Z"></path>
+            </svg>
+            Point essentiel
+          </div>
+          <p>Installez un système d'arrosage automatique goutte-à-goutte pour vos plantations. Cette technique économise l'eau et garantit un développement optimal des végétaux, même en cas d'absence prolongée.</p>
+        </div>
+
+        <h3>Jardins verticaux et compositions en bacs</h3>
+
+        <p>Les <strong>murs végétaux modulaires</strong> transforment les parois aveugles en véritables jardins suspendus. Plantes aromatiques, fougères et plantes grasses s'épanouissent dans ces structures auto-arrosées. L'effet décoratif est immédiat et l'entretien minimal.</p>
+
+        <p>Variez les <strong>hauteurs de plantation</strong> avec des bacs de différentes tailles. Arbustes persistants en arrière-plan, vivaces saisonnières au centre et plantes retombantes en bordure créent un ensemble harmonieux et dynamique.</p>
+
+        <p>Pour enrichir votre aménagement végétal, consultez notre guide complet sur les <a href="/plantes-interieur-deco/">plantes d'intérieur décoratives</a> qui peuvent également agrémenter vos espaces extérieurs protégés.</p>
+
+
+        <h2 id="eclairage-outdoor" class="scroll-mt-16">4. Éclairage outdoor moderne et ambiant</h2>
+
+        <p>L'éclairage extérieur prolonge l'usage de la terrasse après le coucher du soleil. Un système bien conçu mêle sécurité, fonctionnalité et création d'ambiance pour des soirées magiques en plein air.</p>
+
+        <h3>Éclairage LED intégré et intelligent</h3>
+
+        <p>Les <strong>rubans LED encastrés</strong> dans les lames de terrasse créent un éclairage de cheminement élégant. Alimentés en très basse tension, ces systèmes garantissent une sécurité totale même par temps humide. Les versions RGB permettent de personnaliser l'ambiance selon les occasions.</p>
+
+        <p>L'<strong>éclairage connecté</strong> révolutionne l'expérience outdoor. Pilotés depuis le smartphone, spots, bornes et guirlandes s'allument progressivement à l'heure souhaitée. Les scénarios préprogrammés adaptent automatiquement l'intensité selon l'activité : lecture, repas ou détente.</p>
+
+        <h3>Luminaires design et solutions architecturales</h3>
+
+        <p>Les <strong>suspensions outdoor</strong> au-dessus de la table créent un point focal chaleureux. Choisissez des modèles avec indice de protection IP65 minimum et variateur intégré pour moduler l'intensité selon l'ambiance souhaitée.</p>
+
+        <p>Intégrez des <strong>projecteurs d'accentuation</strong> pour mettre en valeur la végétation. Un éclairage en contre-plongée sublime les graminées et crée des jeux d'ombres spectaculaires sur les murs. Cette technique théâtralise l'espace et prolonge le plaisir visuel nocturne.</p>
+
+        <p>Pour approfondir vos connaissances en éclairage design, découvrez nos conseils sur l'<a href="/eclairage-moderne-tendances/">éclairage moderne et ses tendances actuelles</a>.</p>
+
+        <div class="markdown-alert markdown-alert-tip my-6">
+          <div class="markdown-alert-title">
+            <svg class="octicon octicon-light-bulb" viewBox="0 0 16 16" width="16" height="16">
+              <path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path>
+            </svg>
+            Économie d'énergie
+          </div>
+          <p>Optez pour des luminaires solaires autonomes dans les zones sans alimentation électrique. Les modèles haut de gamme offrent maintenant des performances comparables aux versions filaires.</p>
+        </div>
+
+        <h2 id="amenagement-zones" class="scroll-mt-16">5. Délimitation des zones d'usage</h2>
+
+        <p>Une terrasse bien pensée organise l'espace en zones distinctes selon les activités. Cette sectorisation optimise les usages tout en créant une composition visuelle équilibrée et harmonieuse.</p>
+
+        <h3>Coin repas et espace culinaire</h3>
+
+        <p>L'<strong>espace repas</strong> nécessite une surface plane et suffisamment étendue. Prévoyez 1,5 m autour de la table pour la circulation des convives. Un parasol déporté ou une voile d'ombrage protège des rayons sans encombrer la surface au sol.</p>
+
+        <p>La <strong>cuisine d'été</strong> gagne en popularité. Plancha, barbecue et évier extérieur s'intègrent dans un meuble en acier inoxydable. Ajoutez un plan de travail en quartz ou en béton ciré pour une finition professionnelle résistante aux intempéries.</p>
+
+        <h3>Salon de détente et zone zen</h3>
+
+        <p>Le <strong>coin salon</strong> privilégie le confort avec canapés et fauteuils orientés vers un point focal : vue, cheminée ou élément décoratif. Un tapis d'extérieur délimite visuellement cette zone et apporte chaleur et texture à l'ensemble.</p>
+
+        <p>Créez un <strong>espace méditation</strong> avec des matériaux naturels : bois, pierre, végétaux. Une fontaine murale ou un bassin apportent la dimension sonore relaxante de l'eau. Ces éléments transforment la terrasse en véritable refuge urbain.</p>
+
+
+        <h2>6. Solutions de protection et d'intimité</h2>
+
+        <p>L'intimité et la protection contre les intempéries conditionnent le confort de votre terrasse. Les solutions modernes allient efficacité et esthétisme pour créer un cocon extérieur utilisable en toutes saisons.</p>
+
+        <h3>Pergolas bioclimatiques et structures modulaires</h3>
+
+        <p>Les <strong>pergolas à lames orientables</strong> révolutionnent la protection solaire. Leurs lames en aluminium pivotent selon l'orientation du soleil et se ferment hermétiquement en cas de pluie. Cette technologie crée un microclimat parfaitement contrôlé.</p>
+
+        <p>Les <strong>structures rétractables</strong> s'adaptent aux saisons. Toile tendue l'été, fermeture transparente l'hiver, ces systèmes transforment la terrasse en véritable pièce supplémentaire. L'investissement initial se rentabilise rapidement par l'extension de la période d'utilisation.</p>
+
+        <h3>Brise-vents design et claustras contemporains</h3>
+
+        <p>Les <strong>panneaux ajourés</strong> filtrent le vent sans créer d'effet tunnel. Métal perforé, bois à claire-voie ou verre sablé s'intègrent harmonieusement dans l'architecture contemporaine. Ces éléments structurent l'espace tout en préservant la luminosité.</p>
+
+        <p>Variez les <strong>hauteurs de protection</strong> selon les besoins : claustra haut côté voisins, garde-corps vitré côté vue. Cette approche personnalisée optimise intimité et ouverture selon l'orientation et l'environnement.</p>
+
+        <h2>7. Revêtements muraux et habillages décoratifs</h2>
+
+        <p>Les murs de la terrasse participent pleinement à l'ambiance générale. Leur traitement décoratif prolonge le style intérieur vers l'extérieur et crée une cohérence visuelle entre les espaces.</p>
+
+        <h3>Bardages techniques et parements naturels</h3>
+
+        <p>Les <strong>bardages composite</strong> imitent parfaitement le bois naturel sans ses contraintes d'entretien. Disponibles en plusieurs essences et teintes, ils s'installent rapidement sur ossature métallique. Cette solution convient particulièrement aux murs exposés aux intempéries.</p>
+
+        <p>La <strong>pierre reconstituée</strong> apporte authenticité et noblesse. Moins chère que la pierre naturelle, elle offre un rendu esthétique comparable avec une pose simplifiée. Les finitions ardoise, travertin ou grès s'harmonisent avec tous les styles architecturaux.</p>
+
+        <h3>Revêtements innovants et solutions créatives</h3>
+
+        <p>Le <strong>béton décoratif</strong> se réinvente avec des finitions surprenantes : effet rouille, patine cuivrée ou texture textile. Appliqué au rouleau ou à la taloche, ce matériau transforme les murs les plus banals en surfaces d'expression artistique.</p>
+
+        <p>Les <strong>murs végétaux artificiels</strong> haut de gamme reproduisent fidèlement la végétation naturelle. Traités anti-UV et anti-feu, ces systèmes nécessitent aucun entretien tout en créant un effet jungle urbaine saisissant.</p>
+
+        <h2>8. Équipements de confort et domotique extérieure</h2>
+
+        <p>La terrasse moderne intègre technologies et équipements pour un confort optimal. Ces solutions techniques se fondent discrètement dans l'aménagement pour préserver l'esthétique générale.</p>
+
+        <h3>Chauffage extérieur et climatisation naturelle</h3>
+
+        <p>Les <strong>radiateurs infrarouge</strong> chauffent instantanément sans réchauffer l'air ambiant. Fixés en hauteur ou intégrés dans la pergola, ils étendent la saison d'utilisation jusqu'aux premiers froids. Les modèles design s'intègrent parfaitement dans la décoration.</p>
+
+        <p>La <strong>brumisation</strong> rafraîchit naturellement l'atmosphère durant les grandes chaleurs. Ce système diffuse une brume fine qui évapore rapidement en absorbant les calories. L'effet rafraîchissant peut atteindre 8°C selon l'hygrométrie.</p>
+
+        <h3>Sonorisation discrète et connectivité</h3>
+
+        <p>Les <strong>enceintes outdoor encastrables</strong> diffusent la musique sans encombrer l'espace. Camouflées dans la végétation ou intégrées aux luminaires, elles créent une ambiance sonore homogène sur toute la surface de la terrasse.</p>
+
+        <p>Prévoyez des <strong>prises électriques étanches</strong> et des points de connexion WiFi renforcés. Ces équipements techniques facilitent l'usage des appareils nomades et l'éclairage d'appoint selon les besoins.</p>
+
+        <h2>9. Rangements intégrés et solutions pratiques</h2>
+
+        <p>Une terrasse organisée reste agréable en toutes circonstances. Les rangements intelligents préservent l'esthétique tout en maintenant l'espace fonctionnel et accueillant.</p>
+
+        <h3>Coffres et bancs multifonctions</h3>
+
+        <p>Les <strong>coffres de rangement</strong> en résine imitation rotin stockent discrètement coussins, éclairage d'appoint et accessoires de jardinage. Certains modèles font office de table basse ou d'assise d'appoint lors des réceptions.</p>
+
+        <p>Intégrez des <strong>bancs avec coffrage</strong> le long des murs ou en bordure de terrasse. Ces éléments sur mesure optimisent chaque mètre linéaire disponible tout en créant des assises supplémentaires pour les invités.</p>
+
+        <h3>Rangements verticaux et solutions suspendues</h3>
+
+        <p>Les <strong>étagères murales étanches</strong> accueillent plantes, luminaires d'ambiance et objets décoratifs. Choisissez des modèles en acier thermolaqué ou en teck pour une résistance optimale aux UV et à l'humidité.</p>
+
+        <p>Exploitez l'<strong>espace sous pergola</strong> avec des systèmes de suspension réglables. Crochets escamotables, filets de rangement et supports amovibles s'adaptent aux besoins saisonniers sans altérer l'esthétique générale.</p>
+
+        <h2>10. Décoration et accessoires de style</h2>
+
+        <p>Les dernières touches décoratives personnalisent la terrasse et affirment votre style. Ces éléments d'ambiance transforment l'espace technique en véritable lieu de vie extérieur.</p>
+
+        <h3>Textiles outdoor et coussins techniques</h3>
+
+        <p>Les <strong>textiles déperlants</strong> résistent aux intempéries sans perdre leur souplesse. Coussins, plaids et rideaux en fibres techniques conservent leurs couleurs et leur confort même exposés au soleil et à la pluie.</p>
+
+        <p>Variez les <strong>textures et motifs</strong> pour créer une ambiance chaleureuse : lin froissé, velours côtelé outdoor, macramé résistant. Ces matières apportent douceur et raffinement à l'ensemble mobilier.</p>
+
+        <h3>Objets déco et éléments d'art</h3>
+
+        <p>Les <strong>sculptures contemporaines</strong> résistantes aux intempéries ponctuent l'espace de points focaux artistiques. Métal Corten, pierre sculptée ou résine colorée s'intègrent harmonieusement dans la végétation.</p>
+
+        <p>Multipliez les <strong>sources lumineuses décoratives</strong> : lanternes solaires, guirlandes LED étanches, photophores en verre trempé. Ces éléments créent une ambiance feutrée propice à la détente et aux soirées conviviales.</p>
+
+
+        <p>L'aménagement d'une terrasse design nécessite une approche globale qui harmonise fonctionnalité, esthétisme et durabilité. En combinant ces 10 aménagements tendance, vous transformerez votre espace extérieur en véritable extension de votre intérieur, adaptée à tous les usages et toutes les saisons.</p>
+
+        <div class="markdown-alert markdown-alert-tip my-6">
+          <div class="markdown-alert-title">
+            <svg class="octicon octicon-light-bulb" viewBox="0 0 16 16" width="16" height="16">
+              <path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path>
+            </svg>
+            Conseil final
+          </div>
+          <p>Réalisez votre aménagement par étapes pour étaler l'investissement. Commencez par le sol et le mobilier principal, puis enrichissez progressivement avec végétation, éclairage et accessoires décoratifs.</p>
+        </div>
+      </div>
+    </article>
+
+    <!-- FAQ Section -->
+    <section class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 border-t border-border">
+      <h2 class="text-2xl font-display font-bold text-text-primary mb-8 text-center">Questions fréquentes</h2>
+      
+      <div class="space-y-6">
+        <details class="group border border-border rounded-lg overflow-hidden">
+          <summary class="flex justify-between items-center cursor-pointer bg-surface p-4 hover:bg-surface-hover transition-colors duration-200">
+            <h3 class="font-semibold text-text-primary">Quel budget prévoir pour aménager une terrasse de 20 m² ?</h3>
+            <svg class="w-5 h-5 text-text-muted group-open:rotate-180 transition-transform duration-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+          </summary>
+          <div class="p-4 border-t border-border bg-void">
+            <p class="text-text-secondary leading-relaxed">
+              Pour une terrasse de 20 m², comptez entre 3 000 € et 8 000 € selon les matériaux choisis. Un aménagement basique avec dalles béton et mobilier résine coûte environ 3 000 €. Un aménagement haut de gamme avec lames composite, mobilier teck et éclairage intégré peut atteindre 8 000 €. L'installation d'une pergola bioclimatique représente un investissement supplémentaire de 4 000 à 10 000 €.
+            </p>
+          </div>
+        </details>
+
+        <details class="group border border-border rounded-lg overflow-hidden">
+          <summary class="flex justify-between items-center cursor-pointer bg-surface p-4 hover:bg-surface-hover transition-colors duration-200">
+            <h3 class="font-semibold text-text-primary">Comment protéger le mobilier extérieur en hiver ?</h3>
+            <svg class="w-5 h-5 text-text-muted group-open:rotate-180 transition-transform duration-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+          </summary>
+          <div class="p-4 border-t border-border bg-void">
+            <p class="text-text-secondary leading-relaxed">
+              Démontez et stockez les coussins dans un local sec. Nettoyez soigneusement les structures avant l'hiver et appliquez une protection adaptée au matériau. Utilisez des housses respirantes pour éviter la condensation. Le mobilier en aluminium et résine peut rester dehors avec une simple bâche perforée. Le teck nécessite un traitement spécifique avant la mauvaise saison.
+            </p>
+          </div>
+        </details>
+
+        <details class="group border border-border rounded-lg overflow-hidden">
+          <summary class="flex justify-between items-center cursor-pointer bg-surface p-4 hover:bg-surface-hover transition-colors duration-200">
+            <h3 class="font-semibold text-text-primary">Quelles plantes choisir pour une terrasse très exposée au vent ?</h3>
+            <svg class="w-5 h-5 text-text-muted group-open:rotate-180 transition-transform duration-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+          </summary>
+          <div class="p-4 border-t border-border bg-void">
+            <p class="text-text-secondary leading-relaxed">
+              Privilégiez les végétaux résistants aux vents forts : graminées (miscanthus, pennisetum), arbustes persistants (eleagnus, photinia), vivaces coriaces (heuchères, sedums). Évitez les plantes à grandes feuilles qui se déchirent facilement. Installez des brise-vents transitoires le temps que la végétation s'établisse. Les bacs lourds et bas résistent mieux aux bourrasques que les jardinières hautes.
+            </p>
+          </div>
+        </details>
+      </div>
+    </section>
+
+    <!-- Articles similaires -->
+    <section class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 border-t border-border">
+      <h2 class="text-2xl font-display font-bold text-text-primary mb-8 text-center">Articles similaires</h2>
+      
+      <div class="grid md:grid-cols-2 gap-6">
+        <article class="card-feminine group cursor-pointer">
+          <h3 class="font-display font-semibold text-text-primary mb-2 group-hover:text-primary transition-colors duration-200">
+            Créer un jardin urbain sur petite terrasse
+          </h3>
+          <p class="text-text-secondary text-sm leading-relaxed">
+            Découvrez comment maximiser l'espace vert d'une terrasse urbaine avec des solutions de végétalisation adaptées aux contraintes city.
+          </p>
+        </article>
+
+        <article class="card-feminine group cursor-pointer">
+          <h3 class="font-display font-semibold text-text-primary mb-2 group-hover:text-primary transition-colors duration-200">
+            Éclairage extérieur : guide complet 2026
+          </h3>
+          <p class="text-text-secondary text-sm leading-relaxed">
+            Tout savoir sur l'éclairage outdoor moderne : technologies LED, systèmes connectés et création d'ambiance pour vos espaces extérieurs.
+          </p>
+        </article>
+      </div>
+    </section>
+  </main>
+  <Footer />
+</BaseLayout>
+
+<style>
+  /* Animations personnalisées pour la page */
+  @keyframes gentle-pulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.02); }
+  }
+
+  .animate-gentle-pulse {
+    animation: gentle-pulse 4s ease-in-out infinite;
+  }
+
+  /* Améliorations visuelles pour les images */
+  img {
+    transition: transform 0.3s ease, filter 0.3s ease;
+  }
+
+  img:hover {
+    transform: scale(1.02);
+    filter: brightness(1.05);
+  }
+
+  /* Style spécial pour les details/summary */
+  details summary::-webkit-details-marker {
+    display: none;
+  }
+
+  details summary::marker {
+    content: none;
+  }
+
+  /* Transitions douces pour tous les éléments interactifs */
+  a, button, summary {
+    transition: all 0.2s ease;
+  }
+
+  /* Responsive improvements */
+  @media (max-width: 768px) {
+    .prose-custom {
+      font-size: 0.95rem;
+    }
+    
+    .prose-custom h2 {
+      font-size: 1.4rem;
+      margin-top: 2rem;
+    }
+    
+    .prose-custom h3 {
+      font-size: 1.15rem;
+      margin-top: 1.5rem;
+    }
+  }
+</style>

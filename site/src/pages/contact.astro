@@ -1,0 +1,182 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+---
+
+<BaseLayout title="Contact | Cristallina - Parlons déco ensemble"
+            description="Envie de discuter déco ? Contactez Laure pour vos questions, suggestions ou collaboration. Réponse garantie dans les 24h !"
+            canonical="https://www.cristallina.fr/contact"
+>
+  <Navbar />
+
+  <main class="pt-16">
+    <!-- Hero Contact -->
+    <section class="py-20 bg-blue-50/30">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-16">
+          <div class="inline-block mb-6">
+            <span class="inline-flex items-center px-4 py-2 bg-white/95 backdrop-blur-sm text-blue-600 rounded-full font-medium text-sm shadow-sm border border-blue-100/70">
+              <span class="mr-2">💬</span> Parlons ensemble
+            </span>
+          </div>
+          
+          <h1 class="text-4xl md:text-5xl font-bold text-gray-800 mb-6">
+            Contactez-<span class="text-blue-300">moi</span>
+          </h1>
+          
+          <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+            Une question sur un DIY ? Envie de partager votre projet déco ? 
+            Ou tout simplement dire bonjour ? J'adore échanger avec ma communauté !
+          </p>
+        </div>
+
+        <div class="grid lg:grid-cols-2 gap-16">
+          <!-- Formulaire de contact -->
+          <div class="bg-white rounded-3xl p-8 shadow-lg">
+            <h2 class="text-2xl font-bold text-gray-800 mb-6">Envoyez-moi un message</h2>
+            
+            <form class="space-y-6" action="#" method="POST">
+              <div>
+                <label for="name" class="block text-sm font-medium text-gray-700 mb-2">
+                  Votre prénom <span class="text-red-400">*</span>
+                </label>
+                <input 
+                  type="text" 
+                  id="name" 
+                  name="name" 
+                  required
+                  class="w-full px-4 py-3 border border-blue-100 rounded-xl focus:ring-2 focus:ring-blue-200 focus:border-transparent bg-blue-50/30"
+                  placeholder="Marie, Sophie, Emma..."
+                />
+              </div>
+
+              <div>
+                <label for="email" class="block text-sm font-medium text-gray-700 mb-2">
+                  Votre email <span class="text-red-400">*</span>
+                </label>
+                <input 
+                  type="email" 
+                  id="email" 
+                  name="email" 
+                  required
+                  class="w-full px-4 py-3 border border-blue-100 rounded-xl focus:ring-2 focus:ring-blue-200 focus:border-transparent bg-blue-50/30"
+                  placeholder="votre@email.com"
+                />
+              </div>
+
+              <div>
+                <label for="subject" class="block text-sm font-medium text-gray-700 mb-2">
+                  Sujet
+                </label>
+                <select 
+                  id="subject" 
+                  name="subject"
+                  class="w-full px-4 py-3 border border-blue-100 rounded-xl focus:ring-2 focus:ring-blue-200 focus:border-transparent bg-blue-50/30"
+                >
+                  <option value="">Choisissez un sujet...</option>
+                  <option value="question-diy">Question sur un DIY</option>
+                  <option value="conseil-deco">Conseil déco</option>
+                  <option value="collaboration">Collaboration</option>
+                  <option value="suggestion">Suggestion d'article</option>
+                  <option value="autre">Autre</option>
+                </select>
+              </div>
+
+              <div>
+                <label for="message" class="block text-sm font-medium text-gray-700 mb-2">
+                  Votre message <span class="text-red-400">*</span>
+                </label>
+                <textarea 
+                  id="message" 
+                  name="message" 
+                  rows="5" 
+                  required
+                  class="w-full px-4 py-3 border border-blue-100 rounded-xl focus:ring-2 focus:ring-blue-200 focus:border-transparent bg-blue-50/30 resize-none"
+                  placeholder="Racontez-moi tout ! Plus vous êtes précise, mieux je pourrai vous aider 😊"
+                ></textarea>
+              </div>
+
+              <button 
+                type="submit"
+                class="w-full bg-blue-200 text-blue-900 font-semibold py-4 px-8 rounded-xl hover:bg-blue-250 transition-all transform hover:scale-105 shadow-lg"
+              >
+                <span class="mr-2">📨</span>
+                Envoyer mon message
+              </button>
+            </form>
+          </div>
+
+          <!-- Informations contact -->
+          <div class="space-y-8">
+            <!-- Réponse rapide -->
+            <div class="bg-pink-50/50 rounded-3xl p-8">
+              <div class="flex items-start space-x-4">
+                <div class="bg-pink-100 p-3 rounded-2xl">
+                  <span class="text-2xl">⚡</span>
+                </div>
+                <div>
+                  <h3 class="font-bold text-lg text-gray-800 mb-2">Réponse garantie</h3>
+                  <p class="text-gray-600">
+                    Je réponds personnellement à tous les messages dans les <strong>24h</strong> maximum. 
+                    Promis juré !
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Réseaux sociaux -->
+            <div class="bg-purple-50/50 rounded-3xl p-8">
+              <h3 class="font-bold text-lg text-gray-800 mb-6">Suivez-moi aussi sur</h3>
+              <div class="space-y-4">
+                <a href="https://instagram.com/cristallina.fr" 
+                   class="flex items-center space-x-4 p-4 bg-white rounded-2xl hover:bg-pink-50 transition-colors group">
+                  <div class="bg-pink-100 p-3 rounded-xl group-hover:bg-pink-200">
+                    <span class="text-xl">📸</span>
+                  </div>
+                  <div>
+                    <div class="font-medium text-gray-800">Instagram</div>
+                    <div class="text-sm text-gray-600">@cristallina.fr</div>
+                  </div>
+                </a>
+                
+                <a href="https://pinterest.com/cristallina_fr" 
+                   class="flex items-center space-x-4 p-4 bg-white rounded-2xl hover:bg-red-50 transition-colors group">
+                  <div class="bg-red-100 p-3 rounded-xl group-hover:bg-red-200">
+                    <span class="text-xl">📌</span>
+                  </div>
+                  <div>
+                    <div class="font-medium text-gray-800">Pinterest</div>
+                    <div class="text-sm text-gray-600">@cristallina_fr</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+
+            <!-- FAQ rapide -->
+            <div class="bg-blue-50/50 rounded-3xl p-8">
+              <h3 class="font-bold text-lg text-gray-800 mb-6">Questions fréquentes</h3>
+              <div class="space-y-4 text-sm">
+                <div>
+                  <div class="font-medium text-gray-700 mb-1">📦 Où acheter les produits de vos DIY ?</div>
+                  <div class="text-gray-600">Je détaille toujours mes sources dans chaque article !</div>
+                </div>
+                <div>
+                  <div class="font-medium text-gray-700 mb-1">💰 Acceptez-vous les collaborations ?</div>
+                  <div class="text-gray-600">Oui, si elles correspondent à mes valeurs et à ma ligne éditoriale.</div>
+                </div>
+                <div>
+                  <div class="font-medium text-gray-700 mb-1">🏠 Faites-vous du coaching déco ?</div>
+                  <div class="text-gray-600">Pas encore, mais c'est en projet pour 2026 !</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>

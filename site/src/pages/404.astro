@@ -1,0 +1,136 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+---
+
+<BaseLayout title="Page introuvable | Cristallina"
+            description="Oups ! Cette page n'existe pas. Retournez sur cristallina.fr pour découvrir nos conseils déco et lifestyle."
+            canonical="https://www.cristallina.fr/404"
+>
+  <Navbar />
+
+  <main class="pt-16">
+    <section class="py-20 min-h-screen flex items-center">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        
+        <!-- Illustration 404 -->
+        <div class="mb-12">
+          <div class="text-8xl mb-6">🏠</div>
+          <div class="text-6xl md:text-8xl font-bold text-blue-200 mb-4">404</div>
+        </div>
+
+        <!-- Message d'erreur -->
+        <div class="mb-12">
+          <h1 class="text-3xl md:text-4xl font-bold text-gray-800 mb-6">
+            Oups ! Cette page s'est <span class="text-blue-300">évaporée</span>
+          </h1>
+          
+          <p class="text-lg text-gray-600 max-w-2xl mx-auto mb-8">
+            On dirait que cette page a été aussi bien cachée qu'un objet déco dans un vide-grenier ! 
+            Elle n'existe plus ou n'a jamais existé. Mais ne t'inquiète pas, il y a plein d'autres 
+            trésors à découvrir sur le blog.
+          </p>
+        </div>
+
+        <!-- Actions suggérées -->
+        <div class="grid md:grid-cols-3 gap-6 mb-12">
+          <!-- Retour accueil -->
+          <div class="bg-blue-50/50 rounded-3xl p-8 hover:bg-blue-50 transition-colors">
+            <div class="text-4xl mb-4">🏡</div>
+            <h3 class="font-bold text-lg text-gray-800 mb-3">Retour à l'accueil</h3>
+            <p class="text-gray-600 text-sm mb-4">Découvrez mes derniers conseils déco et DIY</p>
+            <a href="/" class="inline-flex items-center text-blue-600 font-medium hover:text-blue-700">
+              <span class="mr-2">Accueil</span>
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+              </svg>
+            </a>
+          </div>
+
+          <!-- Guides déco -->
+          <div class="bg-pink-50/50 rounded-3xl p-8 hover:bg-pink-50 transition-colors">
+            <div class="text-4xl mb-4">✨</div>
+            <h3 class="font-bold text-lg text-gray-800 mb-3">Mes guides déco</h3>
+            <p class="text-gray-600 text-sm mb-4">Salon, chambre, cuisine... tous mes conseils</p>
+            <a href="/guides" class="inline-flex items-center text-pink-600 font-medium hover:text-pink-700">
+              <span class="mr-2">Explorer</span>
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+              </svg>
+            </a>
+          </div>
+
+          <!-- À propos -->
+          <div class="bg-purple-50/50 rounded-3xl p-8 hover:bg-purple-50 transition-colors">
+            <div class="text-4xl mb-4">💝</div>
+            <h3 class="font-bold text-lg text-gray-800 mb-3">Qui suis-je ?</h3>
+            <p class="text-gray-600 text-sm mb-4">Faisons connaissance autour de notre passion commune</p>
+            <a href="/a-propos" class="inline-flex items-center text-purple-600 font-medium hover:text-purple-700">
+              <span class="mr-2">Découvrir</span>
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        <!-- Recherche -->
+        <div class="bg-white rounded-3xl p-8 shadow-lg max-w-2xl mx-auto">
+          <h3 class="font-bold text-lg text-gray-800 mb-6">Ou cherchez ce que vous vouliez :</h3>
+          <div class="flex flex-col sm:flex-row gap-4">
+            <input 
+              type="search" 
+              placeholder="Chercher un article, un DIY, un conseil..." 
+              class="flex-1 px-4 py-3 border border-blue-100 rounded-xl focus:ring-2 focus:ring-blue-200 focus:border-transparent bg-blue-50/30"
+            />
+            <button 
+              type="button"
+              class="bg-blue-200 text-blue-900 font-semibold py-3 px-8 rounded-xl hover:bg-blue-250 transition-all"
+            >
+              <span class="mr-2">🔍</span>
+              Rechercher
+            </button>
+          </div>
+        </div>
+
+        <!-- Message personnalisé -->
+        <div class="mt-12 p-6 bg-blue-50/50 rounded-2xl max-w-2xl mx-auto">
+          <p class="text-blue-800 font-medium">
+            <strong>Psst...</strong> Si vous cherchiez quelque chose de précis, 
+            n'hésitez pas à <a href="/contact" class="underline hover:text-blue-600">me contacter</a> ! 
+            Je serai ravie de vous aider à trouver ce que vous cherchez 😊
+          </p>
+        </div>
+
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<script>
+  // Recherche simple côté client
+  document.addEventListener('DOMContentLoaded', function() {
+    const searchButton = document.querySelector('button[type="button"]');
+    const searchInput = document.querySelector('input[type="search"]');
+    
+    if (searchButton && searchInput) {
+      searchButton.addEventListener('click', function() {
+        const query = searchInput.value.trim();
+        if (query) {
+          // Rediriger vers une page de recherche ou faire une recherche
+          window.location.href = `/?search=${encodeURIComponent(query)}`;
+        }
+      });
+      
+      searchInput.addEventListener('keypress', function(e) {
+        if (e.key === 'Enter') {
+          searchButton.click();
+        }
+      });
+    }
+  });
+</script>

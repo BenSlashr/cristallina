@@ -1,0 +1,533 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+
+const title = "Salon Bohème : 11 Idées Déco Chic et Colorée";
+const description = "Adoptez le style bohème chic ! 11 idées déco avec textiles colorés, plantes exotiques, mobilier vintage et ambiance nomade authentique.";
+---
+
+<BaseLayout {title} {description} canonical="https://www.cristallina.fr/salon-boheme-deco-chic-coloree/">
+  <Navbar />
+  <main class="pt-16">
+    <article class="max-w-4xl mx-auto px-4 py-8">
+      <header class="mb-12">
+        <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-4 leading-tight">
+          Salon Bohème : 11 Idées Déco Chic et Colorée
+        </h1>
+        <p class="text-xl text-gray-600 mb-6 leading-relaxed">
+          Transformez votre salon en oasis bohème avec ces idées déco authentiques. 
+          Découvrez comment créer une ambiance nomade chic grâce aux textiles ethniques, 
+          aux plantes luxuriantes et au mobilier vintage.
+        </p>
+        <img 
+          src="/images/unsplash-bohemian-chic-living-room-colorful-textiles-1771177397.jpg" 
+          alt="Salon bohème avec tapis colorés, coussins ethniques et plantes verdoyantes" 
+          class="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg mb-8"
+        />
+      </header>
+
+      <!-- Sommaire -->
+      <div class="border-l-4 border-rose-300 pl-4 my-8 bg-rose-50 p-6 rounded-r-lg">
+        <h2 class="text-lg font-semibold text-gray-800 mb-3">Sommaire</h2>
+        <ul class="space-y-2 text-gray-700">
+          <li><a href="#esprit-nomade" class="hover:text-rose-600 transition-colors">1. L'esprit nomade authentique</a></li>
+          <li><a href="#textiles-ethniques" class="hover:text-rose-600 transition-colors">2. Textiles ethniques et colorés</a></li>
+          <li><a href="#vegetation-luxuriante" class="hover:text-rose-600 transition-colors">3. Végétation luxuriante</a></li>
+          <li><a href="#mix-match" class="hover:text-rose-600 transition-colors">4. L'art du mix & match</a></li>
+          <li><a href="#faq" class="hover:text-rose-600 transition-colors">5. Questions fréquentes</a></li>
+        </ul>
+      </div>
+
+      <!-- Introduction -->
+      <section class="mb-12">
+        <p class="text-lg text-gray-700 mb-6 leading-relaxed">
+          Le style bohème incarne la liberté créative et l'authenticité. Né de l'esprit nomade 
+          et des influences multiculturelles, ce style décoratif transforme votre salon en 
+          sanctuaire artistique où règnent couleurs vibrantes, textures naturelles et objets 
+          du monde entier.
+        </p>
+        
+        <div class="bg-amber-50 border-l-4 border-amber-400 p-6 my-8 rounded-r-lg">
+          <div class="flex">
+            <div class="ml-3">
+              <p class="text-sm text-amber-800">
+                <strong>💡 Conseil d'expert :</strong> Le secret d'un salon bohème réussi réside 
+                dans l'équilibre entre abondance visuelle et harmonie colorée. Chaque élément 
+                doit raconter une histoire tout en participant à l'ensemble.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <p class="text-lg text-gray-700 mb-6 leading-relaxed">
+          Contrairement aux idées reçues, créer un salon bohème ne signifie pas accumuler 
+          sans réfléchir. Cette esthétique demande une véritable curation d'objets authentiques, 
+          de textiles choisis et d'éléments naturels soigneusement orchestrés pour créer 
+          une atmosphère à la fois décontractée et sophistiquée.
+        </p>
+      </section>
+
+      <!-- Section 1: Esprit nomade -->
+      <section id="esprit-nomade" class="mb-12">
+        <h2 class="text-3xl font-bold text-gray-900 mb-6">L'Esprit Nomade Authentique</h2>
+        
+
+        <h3 class="text-2xl font-semibold text-gray-800 mb-4">1. Objets de voyage et souvenirs du monde</h3>
+        <p class="text-gray-700 mb-6 leading-relaxed">
+          La première règle du salon bohème consiste à intégrer des objets authentiques 
+          rapportés de voyages ou chinés dans les brocantes. Masques africains, poteries 
+          marocaines, tissages péruviens ou sculptures balinaises apportent cette dimension 
+          nomade si caractéristique du style. Disposez-les sur des étagères asymétriques 
+          ou créez des compositions murales qui racontent vos aventures.
+        </p>
+
+        <h3 class="text-2xl font-semibold text-gray-800 mb-4">2. Mobilier vintage et récupération créative</h3>
+        <p class="text-gray-700 mb-6 leading-relaxed">
+          Le mobilier bohème privilégie les pièces vintages aux lignes organiques. 
+          Fauteuils en rotin des années 70, table basse en bois flotté, coffre de voyage 
+          transformé en table d'appoint... Chaque meuble doit avoir vécu et porter les 
+          traces du temps. N'hésitez pas à mélanger les époques : un canapé Chesterfield 
+          en velours côtoie parfaitement des poufs marocains en cuir patiné.
+        </p>
+
+        <div class="bg-blue-50 border-l-4 border-blue-400 p-6 my-8 rounded-r-lg">
+          <div class="flex">
+            <div class="ml-3">
+              <p class="text-sm text-blue-800">
+                <strong>ℹ️ À savoir :</strong> Les marchés aux puces regorgent de trésors 
+                bohèmes authentiques. Privilégiez les pièces uniques aux reproductions 
+                industrielles pour préserver l'âme nomade de votre décoration.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <h3 class="text-2xl font-semibold text-gray-800 mb-4">3. Éclairage tamisé et atmosphérique</h3>
+        <p class="text-gray-700 mb-6 leading-relaxed">
+          L'éclairage bohème fuit les néons agressifs au profit d'une lumière douce et 
+          chaleureuse. Suspensions en macramé, lanternes orientales en métal ajouré, 
+          guirlandes lumineuses délicates et bougies parfumées créent cette ambiance 
+          feutrée si propice à la détente. Multipliez les sources lumineuses à hauteur 
+          variable pour sculpter l'espace et créer des zones d'intimité.
+        </p>
+      </section>
+
+      <!-- Section 2: Textiles ethniques -->
+      <section id="textiles-ethniques" class="mb-12">
+        <h2 class="text-3xl font-bold text-gray-900 mb-6">Textiles Ethniques et Colorés</h2>
+        
+
+        <h3 class="text-2xl font-semibold text-gray-800 mb-4">4. Tapis persans et kilims vintage</h3>
+        <p class="text-gray-700 mb-6 leading-relaxed">
+          Le tapis constitue l'ancrage visuel du salon bohème. Optez pour un grand kilim 
+          aux motifs géométriques ou un tapis persan aux nuances fanées par le temps. 
+          Ces pièces textiles apportent instantanément chaleur et caractère à l'espace. 
+          N'hésitez pas à superposer plusieurs tapis de tailles différentes pour créer 
+          un effet de profondeur et délimiter les zones de votre salon.
+        </p>
+
+        <p class="text-gray-700 mb-6 leading-relaxed">
+          Pour un budget plus restreint, les reproductions de qualité offrent une 
+          alternative intéressante. Choisissez des modèles aux fibres naturelles 
+          (laine, jute, coton) qui vieilliront mieux et conserveront cet aspect 
+          authentique recherché dans le style bohème.
+        </p>
+
+        <h3 class="text-2xl font-semibold text-gray-800 mb-4">5. Coussins ethniques et accumulation maîtrisée</h3>
+        <p class="text-gray-700 mb-6 leading-relaxed">
+          L'accumulation de coussins constitue la signature du salon bohème. Mélangez 
+          formats, textures et provenances : coussins berbères aux pompons colorés, 
+          housses en ikat ouzbek, broderies indiennes ou tissages guatémaltèques. 
+          La règle d'or ? Respecter une palette colorée cohérente malgré la diversité 
+          des motifs pour éviter l'effet "bazar".
+        </p>
+
+        <div class="bg-purple-50 border-l-4 border-purple-400 p-6 my-8 rounded-r-lg">
+          <div class="flex">
+            <div class="ml-3">
+              <p class="text-sm text-purple-800">
+                <strong>⚠️ Important :</strong> Pour harmoniser vos textiles bohèmes, 
+                choisissez une couleur dominante (terracotta, indigo, ocre) et déclinez-la 
+                en différentes intensités à travers vos coussins et plaids.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <h3 class="text-2xl font-semibold text-gray-800 mb-4">6. Tentures murales et macramé</h3>
+        <p class="text-gray-700 mb-6 leading-relaxed">
+          Les murs du salon bohème se parent de textiles suspendus. Tapisseries vintage, 
+          macramés en corde naturelle ou tissages contemporains apportent texture et 
+          verticalité à la décoration. Ces éléments adoucissent l'acoustique de la pièce 
+          tout en créant un cocon visuel protecteur. Disposez-les de manière asymétrique 
+          pour préserver l'esprit décontracté du style.
+        </p>
+
+        <p class="text-gray-700 mb-6 leading-relaxed">
+          Pour créer votre propre tenture, explorez les marchés aux textiles ethniques 
+          ou lancez-vous dans la confection de macramé. Cette approche DIY renforce 
+          l'authenticité de votre décoration et vous permet de personnaliser entièrement 
+          votre espace selon vos goûts et votre budget.
+        </p>
+      </section>
+
+      <!-- Section 3: Végétation luxuriante -->
+      <section id="vegetation-luxuriante" class="mb-12">
+        <h2 class="text-3xl font-bold text-gray-900 mb-6">Végétation Luxuriante</h2>
+        
+
+        <h3 class="text-2xl font-semibold text-gray-800 mb-4">7. Plantes exotiques et jungle d'intérieur</h3>
+        <p class="text-gray-700 mb-6 leading-relaxed">
+          Le salon bohème cultive son côté jungle urbaine avec une végétation abondante. 
+          Monstera aux feuilles découpées, ficus lyrata majestueux, palmiers d'intérieur 
+          ou collections de cactus graphiques transforment l'espace en oasis verdoyante. 
+          Ces plantes apportent fraîcheur, purification de l'air et cette connexion à 
+          la nature si chère au mouvement bohème.
+        </p>
+
+        <p class="text-gray-700 mb-6 leading-relaxed">
+          Variez les hauteurs en utilisant des supports en macramé suspendus, des 
+          sellettes vintage et des cache-pots posés au sol. Cette diversité de niveaux 
+          crée un effet de profondeur et imite l'organisation naturelle d'une forêt 
+          tropicale. N'oubliez pas de tenir compte de la luminosité de votre salon 
+          pour choisir des espèces adaptées.
+        </p>
+
+        <div class="bg-green-50 border-l-4 border-green-400 p-6 my-8 rounded-r-lg">
+          <div class="flex">
+            <div class="ml-3">
+              <p class="text-sm text-green-800">
+                <strong>⚠️ Attention :</strong> Certaines plantes bohèmes populaires comme 
+                les ficus ou les dracaenas sont toxiques pour les animaux domestiques. 
+                Vérifiez la compatibilité avant l'adoption si vous avez des compagnons 
+                à quatre pattes.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <h3 class="text-2xl font-semibold text-gray-800 mb-4">8. Cache-pots artisanaux et contenants détournés</h3>
+        <p class="text-gray-700 mb-6 leading-relaxed">
+          Les plantes bohèmes s'épanouissent dans des contenants aux histoires singulières. 
+          Paniers en osier tressé, poteries en terre cuite patinée, jarres en grès ancien 
+          ou même valises vintage transformées en jardinières apportent ce cachet artisanal 
+          recherché. Ces contenants racontent une histoire et personnalisent votre jungle 
+          d'intérieur bien au-delà du simple aspect fonctionnel.
+        </p>
+
+        <p class="text-gray-700 mb-6 leading-relaxed">
+          Pensez aussi aux <a href="/plantes-interieur-deco/" class="text-rose-600 hover:text-rose-700 underline">
+          plantes d'intérieur déco</a> suspendues dans des cache-pots en macramé. 
+          Cette technique libère l'espace au sol tout en créant des points d'intérêt 
+          visuels en hauteur. Pothos retombants, chaînes de cœur ou misères colorées 
+          excellent dans ce type de présentation.
+        </p>
+      </section>
+
+      <!-- Section 4: Mix & Match -->
+      <section id="mix-match" class="mb-12">
+        <h2 class="text-3xl font-bold text-gray-900 mb-6">L'Art du Mix & Match</h2>
+        
+
+        <h3 class="text-2xl font-semibold text-gray-800 mb-4">9. Harmoniser les couleurs sans uniformiser</h3>
+        <p class="text-gray-700 mb-6 leading-relaxed">
+          Le défi du salon bohème réside dans sa capacité à marier couleurs vives et 
+          motifs complexes sans créer de cacophonie visuelle. Adoptez la règle des 
+          trois couleurs principales : choisissez une teinte dominante (terracotta, 
+          indigo profond, vert olive), une couleur secondaire pour les accents et 
+          une couleur neutre pour équilibrer l'ensemble.
+        </p>
+
+        <p class="text-gray-700 mb-6 leading-relaxed">
+          Les tons chauds (ocre, safran, brique) s'accordent naturellement avec les 
+          matières brutes du style bohème. Ils réchauffent l'atmosphère et créent 
+          cette sensation de cocon protecteur. Ponctuez cette base avec des touches 
+          de couleurs plus vives (turquoise, fuchsia, violet) pour dynamiser l'espace 
+          sans l'alourdir.
+        </p>
+
+        <h3 class="text-2xl font-semibold text-gray-800 mb-4">10. Textures naturelles et contrastes tactiles</h3>
+        <p class="text-gray-700 mb-6 leading-relaxed">
+          La richesse du salon bohème s'exprime aussi through les textures. Associez 
+          le lin froissé des rideaux, le velours patiné d'un fauteuil ancien, la 
+          rugosité d'un tapis berbère et la douceur d'un plaid en alpaga. Ces contrastes 
+          tactiles enrichissent l'expérience sensorielle et invitent au toucher, 
+          caractéristique essentielle du style bohème.
+        </p>
+
+        <p class="text-gray-700 mb-6 leading-relaxed">
+          N'oubliez pas d'intégrer des matières brutes comme le bois flotté, la corde 
+          de jute ou la céramique artisanale. Ces éléments naturels ancrent votre 
+          décoration dans cette philosophie bohème qui célèbre l'authenticité et 
+          refuse l'artificiel. Ils apportent aussi cette patine temporelle qui fait 
+          le charme des intérieurs nomades.
+        </p>
+
+        <h3 class="text-2xl font-semibold text-gray-800 mb-4">11. Créer des coins intimistes et des zones de repos</h3>
+        <p class="text-gray-700 mb-6 leading-relaxed">
+          Le salon bohème privilégie les espaces modulables et les assises variées. 
+          Créez un coin lecture avec des coussins de sol genereux, installez une 
+          zone méditation avec un tapis de yoga artisanal, aménagez un espace détente 
+          avec des poufs empilables. Cette flexibilité permet d'adapter l'espace 
+          aux envies du moment et à la vie sociale spontanée chère aux bohèmes.
+        </p>
+
+        <p class="text-gray-700 mb-6 leading-relaxed">
+          Explorez aussi l'art du layering avec les <a href="/textiles-maison-cosy/" class="text-rose-600 hover:text-rose-700 underline">
+          textiles maison cosy</a> pour créer ces coins intimistes. Superposez plaids, 
+          coussins et tapis pour délimiter naturellement les espaces sans cloisonner. 
+          Cette technique permet de transformer un grand salon en collection de petits 
+          salons thématiques selon les activités.
+        </p>
+
+        <div class="bg-orange-50 border-l-4 border-orange-400 p-6 my-8 rounded-r-lg">
+          <div class="flex">
+            <div class="ml-3">
+              <p class="text-sm text-orange-800">
+                <strong>💡 Astuce déco :</strong> Pour unifier un salon bohème très coloré, 
+                introduisez des éléments métalliques (laiton vieilli, cuivre patiné) 
+                qui font le lien entre toutes les couleurs et apportent des reflets 
+                chaleureux à l'ensemble.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Conseils pratiques -->
+      <section class="mb-12">
+        <h2 class="text-3xl font-bold text-gray-900 mb-6">Conseils Pratiques pour Réussir</h2>
+        
+        <div class="grid md:grid-cols-2 gap-8">
+          <div class="bg-gray-50 p-6 rounded-lg">
+            <h3 class="text-xl font-semibold text-gray-800 mb-4">Budget malin</h3>
+            <ul class="space-y-2 text-gray-700">
+              <li>• Privilégiez les brocantes aux magasins de décoration</li>
+              <li>• Customisez vos meubles existants avec des tissus ethniques</li>
+              <li>• Fabriquez vos macramés et suspensions végétales</li>
+              <li>• Échangez avec d'autres passionnés lors de trocs déco</li>
+            </ul>
+          </div>
+          
+          <div class="bg-gray-50 p-6 rounded-lg">
+            <h3 class="text-xl font-semibold text-gray-800 mb-4">Éviter les pièges</h3>
+            <ul class="space-y-2 text-gray-700">
+              <li>• Ne surchargez pas : laissez respirer chaque objet</li>
+              <li>• Respectez une palette colorée cohérente</li>
+              <li>• Variez les hauteurs pour créer du rythme</li>
+              <li>• Intégrez des zones de repos pour l'œil</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <!-- FAQ -->
+      <section id="faq" class="mb-12">
+        <h2 class="text-3xl font-bold text-gray-900 mb-8">Questions Fréquentes</h2>
+        
+        <div class="space-y-6">
+          <div class="bg-gray-50 p-6 rounded-lg">
+            <h3 class="text-xl font-semibold text-gray-800 mb-3">
+              Comment débuter un salon bohème avec un petit budget ?
+            </h3>
+            <p class="text-gray-700">
+              Commencez par les textiles qui ont le plus d'impact visuel : un grand tapis 
+              vintage, quelques coussins ethniques et des plaids colorés transforment 
+              instantanément l'ambiance. Ajoutez progressivement des plantes vertes et 
+              des objets chinés pour enrichir la décoration sans vous ruiner.
+            </p>
+          </div>
+
+          <div class="bg-gray-50 p-6 rounded-lg">
+            <h3 class="text-xl font-semibold text-gray-800 mb-3">
+              Le style bohème convient-il aux petits espaces ?
+            </h3>
+            <p class="text-gray-700">
+              Absolument ! Dans un petit salon, privilégiez les couleurs claires et 
+              les miroirs pour agrandir visuellement l'espace. Utilisez la verticalité 
+              avec des étagères asymétriques et des plantes suspendues. L'accumulation 
+              de petits objets peut créer une richesse visuelle même dans un espace 
+              restreint.
+            </p>
+          </div>
+
+          <div class="bg-gray-50 p-6 rounded-lg">
+            <h3 class="text-xl font-semibold text-gray-800 mb-3">
+              Peut-on associer le bohème avec d'autres styles déco ?
+            </h3>
+            <p class="text-gray-700">
+              Le style bohème se marie parfaitement avec le style industriel (métal 
+              brut et textiles colorés), le scandinave (bois clair et accumulation 
+              textile) ou encore l'ethnique chic. La clé réside dans l'équilibre : 
+              conservez l'esprit libre du bohème tout en intégrant les codes de 
+              l'autre style choisi.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Articles similaires -->
+      <section class="mb-12">
+        <h2 class="text-3xl font-bold text-gray-900 mb-6">Articles Similaires</h2>
+        <div class="grid md:grid-cols-3 gap-6">
+          <article class="bg-white border border-gray-200 rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow">
+            <div class="p-4">
+              <h3 class="font-semibold text-gray-900 mb-2">
+                <a href="/textiles-maison-cosy/" class="hover:text-rose-600 transition-colors">
+                  Textiles Maison Cosy : Guide Complet
+                </a>
+              </h3>
+              <p class="text-gray-600 text-sm">Découvrez comment créer une ambiance chaleureuse avec les bons textiles.</p>
+            </div>
+          </article>
+          
+          <article class="bg-white border border-gray-200 rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow">
+            <div class="p-4">
+              <h3 class="font-semibold text-gray-900 mb-2">
+                <a href="/plantes-interieur-deco/" class="hover:text-rose-600 transition-colors">
+                  Plantes d'Intérieur Déco : 15 Variétés
+                </a>
+              </h3>
+              <p class="text-gray-600 text-sm">Les meilleures plantes pour transformer votre intérieur en jungle urbaine.</p>
+            </div>
+          </article>
+          
+          <article class="bg-white border border-gray-200 rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow">
+            <div class="p-4">
+              <h3 class="font-semibold text-gray-900 mb-2">
+                <a href="/couleurs-salon-tendance/" class="hover:text-rose-600 transition-colors">
+                  Couleurs Salon 2024 : Tendances
+                </a>
+              </h3>
+              <p class="text-gray-600 text-sm">Les palettes colorées qui font sensation cette année dans le salon.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Conclusion -->
+      <section class="mb-8">
+        <h2 class="text-3xl font-bold text-gray-900 mb-6">En Résumé</h2>
+        <p class="text-lg text-gray-700 mb-6 leading-relaxed">
+          Le salon bohème représente bien plus qu'un style décoratif : c'est une 
+          philosophie de vie qui célèbre la liberté créative, l'authenticité et 
+          l'ouverture sur le monde. En suivant ces 11 idées déco, vous transformerez 
+          votre espace de vie en sanctuaire artistique où règnent couleurs, textures 
+          et souvenirs de voyage.
+        </p>
+        
+        <p class="text-lg text-gray-700 mb-6 leading-relaxed">
+          N'oubliez pas que le plus beau des salons bohèmes est celui qui vous ressemble. 
+          Laissez parler votre créativité, collectionnez les objets qui vous émeuvent 
+          et créez un espace unique qui raconte votre histoire personnelle. L'esprit 
+          bohème se nourrit de cette authenticité et de cette liberté d'expression 
+          qui font de chaque intérieur une œuvre d'art vivante.
+        </p>
+      </section>
+    </article>
+  </main>
+  <Footer />
+</BaseLayout>
+
+<style>
+  /* Styles spécifiques pour l'article bohème */
+  article {
+    line-height: 1.7;
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+  
+  /* Amélioration de la lisibilité */
+  p {
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Style pour les liens internes */
+  a[href^="/"] {
+    color: #e11d48;
+    text-decoration: underline;
+    transition: color 0.2s ease;
+  }
+  
+  a[href^="/"]:hover {
+    color: #be185d;
+  }
+  
+  /* Style pour les callouts */
+  .bg-amber-50 {
+    background-color: #fffbeb;
+  }
+  
+  .bg-blue-50 {
+    background-color: #eff6ff;
+  }
+  
+  .bg-purple-50 {
+    background-color: #faf5ff;
+  }
+  
+  .bg-green-50 {
+    background-color: #f0fdf4;
+  }
+  
+  .bg-orange-50 {
+    background-color: #fff7ed;
+  }
+  
+  /* Animation douce pour les images */
+  img {
+    transition: transform 0.3s ease;
+  }
+  
+  img:hover {
+    transform: scale(1.02);
+  }
+  
+  /* Responsive design pour mobile */
+  @media (max-width: 768px) {
+    .grid {
+      grid-template-columns: 1fr;
+    }
+    
+    h1 {
+      font-size: 2.25rem;
+    }
+    
+    h2 {
+      font-size: 1.875rem;
+    }
+    
+    h3 {
+      font-size: 1.5rem;
+    }
+  }
+  
+  /* Style pour la grille d'articles similaires */
+  .grid-cols-3 > article {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .grid-cols-3 > article:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Amélioration du sommaire */
+  .border-l-4.border-rose-300 {
+    border-left-color: #fda4af;
+    background: linear-gradient(to right, #fdf2f8, #fef7f7);
+  }
+  
+  /* Style pour les sections FAQ */
+  .space-y-6 > div {
+    transition: background-color 0.2s ease;
+  }
+  
+  .space-y-6 > div:hover {
+    background-color: #f8fafc;
+  }
+</style>
