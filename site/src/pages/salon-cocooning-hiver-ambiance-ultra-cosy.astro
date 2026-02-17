@@ -3,9 +3,23 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Salon Cocooning Hiver : 15 Astuces pour une Ambiance Ultra-Cosy";
 const description = "Créez votre cocon hivernal ! 15 astuces déco pour un salon ultra-cosy : textiles douillets, éclairage tamisé et couleurs chaudes.";
+
+const pageSlug = 'salon-cocooning-hiver-ambiance-ultra-cosy';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/salon-cocooning-hiver-ambiance-ultra-cosy/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Salon', url: '/guides/decoration' },
+  { name: title, url: '/salon-cocooning-hiver-ambiance-ultra-cosy/' },
+]);
+
 ---
 
 <BaseLayout title={title} description={description}>
@@ -37,7 +51,7 @@ const description = "Créez votre cocon hivernal ! 15 astuces déco pour un salo
           src="/images/unsplash-salon-cocooning-hiver-ambiance-cosy-placeholder.jpg" 
           alt="Salon cocooning d'hiver avec ambiance chaleureuse et cosy"
           class="w-full h-64 md:h-96 object-cover"
-        />
+         width="1200" height="675" loading="eager" decoding="async" />
       </div>
 
       <!-- Introduction -->
@@ -72,7 +86,7 @@ const description = "Créez votre cocon hivernal ! 15 astuces déco pour un salo
             </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771228635722.jpg" alt="Salon cocooning hivernal avec plaids et coussins moelleux" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771228635722.jpg" alt="Salon cocooning hivernal avec plaids et coussins moelleux" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
             <p class="text-slate-300 leading-relaxed">
@@ -113,7 +127,7 @@ const description = "Créez votre cocon hivernal ! 15 astuces déco pour un salo
             </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231414252.jpg" alt="Ambiance hygge dans un salon aux tons chauds" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231414252.jpg" alt="Ambiance hygge dans un salon aux tons chauds" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
             <p class="text-slate-300 leading-relaxed">
@@ -161,7 +175,7 @@ const description = "Créez votre cocon hivernal ! 15 astuces déco pour un salo
             </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231402218.jpg" alt="Salon cosy avec tapis epais et eclairage tamisé" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231402218.jpg" alt="Salon cosy avec tapis epais et eclairage tamisé" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
             <p class="text-slate-300 leading-relaxed">
@@ -202,7 +216,7 @@ const description = "Créez votre cocon hivernal ! 15 astuces déco pour un salo
             </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231404377.jpg" alt="Coin lecture douillet avec fauteuil et couverture" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231404377.jpg" alt="Coin lecture douillet avec fauteuil et couverture" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
             <p class="text-slate-300 leading-relaxed">
@@ -250,7 +264,7 @@ const description = "Créez votre cocon hivernal ! 15 astuces déco pour un salo
             </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231944944.jpg" alt="Decoration salon naturel chic avec materiaux bruts" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231944944.jpg" alt="Decoration salon naturel chic avec materiaux bruts" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
             <p class="text-slate-300 leading-relaxed">

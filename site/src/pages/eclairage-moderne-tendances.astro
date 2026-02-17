@@ -3,16 +3,42 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Éclairage Moderne : 10 Tendances pour Sublimer votre Intérieur";
 const description = "Découvrez les dernières tendances d'éclairage moderne ! LED connecté, luminaires sculpturaux, éclairage naturel... 10 idées pour transformer votre décoration intérieure.";
+
+const pageSlug = 'eclairage-moderne-tendances';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/eclairage-moderne-tendances/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Eclairage', url: '/guides/decoration' },
+  { name: title, url: '/eclairage-moderne-tendances/' },
+]);
+
 ---
 
-<BaseLayout {title} {description} canonical="https://www.cristallina.fr/eclairage-moderne-tendances/">
+<BaseLayout {title} {description}
+  jsonLd={[schemaArticle, schemaBreadcrumb]}
+>
   <Navbar />
   
   <main class="pt-16">
     <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      
+      <!-- Breadcrumb -->
+      <nav class="flex items-center gap-2 text-sm mb-6" style="color: #B5B5B5;" aria-label="Fil d'ariane">
+        <a href="/" class="hover:text-rose-400 transition-colors">Accueil</a>
+        <span>/</span>
+        <a href="/guides/decoration" class="hover:text-rose-400 transition-colors">Eclairage</a>
+        <span>/</span>
+        <span style="color: #8B8B8B;">{title}</span>
+      </nav>
+
       <header class="mb-8">
         <h1 class="text-3xl md:text-4xl title-elegant mb-4">{title}</h1>
         <p class="text-lg mb-6" style="color: #8B8B8B;">{description}</p>
@@ -27,7 +53,7 @@ const description = "Découvrez les dernières tendances d'éclairage moderne ! 
           <p>L'éclairage, c'est l'âme de ta maison ! Plus qu'une simple fonction pratique, c'est ce qui va créer l'ambiance, mettre en valeur ta déco et transformer complètement l'atmosphère de tes pièces. En 2026, l'éclairage moderne révolutionne nos intérieurs avec des technologies innovantes et des designs époustouflants.</p>
 
           <div class="my-8">
-            <img src="/images/unsplash-modern-led-lighting-interior-design-contemporary-1771175613.jpg" alt="Éclairage moderne dans salon contemporain" class="w-full rounded-lg shadow-soft" />
+            <img src="/images/unsplash-modern-led-lighting-interior-design-contemporary-1771175613.jpg" alt="Éclairage moderne dans salon contemporain" class="w-full rounded-lg shadow-soft"  width="1200" height="675" loading="eager" decoding="async" />
             <p class="text-xs text-center mt-2" style="color: #B5B5B5;">L'éclairage moderne transforme complètement l'ambiance d'un espace</p>
           </div>
 
@@ -82,7 +108,7 @@ const description = "Découvrez les dernières tendances d'éclairage moderne ! 
           </div>
 
           <div class="my-8">
-            <img src="/images/unsplash-modern-lighting-led-strips-1775621903.jpg" alt="Éclairage LED moderne avec rubans lumineux" class="w-full rounded-lg shadow-soft" />
+            <img src="/images/unsplash-modern-lighting-led-strips-1775621903.jpg" alt="Éclairage LED moderne avec rubans lumineux" class="w-full rounded-lg shadow-soft"  width="1200" height="675" loading="lazy" decoding="async" />
             <p class="text-xs text-center mt-2" style="color: #B5B5B5;">Les rubans LED créent une ambiance moderne et chaleureuse</p>
           </div>
 
@@ -111,7 +137,7 @@ const description = "Découvrez les dernières tendances d'éclairage moderne ! 
           <p>Plus original : les lampadaires à éclairage indirect qui projettent la lumière au plafond. L'effet est magique, surtout avec un variateur ! Le lampadaire IKEA Not (20€) est parfait pour débuter, et tu peux customiser l'abat-jour.</p>
 
           <div class="my-8">
-            <img src="/images/unsplash-modern-lighting-sculptural-1775621916.jpg" alt="Luminaires sculpturaux modernes dans salon design" class="w-full rounded-lg shadow-soft" />
+            <img src="/images/unsplash-modern-lighting-sculptural-1775621916.jpg" alt="Luminaires sculpturaux modernes dans salon design" class="w-full rounded-lg shadow-soft"  width="1200" height="675" loading="lazy" decoding="async" />
             <p class="text-xs text-center mt-2" style="color: #B5B5B5;">Les luminaires sculpturaux deviennent de véritables œuvres d'art</p>
           </div>
 
@@ -164,7 +190,7 @@ const description = "Découvrez les dernières tendances d'éclairage moderne ! 
           <p>L'éclairage d'ambiance reste important : une lampe d'appoint derrière ton écran (bias lighting) réduit les contrastes et repose tes yeux. Un simple ruban LED blanc froid (10€) fait l'affaire !</p>
 
           <div class="my-8">
-            <img src="/images/unsplash-modern-lighting-workspace-1775621929.jpg" alt="Éclairage moderne dans espace de travail" class="w-full rounded-lg shadow-soft" />
+            <img src="/images/unsplash-modern-lighting-workspace-1775621929.jpg" alt="Éclairage moderne dans espace de travail" class="w-full rounded-lg shadow-soft"  width="1200" height="675" loading="lazy" decoding="async" />
             <p class="text-xs text-center mt-2" style="color: #B5B5B5;">Un éclairage bien pensé améliore le confort et la productivité</p>
           </div>
 
@@ -208,7 +234,7 @@ const description = "Découvrez les dernières tendances d'éclairage moderne ! 
           <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
             <a href="/decoration-salon-naturel-chic/" class="group bg-white rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 overflow-hidden border border-rose-100">
               <div class="aspect-[16/9] overflow-hidden">
-                <img src="/images/unsplash-natural-linen-living-room-decor-1771167640.jpg" alt="Salon naturel chic" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
+                <img src="/images/unsplash-natural-linen-living-room-decor-1771167640.jpg" alt="Salon naturel chic" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"  width="1200" height="675" loading="lazy" decoding="async" />
               </div>
               <div class="p-6">
                 <div class="flex items-center gap-2 mb-3">
@@ -226,7 +252,7 @@ const description = "Découvrez les dernières tendances d'éclairage moderne ! 
             </a>
             <a href="/amenager-chambre-cocooning/" class="group bg-white rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 overflow-hidden border border-rose-100">
               <div class="aspect-[16/9] overflow-hidden">
-                <img src="/images/unsplash-cozy-bedroom-lighting-1775621942.jpg" alt="Chambre cocooning avec éclairage doux" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
+                <img src="/images/unsplash-cozy-bedroom-lighting-1775621942.jpg" alt="Chambre cocooning avec éclairage doux" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"  width="1200" height="675" loading="lazy" decoding="async" />
               </div>
               <div class="p-6">
                 <div class="flex items-center gap-2 mb-3">
@@ -257,7 +283,7 @@ const description = "Découvrez les dernières tendances d'éclairage moderne ! 
           </div>
           <div class="space-y-4">
             <a href="/salle-de-bain-cosy/" class="flex items-center p-4 bg-white rounded-xl border border-gray-100 hover:border-indigo-200 hover:shadow-md transition-all duration-300 group">
-              <img src="/images/unsplash-cozy-bathroom-spa-lighting-1771167669.jpg" alt="Salle de bain cosy" class="w-16 h-16 object-cover rounded-lg flex-shrink-0 mr-4" />
+              <img src="/images/unsplash-cozy-bathroom-spa-lighting-1771167669.jpg" alt="Salle de bain cosy" class="w-16 h-16 object-cover rounded-lg flex-shrink-0 mr-4"  width="1200" height="675" loading="lazy" decoding="async" />
               <div class="flex-grow">
                 <h3 class="font-medium text-gray-800 group-hover:text-indigo-700 transition-colors mb-1">Salle de Bain Cosy : 15 Astuces pour un Espace Cocoon</h3>
                 <p class="text-sm text-gray-600 mb-2">Transformez votre salle de bain en refuge cosy avec nos conseils déco et éclairage.</p>
@@ -268,7 +294,7 @@ const description = "Découvrez les dernières tendances d'éclairage moderne ! 
               </div>
             </a>
             <a href="/style-industriel-moderne/" class="flex items-center p-4 bg-white rounded-xl border border-gray-100 hover:border-indigo-200 hover:shadow-md transition-all duration-300 group">
-              <img src="/images/unsplash-industrial-modern-lighting-1775621955.jpg" alt="Style industriel moderne" class="w-16 h-16 object-cover rounded-lg flex-shrink-0 mr-4" />
+              <img src="/images/unsplash-industrial-modern-lighting-1775621955.jpg" alt="Style industriel moderne" class="w-16 h-16 object-cover rounded-lg flex-shrink-0 mr-4"  width="1200" height="675" loading="lazy" decoding="async" />
               <div class="flex-grow">
                 <h3 class="font-medium text-gray-800 group-hover:text-indigo-700 transition-colors mb-1">Style Industriel Moderne : Tendances et Inspirations 2026</h3>
                 <p class="text-sm text-gray-600 mb-2">Adoptez le style industriel moderne avec éclairage métallique et matières brutes sublimées.</p>

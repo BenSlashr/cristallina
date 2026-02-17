@@ -1,7 +1,22 @@
 ---
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
+
 const title = "Plantes d'Intérieur : 15 Variétés Déco pour Purifier l'Air";
 const description = "Découvrez les meilleures plantes d'intérieur décoratives qui purifient l'air de votre maison. Guide complet pour choisir, entretenir et disposer vos plantes vertes.";
 const canonical = "https://www.cristallina.fr/plantes-interieur-deco/";
+
+const pageSlug = 'plantes-interieur-deco';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/plantes-interieur-deco/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Plantes', url: '/guides/decoration' },
+  { name: title, url: '/plantes-interieur-deco/' },
+]);
+
 ---
 
 <html lang="fr">
@@ -11,6 +26,12 @@ const canonical = "https://www.cristallina.fr/plantes-interieur-deco/";
     <title>{title}</title>
     <meta name="description" content={description}>
     <link rel="canonical" href={canonical}>
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:site_name" content="Cristallina" />
+    <script type="application/ld+json" set:html={JSON.stringify(schemaArticle)} />
+    <script type="application/ld+json" set:html={JSON.stringify(schemaBreadcrumb)} />
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -289,7 +310,7 @@ const canonical = "https://www.cristallina.fr/plantes-interieur-deco/";
             Transformez votre intérieur en oasis naturelle avec ces plantes dépolluantes aux vertus décoratives exceptionnelles.
         </p>
         
-        <img src="/images/unsplash-indoor-plants-hero.jpg" alt="Salon moderne avec diverses plantes d'intérieur purifiantes" class="hero-image">
+        <img src="/images/unsplash-indoor-plants-hero.jpg" alt="Salon moderne avec diverses plantes d'intérieur purifiantes" class="hero-image" width="1200" height="675" loading="eager" decoding="async">
         
         <div class="toc">
             <h2>Sommaire</h2>
@@ -321,19 +342,19 @@ const canonical = "https://www.cristallina.fr/plantes-interieur-deco/";
         
         <div class="plant-grid">
             <div class="plant-card">
-                <img src="/images/unsplash-indoor-plants-sansevieria.jpg" alt="Sansevieria dans pot moderne">
+                <img src="/images/unsplash-indoor-plants-sansevieria.jpg" alt="Sansevieria dans pot moderne" width="1200" height="675" loading="lazy" decoding="async">
                 <h4>1. Sansevieria (Langue de belle-mère)</h4>
                 <p>Cette plante robuste excelle dans l'absorption du formaldéhyde et du benzène. Sa croissance verticale en fait un choix parfait pour les espaces restreints, tandis que ses feuilles graphiques apportent une touche contemporaine à votre décoration.</p>
             </div>
             
             <div class="plant-card">
-                <img src="/images/unsplash-indoor-plants-pothos.jpg" alt="Pothos suspendu dans macramé">
+                <img src="/images/unsplash-indoor-plants-pothos.jpg" alt="Pothos suspendu dans macramé" width="1200" height="675" loading="lazy" decoding="async">
                 <h4>2. Pothos doré</h4>
                 <p>Véritable champion de la dépollution, le pothos neutralise le formaldéhyde, le xylène et le toluène. Ses lianes retombantes créent un effet décoratif spectaculaire en suspension ou sur étagères hautes.</p>
             </div>
             
             <div class="plant-card">
-                <img src="/images/unsplash-indoor-plants-spathiphyllum.jpg" alt="Spathiphyllum en fleur dans salon lumineux">
+                <img src="/images/unsplash-indoor-plants-spathiphyllum.jpg" alt="Spathiphyllum en fleur dans salon lumineux" width="1200" height="675" loading="lazy" decoding="async">
                 <h4>3. Spathiphyllum (Fleur de lune)</h4>
                 <p>Cette élégante plante fleurie purifie l'air de l'ammoniaque, du benzène et du formaldéhyde. Ses fleurs blanches apportent une note raffinée, particulièrement appréciée dans les espaces de détente.</p>
             </div>
@@ -345,19 +366,19 @@ const canonical = "https://www.cristallina.fr/plantes-interieur-deco/";
         
         <div class="plant-grid">
             <div class="plant-card">
-                <img src="/images/unsplash-indoor-plants-monstera.jpg" alt="Monstera deliciosa aux grandes feuilles">
+                <img src="/images/unsplash-indoor-plants-monstera.jpg" alt="Monstera deliciosa aux grandes feuilles" width="1200" height="675" loading="lazy" decoding="async">
                 <h4>4. Monstera deliciosa</h4>
                 <p>Ses feuilles perforées iconiques font de cette plante un statement décoratif incontournable. Elle absorbe le formaldéhyde tout en apportant une dimension tropicale luxuriante à votre intérieur.</p>
             </div>
             
             <div class="plant-card">
-                <img src="/images/unsplash-indoor-plants-ficus.jpg" alt="Ficus robusta dans pot en terre cuite">
+                <img src="/images/unsplash-indoor-plants-ficus.jpg" alt="Ficus robusta dans pot en terre cuite" width="1200" height="675" loading="lazy" decoding="async">
                 <h4>5. Ficus robusta</h4>
                 <p>Arbre d'intérieur par excellence, le ficus robusta purifie l'air du formaldéhyde et du xylène. Ses grandes feuilles brillantes créent une présence végétale majestueuse dans les grands volumes.</p>
             </div>
             
             <div class="plant-card">
-                <img src="/images/unsplash-indoor-plants-philodendron.jpg" alt="Philodendron grimpant sur tuteur">
+                <img src="/images/unsplash-indoor-plants-philodendron.jpg" alt="Philodendron grimpant sur tuteur" width="1200" height="675" loading="lazy" decoding="async">
                 <h4>6. Philodendron</h4>
                 <p>Cette plante grimpante neutralise le formaldéhyde avec élégance. Ses feuilles en forme de cœur apportent douceur et volume, idéales pour habiller un mur ou garnir une bibliothèque.</p>
             </div>
@@ -373,19 +394,19 @@ const canonical = "https://www.cristallina.fr/plantes-interieur-deco/";
         
         <div class="plant-grid">
             <div class="plant-card">
-                <img src="/images/unsplash-indoor-plants-chlorophytum.jpg" alt="Chlorophytum avec ses plantules">
+                <img src="/images/unsplash-indoor-plants-chlorophytum.jpg" alt="Chlorophytum avec ses plantules" width="1200" height="675" loading="lazy" decoding="async">
                 <h4>7. Chlorophytum (Plante araignée)</h4>
                 <p>Facile à vivre et prolifique, cette plante filtre le formaldéhyde et le xylène. Ses stolons retombants produisent de nouvelles plantules, créant un effet décoratif dynamique et généreux.</p>
             </div>
             
             <div class="plant-card">
-                <img src="/images/unsplash-indoor-plants-zamioculcas.jpg" alt="Zamioculcas zamiifolia aux feuilles brillantes">
+                <img src="/images/unsplash-indoor-plants-zamioculcas.jpg" alt="Zamioculcas zamiifolia aux feuilles brillantes" width="1200" height="675" loading="lazy" decoding="async">
                 <h4>8. Zamioculcas zamiifolia</h4>
                 <p>Surnommée plante ZZ, elle tolère la négligence tout en purifiant l'air du xylène et du toluène. Ses feuilles cireuses reflètent la lumière, illuminant naturellement les espaces sombres.</p>
             </div>
             
             <div class="plant-card">
-                <img src="/images/unsplash-indoor-plants-peace-lily.jpg" alt="Spathiphyllum wallisii en fleurs">
+                <img src="/images/unsplash-indoor-plants-peace-lily.jpg" alt="Spathiphyllum wallisii en fleurs" width="1200" height="675" loading="lazy" decoding="async">
                 <h4>9. Aglaonema</h4>
                 <p>Cette plante aux feuillages panachés combine beauté ornementale et efficacité dépolluante. Elle neutralise le benzène et le formaldéhyde tout en tolérant les éclairages faibles.</p>
             </div>
@@ -397,19 +418,19 @@ const canonical = "https://www.cristallina.fr/plantes-interieur-deco/";
         
         <div class="plant-grid">
             <div class="plant-card">
-                <img src="/images/unsplash-indoor-plants-boston-fern.jpg" alt="Fougère de Boston luxuriante">
+                <img src="/images/unsplash-indoor-plants-boston-fern.jpg" alt="Fougère de Boston luxuriante" width="1200" height="675" loading="lazy" decoding="async">
                 <h4>10. Fougère de Boston</h4>
                 <p>Champion de l'humidification naturelle, elle purifie l'air du formaldéhyde tout en créant une ambiance forestière rafraîchissante. Parfaite en suspension ou sur piedestal.</p>
             </div>
             
             <div class="plant-card">
-                <img src="/images/unsplash-indoor-plants-rubber-tree.jpg" alt="Ficus elastica aux feuilles vernissées">
+                <img src="/images/unsplash-indoor-plants-rubber-tree.jpg" alt="Ficus elastica aux feuilles vernissées" width="1200" height="675" loading="lazy" decoding="async">
                 <h4>11. Caoutchouc (Ficus elastica)</h4>
                 <p>Ses feuilles charnues et brillantes absorbent efficacement le formaldéhyde. Cette plante statuaire structure l'espace avec élégance tout en demandant peu d'entretien.</p>
             </div>
             
             <div class="plant-card">
-                <img src="/images/unsplash-indoor-plants-bamboo-palm.jpg" alt="Palmier bambou dans grand pot">
+                <img src="/images/unsplash-indoor-plants-bamboo-palm.jpg" alt="Palmier bambou dans grand pot" width="1200" height="675" loading="lazy" decoding="async">
                 <h4>12. Palmier bambou</h4>
                 <p>Ce palmier d'intérieur filtre le formaldéhyde, le benzène et le trichloroéthylène. Ses frondes gracieuses apportent une dimension tropicale sophistiquée aux intérieurs spacieux.</p>
             </div>
@@ -425,19 +446,19 @@ const canonical = "https://www.cristallina.fr/plantes-interieur-deco/";
         
         <div class="plant-grid">
             <div class="plant-card">
-                <img src="/images/unsplash-indoor-plants-dieffenbachia.jpg" alt="Dieffenbachia aux feuilles panachées">
+                <img src="/images/unsplash-indoor-plants-dieffenbachia.jpg" alt="Dieffenbachia aux feuilles panachées" width="1200" height="675" loading="lazy" decoding="async">
                 <h4>13. Dieffenbachia</h4>
                 <p>Ses feuilles marbrées créent des motifs naturels captivants tout en purifiant l'air du xylène. Cette plante tropicale apporte luminosité et sophistication aux espaces contemporains.</p>
             </div>
             
             <div class="plant-card">
-                <img src="/images/unsplash-indoor-plants-anthurium.jpg" alt="Anthurium rouge en fleur">
+                <img src="/images/unsplash-indoor-plants-anthurium.jpg" alt="Anthurium rouge en fleur" width="1200" height="675" loading="lazy" decoding="async">
                 <h4>14. Anthurium</h4>
                 <p>Ses bractées colorées et vernissées égayent l'intérieur tout en neutralisant l'ammoniaque et le formaldéhyde. Cette plante fleurie longue durée sublime les espaces de vie.</p>
             </div>
             
             <div class="plant-card">
-                <img src="/images/unsplash-indoor-plants-calathea.jpg" alt="Calathea aux motifs de feuillage">
+                <img src="/images/unsplash-indoor-plants-calathea.jpg" alt="Calathea aux motifs de feuillage" width="1200" height="675" loading="lazy" decoding="async">
                 <h4>15. Calathea</h4>
                 <p>Plante aux motifs foliaires artistiques, elle purifie l'air des polluants volatils. Ses feuilles qui bougent selon la lumière créent une décoration vivante et poétique.</p>
             </div>

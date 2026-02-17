@@ -1,0 +1,658 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+---
+
+<BaseLayout 
+  title="Générateur de Palettes Couleurs - Harmonies Parfaites | Cristallina"
+  description="Crée des palettes de couleurs harmonieuses pour ta déco ! Générateur gratuit avec codes peinture, inspiration et conseils d'expert pour ton intérieur."
+  canonical="https://www.cristallina.fr/outils/palette-couleurs/"
+>
+  <Navbar />
+  
+  <main class="pt-16">
+    <!-- Hero Compact -->
+    <section class="section-soft py-8">
+      <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-6">
+          <div class="flex items-center justify-center gap-4 mb-4">
+            <div class="text-3xl">🌈</div>
+            <h1 class="text-2xl md:text-3xl title-elegant">Générateur Palettes Couleurs</h1>
+          </div>
+          <p class="text-sm mb-4" style="color: #8B8B8B;">Crée des palettes harmonieuses pour ta déco avec codes peinture</p>
+          <div class="flex justify-center items-center gap-4 text-xs" style="color: #B5B5B5;">
+            <span class="flex items-center gap-1">
+              <span class="w-1.5 h-1.5 bg-green-400 rounded-full"></span>2 min
+            </span>
+            <span class="flex items-center gap-1">
+              <span class="w-1.5 h-1.5 bg-purple-400 rounded-full"></span>Codes couleurs
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Palette Generator -->
+    <section class="py-4">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <!-- Method Selection -->
+        <div class="card-feminine shadow-soft mb-8">
+          <div class="p-8">
+            <h2 class="text-2xl title-elegant mb-8 text-center">Comment veux-tu créer ta palette ?</h2>
+            <div class="grid md:grid-cols-3 gap-6">
+              <div class="method-option active" data-method="base-color">
+                <div class="text-4xl mb-4">🎨</div>
+                <h3 class="title-elegant text-lg mb-2">À partir d'une couleur</h3>
+                <p class="text-sm" style="color: #8B8B8B;">
+                  Choisis ta couleur coup de cœur et génère l'harmonie parfaite
+                </p>
+              </div>
+              <div class="method-option" data-method="mood">
+                <div class="text-4xl mb-4">💭</div>
+                <h3 class="title-elegant text-lg mb-2">Par ambiance</h3>
+                <p class="text-sm" style="color: #8B8B8B;">
+                  Sélectionne l'ambiance souhaitée (cosy, moderne, romantique...)
+                </p>
+              </div>
+              <div class="method-option" data-method="room">
+                <div class="text-4xl mb-4">🏠</div>
+                <h3 class="title-elegant text-lg mb-2">Par pièce</h3>
+                <p class="text-sm" style="color: #8B8B8B;">
+                  Palettes spécialement créées pour chaque type de pièce
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Base Color Method -->
+        <div id="base-color-method" class="method-content">
+          <div class="grid lg:grid-cols-2 gap-8">
+            
+            <!-- Color Selector -->
+            <div class="card-feminine shadow-soft">
+              <div class="p-8">
+                <h3 class="text-xl title-elegant mb-6 text-center">Choisis ta couleur de base</h3>
+                
+                <!-- Color Picker -->
+                <div class="text-center mb-6">
+                  <div id="color-preview" class="w-32 h-32 rounded-full mx-auto mb-4 shadow-soft" style="background-color: #F8E8E7;"></div>
+                  <input type="color" id="color-picker" value="#F8E8E7" class="w-16 h-16 rounded-full border-0 cursor-pointer mx-auto">
+                </div>
+                
+                <!-- Predefined Colors -->
+                <div class="grid grid-cols-6 gap-3 mb-6">
+                  <div class="predefined-color" data-color="#F8E8E7" style="background-color: #F8E8E7;"></div>
+                  <div class="predefined-color" data-color="#E8B4B8" style="background-color: #E8B4B8;"></div>
+                  <div class="predefined-color" data-color="#D8B4FE" style="background-color: #D8B4FE;"></div>
+                  <div class="predefined-color" data-color="#F6D55C" style="background-color: #F6D55C;"></div>
+                  <div class="predefined-color" data-color="#A8E6CF" style="background-color: #A8E6CF;"></div>
+                  <div class="predefined-color" data-color="#FFB7B7" style="background-color: #FFB7B7;"></div>
+                  <div class="predefined-color" data-color="#B4A7D6" style="background-color: #B4A7D6;"></div>
+                  <div class="predefined-color" data-color="#D4A574" style="background-color: #D4A574;"></div>
+                  <div class="predefined-color" data-color="#87CEEB" style="background-color: #87CEEB;"></div>
+                  <div class="predefined-color" data-color="#F0E68C" style="background-color: #F0E68C;"></div>
+                  <div class="predefined-color" data-color="#DDA0DD" style="background-color: #DDA0DD;"></div>
+                  <div class="predefined-color" data-color="#98D8C8" style="background-color: #98D8C8;"></div>
+                </div>
+                
+                <!-- Harmony Type -->
+                <div class="space-y-4">
+                  <h4 class="title-elegant">Type d'harmonie</h4>
+                  <div class="space-y-3">
+                    <label class="flex items-center cursor-pointer">
+                      <input type="radio" name="harmony" value="complementary" class="mr-3" checked>
+                      <span class="text-sm">Complémentaire (contrastée)</span>
+                    </label>
+                    <label class="flex items-center cursor-pointer">
+                      <input type="radio" name="harmony" value="analogous" class="mr-3">
+                      <span class="text-sm">Analogue (douce)</span>
+                    </label>
+                    <label class="flex items-center cursor-pointer">
+                      <input type="radio" name="harmony" value="triadic" class="mr-3">
+                      <span class="text-sm">Triadique (équilibrée)</span>
+                    </label>
+                    <label class="flex items-center cursor-pointer">
+                      <input type="radio" name="harmony" value="monochromatic" class="mr-3">
+                      <span class="text-sm">Monochrome (nuances)</span>
+                    </label>
+                  </div>
+                </div>
+                
+                <div class="mt-8 text-center">
+                  <button id="generate-palette" class="btn-feminine shadow-soft-hover">
+                    Générer ma palette 🌸
+                  </button>
+                </div>
+              </div>
+            </div>
+
+            <!-- Generated Palette -->
+            <div class="card-feminine shadow-soft">
+              <div class="p-8">
+                <h3 class="text-xl title-elegant mb-6 text-center">Ta palette générée</h3>
+                
+                <!-- Palette Display -->
+                <div id="palette-display" class="space-y-6">
+                  <div class="grid grid-cols-1 gap-4" id="palette-colors">
+                    <!-- Colors will be inserted here -->
+                  </div>
+                  
+                  <!-- Color Details -->
+                  <div id="color-details" class="space-y-4">
+                    <!-- Color details will be inserted here -->
+                  </div>
+                </div>
+                
+                <!-- Actions -->
+                <div class="mt-8 space-y-4">
+                  <button id="save-palette" class="btn-feminine shadow-soft-hover w-full">
+                    💾 Sauvegarder cette palette
+                  </button>
+                  <div class="grid grid-cols-2 gap-4">
+                    <button id="export-png" class="btn-feminine text-sm" style="background: rgba(255,255,255,0.8);">
+                      📷 Export PNG
+                    </button>
+                    <button id="share-palette" class="btn-feminine text-sm" style="background: rgba(255,255,255,0.8);">
+                      📱 Partager
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Results & Tips -->
+        <div id="palette-results" class="mt-8 hidden">
+          <div class="grid lg:grid-cols-2 gap-8">
+            
+            <!-- Usage Tips -->
+            <div class="card-feminine section-soft">
+              <div class="p-8">
+                <h3 class="text-xl title-elegant mb-6">Comment utiliser cette palette</h3>
+                <div id="usage-tips" class="space-y-4">
+                  <!-- Tips will be inserted here -->
+                </div>
+              </div>
+            </div>
+
+            <!-- Paint References -->
+            <div class="card-feminine section-soft">
+              <div class="p-8">
+                <h3 class="text-xl title-elegant mb-6">Références peinture</h3>
+                <div id="paint-references" class="space-y-4">
+                  <!-- Paint references will be inserted here -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Inspiration Gallery -->
+          <div class="mt-8 card-feminine section-soft">
+            <div class="p-8">
+              <h3 class="text-xl title-elegant mb-6 text-center">Inspiration avec cette palette</h3>
+              <div id="inspiration-gallery" class="grid md:grid-cols-3 gap-6">
+                <!-- Inspiration images will be inserted here -->
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+.method-option {
+  padding: 2rem;
+  border-radius: 1rem;
+  border: 1px solid rgba(139, 122, 168, 0.15);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.method-option:hover {
+  box-shadow: 0 4px 24px rgba(139, 122, 168, 0.08);
+  background: linear-gradient(135deg, var(--color-primary-light), var(--color-accent-light));
+  border-color: rgba(139, 122, 168, 0.3);
+}
+
+.method-option.active {
+  box-shadow: 0 4px 24px rgba(139, 122, 168, 0.08);
+  background: linear-gradient(135deg, var(--color-primary), var(--color-accent));
+  border-color: rgba(139, 122, 168, 0.5);
+  color: #5D4E75;
+}
+
+.predefined-color {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+}
+
+.predefined-color:hover {
+  transform: scale(1.1);
+  border-color: rgba(139, 122, 168, 0.3);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
+.predefined-color.selected {
+  border-color: #5D4E75;
+  transform: scale(1.1);
+}
+
+.palette-color {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 0.75rem;
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(139, 122, 168, 0.15);
+}
+
+.color-swatch {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 0.5rem;
+  margin-right: 1rem;
+  flex-shrink: 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.color-info {
+  flex: 1;
+}
+
+.color-name {
+  font-family: var(--font-display);
+  font-weight: 500;
+  color: #5D4E75;
+  margin-bottom: 0.25rem;
+}
+
+.color-codes {
+  font-size: 0.75rem;
+  color: #8B8B8B;
+}
+
+.method-content {
+  display: none;
+}
+
+.method-content.active {
+  display: block;
+}
+</style>
+
+<script>
+// Color utility functions
+function hexToHsl(hex) {
+  const r = parseInt(hex.slice(1, 3), 16) / 255;
+  const g = parseInt(hex.slice(3, 5), 16) / 255;
+  const b = parseInt(hex.slice(5, 7), 16) / 255;
+
+  const max = Math.max(r, g, b);
+  const min = Math.min(r, g, b);
+  let h, s, l = (max + min) / 2;
+
+  if (max === min) {
+    h = s = 0;
+  } else {
+    const d = max - min;
+    s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
+    
+    switch (max) {
+      case r: h = (g - b) / d + (g < b ? 6 : 0); break;
+      case g: h = (b - r) / d + 2; break;
+      case b: h = (r - g) / d + 4; break;
+    }
+    h /= 6;
+  }
+
+  return [h * 360, s * 100, l * 100];
+}
+
+function hslToHex(h, s, l) {
+  l /= 100;
+  const a = s * Math.min(l, 1 - l) / 100;
+  const f = n => {
+    const k = (n + h / 30) % 12;
+    const color = l - a * Math.max(Math.min(k - 3, 9 - k, 1), -1);
+    return Math.round(255 * color).toString(16).padStart(2, '0');
+  };
+  return `#${f(0)}${f(8)}${f(4)}`;
+}
+
+// Color harmony algorithms
+const colorHarmonies = {
+  complementary: (h, s, l) => [
+    [h, s, l],
+    [(h + 180) % 360, s, l],
+    [h, s * 0.6, Math.min(l + 20, 95)],
+    [(h + 180) % 360, s * 0.6, Math.min(l + 20, 95)],
+    [h, s * 0.3, Math.min(l + 40, 95)]
+  ],
+  
+  analogous: (h, s, l) => [
+    [h, s, l],
+    [(h + 30) % 360, s, l],
+    [(h + 60) % 360, s, l],
+    [(h - 30 + 360) % 360, s * 0.7, Math.min(l + 15, 95)],
+    [h, s * 0.4, Math.min(l + 30, 95)]
+  ],
+  
+  triadic: (h, s, l) => [
+    [h, s, l],
+    [(h + 120) % 360, s, l],
+    [(h + 240) % 360, s, l],
+    [h, s * 0.6, Math.min(l + 20, 95)],
+    [(h + 120) % 360, s * 0.6, Math.min(l + 20, 95)]
+  ],
+  
+  monochromatic: (h, s, l) => [
+    [h, s, l],
+    [h, s, Math.max(l - 20, 10)],
+    [h, s, Math.min(l + 20, 95)],
+    [h, s * 0.5, l],
+    [h, s * 0.3, Math.min(l + 30, 95)]
+  ]
+};
+
+// Color names
+const colorNames = {
+  '#F8E8E7': 'Rose Poudré',
+  '#E8B4B8': 'Rose Vintage', 
+  '#D8B4FE': 'Lilas Doux',
+  '#F6D55C': 'Miel Doré',
+  '#A8E6CF': 'Vert Menthe',
+  '#FFB7B7': 'Pêche Rosé',
+  '#B4A7D6': 'Lavande',
+  '#D4A574': 'Camel Doux',
+  '#87CEEB': 'Bleu Ciel',
+  '#F0E68C': 'Jaune Paille',
+  '#DDA0DD': 'Prune Douce',
+  '#98D8C8': 'Vert d\'Eau'
+};
+
+// Paint brand references
+const paintReferences = {
+  'Farrow & Ball': {
+    '#F8E8E7': 'Calamine No.230',
+    '#E8B4B8': 'Pink Ground No.202',
+    '#D8B4FE': 'Wisteria No.56',
+    '#A8E6CF': 'Green Blue No.84'
+  },
+  'Little Greene': {
+    '#F8E8E7': 'China Clay - Mid',
+    '#D4A574': 'Rolling Fog - Mid',
+    '#87CEEB': 'Sky Blue'
+  },
+  'Ressource': {
+    '#F8E8E7': 'Poudre de Riz',
+    '#E8B4B8': 'Rose Madeleine', 
+    '#D8B4FE': 'Lilas des Indes'
+  }
+};
+
+let currentPalette = [];
+
+// Initialize
+document.addEventListener('DOMContentLoaded', () => {
+  setupMethodSelection();
+  setupColorPicker();
+  setupPredefinedColors();
+  setupHarmonySelection();
+  setupPaletteGeneration();
+  
+  // Generate initial palette
+  generatePalette();
+});
+
+function setupMethodSelection() {
+  document.querySelectorAll('.method-option').forEach(option => {
+    option.addEventListener('click', () => {
+      document.querySelectorAll('.method-option').forEach(opt => opt.classList.remove('active'));
+      option.classList.add('active');
+      
+      const method = option.dataset.method;
+      document.querySelectorAll('.method-content').forEach(content => content.classList.remove('active'));
+      document.getElementById(`${method}-method`).classList.add('active');
+    });
+  });
+}
+
+function setupColorPicker() {
+  const colorPicker = document.getElementById('color-picker');
+  const colorPreview = document.getElementById('color-preview');
+  
+  colorPicker.addEventListener('change', (e) => {
+    const color = e.target.value;
+    colorPreview.style.backgroundColor = color;
+    generatePalette();
+  });
+}
+
+function setupPredefinedColors() {
+  document.querySelectorAll('.predefined-color').forEach(colorDiv => {
+    colorDiv.addEventListener('click', () => {
+      const color = colorDiv.dataset.color;
+      document.getElementById('color-picker').value = color;
+      document.getElementById('color-preview').style.backgroundColor = color;
+      
+      document.querySelectorAll('.predefined-color').forEach(div => div.classList.remove('selected'));
+      colorDiv.classList.add('selected');
+      
+      generatePalette();
+    });
+  });
+}
+
+function setupHarmonySelection() {
+  document.querySelectorAll('input[name="harmony"]').forEach(radio => {
+    radio.addEventListener('change', generatePalette);
+  });
+}
+
+function setupPaletteGeneration() {
+  document.getElementById('generate-palette').addEventListener('click', generatePalette);
+}
+
+function generatePalette() {
+  const baseColor = document.getElementById('color-picker').value;
+  const harmonyType = document.querySelector('input[name="harmony"]:checked').value;
+  
+  // Convert to HSL
+  const [h, s, l] = hexToHsl(baseColor);
+  
+  // Generate harmony
+  const hslColors = colorHarmonies[harmonyType](h, s, l);
+  currentPalette = hslColors.map(([h, s, l]) => hslToHex(h, s, l));
+  
+  displayPalette(currentPalette);
+  showResults();
+}
+
+function displayPalette(colors) {
+  const container = document.getElementById('palette-colors');
+  const detailsContainer = document.getElementById('color-details');
+  
+  container.innerHTML = colors.map((color, index) => `
+    <div class="palette-color">
+      <div class="color-swatch" style="background-color: ${color};"></div>
+      <div class="color-info">
+        <div class="color-name">${getColorName(color)} ${index === 0 ? '(Base)' : ''}</div>
+        <div class="color-codes">
+          <div>HEX: ${color.toUpperCase()}</div>
+          <div>RGB: ${hexToRgb(color)}</div>
+        </div>
+      </div>
+      <button class="copy-color" data-color="${color}" style="padding: 0.5rem; border-radius: 0.5rem; border: 1px solid rgba(139, 122, 168, 0.2); background: white; cursor: pointer;">
+        📋
+      </button>
+    </div>
+  `).join('');
+  
+  // Setup copy functionality
+  document.querySelectorAll('.copy-color').forEach(btn => {
+    btn.addEventListener('click', () => {
+      navigator.clipboard.writeText(btn.dataset.color);
+      btn.textContent = '✓';
+      setTimeout(() => btn.textContent = '📋', 1000);
+    });
+  });
+}
+
+function showResults() {
+  document.getElementById('palette-results').classList.remove('hidden');
+  generateUsageTips();
+  generatePaintReferences();
+  generateInspiration();
+}
+
+function generateUsageTips() {
+  const tips = [
+    `Utilise **${getColorName(currentPalette[0])}** comme couleur principale sur un mur accent`,
+    `**${getColorName(currentPalette[1])}** sera parfait pour les coussins et textiles`,
+    `Peins les boiseries en **${getColorName(currentPalette[2])}** pour une harmonie douce`,
+    `Ajoute des touches de **${getColorName(currentPalette[3])}** avec des accessoires`,
+    `**${getColorName(currentPalette[4])}** s'utilise idéalement pour les murs neutres`
+  ];
+  
+  document.getElementById('usage-tips').innerHTML = tips.map(tip => `
+    <div class="flex items-start">
+      <span class="text-green-500 mr-3 mt-1">💡</span>
+      <span class="text-sm" style="color: #8B8B8B;">${tip}</span>
+    </div>
+  `).join('');
+}
+
+function generatePaintReferences() {
+  const references = [];
+  
+  Object.entries(paintReferences).forEach(([brand, colors]) => {
+    currentPalette.slice(0, 3).forEach(color => {
+      if (colors[color]) {
+        references.push({ brand, color, name: colors[color] });
+      }
+    });
+  });
+  
+  if (references.length === 0) {
+    references.push(
+      { brand: 'Castorama', color: currentPalette[0], name: 'Teinte sur mesure' },
+      { brand: 'Leroy Merlin', color: currentPalette[1], name: 'Teinte personnalisée' },
+      { brand: 'Dulux Valentine', color: currentPalette[2], name: 'Couleur sur mesure' }
+    );
+  }
+  
+  document.getElementById('paint-references').innerHTML = references.map(ref => `
+    <div class="flex items-center space-x-4">
+      <div class="w-8 h-8 rounded" style="background-color: ${ref.color};"></div>
+      <div class="flex-1">
+        <div class="font-medium" style="color: #5D4E75;">${ref.brand}</div>
+        <div class="text-sm" style="color: #8B8B8B;">${ref.name}</div>
+      </div>
+      <div class="text-xs" style="color: #B5B5B5;">${ref.color}</div>
+    </div>
+  `).join('');
+}
+
+function generateInspiration() {
+  const inspirations = [
+    { title: "Salon cocooning", desc: "Ambiance douce et chaleureuse", emoji: "🛋️" },
+    { title: "Chambre zen", desc: "Espace de détente total", emoji: "🛏️" },
+    { title: "Cuisine moderne", desc: "Épurée et fonctionnelle", emoji: "🍳" }
+  ];
+  
+  document.getElementById('inspiration-gallery').innerHTML = inspirations.map(inspo => `
+    <div class="text-center p-6 rounded-xl" style="background: linear-gradient(135deg, ${currentPalette[0]}20, ${currentPalette[1]}20);">
+      <div class="text-4xl mb-4">${inspo.emoji}</div>
+      <h4 class="title-elegant mb-2">${inspo.title}</h4>
+      <p class="text-sm" style="color: #8B8B8B;">${inspo.desc}</p>
+      <button class="mt-4 text-xs px-3 py-1 rounded-full border border-feminine hover:shadow-soft transition-all">
+        Voir des idées →
+      </button>
+    </div>
+  `).join('');
+}
+
+function hexToRgb(hex) {
+  const r = parseInt(hex.slice(1, 3), 16);
+  const g = parseInt(hex.slice(3, 5), 16);
+  const b = parseInt(hex.slice(5, 7), 16);
+  return `${r}, ${g}, ${b}`;
+}
+
+function getColorName(hex) {
+  return colorNames[hex] || `Couleur ${hex.slice(1, 4).toUpperCase()}`;
+}
+
+// Setup palette actions
+document.addEventListener('DOMContentLoaded', () => {
+  document.getElementById('save-palette').addEventListener('click', () => {
+    const palette = {
+      colors: currentPalette,
+      date: Date.now(),
+      name: `Palette ${getColorName(currentPalette[0])}`
+    };
+    
+    const saved = JSON.parse(localStorage.getItem('cristallina_palettes') || '[]');
+    saved.push(palette);
+    localStorage.setItem('cristallina_palettes', JSON.stringify(saved));
+    
+    alert('Palette sauvegardée ! 🌸');
+  });
+  
+  document.getElementById('share-palette').addEventListener('click', () => {
+    const shareText = `Découvre ma palette déco personnalisée sur Cristallina.fr ! 🎨 ${currentPalette.join(' ')}`;
+    if (navigator.share) {
+      navigator.share({ title: 'Ma palette déco', text: shareText });
+    } else {
+      navigator.clipboard.writeText(shareText);
+      alert('Lien copié ! Partage-le sur tes réseaux 📱');
+    }
+  });
+});
+</script>
+
+    <!-- FAQ SEO -->
+    <section class="py-8 section-soft">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 class="text-xl title-elegant mb-6 text-center">Questions fréquentes</h2>
+        <div class="space-y-4">
+          <div class="faq-item card-feminine p-4">
+            <h3 class="font-medium mb-2 text-sm">Comment créer une palette de couleurs harmonieuse ?</h3>
+            <p class="text-xs" style="color: #8B8B8B;">Utilisez la règle 60-30-10 : 60% couleur dominante, 30% couleur secondaire, 10% couleur d'accent. Notre générateur crée automatiquement des harmonies complémentaires, analogues ou triadiques.</p>
+          </div>
+          <div class="faq-item card-feminine p-4">
+            <h3 class="font-medium mb-2 text-sm">Quelle marque de peinture choisir ?</h3>
+            <p class="text-xs" style="color: #8B8B8B;">Les codes couleurs fonctionnent avec toutes les marques (Dulux Valentine, Leroy Merlin, Castorama). Privilégiez les peintures acryliques pour l'intérieur et testez toujours sur un petit échantillon.</p>
+          </div>
+          <div class="faq-item card-feminine p-4">
+            <h3 class="font-medium mb-2 text-sm">Comment associer les couleurs dans une pièce ?</h3>
+            <p class="text-xs" style="color: #8B8B8B;">Appliquez la couleur principale sur les murs, la secondaire sur les textiles (coussins, rideaux) et l'accent sur les objets déco. Variez les nuances pour créer de la profondeur.</p>
+          </div>
+          <div class="faq-item card-feminine p-4">
+            <h3 class="font-medium mb-2 text-sm">Combien de couleurs maximum dans une pièce ?</h3>
+            <p class="text-xs" style="color: #8B8B8B;">Limitez-vous à 3-4 couleurs maximum pour éviter la surcharge visuelle. Notre générateur vous propose des palettes équilibrées de 3 à 5 nuances parfaitement accordées.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+  
+  <Footer />
+</BaseLayout>

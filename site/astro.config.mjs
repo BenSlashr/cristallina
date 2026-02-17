@@ -9,8 +9,7 @@ import rehypeMermaid from 'rehype-mermaid';
 import rehypeGlossaryTooltip from './src/plugins/rehype-glossary-tooltip.ts';
 
 export default defineConfig({
-  // TODO: Replace with your production domain
-  site: 'https://www.example.com',
+  site: 'https://www.cristallina.fr',
   output: 'static',
   markdown: {
     syntaxHighlight: {
@@ -27,16 +26,16 @@ export default defineConfig({
         mermaidConfig: {
           theme: 'dark',
           themeVariables: {
-            // TODO: Adjust colors to match your design system
-            primaryColor: '#141D30',
-            primaryTextColor: '#F1F5F9',
-            primaryBorderColor: '#F59E0B',
+            // Cristallina - rose/mauve doux
+            primaryColor: '#FFF0F5',
+            primaryTextColor: '#701A75',
+            primaryBorderColor: '#E879F9',
             lineColor: '#8B5CF6',
-            secondaryColor: '#1A2540',
-            tertiaryColor: '#0E1525',
-            noteBkgColor: '#141D30',
-            noteTextColor: '#94A3B8',
-            noteBorderColor: '#1E2A45',
+            secondaryColor: '#F3F4F6',
+            tertiaryColor: '#FEF3F2',
+            noteBkgColor: '#FFF0F5',
+            noteTextColor: '#581C87',
+            noteBorderColor: '#E879F9',
           },
         },
       }],

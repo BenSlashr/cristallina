@@ -3,12 +3,28 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Mobilier Scandinave : 15 Pièces Emblématiques du Design Nordique";
 const description = "Découvrez les 15 meubles scandinaves iconiques ! Chaises Eames, canapés modulaires, tables en bois... Guide complet du design nordique authentique.";
+
+const pageSlug = 'mobilier-scandinave-design-nordique';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/mobilier-scandinave-design-nordique/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Mobilier', url: '/guides/decoration' },
+  { name: title, url: '/mobilier-scandinave-design-nordique/' },
+]);
+
 ---
 
-<BaseLayout {title} {description} canonical="https://www.cristallina.fr/mobilier-scandinave-design-nordique/">
+<BaseLayout {title} {description}
+  jsonLd={[schemaArticle, schemaBreadcrumb]}
+>
   <Navbar />
   <main class="pt-16">
     <!-- Hero Section -->
@@ -46,7 +62,7 @@ const description = "Découvrez les 15 meubles scandinaves iconiques ! Chaises E
 
       <!-- Introduction -->
       <div class="prose prose-lg max-w-none">
-        <img src="/images/unsplash-scandinavian-furniture-nordic-design-minimalist-1771177375.jpg" alt="Salon avec mobilier scandinave authentique" class="w-full h-80 object-cover rounded-lg shadow-lg mb-8">
+        <img src="/images/unsplash-scandinavian-furniture-nordic-design-minimalist-1771177375.jpg" alt="Salon avec mobilier scandinave authentique" class="w-full h-80 object-cover rounded-lg shadow-lg mb-8" width="1200" height="675" loading="eager" decoding="async">
         
         <p class="text-xl text-gray-700 leading-relaxed">
           Le mobilier scandinave incarne une philosophie de vie où simplicité, fonctionnalité et beauté naturelle se rencontrent. Né dans les pays nordiques au milieu du XXe siècle, ce mouvement design a révolutionné notre façon de concevoir l'habitat moderne. Chaque pièce raconte une histoire d'artisanat, d'innovation et de respect pour les matériaux naturels.

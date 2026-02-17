@@ -3,16 +3,42 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Salle à Manger Conviviale : 13 Secrets d'une Décoration Chaleureuse";
 const description = "Créez une salle à manger chaleureuse ! 13 secrets déco pour des repas conviviaux : mobilier accueillant, éclairage intime et art de recevoir.";
+
+const pageSlug = 'salle-manger-conviviale-decoration-chaleureuse';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/salle-manger-conviviale-decoration-chaleureuse/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Salle a manger', url: '/guides/decoration' },
+  { name: title, url: '/salle-manger-conviviale-decoration-chaleureuse/' },
+]);
+
 ---
 
-<BaseLayout {title} {description} canonical="https://www.cristallina.fr/salle-manger-conviviale-decoration-chaleureuse/">
+<BaseLayout {title} {description}
+  jsonLd={[schemaArticle, schemaBreadcrumb]}
+>
   <Navbar />
   
   <main class="pt-16">
     <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      
+      <!-- Breadcrumb -->
+      <nav class="flex items-center gap-2 text-sm mb-6" style="color: #B5B5B5;" aria-label="Fil d'ariane">
+        <a href="/" class="hover:text-rose-400 transition-colors">Accueil</a>
+        <span>/</span>
+        <a href="/guides/decoration" class="hover:text-rose-400 transition-colors">Salle a manger</a>
+        <span>/</span>
+        <span style="color: #8B8B8B;">{title}</span>
+      </nav>
+
       <header class="mb-8">
         <h1 class="text-3xl md:text-4xl title-elegant mb-4">{title}</h1>
         <p class="text-lg mb-6" style="color: #8B8B8B;">{description}</p>
@@ -27,7 +53,7 @@ const description = "Créez une salle à manger chaleureuse ! 13 secrets déco p
           <p>La salle à manger conviviale transcende le simple espace repas pour devenir le cœur battant de la maison, lieu de rassemblement où se tissent les liens familiaux et amicaux. Dans notre époque hyperconnectée, créer un environnement chaleureux favorisant les échanges authentiques représente un véritable art de vivre.</p>
 
           <div class="my-8">
-            <img src="/images/unsplash-salle-manger-conviviale-decoration-1771180033.jpg" alt="Salle à manger chaleureuse avec table en bois, éclairage tamisé et décoration accueillante" class="w-full rounded-lg shadow-soft" />
+            <img src="/images/unsplash-salle-manger-conviviale-decoration-1771180033.jpg" alt="Salle à manger chaleureuse avec table en bois, éclairage tamisé et décoration accueillante" class="w-full rounded-lg shadow-soft"  width="1200" height="675" loading="eager" decoding="async" />
             <p class="text-xs text-center mt-2" style="color: #B5B5B5;">Une salle à manger qui invite au partage et à la convivialité</p>
           </div>
 
@@ -68,7 +94,7 @@ const description = "Créez une salle à manger chaleureuse ! 13 secrets déco p
           <p>La salle à manger moderne doit jongler entre fonctionnalité quotidienne et capacité d'accueil exceptionnelle. Cette dualité influence profondément les choix décoratifs et d'aménagement, privilégiant la flexibilité sans compromettre l'esthétique.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236586387.jpg" alt="Salle a manger conviviale avec grande table en bois" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236586387.jpg" alt="Salle a manger conviviale avec grande table en bois" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -91,7 +117,7 @@ const description = "Créez une salle à manger chaleureuse ! 13 secrets déco p
           <p>La forme ronde élimine naturellement les notions de hiérarchie spatiale. Chaque convive bénéficie d'une position équivalente, facilitant les échanges visuels et verbaux. Cette configuration démocratique encourage la participation de tous.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237872363.jpg" alt="Decoration salle a manger chaleureuse avec suspension" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237872363.jpg" alt="Decoration salle a manger chaleureuse avec suspension" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -175,7 +201,7 @@ const description = "Créez une salle à manger chaleureuse ! 13 secrets déco p
           <p>Le dressage de table transcende la simple fonctionnalité pour devenir expression artistique quotidienne. Même pour un repas familial ordinaire, quelques gestes simples transforment l'expérience : serviettes pliées avec soin, centre de table improvisé avec des éléments naturels, verrerie alignée avec précision.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237878658.jpg" alt="Coin repas avec couleurs chaudes et mobilier confortable" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237878658.jpg" alt="Coin repas avec couleurs chaudes et mobilier confortable" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -217,7 +243,7 @@ const description = "Créez une salle à manger chaleureuse ! 13 secrets déco p
           <p>Transformer sa salle à manger ne nécessite pas forcément un investissement colossal. Commencez par les éléments textiles (nappes, coussins, rideaux) qui offrent le meilleur rapport impact/coût. Une nouvelle couleur sur un mur d'accent peut révolutionner l'atmosphère pour moins de 50 euros.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-salle-manger-couleur-peinture-d-coration-conviviale-1771237239118.jpg" alt="Salle a manger style campagne francaise avec buffet" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-salle-manger-couleur-peinture-d-coration-conviviale-1771237239118.jpg" alt="Salle a manger style campagne francaise avec buffet" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -262,7 +288,7 @@ const description = "Créez une salle à manger chaleureuse ! 13 secrets déco p
           <p>Créer une salle à manger conviviale dépasse largement les considérations esthétiques pour toucher à l'essence même de notre rapport aux autres. Cet espace incarne notre désir de partage, notre générosité, notre capacité à créer du lien dans un monde qui privilégie trop souvent l'individualisme.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237933709.jpg" alt="Table dressee dans une salle a manger lumineuse" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237933709.jpg" alt="Table dressee dans une salle a manger lumineuse" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 

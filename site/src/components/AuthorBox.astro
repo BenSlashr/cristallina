@@ -1,0 +1,103 @@
+---
+// Box auteur détaillée pour les articles
+interface Props {
+  variant?: 'full' | 'compact';
+  showNewsletter?: boolean;
+}
+
+const { variant = 'full', showNewsletter = true } = Astro.props;
+---
+
+<div class="bg-gradient-to-br from-rose-50 to-purple-50 rounded-3xl p-6 md:p-8 my-12 border border-rose-100">
+  <div class="flex flex-col md:flex-row gap-6 items-start">
+    <!-- Avatar -->
+    <div class="flex-shrink-0 mx-auto md:mx-0">
+      <div class="w-24 h-24 md:w-28 md:h-28 rounded-full overflow-hidden bg-gradient-to-br from-rose-200 to-purple-200 flex items-center justify-center">
+        <span class="text-3xl md:text-4xl font-bold text-purple-800">L</span>
+      </div>
+    </div>
+
+    <!-- Contenu -->
+    <div class="flex-1 text-center md:text-left">
+      <div class="flex flex-col md:flex-row md:items-center md:justify-between mb-4">
+        <div>
+          <h3 class="text-2xl font-bold text-gray-900 mb-1">Laure</h3>
+          <p class="text-purple-600 font-medium">Créatrice de Cristallina</p>
+        </div>
+        
+        <div class="flex items-center gap-3 mt-4 md:mt-0 justify-center md:justify-end">
+          <a 
+            href="https://instagram.com/cristallina.fr" 
+            target="_blank"
+            rel="noopener noreferrer"
+            class="w-10 h-10 bg-white rounded-full flex items-center justify-center shadow-sm hover:shadow-md transition-shadow"
+            aria-label="Instagram de Laure"
+          >
+            <span class="text-rose-500 text-xl">📷</span>
+          </a>
+          <a 
+            href="mailto:laure@cristallina.fr"
+            class="w-10 h-10 bg-white rounded-full flex items-center justify-center shadow-sm hover:shadow-md transition-shadow"
+            aria-label="Email de Laure"
+          >
+            <span class="text-purple-500 text-xl">✉️</span>
+          </a>
+        </div>
+      </div>
+
+      {variant === 'full' && (
+        <div class="space-y-4 mb-6">
+          <p class="text-gray-700 leading-relaxed">
+            Passionnée de déco et lifestyle, je t'accompagne pour créer un intérieur qui te ressemble vraiment. 
+            Mon crédo ? Du style accessible, des conseils pratiques et des prix honnêtes. 
+            Comme si on prenait un café ensemble !
+          </p>
+          
+          <div class="flex flex-wrap gap-2 justify-center md:justify-start">
+            <span class="px-3 py-1 bg-white rounded-full text-sm text-gray-600 border border-rose-200">🏡 Déco accessible</span>
+            <span class="px-3 py-1 bg-white rounded-full text-sm text-gray-600 border border-purple-200">💡 Astuces budget</span>
+            <span class="px-3 py-1 bg-white rounded-full text-sm text-gray-600 border border-orange-200">✨ Lifestyle</span>
+          </div>
+        </div>
+      )}
+
+      {variant === 'compact' && (
+        <p class="text-gray-600 mb-6 leading-relaxed">
+          Passionnée de déco accessible, je partage mes astuces pour un intérieur qui te ressemble sans te ruiner.
+        </p>
+      )}
+
+      <!-- Actions -->
+      <div class="flex flex-col sm:flex-row gap-3 justify-center md:justify-start">
+        <a 
+          href="/a-propos/" 
+          class="inline-flex items-center justify-center px-5 py-2.5 bg-gradient-to-r from-rose-500 to-purple-600 text-white rounded-full font-medium hover:from-rose-600 hover:to-purple-700 transition-all transform hover:scale-105"
+        >
+          En savoir plus sur moi
+        </a>
+        
+        {showNewsletter && (
+          <a 
+            href="#newsletter" 
+            class="inline-flex items-center justify-center px-5 py-2.5 bg-white text-purple-600 rounded-full font-medium border border-purple-200 hover:border-purple-300 hover:bg-purple-50 transition-colors"
+          >
+            📧 Newsletter
+          </a>
+        )}
+      </div>
+    </div>
+  </div>
+
+  <!-- Citation inspirante (variant full seulement) -->
+  {variant === 'full' && (
+    <div class="mt-6 pt-6 border-t border-white/50">
+      <blockquote class="text-center">
+        <p class="text-purple-700 font-medium italic">
+          "Un intérieur qui nous ressemble, c'est un intérieur où on se sent bien. 
+          Pas besoin d'un budget énorme, juste d'un peu d'amour et de créativité !"
+        </p>
+        <footer class="mt-2 text-sm text-purple-600">— Laure</footer>
+      </blockquote>
+    </div>
+  )}
+</div>

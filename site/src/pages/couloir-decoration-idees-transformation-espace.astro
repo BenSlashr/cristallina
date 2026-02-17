@@ -3,9 +3,23 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Couloir Déco : 17 Idées pour Transformer cet Espace Oublié";
 const description = "Sublimez vos couloirs ! 17 idées déco créatives pour transformer ces espaces oubliés : galeries photo, éclairage, couleurs et rangements malins.";
+
+const pageSlug = 'couloir-decoration-idees-transformation-espace';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/couloir-decoration-idees-transformation-espace/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Couloir', url: '/guides/decoration' },
+  { name: title, url: '/couloir-decoration-idees-transformation-espace/' },
+]);
+
 ---
 
 <BaseLayout title={title} description={description}>
@@ -21,7 +35,7 @@ const description = "Sublimez vos couloirs ! 17 idées déco créatives pour tra
             src="/images/unsplash-couloir-decoration-idees-transformation-1771180027.jpg" 
             alt="Couloir moderne décoré avec style et fonctionnalité"
             class="w-full h-96 object-cover rounded-lg shadow-lg"
-          />
+           width="1200" height="675" loading="eager" decoding="async" />
         </div>
       </header>
 
@@ -36,7 +50,7 @@ const description = "Sublimez vos couloirs ! 17 idées déco créatives pour tra
         <p>Transformez votre couloir en galerie d'art personnelle en disposant une collection de cadres sur un ou plusieurs murs. L'astuce consiste à créer une composition équilibrée : choisissez des cadres de tailles variées mais dans une palette de couleurs cohérente (noir, blanc, bois naturel). Disposez-les à hauteur des yeux, en maintenant un espacement régulier de 5 à 10 cm entre chaque cadre.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237046618.jpg" alt="Couloir decore avec miroirs et eclairage indirect" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237046618.jpg" alt="Couloir decore avec miroirs et eclairage indirect" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -56,7 +70,7 @@ const description = "Sublimez vos couloirs ! 17 idées déco créatives pour tra
         <p>Un couloir sombre est un couloir triste ! Combinez plusieurs types d'éclairage : un éclairage général au plafond, des appliques murales pour créer une ambiance chaleureuse et éventuellement des spots directionnels pour mettre en valeur vos œuvres d'art. Cette approche en couches crée de la profondeur et du caractère.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237861842.jpg" alt="Amenagement couloir minimaliste et lumineux" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237861842.jpg" alt="Amenagement couloir minimaliste et lumineux" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -76,7 +90,7 @@ const description = "Sublimez vos couloirs ! 17 idées déco créatives pour tra
         <p>Les couleurs claires réfléchissent la lumière et agrandissent visuellement l'espace. Blanc cassé, beige, gris perle ou tons pastel sont vos alliés pour un couloir lumineux. Si vous craignez la monotonie, apportez de la couleur par petites touches avec les accessoires, les cadres ou une seule cloison peinte dans un ton plus soutenu.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236407052.jpg" alt="Decoration couloir avec galerie de cadres et console" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236407052.jpg" alt="Decoration couloir avec galerie de cadres et console" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -92,7 +106,7 @@ const description = "Sublimez vos couloirs ! 17 idées déco créatives pour tra
         <p>Les couloirs offrent souvent des recoins inexploités parfaits pour du rangement sur mesure. Des placards du sol au plafond permettent de stocker produits d'entretien, aspirateur, ou affaires de saison. Choisissez des façades dans le ton des murs pour un effet discret, ou au contraire contrastantes pour créer un élément déco.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237216279.jpg" alt="Couloir transforme en espace de rangement elegant" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237216279.jpg" alt="Couloir transforme en espace de rangement elegant" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -112,7 +126,7 @@ const description = "Sublimez vos couloirs ! 17 idées déco créatives pour tra
         <p>Le sol de votre couloir peut devenir un véritable élément décoratif. Carreaux de ciment à motifs, parquet posé en chevron, ou même un tapis de couloir aux couleurs vives peuvent transformer complètement l'espace. Dans un couloir étroit, préférez des motifs dans le sens de la longueur pour accentuer la perspective.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237890747.jpg" alt="Entree et couloir avec touches decoratives francaises" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237890747.jpg" alt="Entree et couloir avec touches decoratives francaises" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 

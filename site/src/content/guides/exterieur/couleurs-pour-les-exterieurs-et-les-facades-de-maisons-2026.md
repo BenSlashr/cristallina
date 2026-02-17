@@ -8,7 +8,7 @@ order: 8
 image: "/images/guides/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026.webp"
 readingTime: "11 min"
 faqSchema: true
-pubDate: 2026-02-20
+pubDate: 2026-02-17
 ---
 
 # Couleurs façades maison 2026 : tendances et palettes pour tes extérieurs

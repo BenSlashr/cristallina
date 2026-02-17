@@ -1,20 +1,26 @@
 ---
 import ScrollToTop from '@/components/ScrollToTop.astro';
+import { absoluteUrl } from '@/utils/schema';
 
 interface Props {
   title: string;
   description?: string;
   ogImage?: string;
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
 }
 
 const {
   title,
-  // TODO: Replace with your site's default description
-  description = 'My Site - Description of your website.',
+  description = 'Cristallina - Inspiration deco et lifestyle pour creer un interieur qui te ressemble, sans te ruiner.',
   ogImage = '/og-default.jpg',
+  jsonLd,
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const ogImageAbsolute = absoluteUrl(ogImage);
+
+// Normalize jsonLd to array
+const schemas = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 ---
 
 <!doctype html>
@@ -34,28 +40,26 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={ogImage} />
+    <meta property="og:image" content={ogImageAbsolute} />
     <meta property="og:locale" content="fr_FR" />
+    <meta property="og:site_name" content="Cristallina" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content={ogImage} />
-
-    <!-- Fonts — TODO: Replace with your chosen fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=IBM+Plex+Sans:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap"
-      rel="stylesheet"
-    />
+    <meta name="twitter:image" content={ogImageAbsolute} />
 
     <!-- RSS -->
     <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/rss.xml" />
 
     <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <!-- Schema.org JSON-LD -->
+    {schemas.map((schema) => (
+      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    ))}
   </head>
   <body class="min-h-screen bg-void text-text-primary antialiased">
     <slot />

@@ -67,6 +67,12 @@ if [ -z "${FAL_KEY:-}" ]; then
     FAL_AVAILABLE=false
 fi
 
+UNSPLASH_AVAILABLE=true
+if [ -z "${UNSPLASH_ACCESS_KEY:-}" ]; then
+    echo "[$SLUG] Warning: UNSPLASH_ACCESS_KEY missing, Unsplash images skipped." >&2
+    UNSPLASH_AVAILABLE=false
+fi
+
 # --- Setup ---
 mkdir -p "$OUT" "$IMAGE_DIR"
 
@@ -108,29 +114,60 @@ fi
 echo "[$SLUG]   Brief: $BRIEF_WORDS recommended words"
 
 # ============================================================
-# 3. IMAGE (fal.ai / Recraft V3)
+# 3. IMAGES - Unsplash (priority) or fal.ai
 # ============================================================
-if [ "$FAL_AVAILABLE" = true ]; then
-    echo "[$SLUG]   Image fal.ai..."
-# TODO: Customize the image prompt template for your domain
-IMAGE_PROMPT="no text, no letters, no numbers, no words. Dark atmospheric digital illustration with grain texture. Scene depicting ${KEYWORD}. Dark void background with golden and violet accent lighting. Asymmetric composition, concrete visual metaphor, cinematic mood."
-FAL_PAYLOAD=$(jq -n --arg p "$IMAGE_PROMPT" \
-    '{prompt: $p, image_size: "landscape_16_9", style: "digital_illustration", substyle: "grain", colors: [{r:4,g:6,b:12},{r:245,g:158,b:11},{r:139,g:92,b:246}]}')
-IMAGE_URL=$(curl -s --max-time 60 -X POST "https://fal.run/fal-ai/recraft-20b" \
-    -H "Authorization: Key $FAL_KEY" \
-    -H "Content-Type: application/json" \
-    -d "$FAL_PAYLOAD" 2>/dev/null | jq -r '.images[0].url // empty' 2>/dev/null || true)
-IMAGE_OK="false"
-if [ -n "$IMAGE_URL" ]; then
-    curl -sL --max-time 30 "$IMAGE_URL" -o "$IMAGE_PATH" 2>/dev/null || true
-    if [ -s "$IMAGE_PATH" ]; then
+if [ "$UNSPLASH_AVAILABLE" = true ]; then
+    echo "[$SLUG]   Images Unsplash..."
+    # Fetch 4 images for the article
+    SEARCH_QUERY="$KEYWORD home decor interior design"
+    SEARCH_URL="https://api.unsplash.com/search/photos"
+    QUERY_ENCODED=$(echo "$SEARCH_QUERY" | sed 's/ /+/g')
+    
+    RESPONSE=$(curl -s --max-time 30 "$SEARCH_URL?query=$QUERY_ENCODED&per_page=4&orientation=landscape&order_by=popular" \
+        -H "Authorization: Client-ID $UNSPLASH_ACCESS_KEY" || echo '{"total": 0}')
+    
+    TOTAL=$(echo "$RESPONSE" | jq -r '.total // 0')
+    
+    if [ "$TOTAL" -gt 0 ]; then
+        # Download images
+        echo "$RESPONSE" | jq -r '.results[] | "\(.urls.regular)|\(.alt_description // "Interior design")|\(.user.name)"' | head -4 | while IFS='|' read -r url alt author; do
+            img_name="unsplash-$(echo "$SLUG" | sed 's/[^a-zA-Z0-9]/-/g')-$(date +%s%N | cut -b1-13).jpg"
+            img_path="$IMAGE_DIR/$img_name"
+            
+            if curl -sL --max-time 20 "$url" -o "$img_path" && [ -s "$img_path" ]; then
+                echo "[$SLUG]   Image: $img_name (by $author)"
+            fi
+        done
         IMAGE_OK="true"
-        echo "[$SLUG]   Image: OK"
+        echo "[$SLUG]   Unsplash: $TOTAL images available, downloaded 4"
     else
-        echo "[$SLUG]   Image: download failed"
+        echo "[$SLUG]   Unsplash: no results, fallback to fal.ai"
+        IMAGE_OK="false"
+    fi
+elif [ "$FAL_AVAILABLE" = true ]; then
+    echo "[$SLUG]   Image fal.ai..."
+    IMAGE_PROMPT="no text, no letters, no numbers, no words. Soft natural lighting digital illustration. Beautiful home interior scene depicting ${KEYWORD}. Warm and cozy atmosphere with soft pink and mauve accents. Modern feminine touch, clean minimal style, inviting and aspirational mood."
+    FAL_PAYLOAD=$(jq -n --arg p "$IMAGE_PROMPT" \
+        '{prompt: $p, image_size: "landscape_16_9", style: "digital_illustration", substyle: "hand_drawn", colors: [{r:255,g:240,b:245},{r:232,g:121,b:249},{r:249,g:115,b:22}]}')
+    IMAGE_URL=$(curl -s --max-time 60 -X POST "https://fal.run/fal-ai/recraft-20b" \
+        -H "Authorization: Key $FAL_KEY" \
+        -H "Content-Type: application/json" \
+        -d "$FAL_PAYLOAD" 2>/dev/null | jq -r '.images[0].url // empty' 2>/dev/null || true)
+    IMAGE_OK="false"
+    if [ -n "$IMAGE_URL" ]; then
+        curl -sL --max-time 30 "$IMAGE_URL" -o "$IMAGE_PATH" 2>/dev/null || true
+        if [ -s "$IMAGE_PATH" ]; then
+            IMAGE_OK="true"
+            echo "[$SLUG]   Image: OK"
+        else
+            echo "[$SLUG]   Image: download failed"
+        fi
+    else
+        echo "[$SLUG]   Image: generation failed"
     fi
 else
-    echo "[$SLUG]   Image: generation failed"
+    echo "[$SLUG]   Images: no service available"
+    IMAGE_OK="false"
 fi
 
 # ============================================================

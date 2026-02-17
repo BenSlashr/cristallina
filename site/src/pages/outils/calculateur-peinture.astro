@@ -1,0 +1,632 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+---
+
+<BaseLayout 
+  title="Calculateur de Peinture - Combien de Litres ? - Cristallina"
+  description="Calculez précisément la quantité de peinture nécessaire pour vos travaux. Outil gratuit avec conseils pratiques et estimation budget."
+  canonical="https://www.cristallina.fr/outils/calculateur-peinture/"
+>
+  <Navbar />
+  
+  <main class="pt-16">
+    <!-- Hero Section -->
+    <section class="section-soft py-20">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div class="space-y-8">
+          <div class="inline-block">
+            <span class="inline-flex items-center px-6 py-3 bg-white/90 backdrop-blur-sm shadow-soft rounded-full border border-feminine">
+              <span class="mr-3 text-lg">🎨</span> 
+              <span class="title-elegant text-sm">Calculateur Gratuit</span>
+            </span>
+          </div>
+          
+          <h1 class="text-5xl md:text-7xl lg:text-8xl font-display leading-tight">
+            <span class="block title-elegant">Calcul</span>
+            <span class="block text-6xl md:text-8xl lg:text-9xl" style="color: #D4A574; font-style: italic;">peinture</span>
+            <span class="block title-elegant">précis</span>
+          </h1>
+          
+          <div class="quote-feminine max-w-3xl mx-auto">
+            Découvre exactement combien de litres de peinture acheter pour ton projet
+          </div>
+          
+          <div class="flex flex-wrap justify-center gap-4 text-sm" style="color: #8B8B8B;">
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-green-400 rounded-full"></span>
+              Calcul surface précis
+            </span>
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-blue-400 rounded-full"></span>
+              Rendement par type
+            </span>
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-purple-400 rounded-full"></span>
+              Budget estimé
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Calculator Interface -->
+    <section class="py-20">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <!-- Main Calculator -->
+        <div class="grid lg:grid-cols-3 gap-8">
+          
+          <!-- Input Form -->
+          <div class="lg:col-span-1">
+            <div class="card-feminine shadow-soft-hover">
+              <h2 class="text-2xl title-elegant mb-6">Calculer mes besoins</h2>
+              
+              <!-- Surface Type -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Type de surface</label>
+                <div class="grid grid-cols-1 gap-2" id="surface-type">
+                  <button class="surface-btn" data-surface="murs">🏠 Murs d'une pièce</button>
+                  <button class="surface-btn" data-surface="plafond">🔝 Plafond</button>
+                  <button class="surface-btn" data-surface="porte">🚪 Portes</button>
+                  <button class="surface-btn" data-surface="custom">📐 Surface personnalisée</button>
+                </div>
+              </div>
+
+              <!-- Dynamic Inputs Based on Surface Type -->
+              <div id="dimensions-inputs">
+                <!-- Will be populated dynamically -->
+              </div>
+
+              <!-- Paint Type -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Type de peinture</label>
+                <select id="paint-type" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+                  <option value="acrylique">Acrylique (murs/plafonds)</option>
+                  <option value="glycero">Glycéro (boiseries/métal)</option>
+                  <option value="sous-couche">Sous-couche/Primaire</option>
+                  <option value="satinee">Peinture satinée</option>
+                  <option value="mate">Peinture mate</option>
+                </select>
+              </div>
+
+              <!-- Number of Coats -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Nombre de couches</label>
+                <div class="grid grid-cols-3 gap-2" id="coat-selection">
+                  <button class="coat-btn" data-coats="1">1 couche</button>
+                  <button class="coat-btn active" data-coats="2">2 couches</button>
+                  <button class="coat-btn" data-coats="3">3 couches</button>
+                </div>
+              </div>
+
+              <!-- Calculate Button -->
+              <button id="calculate-paint-btn" class="btn-feminine w-full shadow-soft-hover">
+                🎨 Calculer la quantité
+              </button>
+            </div>
+
+            <!-- Quick Reference -->
+            <div class="card-feminine shadow-soft-hover mt-6">
+              <h3 class="text-lg title-elegant mb-4">📖 Rendements moyens</h3>
+              <div class="space-y-2 text-xs" style="color: #8B8B8B;">
+                <div class="flex justify-between">
+                  <span>Acrylique</span>
+                  <span>10-12 m²/L</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>Glycéro</span>
+                  <span>12-14 m²/L</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>Sous-couche</span>
+                  <span>8-10 m²/L</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>Satinée</span>
+                  <span>9-11 m²/L</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Results & Shopping List -->
+          <div class="lg:col-span-2">
+            <div class="card-feminine shadow-soft-hover">
+              <h3 class="text-xl title-elegant mb-6">Mes résultats</h3>
+              
+              <!-- Results Display -->
+              <div id="paint-results" class="hidden">
+                
+                <!-- Main Result -->
+                <div class="bg-gradient-to-r from-primary/10 to-accent/10 rounded-xl p-6 mb-6">
+                  <div class="grid md:grid-cols-2 gap-6">
+                    <div class="text-center">
+                      <div class="text-3xl font-display mb-2" style="color: #D4A574;" id="total-liters">
+                        2.5 L
+                      </div>
+                      <div class="text-sm" style="color: #8B8B8B;">Quantité totale</div>
+                    </div>
+                    <div class="text-center">
+                      <div class="text-3xl font-display mb-2" style="color: #8B7AA8;" id="total-surface">
+                        25 m²
+                      </div>
+                      <div class="text-sm" style="color: #8B8B8B;">Surface à peindre</div>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Detailed Breakdown -->
+                <div class="grid md:grid-cols-2 gap-6 mb-6">
+                  
+                  <!-- Shopping List -->
+                  <div class="bg-blue-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">🛒 Liste d'achats</h4>
+                    <div id="shopping-list" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+
+                  <!-- Calculation Details -->
+                  <div class="bg-green-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">🔍 Détail du calcul</h4>
+                    <div id="calculation-details" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Budget Estimate -->
+                <div class="bg-purple-50 rounded-xl p-6 mb-6">
+                  <h4 class="font-semibold mb-3" style="color: #5D4E75;">💰 Estimation budget</h4>
+                  <div id="budget-estimate" class="grid grid-cols-3 gap-4 text-sm">
+                    <!-- Dynamic price ranges -->
+                  </div>
+                </div>
+
+                <!-- Pro Tips -->
+                <div class="bg-orange-50 rounded-xl p-6">
+                  <h4 class="font-semibold mb-3" style="color: #5D4E75;">💡 Conseils pro</h4>
+                  <div id="pro-tips" class="space-y-2 text-sm">
+                    <!-- Dynamic tips -->
+                  </div>
+                </div>
+              </div>
+
+              <!-- Initial State -->
+              <div id="paint-initial-state" class="text-center py-12">
+                <div class="text-6xl mb-4">🎨</div>
+                <p style="color: #8B8B8B;">Sélectionnez le type de surface pour commencer</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Surface Guide -->
+        <div class="mt-16">
+          <h3 class="text-2xl title-elegant text-center mb-8">Guide des surfaces</h3>
+          
+          <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">🏠</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Pièce standard</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Hauteur: 2,5m</div>
+                <div>• Déduire ouvertures</div>
+                <div>• +10% sécurité</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">🔝</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Plafond</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Surface = L x l</div>
+                <div>• Peinture spéciale</div>
+                <div>• +15% sécurité</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">🚪</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Boiseries</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Portes: 2m² chacune</div>
+                <div>• Fenêtres: 1m² chacune</div>
+                <div>• 2-3 couches min</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">📐</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Mesures</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Toujours en mètres</div>
+                <div>• Mesurer 2 fois</div>
+                <div>• Prévoir chutes</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-20 section-soft">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h3 class="text-2xl title-elegant text-center mb-8">Questions fréquentes</h3>
+        
+        <div class="space-y-6">
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Combien de m² avec 1 litre de peinture ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">En moyenne : 10-12 m² pour l'acrylique, 12-14 m² pour la glycéro. Le rendement varie selon le support et la qualité de la peinture.</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Faut-il déduire portes et fenêtres du calcul ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Oui, déduisez les grandes ouvertures (> 2m²). Pour les petites, gardez cette surface comme marge de sécurité pour les retouches.</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Combien de peinture prévoir en plus ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Ajoutez 10-15% au calcul théorique pour les retouches, pertes et éventuels raccords futurs. Mieux vaut un pot en trop qu'un manque !</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Quelle différence entre mate et satinée ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">La mate masque les défauts mais se nettoie moins bien. La satinée résiste mieux aux traces. Le rendement est similaire (9-11 m²/L).</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+.surface-btn {
+  padding: 0.75rem;
+  font-size: 0.875rem;
+  text-align: left;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(139, 122, 168, 0.15);
+  background: rgba(255, 255, 255, 0.8);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.surface-btn:hover,
+.surface-btn.active {
+  background: linear-gradient(135deg, var(--color-primary-light), var(--color-accent-light));
+  border-color: rgba(139, 122, 168, 0.3);
+  box-shadow: 0 4px 24px rgba(139, 122, 168, 0.08);
+  color: #5D4E75;
+}
+
+.coat-btn {
+  padding: 0.5rem;
+  font-size: 0.875rem;
+  text-align: center;
+  border-radius: 0.5rem;
+  border: 1px solid rgba(139, 122, 168, 0.15);
+  background: rgba(255, 255, 255, 0.8);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.coat-btn:hover,
+.coat-btn.active {
+  background: linear-gradient(135deg, var(--color-primary-light), var(--color-accent-light));
+  border-color: rgba(139, 122, 168, 0.3);
+  box-shadow: 0 4px 24px rgba(139, 122, 168, 0.08);
+  color: #5D4E75;
+}
+
+.input-group {
+  margin-bottom: 1rem;
+}
+
+.input-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+@keyframes gentle-glow {
+  0%, 100% { 
+    box-shadow: 0 4px 24px rgba(212, 165, 116, 0.1);
+  }
+  50% { 
+    box-shadow: 0 8px 32px rgba(212, 165, 116, 0.2);
+  }
+}
+
+.glow-animation {
+  animation: gentle-glow 3s ease-in-out infinite;
+}
+</style>
+
+<script>
+// Paint data and configurations
+const paintTypes = {
+  acrylique: { coverage: 11, price: { min: 15, max: 40 }, name: 'Acrylique' },
+  glycero: { coverage: 13, price: { min: 20, max: 50 }, name: 'Glycéro' },
+  'sous-couche': { coverage: 9, price: { min: 12, max: 30 }, name: 'Sous-couche' },
+  satinee: { coverage: 10, price: { min: 18, max: 45 }, name: 'Satinée' },
+  mate: { coverage: 10.5, price: { min: 16, max: 42 }, name: 'Mate' }
+};
+
+const surfaceConfigs = {
+  murs: {
+    name: 'Murs d\'une pièce',
+    inputs: [
+      { id: 'room-length', label: 'Longueur pièce (m)', placeholder: '4.5' },
+      { id: 'room-width', label: 'Largeur pièce (m)', placeholder: '3.5' },
+      { id: 'room-height', label: 'Hauteur pièce (m)', placeholder: '2.5' },
+      { id: 'doors-count', label: 'Nombre de portes', placeholder: '2' },
+      { id: 'windows-count', label: 'Nombre de fenêtres', placeholder: '2' }
+    ],
+    calculateSurface: (values) => {
+      const perimeter = 2 * (parseFloat(values['room-length']) + parseFloat(values['room-width']));
+      const height = parseFloat(values['room-height']) || 2.5;
+      const wallSurface = perimeter * height;
+      
+      const doorsArea = (parseFloat(values['doors-count']) || 0) * 2; // 2m² per door
+      const windowsArea = (parseFloat(values['windows-count']) || 0) * 1.5; // 1.5m² per window
+      
+      return Math.max(0, wallSurface - doorsArea - windowsArea);
+    }
+  },
+  plafond: {
+    name: 'Plafond',
+    inputs: [
+      { id: 'ceiling-length', label: 'Longueur (m)', placeholder: '4.5' },
+      { id: 'ceiling-width', label: 'Largeur (m)', placeholder: '3.5' }
+    ],
+    calculateSurface: (values) => {
+      return parseFloat(values['ceiling-length']) * parseFloat(values['ceiling-width']);
+    }
+  },
+  porte: {
+    name: 'Portes',
+    inputs: [
+      { id: 'door-count', label: 'Nombre de portes', placeholder: '3' },
+      { id: 'door-faces', label: 'Faces à peindre', placeholder: '2' }
+    ],
+    calculateSurface: (values) => {
+      const doorCount = parseFloat(values['door-count']) || 1;
+      const faces = parseFloat(values['door-faces']) || 2;
+      return doorCount * faces * 2; // 2m² per door face
+    }
+  },
+  custom: {
+    name: 'Surface personnalisée',
+    inputs: [
+      { id: 'custom-surface', label: 'Surface totale (m²)', placeholder: '25' }
+    ],
+    calculateSurface: (values) => {
+      return parseFloat(values['custom-surface']) || 0;
+    }
+  }
+};
+
+let selectedSurface = null;
+let selectedCoats = 2;
+let calculatedSurface = 0;
+
+document.addEventListener('DOMContentLoaded', () => {
+  setupEventListeners();
+});
+
+function setupEventListeners() {
+  // Surface type selection
+  document.querySelectorAll('.surface-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.surface-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      selectedSurface = btn.dataset.surface;
+      updateDimensionsInputs();
+      resetResults();
+    });
+  });
+
+  // Coat selection
+  document.querySelectorAll('.coat-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.coat-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      selectedCoats = parseInt(btn.dataset.coats);
+    });
+  });
+
+  // Calculate button
+  document.getElementById('calculate-paint-btn').addEventListener('click', calculatePaintNeeds);
+}
+
+function updateDimensionsInputs() {
+  const config = surfaceConfigs[selectedSurface];
+  const container = document.getElementById('dimensions-inputs');
+  
+  if (!config) return;
+  
+  const html = `
+    <div class="mb-6">
+      <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Dimensions ${config.name.toLowerCase()}</label>
+      <div class="space-y-3">
+        ${config.inputs.map(input => `
+          <div>
+            <label class="text-xs mb-1 block" style="color: #8B8B8B;">${input.label}</label>
+            <input 
+              type="number" 
+              id="${input.id}" 
+              placeholder="${input.placeholder}" 
+              step="0.1"
+              class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20"
+            >
+          </div>
+        `).join('')}
+      </div>
+    </div>
+  `;
+  
+  container.innerHTML = html;
+}
+
+function calculatePaintNeeds() {
+  if (!selectedSurface) {
+    alert('Merci de sélectionner un type de surface !');
+    return;
+  }
+
+  const config = surfaceConfigs[selectedSurface];
+  const values = {};
+  
+  // Collect input values
+  config.inputs.forEach(input => {
+    const element = document.getElementById(input.id);
+    if (element) {
+      values[input.id] = element.value;
+    }
+  });
+
+  // Check if required values are provided
+  const hasRequiredValues = config.inputs.every(input => values[input.id] && parseFloat(values[input.id]) > 0);
+  
+  if (!hasRequiredValues) {
+    alert('Merci de remplir toutes les dimensions !');
+    return;
+  }
+
+  // Calculate surface
+  calculatedSurface = config.calculateSurface(values);
+  
+  if (calculatedSurface <= 0) {
+    alert('Surface calculée invalide. Vérifiez vos dimensions.');
+    return;
+  }
+
+  // Add safety margin
+  const surfaceWithMargin = calculatedSurface * 1.1; // 10% safety margin
+  
+  const paintType = document.getElementById('paint-type').value;
+  const paintData = paintTypes[paintType];
+  
+  // Calculate paint needed
+  const totalSurface = surfaceWithMargin * selectedCoats;
+  const litersNeeded = totalSurface / paintData.coverage;
+  
+  displayPaintResults(litersNeeded, calculatedSurface, paintData, paintType);
+}
+
+function displayPaintResults(litersNeeded, surface, paintData, paintType) {
+  // Show results section
+  document.getElementById('paint-initial-state').classList.add('hidden');
+  document.getElementById('paint-results').classList.remove('hidden');
+  
+  // Update main results
+  document.getElementById('total-liters').textContent = `${Math.ceil(litersNeeded * 10) / 10} L`;
+  document.getElementById('total-surface').textContent = `${Math.round(surface)} m²`;
+  
+  // Generate shopping list
+  const shoppingContainer = document.getElementById('shopping-list');
+  const potSize = litersNeeded <= 1 ? 1 : litersNeeded <= 2.5 ? 2.5 : 5;
+  const potsNeeded = Math.ceil(litersNeeded / potSize);
+  
+  shoppingContainer.innerHTML = `
+    <div class="flex justify-between items-center">
+      <span>${paintData.name} ${potSize}L</span>
+      <span class="font-semibold">${potsNeeded} pot${potsNeeded > 1 ? 's' : ''}</span>
+    </div>
+    ${selectedCoats > 2 ? `
+      <div class="flex justify-between items-center text-orange-600">
+        <span>Sous-couche recommandée</span>
+        <span class="font-semibold">1 pot</span>
+      </div>
+    ` : ''}
+    <div class="border-t pt-2 mt-2">
+      <div class="flex justify-between items-center font-semibold">
+        <span>Total</span>
+        <span>${potsNeeded + (selectedCoats > 2 ? 1 : 0)} pot${(potsNeeded + (selectedCoats > 2 ? 1 : 0)) > 1 ? 's' : ''}</span>
+      </div>
+    </div>
+  `;
+  
+  // Calculation details
+  const detailsContainer = document.getElementById('calculation-details');
+  detailsContainer.innerHTML = `
+    <div class="flex justify-between">
+      <span>Surface brute</span>
+      <span>${Math.round(surface)} m²</span>
+    </div>
+    <div class="flex justify-between">
+      <span>Nombre de couches</span>
+      <span>${selectedCoats}</span>
+    </div>
+    <div class="flex justify-between">
+      <span>Rendement ${paintData.name}</span>
+      <span>${paintData.coverage} m²/L</span>
+    </div>
+    <div class="flex justify-between">
+      <span>Marge sécurité</span>
+      <span>+10%</span>
+    </div>
+    <div class="border-t pt-2 mt-2 flex justify-between font-semibold">
+      <span>Quantité théorique</span>
+      <span>${Math.ceil(litersNeeded * 10) / 10} L</span>
+    </div>
+  `;
+  
+  // Budget estimate
+  const budgetContainer = document.getElementById('budget-estimate');
+  const totalCost = potsNeeded * potSize;
+  budgetContainer.innerHTML = `
+    <div class="text-center">
+      <div class="font-semibold" style="color: #5D4E75;">Entrée de gamme</div>
+      <div class="text-lg" style="color: #D4A574;">${Math.round(totalCost * paintData.price.min)}€</div>
+    </div>
+    <div class="text-center">
+      <div class="font-semibold" style="color: #5D4E75;">Milieu de gamme</div>
+      <div class="text-lg" style="color: #D4A574;">${Math.round(totalCost * ((paintData.price.min + paintData.price.max) / 2))}€</div>
+    </div>
+    <div class="text-center">
+      <div class="font-semibold" style="color: #5D4E75;">Haut de gamme</div>
+      <div class="text-lg" style="color: #D4A574;">${Math.round(totalCost * paintData.price.max)}€</div>
+    </div>
+  `;
+  
+  // Pro tips
+  const tipsContainer = document.getElementById('pro-tips');
+  const tips = [
+    'Garde toujours un pot fermé pour les retouches futures',
+    'Applique en croisant les passes pour un rendu uniforme',
+    'Évite de peindre par forte chaleur ou humidité',
+    'Teste la couleur sur 1m² avant de commencer'
+  ];
+  
+  if (paintType === 'sous-couche') {
+    tips.unshift('La sous-couche améliore l\'adhérence et réduit le nombre de couches de finition');
+  }
+  
+  tipsContainer.innerHTML = tips.map(tip => `
+    <div class="flex items-start gap-2">
+      <span class="text-orange-400 mt-0.5">•</span>
+      <span>${tip}</span>
+    </div>
+  `).join('');
+  
+  // Smooth scroll to results
+  document.getElementById('paint-results').scrollIntoView({ 
+    behavior: 'smooth', 
+    block: 'start' 
+  });
+}
+
+function resetResults() {
+  document.getElementById('paint-initial-state').classList.remove('hidden');
+  document.getElementById('paint-results').classList.add('hidden');
+}
+</script>

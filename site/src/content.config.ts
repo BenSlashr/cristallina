@@ -46,8 +46,9 @@ const guides = defineCollection({
     description: z.string(),
     type: z.enum(['hub', 'guide']),
     branch: z.enum([
-      // TODO: Replace with your topic branches
       'getting-started', 'advanced', 'tools', 'best-practices',
+      'decoration', 'cuisine', 'chambre', 'salle-de-bain',
+      'exterieur', 'couleurs', 'rangement', 'shopping',
     ]),
     parent: z.string().nullable().default(null),
     order: z.number().default(0),

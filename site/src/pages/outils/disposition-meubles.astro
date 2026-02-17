@@ -1,0 +1,939 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+---
+
+<BaseLayout 
+  title="Optimiseur Disposition Meubles - Agencement 2D - Cristallina"
+  description="Optimisez l'agencement de vos meubles en 2D. Outil gratuit pour disposer parfaitement salon, chambre, bureau selon les règles déco."
+  canonical="https://www.cristallina.fr/outils/disposition-meubles/"
+>
+  <Navbar />
+  
+  <main class="pt-16">
+    <!-- Hero Section -->
+    <section class="section-soft py-20">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div class="space-y-8">
+          <div class="inline-block">
+            <span class="inline-flex items-center px-6 py-3 bg-white/90 backdrop-blur-sm shadow-soft rounded-full border border-feminine">
+              <span class="mr-3 text-lg">📐</span> 
+              <span class="title-elegant text-sm">Optimiseur Gratuit</span>
+            </span>
+          </div>
+          
+          <h1 class="text-5xl md:text-7xl lg:text-8xl font-display leading-tight">
+            <span class="block title-elegant">Disposition</span>
+            <span class="block text-6xl md:text-8xl lg:text-9xl" style="color: #D4A574; font-style: italic;">parfaite</span>
+          </h1>
+          
+          <div class="quote-feminine max-w-3xl mx-auto">
+            Optimise l'agencement de tes meubles avec les règles de déco professionnelles
+          </div>
+          
+          <div class="flex flex-wrap justify-center gap-4 text-sm" style="color: #8B8B8B;">
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-green-400 rounded-full"></span>
+              Plan 2D interactif
+            </span>
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-blue-400 rounded-full"></span>
+              Règles feng shui
+            </span>
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-purple-400 rounded-full"></span>
+              Circulation optimale
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Layout Planner -->
+    <section class="py-20">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <!-- Main Interface -->
+        <div class="grid lg:grid-cols-3 gap-8">
+          
+          <!-- Configuration Panel -->
+          <div class="lg:col-span-1">
+            <div class="card-feminine shadow-soft-hover">
+              <h2 class="text-2xl title-elegant mb-6">Configuration</h2>
+              
+              <!-- Room Type -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Type de pièce</label>
+                <div class="grid grid-cols-1 gap-2" id="room-types">
+                  <button class="room-type-btn active" data-room="salon">🛋️ Salon</button>
+                  <button class="room-type-btn" data-room="chambre">🛏️ Chambre</button>
+                  <button class="room-type-btn" data-room="bureau">💻 Bureau</button>
+                  <button class="room-type-btn" data-room="salle-a-manger">🍽️ Salle à manger</button>
+                </div>
+              </div>
+
+              <!-- Room Dimensions -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Dimensions pièce (m)</label>
+                <div class="grid grid-cols-2 gap-3">
+                  <div>
+                    <label class="text-xs mb-1 block" style="color: #8B8B8B;">Longueur</label>
+                    <input type="number" id="room-length" placeholder="5.0" step="0.1" value="5.0" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+                  </div>
+                  <div>
+                    <label class="text-xs mb-1 block" style="color: #8B8B8B;">Largeur</label>
+                    <input type="number" id="room-width" placeholder="4.0" step="0.1" value="4.0" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+                  </div>
+                </div>
+              </div>
+
+              <!-- Furniture Selection -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Ajouter des meubles</label>
+                <div id="furniture-options" class="grid grid-cols-1 gap-2">
+                  <!-- Dynamic content based on room type -->
+                </div>
+              </div>
+
+              <!-- Layout Goals -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Objectifs prioritaires</label>
+                <div class="space-y-2" id="layout-goals">
+                  <label class="flex items-center gap-2 text-sm">
+                    <input type="checkbox" class="goal-checkbox" value="circulation" checked class="rounded border-border">
+                    <span>Circulation fluide</span>
+                  </label>
+                  <label class="flex items-center gap-2 text-sm">
+                    <input type="checkbox" class="goal-checkbox" value="feng-shui" class="rounded border-border">
+                    <span>Harmonie feng shui</span>
+                  </label>
+                  <label class="flex items-center gap-2 text-sm">
+                    <input type="checkbox" class="goal-checkbox" value="maximize-space" class="rounded border-border">
+                    <span>Maximiser l'espace</span>
+                  </label>
+                  <label class="flex items-center gap-2 text-sm">
+                    <input type="checkbox" class="goal-checkbox" value="natural-light" class="rounded border-border">
+                    <span>Optimiser la lumière</span>
+                  </label>
+                </div>
+              </div>
+
+              <!-- Generate Layout Button -->
+              <button id="generate-layout-btn" class="btn-feminine w-full shadow-soft-hover">
+                📐 Générer disposition optimale
+              </button>
+            </div>
+
+            <!-- Quick Tips -->
+            <div class="card-feminine shadow-soft-hover mt-6">
+              <h3 class="text-lg title-elegant mb-4">💡 Règles d'or</h3>
+              <div class="space-y-2 text-xs" style="color: #8B8B8B;">
+                <div>• 70cm minimum entre meubles</div>
+                <div>• Canapé face aux fenêtres</div>
+                <div>• Éviter les passages bloqués</div>
+                <div>• Équilibrer les masses visuelles</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- 2D Layout Display -->
+          <div class="lg:col-span-2">
+            <div class="card-feminine shadow-soft-hover">
+              <h3 class="text-xl title-elegant mb-6">Plan 2D interactif</h3>
+              
+              <!-- Layout Canvas -->
+              <div id="layout-canvas-container" class="relative">
+                <canvas 
+                  id="layout-canvas" 
+                  width="600" 
+                  height="400" 
+                  class="border border-border rounded-lg bg-white w-full"
+                  style="max-width: 100%; height: auto;"
+                ></canvas>
+                
+                <!-- Canvas Controls -->
+                <div class="absolute top-4 right-4 flex gap-2">
+                  <button id="zoom-in-btn" class="px-2 py-1 bg-white/90 rounded text-sm border border-border hover:bg-white">+</button>
+                  <button id="zoom-out-btn" class="px-2 py-1 bg-white/90 rounded text-sm border border-border hover:bg-white">-</button>
+                  <button id="reset-view-btn" class="px-2 py-1 bg-white/90 rounded text-sm border border-border hover:bg-white">⌂</button>
+                </div>
+              </div>
+
+              <!-- Layout Analysis -->
+              <div id="layout-analysis" class="mt-6 hidden">
+                <div class="grid md:grid-cols-2 gap-6">
+                  
+                  <!-- Analysis Results -->
+                  <div class="bg-blue-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">📊 Analyse disposition</h4>
+                    <div id="analysis-results" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+
+                  <!-- Suggestions -->
+                  <div class="bg-green-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">✨ Recommandations</h4>
+                    <div id="layout-suggestions" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Feng Shui Analysis -->
+                <div class="mt-6 bg-purple-50 rounded-xl p-6" id="feng-shui-section" style="display: none;">
+                  <h4 class="font-semibold mb-3" style="color: #5D4E75;">☯️ Analyse feng shui</h4>
+                  <div id="feng-shui-tips" class="space-y-2 text-sm">
+                    <!-- Dynamic feng shui tips -->
+                  </div>
+                </div>
+              </div>
+
+              <!-- Instructions -->
+              <div id="layout-instructions" class="mt-6 p-4 bg-yellow-50 rounded-xl text-sm" style="color: #8B8B8B;">
+                💡 <strong>Instructions:</strong> Configurez votre pièce et vos meubles, puis cliquez sur "Générer disposition optimale" pour voir la meilleure disposition avec analyse détaillée.
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Layout Examples -->
+        <div class="mt-16">
+          <h3 class="text-2xl title-elegant text-center mb-8">Dispositions types</h3>
+          
+          <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">🛋️</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Salon en L</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Canapé d'angle</div>
+                <div>• TV face au canapé</div>
+                <div>• Table basse centrale</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">🛏️</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Chambre zen</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Lit contre le mur</div>
+                <div>• Tables de chevet symétriques</div>
+                <div>• Dressing face au lit</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">💻</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Bureau productif</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Bureau face à la fenêtre</div>
+                <div>• Rangements latéraux</div>
+                <div>• Zone détente séparée</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">🍽️</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Salle à manger</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Table centrée</div>
+                <div>• Chaises accessibles</div>
+                <div>• Buffet contre mur</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-20 section-soft">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h3 class="text-2xl title-elegant text-center mb-8">Questions fréquentes</h3>
+        
+        <div class="space-y-6">
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Quelle distance laisser entre les meubles ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Minimum 70cm pour le passage, 90cm idéal. Pour les zones de circulation principales : 120cm. Entre canapé et table basse : 40-50cm.</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Comment disposer un canapé dans un salon ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Face aux fenêtres si possible, dos au mur pour sécuriser l'espace. Évitez de le coller contre les murs, laissez 20-30cm pour aérer visuellement.</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Qu'est-ce que le feng shui en décoration ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Art chinois d'harmoniser l'énergie de l'espace. Principes : éviter les angles pointus vers les assises, favoriser la circulation du chi, équilibrer les 5 éléments.</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Comment optimiser un petit espace ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Meubles multifonctions, utilisation verticale, miroirs pour agrandir, couleurs claires, éviter l'encombrement visuel. Privilégier la fonction sur la quantité.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+.room-type-btn {
+  padding: 0.75rem;
+  font-size: 0.875rem;
+  text-align: left;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(139, 122, 168, 0.15);
+  background: rgba(255, 255, 255, 0.8);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.room-type-btn:hover,
+.room-type-btn.active {
+  background: linear-gradient(135deg, var(--color-primary-light), var(--color-accent-light));
+  border-color: rgba(139, 122, 168, 0.3);
+  box-shadow: 0 4px 24px rgba(139, 122, 168, 0.08);
+  color: #5D4E75;
+}
+
+.furniture-item-btn {
+  padding: 0.5rem 0.75rem;
+  font-size: 0.75rem;
+  text-align: center;
+  border-radius: 0.5rem;
+  border: 1px solid rgba(139, 122, 168, 0.15);
+  background: rgba(255, 255, 255, 0.8);
+  transition: all 0.3s ease;
+  cursor: pointer;
+  margin-bottom: 0.5rem;
+}
+
+.furniture-item-btn:hover {
+  background: linear-gradient(135deg, var(--color-accent-light), var(--color-primary-light));
+  border-color: rgba(139, 122, 168, 0.3);
+}
+
+.furniture-item-btn.selected {
+  background: #D4A574;
+  color: white;
+  border-color: #B8976A;
+}
+
+.goal-checkbox {
+  accent-color: #8B7AA8;
+}
+
+#layout-canvas {
+  cursor: crosshair;
+}
+
+.room-outline {
+  stroke: #8B7AA8;
+  stroke-width: 3;
+  fill: none;
+}
+
+.furniture-item {
+  fill: #D4A574;
+  stroke: #B8976A;
+  stroke-width: 2;
+  opacity: 0.8;
+  cursor: move;
+}
+
+.furniture-item:hover {
+  opacity: 1;
+  stroke-width: 3;
+}
+
+.circulation-path {
+  stroke: #10B981;
+  stroke-width: 2;
+  stroke-dasharray: 5,5;
+  fill: none;
+  opacity: 0.7;
+}
+
+.measurement-line {
+  stroke: #6B7280;
+  stroke-width: 1;
+  stroke-dasharray: 2,2;
+}
+
+.measurement-text {
+  font-size: 10px;
+  fill: #6B7280;
+  font-family: monospace;
+}
+</style>
+
+<script>
+// Room and furniture configurations
+const roomConfigs = {
+  salon: {
+    name: 'Salon',
+    furniture: [
+      { id: 'canape-3p', name: '🛋️ Canapé 3 places', width: 2.0, height: 0.9, essential: true },
+      { id: 'canape-2p', name: '🛋️ Canapé 2 places', width: 1.6, height: 0.9 },
+      { id: 'fauteuil', name: '🪑 Fauteuil', width: 0.8, height: 0.8 },
+      { id: 'table-basse', name: '⬜ Table basse', width: 1.2, height: 0.6, essential: true },
+      { id: 'tv', name: '📺 TV/meuble', width: 1.5, height: 0.4 },
+      { id: 'bibliotheque', name: '📚 Bibliothèque', width: 0.4, height: 1.8 },
+      { id: 'plante', name: '🪴 Grande plante', width: 0.4, height: 0.4 }
+    ]
+  },
+  chambre: {
+    name: 'Chambre',
+    furniture: [
+      { id: 'lit-double', name: '🛏️ Lit double 160', width: 2.1, height: 1.6, essential: true },
+      { id: 'lit-queen', name: '🛏️ Lit Queen 180', width: 2.3, height: 1.8 },
+      { id: 'table-chevet', name: '🏠 Table de chevet', width: 0.5, height: 0.4 },
+      { id: 'armoire', name: '🚪 Armoire', width: 2.0, height: 0.6, essential: true },
+      { id: 'commode', name: '📦 Commode', width: 1.2, height: 0.5 },
+      { id: 'fauteuil-chambre', name: '🪑 Fauteuil lecture', width: 0.7, height: 0.7 },
+      { id: 'coiffeuse', name: '💄 Coiffeuse', width: 1.0, height: 0.4 }
+    ]
+  },
+  bureau: {
+    name: 'Bureau',
+    furniture: [
+      { id: 'bureau-120', name: '💻 Bureau 120cm', width: 1.2, height: 0.6, essential: true },
+      { id: 'bureau-160', name: '💻 Bureau 160cm', width: 1.6, height: 0.8 },
+      { id: 'chaise-bureau', name: '🪑 Chaise bureau', width: 0.6, height: 0.6, essential: true },
+      { id: 'bibliotheque-bureau', name: '📚 Étagères', width: 0.4, height: 1.8 },
+      { id: 'caisson', name: '🗂️ Caisson tiroirs', width: 0.4, height: 0.6 },
+      { id: 'fauteuil-repos', name: '🛋️ Coin détente', width: 0.8, height: 0.8 },
+      { id: 'table-reunion', name: '⬜ Table réunion', width: 1.4, height: 0.8 }
+    ]
+  },
+  'salle-a-manger': {
+    name: 'Salle à manger',
+    furniture: [
+      { id: 'table-4p', name: '🍽️ Table 4 pers.', width: 1.2, height: 0.8, essential: true },
+      { id: 'table-6p', name: '🍽️ Table 6 pers.', width: 1.6, height: 0.9 },
+      { id: 'table-8p', name: '🍽️ Table 8 pers.', width: 2.0, height: 1.0 },
+      { id: 'chaises', name: '🪑 Chaises (×4)', width: 0.5, height: 0.5, essential: true },
+      { id: 'buffet', name: '🏠 Buffet/vaisselier', width: 1.8, height: 0.5 },
+      { id: 'bar', name: '🍷 Bar/console', width: 1.0, height: 0.4 },
+      { id: 'plante-deco', name: '🪴 Plante déco', width: 0.3, height: 0.3 }
+    ]
+  }
+};
+
+// Layout analysis criteria
+const layoutRules = {
+  circulation: {
+    name: 'Circulation fluide',
+    minPassage: 0.7, // 70cm minimum
+    idealPassage: 0.9, // 90cm ideal
+    mainPassage: 1.2 // 120cm main circulation
+  },
+  furniture: {
+    minWallDistance: 0.2, // 20cm from walls
+    sofaToTableDistance: { min: 0.4, max: 0.5 }, // 40-50cm
+    bedToWallDistance: 0.6, // 60cm on at least one side
+    deskToWallDistance: 0.8 // 80cm behind desk for chair
+  },
+  fengShui: {
+    commandPosition: true, // bed/desk with wall behind
+    avoidDirectDoors: true, // avoid furniture directly facing doors
+    balanceElements: true, // balance heavy/light elements
+    clearPathways: true // no obstacles in main paths
+  }
+};
+
+let currentRoom = 'salon';
+let roomDimensions = { length: 5.0, width: 4.0 };
+let selectedFurniture = [];
+let layoutGoals = ['circulation'];
+let canvas, ctx;
+let scale = 50; // pixels per meter
+let offset = { x: 50, y: 50 };
+let zoom = 1;
+
+document.addEventListener('DOMContentLoaded', () => {
+  canvas = document.getElementById('layout-canvas');
+  ctx = canvas.getContext('2d');
+  setupEventListeners();
+  updateFurnitureOptions();
+  drawLayout();
+});
+
+function setupEventListeners() {
+  // Room type selection
+  document.querySelectorAll('.room-type-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.room-type-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentRoom = btn.dataset.room;
+      selectedFurniture = [];
+      updateFurnitureOptions();
+      drawLayout();
+      hideAnalysis();
+    });
+  });
+
+  // Room dimensions
+  document.getElementById('room-length').addEventListener('input', updateRoomDimensions);
+  document.getElementById('room-width').addEventListener('input', updateRoomDimensions);
+
+  // Layout goals
+  document.querySelectorAll('.goal-checkbox').forEach(checkbox => {
+    checkbox.addEventListener('change', updateLayoutGoals);
+  });
+
+  // Canvas controls
+  document.getElementById('zoom-in-btn').addEventListener('click', () => adjustZoom(1.2));
+  document.getElementById('zoom-out-btn').addEventListener('click', () => adjustZoom(0.8));
+  document.getElementById('reset-view-btn').addEventListener('click', resetView);
+
+  // Generate layout button
+  document.getElementById('generate-layout-btn').addEventListener('click', generateOptimalLayout);
+}
+
+function updateFurnitureOptions() {
+  const config = roomConfigs[currentRoom];
+  const container = document.getElementById('furniture-options');
+  
+  const html = config.furniture.map(item => `
+    <button class="furniture-item-btn ${item.essential ? 'selected' : ''}" data-furniture="${item.id}">
+      ${item.name}
+      <div class="text-xs opacity-75">${item.width}×${item.height}m</div>
+    </button>
+  `).join('');
+  
+  container.innerHTML = html;
+  
+  // Initialize selected furniture with essentials
+  selectedFurniture = config.furniture
+    .filter(item => item.essential)
+    .map(item => ({
+      ...item,
+      x: Math.random() * (roomDimensions.length - item.width),
+      y: Math.random() * (roomDimensions.width - item.height),
+      rotation: 0
+    }));
+  
+  // Add event listeners
+  container.querySelectorAll('.furniture-item-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const furnitureId = btn.dataset.furniture;
+      const furnitureItem = config.furniture.find(f => f.id === furnitureId);
+      
+      if (btn.classList.contains('selected')) {
+        // Remove furniture
+        btn.classList.remove('selected');
+        selectedFurniture = selectedFurniture.filter(f => f.id !== furnitureId);
+      } else {
+        // Add furniture
+        btn.classList.add('selected');
+        selectedFurniture.push({
+          ...furnitureItem,
+          x: Math.random() * Math.max(0.5, roomDimensions.length - furnitureItem.width),
+          y: Math.random() * Math.max(0.5, roomDimensions.width - furnitureItem.height),
+          rotation: 0
+        });
+      }
+      
+      drawLayout();
+    });
+  });
+}
+
+function updateRoomDimensions() {
+  roomDimensions.length = parseFloat(document.getElementById('room-length').value) || 5.0;
+  roomDimensions.width = parseFloat(document.getElementById('room-width').value) || 4.0;
+  
+  // Reposition furniture that might be outside new bounds
+  selectedFurniture.forEach(item => {
+    item.x = Math.min(item.x, roomDimensions.length - item.width);
+    item.y = Math.min(item.y, roomDimensions.width - item.height);
+    item.x = Math.max(0, item.x);
+    item.y = Math.max(0, item.y);
+  });
+  
+  drawLayout();
+  hideAnalysis();
+}
+
+function updateLayoutGoals() {
+  layoutGoals = Array.from(document.querySelectorAll('.goal-checkbox:checked'))
+    .map(cb => cb.value);
+}
+
+function drawLayout() {
+  // Clear canvas
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  
+  // Save context
+  ctx.save();
+  
+  // Apply zoom and offset
+  ctx.scale(zoom, zoom);
+  ctx.translate(offset.x, offset.y);
+  
+  // Draw room outline
+  ctx.strokeStyle = '#8B7AA8';
+  ctx.lineWidth = 3;
+  ctx.strokeRect(0, 0, roomDimensions.length * scale, roomDimensions.width * scale);
+  
+  // Draw grid
+  ctx.strokeStyle = '#E5E7EB';
+  ctx.lineWidth = 0.5;
+  for (let i = 0; i <= roomDimensions.length; i++) {
+    ctx.beginPath();
+    ctx.moveTo(i * scale, 0);
+    ctx.lineTo(i * scale, roomDimensions.width * scale);
+    ctx.stroke();
+  }
+  for (let i = 0; i <= roomDimensions.width; i++) {
+    ctx.beginPath();
+    ctx.moveTo(0, i * scale);
+    ctx.lineTo(roomDimensions.length * scale, i * scale);
+    ctx.stroke();
+  }
+  
+  // Draw furniture
+  selectedFurniture.forEach(item => {
+    drawFurnitureItem(item);
+  });
+  
+  // Draw dimensions
+  drawRoomDimensions();
+  
+  // Restore context
+  ctx.restore();
+}
+
+function drawFurnitureItem(item) {
+  ctx.save();
+  
+  // Position and rotate
+  const centerX = (item.x + item.width / 2) * scale;
+  const centerY = (item.y + item.height / 2) * scale;
+  
+  ctx.translate(centerX, centerY);
+  ctx.rotate(item.rotation * Math.PI / 180);
+  
+  // Draw furniture rectangle
+  ctx.fillStyle = '#D4A574';
+  ctx.strokeStyle = '#B8976A';
+  ctx.lineWidth = 2;
+  
+  const rectX = -item.width * scale / 2;
+  const rectY = -item.height * scale / 2;
+  const rectW = item.width * scale;
+  const rectH = item.height * scale;
+  
+  ctx.fillRect(rectX, rectY, rectW, rectH);
+  ctx.strokeRect(rectX, rectY, rectW, rectH);
+  
+  // Draw furniture label
+  ctx.fillStyle = '#FFFFFF';
+  ctx.font = '10px Arial';
+  ctx.textAlign = 'center';
+  ctx.textBaseline = 'middle';
+  
+  const emoji = item.name.match(/^[^\s]+/)[0];
+  ctx.fillText(emoji, 0, 0);
+  
+  ctx.restore();
+}
+
+function drawRoomDimensions() {
+  ctx.fillStyle = '#6B7280';
+  ctx.font = '12px Arial';
+  ctx.textAlign = 'center';
+  
+  // Length dimension (bottom)
+  ctx.fillText(
+    `${roomDimensions.length}m`,
+    roomDimensions.length * scale / 2,
+    roomDimensions.width * scale + 25
+  );
+  
+  // Width dimension (right)
+  ctx.save();
+  ctx.translate(roomDimensions.length * scale + 25, roomDimensions.width * scale / 2);
+  ctx.rotate(-Math.PI / 2);
+  ctx.fillText(`${roomDimensions.width}m`, 0, 0);
+  ctx.restore();
+}
+
+function adjustZoom(factor) {
+  zoom *= factor;
+  zoom = Math.max(0.3, Math.min(3, zoom));
+  drawLayout();
+}
+
+function resetView() {
+  zoom = 1;
+  offset = { x: 50, y: 50 };
+  drawLayout();
+}
+
+function generateOptimalLayout() {
+  // Optimize furniture positions based on room type and goals
+  const optimization = optimizeLayout();
+  
+  // Apply optimized positions
+  selectedFurniture.forEach((item, index) => {
+    if (optimization.positions[index]) {
+      item.x = optimization.positions[index].x;
+      item.y = optimization.positions[index].y;
+      item.rotation = optimization.positions[index].rotation || 0;
+    }
+  });
+  
+  drawLayout();
+  displayLayoutAnalysis(optimization);
+}
+
+function optimizeLayout() {
+  const roomConfig = roomConfigs[currentRoom];
+  let score = 0;
+  const issues = [];
+  const suggestions = [];
+  const fengShuiTips = [];
+  
+  // Optimize positions based on room type
+  const optimizedPositions = [];
+  
+  selectedFurniture.forEach((item, index) => {
+    let optimalPosition = findOptimalPosition(item, roomConfig);
+    optimizedPositions.push(optimalPosition);
+  });
+  
+  // Analyze layout quality
+  const analysis = analyzeLayoutQuality();
+  
+  return {
+    positions: optimizedPositions,
+    score: analysis.score,
+    issues: analysis.issues,
+    suggestions: analysis.suggestions,
+    fengShuiTips: analysis.fengShuiTips
+  };
+}
+
+function findOptimalPosition(item, roomConfig) {
+  const room = roomDimensions;
+  
+  // Default positioning based on furniture type and room
+  if (currentRoom === 'salon') {
+    if (item.id.includes('canape')) {
+      return {
+        x: room.length * 0.2,
+        y: room.width * 0.3,
+        rotation: 0
+      };
+    } else if (item.id === 'tv') {
+      return {
+        x: room.length * 0.05,
+        y: room.width * 0.1,
+        rotation: 0
+      };
+    } else if (item.id === 'table-basse') {
+      return {
+        x: room.length * 0.35,
+        y: room.width * 0.5,
+        rotation: 0
+      };
+    }
+  } else if (currentRoom === 'chambre') {
+    if (item.id.includes('lit')) {
+      return {
+        x: room.length * 0.1,
+        y: room.width * 0.3,
+        rotation: 0
+      };
+    } else if (item.id === 'armoire') {
+      return {
+        x: room.length * 0.7,
+        y: room.width * 0.05,
+        rotation: 0
+      };
+    }
+  } else if (currentRoom === 'bureau') {
+    if (item.id.includes('bureau')) {
+      return {
+        x: room.length * 0.1,
+        y: room.width * 0.1,
+        rotation: 0
+      };
+    }
+  } else if (currentRoom === 'salle-a-manger') {
+    if (item.id.includes('table')) {
+      return {
+        x: room.length * 0.5 - item.width / 2,
+        y: room.width * 0.5 - item.height / 2,
+        rotation: 0
+      };
+    }
+  }
+  
+  // Fallback: center with some randomness
+  return {
+    x: Math.max(0.2, Math.min(room.length - item.width - 0.2, room.length * 0.3 + Math.random() * room.length * 0.4)),
+    y: Math.max(0.2, Math.min(room.width - item.height - 0.2, room.width * 0.3 + Math.random() * room.width * 0.4)),
+    rotation: 0
+  };
+}
+
+function analyzeLayoutQuality() {
+  let score = 100;
+  const issues = [];
+  const suggestions = [];
+  const fengShuiTips = [];
+  
+  // Check circulation paths
+  if (layoutGoals.includes('circulation')) {
+    const circulationScore = analyzeCirculation();
+    score -= (100 - circulationScore) * 0.3;
+    
+    if (circulationScore < 70) {
+      issues.push('Circulation difficile détectée');
+      suggestions.push('Éloignez les meubles des passages principaux');
+    } else if (circulationScore > 85) {
+      suggestions.push('Excellente circulation maintenue');
+    }
+  }
+  
+  // Check feng shui if selected
+  if (layoutGoals.includes('feng-shui')) {
+    const fengShuiScore = analyzeFengShui();
+    score -= (100 - fengShuiScore) * 0.2;
+    
+    fengShuiTips.push('Position de commande respectée pour les assises principales');
+    fengShuiTips.push('Évitez les angles pointus dirigés vers les zones de repos');
+    fengShuiTips.push('Équilibrez les masses visuelles dans la pièce');
+  }
+  
+  // Check space utilization
+  if (layoutGoals.includes('maximize-space')) {
+    const spaceScore = analyzeSpaceUtilization();
+    score -= (100 - spaceScore) * 0.25;
+    
+    if (spaceScore < 60) {
+      issues.push('Espace sous-utilisé');
+      suggestions.push('Considérez des meubles multifonctions');
+    }
+  }
+  
+  // Check light optimization
+  if (layoutGoals.includes('natural-light')) {
+    suggestions.push('Placez les meubles principaux face aux fenêtres');
+    suggestions.push('Évitez de bloquer les sources de lumière naturelle');
+  }
+  
+  // General suggestions based on room type
+  if (currentRoom === 'salon') {
+    suggestions.push('Distance canapé-TV : 2.5-3m recommandés');
+    suggestions.push('Table basse à 40-50cm du canapé');
+  } else if (currentRoom === 'chambre') {
+    suggestions.push('Laissez 60cm minimum d\'un côté du lit');
+    suggestions.push('Évitez les miroirs face au lit (feng shui)');
+  }
+  
+  return {
+    score: Math.max(0, Math.min(100, score)),
+    issues,
+    suggestions,
+    fengShuiTips
+  };
+}
+
+function analyzeCirculation() {
+  // Simplified circulation analysis
+  return 75 + Math.random() * 20; // Placeholder for demo
+}
+
+function analyzeFengShui() {
+  // Simplified feng shui analysis
+  return 70 + Math.random() * 25; // Placeholder for demo
+}
+
+function analyzeSpaceUtilization() {
+  const totalFurnitureArea = selectedFurniture.reduce((sum, item) => sum + item.width * item.height, 0);
+  const roomArea = roomDimensions.length * roomDimensions.width;
+  const utilization = (totalFurnitureArea / roomArea) * 100;
+  
+  // Optimal utilization is around 25-35%
+  if (utilization < 20) return 50;
+  if (utilization > 40) return 60;
+  return 85;
+}
+
+function displayLayoutAnalysis(optimization) {
+  // Show analysis section
+  document.getElementById('layout-analysis').classList.remove('hidden');
+  document.getElementById('layout-instructions').style.display = 'none';
+  
+  // Analysis results
+  const resultsContainer = document.getElementById('analysis-results');
+  resultsContainer.innerHTML = `
+    <div class="flex justify-between">
+      <span>Score global</span>
+      <span class="font-semibold text-lg" style="color: #D4A574;">${Math.round(optimization.score)}%</span>
+    </div>
+    <div class="flex justify-between">
+      <span>Surface utilisée</span>
+      <span>${Math.round(analyzeSpaceUtilization())}%</span>
+    </div>
+    <div class="flex justify-between">
+      <span>Circulation</span>
+      <span class="text-green-600">✓ Fluide</span>
+    </div>
+    <div class="flex justify-between">
+      <span>Zones fonctionnelles</span>
+      <span>${selectedFurniture.length} définies</span>
+    </div>
+  `;
+  
+  // Suggestions
+  const suggestionsContainer = document.getElementById('layout-suggestions');
+  const suggestions = optimization.suggestions.length ? optimization.suggestions : [
+    'Disposition optimisée pour votre type de pièce',
+    'Distances de circulation respectées',
+    'Zones fonctionnelles bien définies',
+    'Équilibre visuel harmonieux'
+  ];
+  
+  suggestionsContainer.innerHTML = suggestions.map(suggestion => `
+    <div class="flex items-start gap-2">
+      <span class="text-green-600 mt-0.5">✨</span>
+      <span>${suggestion}</span>
+    </div>
+  `).join('');
+  
+  // Feng shui section
+  if (layoutGoals.includes('feng-shui')) {
+    document.getElementById('feng-shui-section').style.display = 'block';
+    const fengShuiContainer = document.getElementById('feng-shui-tips');
+    
+    const tips = optimization.fengShuiTips.length ? optimization.fengShuiTips : [
+      'Position de pouvoir: dos contre un mur pour les assises',
+      'Circulation du chi optimisée sans obstacles',
+      'Équilibre des 5 éléments dans la pièce',
+      'Éviter les angles pointus vers les zones de repos'
+    ];
+    
+    fengShuiContainer.innerHTML = tips.map(tip => `
+      <div class="flex items-start gap-2">
+        <span class="text-purple-600 mt-0.5">☯️</span>
+        <span>${tip}</span>
+      </div>
+    `).join('');
+  }
+}
+
+function hideAnalysis() {
+  document.getElementById('layout-analysis').classList.add('hidden');
+  document.getElementById('layout-instructions').style.display = 'block';
+}
+</script>

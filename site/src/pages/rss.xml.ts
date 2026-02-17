@@ -34,9 +34,8 @@ export async function GET(context: APIContext) {
   ].sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());
 
   return rss({
-    // TODO: Replace with your site info
-    title: 'MySite - RSS Feed',
-    description: 'Guides et articles recents.',
+    title: 'Cristallina - RSS Feed',
+    description: 'Inspiration deco et lifestyle - guides et articles recents.',
     site: context.site!.toString(),
     items: allItems.slice(0, 30),
     customData: '<language>fr</language>',

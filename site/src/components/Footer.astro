@@ -1,27 +1,28 @@
 ---
 import Logo from './Logo.astro';
 
-// TODO: Replace with your footer links
 const footerLinks = {
-  'Guides': [
-    { label: 'Bien demarrer', href: '/guides/getting-started' },
-    { label: 'Avance', href: '/guides/advanced' },
+  'Décoration': [
+    { label: 'Salon cocooning', href: '/guides/decoration/salon' },
+    { label: 'Chambre zen', href: '/guides/decoration/chambre' },
+    { label: 'Cuisine tendance', href: '/guides/decoration/cuisine' },
   ],
-  'Outils': [
-    { label: 'Tous les outils', href: '/outils' },
-    { label: 'Glossaire', href: '/glossaire' },
+  'Lifestyle': [
+    { label: 'Organisation', href: '/guides/lifestyle/organisation' },
+    { label: 'Bien-être', href: '/guides/lifestyle/bien-etre' },
+    { label: 'Inspiration', href: '/guides/lifestyle/inspiration' },
   ],
-  'A propos': [
+  'À propos': [
+    { label: 'Mon histoire', href: '/a-propos' },
     { label: 'Contact', href: '/contact' },
-    { label: 'CGU', href: '/cgu' },
-    { label: 'Confidentialite', href: '/confidentialite' },
+    { label: 'Mentions légales', href: '/mentions-legales' },
+    { label: 'Confidentialité', href: '/politique-confidentialite' },
   ],
 };
 
-// TODO: Replace with your social links
 const socials = [
-  { name: 'Twitter / X', href: '#', icon: 'M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z' },
-  { name: 'YouTube', href: '#', icon: 'M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z' },
+  { name: 'Instagram', href: 'https://instagram.com/cristallina.fr', icon: 'M12.017 0C5.396 0 .029 5.367.029 11.987c0 6.621 5.367 11.988 11.988 11.988 6.622 0 11.989-5.367 11.989-11.988C24.006 5.367 18.639.001 12.017.001zM8.449 16.988c-1.297 0-2.448-.611-3.132-1.552-.684-.94-.684-2.11 0-3.05.684-.94 1.835-1.552 3.132-1.552s2.448.611 3.132 1.552c.684.94.684 2.11 0 3.05-.684.94-1.835 1.552-3.132 1.552zm7.718 0c-1.297 0-2.448-.611-3.132-1.552-.684-.94-.684-2.11 0-3.05.684-.94 1.835-1.552 3.132-1.552s2.448.611 3.132 1.552c.684.94.684 2.11 0 3.05-.684.94-1.835 1.552-3.132 1.552zM12.017 7.625c-2.51 0-4.563-1.895-4.563-4.213S9.507.199 12.017.199c2.51 0 4.563 1.895 4.563 4.213s-2.053 4.213-4.563 4.213z' },
+  { name: 'Pinterest', href: 'https://pinterest.com/cristallina_fr', icon: 'M12.14.063C5.458.063 0 5.521 0 12.203S5.458 24.344 12.14 24.344c6.683 0 12.141-5.458 12.141-12.14C24.281 5.521 18.823.063 12.14.063zM14.859 12.878c-1.134 0-2.2-.61-2.563-1.306 0 0-.61 2.42-.738 2.884-.462 1.667-1.822 3.337-1.928 3.487-.075.107-.24.083-.258-.05-.033-.238-.42-2.593-.42-2.593s-.214-1.713.529-4.057c-.374-.63-.144-1.915.678-1.915.632 0 .936.474.936 1.105 0 .673-.427 1.68-.647 2.61-.184.78.39 1.415 1.157 1.415 1.39 0 2.332-1.794 2.332-3.918 0-1.615-1.089-2.82-3.056-2.82-2.239 0-3.665 1.642-3.665 3.473 0 .63.186 1.07.48 1.405.132.158.151.222.103.404-.035.133-.114.45-.146.576-.046.186-.187.226-.43.136-1.206-.49-1.775-1.804-1.775-3.284 0-2.446 2.073-5.387 6.198-5.387 3.314 0 5.51 2.43 5.51 5.052.001 3.463-1.943 6.064-4.798 6.064z' },
 ];
 ---
 
@@ -33,9 +34,8 @@ const socials = [
         <a href="/" class="inline-block mb-4 cursor-pointer group">
           <Logo variant="horizontal" size="sm" />
         </a>
-        <!-- TODO: Replace with your site description -->
         <p class="text-sm text-text-secondary leading-relaxed mb-6 max-w-xs">
-          Description de votre site. Guides, outils et ressources pour votre audience.
+          Inspiration déco et lifestyle pour créer un intérieur qui te ressemble vraiment, sans te ruiner.
         </p>
         <div class="flex items-center gap-3">
           {socials.map((social) => (
@@ -69,9 +69,8 @@ const socials = [
     </div>
 
     <div class="py-6 border-t border-border flex items-center justify-center">
-      <!-- TODO: Replace with your copyright -->
       <p class="text-xs text-text-muted">
-        &copy; {new Date().getFullYear()} MySite. Tous droits reserves.
+        &copy; {new Date().getFullYear()} Cristallina. Créé avec 💖 par Laure.
       </p>
     </div>
   </div>

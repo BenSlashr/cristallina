@@ -3,16 +3,42 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Salle de Bain Cosy : 15 Astuces pour un Espace Cocoon";
 const description = "Créez une salle de bain cosy et chaleureuse ! Découvrez couleurs douces, éclairages tamisés et matières naturelles pour transformer votre espace détente.";
+
+const pageSlug = 'salle-de-bain-cosy';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/salle-de-bain-cosy/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Salle de bain', url: '/guides/decoration' },
+  { name: title, url: '/salle-de-bain-cosy/' },
+]);
+
 ---
 
-<BaseLayout {title} {description} canonical="https://www.cristallina.fr/salle-de-bain-cosy/">
+<BaseLayout {title} {description}
+  jsonLd={[schemaArticle, schemaBreadcrumb]}
+>
   <Navbar />
   
   <main class="pt-16">
     <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      
+      <!-- Breadcrumb -->
+      <nav class="flex items-center gap-2 text-sm mb-6" style="color: #B5B5B5;" aria-label="Fil d'ariane">
+        <a href="/" class="hover:text-rose-400 transition-colors">Accueil</a>
+        <span>/</span>
+        <a href="/guides/decoration" class="hover:text-rose-400 transition-colors">Salle de bain</a>
+        <span>/</span>
+        <span style="color: #8B8B8B;">{title}</span>
+      </nav>
+
       <header class="mb-8">
         <h1 class="text-3xl md:text-4xl title-elegant mb-4">{title}</h1>
         <p class="text-lg mb-6" style="color: #8B8B8B;">{description}</p>
@@ -27,7 +53,7 @@ const description = "Créez une salle de bain cosy et chaleureuse ! Découvrez c
           <p>Transformer sa salle de bain en véritable cocon de bien-être devient l'une des priorités déco 2026. L'esprit cosy apporte chaleur et sérénité dans cet espace d'intimité, créant un refuge personnel au quotidien.</p>
 
           <div class="my-8">
-            <img src="/images/unsplash-cozy-bathroom-spa-lighting-1771167669.jpg" alt="Salle de bain luxueuse avec vasques en pierre et décoration rustique" class="w-full rounded-lg shadow-soft" />
+            <img src="/images/unsplash-cozy-bathroom-spa-lighting-1771167669.jpg" alt="Salle de bain luxueuse avec vasques en pierre et décoration rustique" class="w-full rounded-lg shadow-soft"  width="1200" height="675" loading="eager" decoding="async" />
             <p class="text-xs text-center mt-2" style="color: #B5B5B5;">Une salle de bain cosy qui inspire détente et bien-être</p>
           </div>
 
@@ -204,7 +230,7 @@ const description = "Créez une salle de bain cosy et chaleureuse ! Découvrez c
             <article class="group">
               <a href="/decoration-salon-naturel-chic/" class="block">
                 <div class="relative overflow-hidden rounded-2xl shadow-soft group-hover:shadow-lg transition-all duration-300">
-                  <img src="/images/unsplash-natural-linen-living-room-decor-1771167640.jpg" alt="Salon naturel chic" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300" />
+                  <img src="/images/unsplash-natural-linen-living-room-decor-1771167640.jpg" alt="Salon naturel chic" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"  width="1200" height="675" loading="lazy" decoding="async" />
                   <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
                   <div class="absolute bottom-0 left-0 right-0 p-6">
                     <h3 class="text-white font-semibold text-lg mb-2 group-hover:text-rose-200 transition-colors">Décoration Salon Naturel Chic</h3>
@@ -218,7 +244,7 @@ const description = "Créez une salle de bain cosy et chaleureuse ! Découvrez c
             <article class="group">
               <a href="/comment-fabriquer-soi-meme-un-bar-en-palettes/" class="block">
                 <div class="relative overflow-hidden rounded-2xl shadow-soft group-hover:shadow-lg transition-all duration-300">
-                  <img src="/images/unsplash-wooden-pallet-bar-diy-furniture-1771168378.jpg" alt="Bar en palettes DIY" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300" />
+                  <img src="/images/unsplash-wooden-pallet-bar-diy-furniture-1771168378.jpg" alt="Bar en palettes DIY" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"  width="1200" height="675" loading="lazy" decoding="async" />
                   <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
                   <div class="absolute bottom-0 left-0 right-0 p-6">
                     <h3 class="text-white font-semibold text-lg mb-2 group-hover:text-rose-200 transition-colors">Bar en Palettes DIY</h3>

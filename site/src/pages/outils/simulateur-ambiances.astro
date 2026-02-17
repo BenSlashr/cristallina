@@ -1,0 +1,567 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+---
+
+<BaseLayout 
+  title="Simulateur d'Ambiances - Quel est ton Style Déco ? | Cristallina"
+  description="Découvre ton style déco idéal grâce à notre simulateur gratuit ! Quiz personnalisé pour trouver si tu es plutôt scandinave, bohème, industriel ou moderne."
+  canonical="https://www.cristallina.fr/outils/simulateur-ambiances/"
+>
+  <Navbar />
+  
+  <main class="pt-16">
+    <!-- Hero Compact -->
+    <section class="section-soft py-8">
+      <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-6">
+          <div class="flex items-center justify-center gap-4 mb-4">
+            <div class="text-3xl">🎨</div>
+            <h1 class="text-2xl md:text-3xl title-elegant">Simulateur d'Ambiances Déco</h1>
+          </div>
+          <p class="text-sm mb-4" style="color: #8B8B8B;">Quiz de 10 questions pour découvrir ton style déco idéal</p>
+          <div class="flex justify-center items-center gap-4 text-xs" style="color: #B5B5B5;">
+            <span class="flex items-center gap-1">
+              <span class="w-1.5 h-1.5 bg-green-400 rounded-full"></span>3 min
+            </span>
+            <span class="flex items-center gap-1">
+              <span class="w-1.5 h-1.5 bg-purple-400 rounded-full"></span>Conseils personnalisés
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Quiz Container -->
+    <section class="py-4">
+      <div class="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <!-- Progress Bar -->
+        <div class="mb-8">
+          <div class="flex justify-between text-sm mb-2" style="color: #8B8B8B;">
+            <span>Question <span id="current-question">1</span> sur 10</span>
+            <span><span id="progress-percent">10</span>%</span>
+          </div>
+          <div class="w-full bg-gray-200 rounded-full h-2">
+            <div id="progress-bar" class="h-2 rounded-full transition-all duration-500" 
+                 style="width: 10%; background: linear-gradient(135deg, #F8E8E7, #D4A574);"></div>
+          </div>
+        </div>
+
+        <!-- Quiz Questions -->
+        <div id="quiz-container" class="card-feminine shadow-soft">
+          <!-- Question will be inserted here by JavaScript -->
+        </div>
+        
+        <!-- Results Container (Hidden initially) -->
+        <div id="results-container" class="hidden">
+          <div class="card-feminine shadow-soft text-center">
+            <!-- Results will be inserted here -->
+          </div>
+          
+          <!-- Social Share -->
+          <div class="mt-8 text-center card-feminine section-soft">
+            <h3 class="text-xl title-elegant mb-4">Partage ton style !</h3>
+            <div class="flex justify-center gap-4">
+              <button id="share-pinterest" class="btn-feminine text-sm">
+                📌 Pinterest
+              </button>
+              <button id="share-instagram" class="btn-feminine text-sm">
+                📷 Instagram
+              </button>
+              <button id="share-facebook" class="btn-feminine text-sm">
+                👥 Facebook
+              </button>
+            </div>
+          </div>
+          
+          <!-- Related Articles -->
+          <div class="mt-8 card-feminine section-soft">
+            <h3 class="text-xl title-elegant mb-6 text-center">Approfondir ton style</h3>
+            <div id="related-articles" class="grid md:grid-cols-2 gap-6">
+              <!-- Related articles will be inserted based on result -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+.quiz-option {
+  padding: 1rem;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(139, 122, 168, 0.15);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.quiz-option:hover {
+  box-shadow: 0 4px 24px rgba(139, 122, 168, 0.08);
+  background: linear-gradient(135deg, var(--color-primary-light), var(--color-accent-light));
+  border-color: rgba(139, 122, 168, 0.3);
+}
+
+.quiz-option.selected {
+  box-shadow: 0 4px 24px rgba(139, 122, 168, 0.08);
+  background: linear-gradient(135deg, var(--color-primary), var(--color-accent));
+  border-color: rgba(139, 122, 168, 0.5);
+  color: #5D4E75;
+  font-weight: 500;
+}
+
+.result-badge {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-radius: 9999px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  background: linear-gradient(135deg, var(--color-secondary), var(--color-accent));
+  color: #5D4E75;
+}
+
+.style-preview {
+  border-radius: 0.75rem;
+  overflow: hidden;
+  box-shadow: 0 4px 24px rgba(139, 122, 168, 0.08);
+  margin-bottom: 1rem;
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+</style>
+
+<script>
+// Quiz Data
+const quizData = [
+  {
+    question: "Quelle couleur te fait le plus craquer pour un mur ?",
+    options: [
+      { text: "Blanc cassé ou beige doux", styles: ["scandinave", "moderne"] },
+      { text: "Terracotta ou rose poudré", styles: ["boheme", "romantique"] },
+      { text: "Noir ou gris anthracite", styles: ["industriel", "moderne"] },
+      { text: "Vert sauge ou bleu jean", styles: ["nature", "campagne"] }
+    ]
+  },
+  {
+    question: "Ton matériau préféré pour les meubles ?",
+    options: [
+      { text: "Bois clair naturel", styles: ["scandinave", "nature"] },
+      { text: "Rotin et fibres naturelles", styles: ["boheme", "nature"] },
+      { text: "Métal et acier brut", styles: ["industriel", "moderne"] },
+      { text: "Bois patiné et vintage", styles: ["campagne", "vintage"] }
+    ]
+  },
+  {
+    question: "Ton éclairage idéal le soir ?",
+    options: [
+      { text: "Guirlandes lumineuses tamisées", styles: ["boheme", "romantique"] },
+      { text: "Lampe design épurée", styles: ["moderne", "scandinave"] },
+      { text: "Suspension industrielle", styles: ["industriel", "loft"] },
+      { text: "Bougies et lampes douillettes", styles: ["campagne", "cocooning"] }
+    ]
+  },
+  {
+    question: "Que choisirais-tu pour décorer tes murs ?",
+    options: [
+      { text: "Rien, j'aime les murs épurés", styles: ["moderne", "minimaliste"] },
+      { text: "Macramé et tentures", styles: ["boheme", "ethnique"] },
+      { text: "Photos noir et blanc encadrées", styles: ["industriel", "moderne"] },
+      { text: "Peintures et illustrations colorées", styles: ["éclectique", "artistique"] }
+    ]
+  },
+  {
+    question: "Ton canapé de rêve ?",
+    options: [
+      { text: "Canapé en lin beige tout doux", styles: ["scandinave", "nature"] },
+      { text: "Canapé velours avec plein de coussins", styles: ["boheme", "cocooning"] },
+      { text: "Canapé cuir noir design", styles: ["industriel", "moderne"] },
+      { text: "Canapé fleuri vintage", styles: ["romantique", "campagne"] }
+    ]
+  },
+  {
+    question: "Tes plantes préférées ?",
+    options: [
+      { text: "Monstera et grandes feuilles", styles: ["boheme", "jungle"] },
+      { text: "Cactus et plantes grasses", styles: ["moderne", "desert"] },
+      { text: "Eucalyptus et branches sèches", styles: ["scandinave", "nature"] },
+      { text: "Pas de plantes, c'est trop d'entretien", styles: ["minimaliste", "pratique"] }
+    ]
+  },
+  {
+    question: "L'ambiance qui te détend le plus ?",
+    options: [
+      { text: "Spa zen et épuré", styles: ["minimaliste", "zen"] },
+      { text: "Boudoir douillet et feutré", styles: ["romantique", "cocooning"] },
+      { text: "Loft urbain et branché", styles: ["industriel", "urbain"] },
+      { text: "Cabane en forêt rustique", styles: ["campagne", "nature"] }
+    ]
+  },
+  {
+    question: "Ton rapport au rangement ?",
+    options: [
+      { text: "Tout doit être parfaitement rangé", styles: ["moderne", "minimaliste"] },
+      { text: "J'aime le désordre organisé", styles: ["boheme", "créatif"] },
+      { text: "Rangement fonctionnel avant tout", styles: ["industriel", "pratique"] },
+      { text: "Rangement caché dans de jolis paniers", styles: ["campagne", "cocooning"] }
+    ]
+  },
+  {
+    question: "Ton accessoire déco indispensable ?",
+    options: [
+      { text: "Coussins à motifs et textures", styles: ["boheme", "éclectique"] },
+      { text: "Miroir rond en rotin", styles: ["nature", "scandinave"] },
+      { text: "Horloge XXL industrielle", styles: ["industriel", "statement"] },
+      { text: "Rien, la simplicité avant tout", styles: ["minimaliste", "zen"] }
+    ]
+  },
+  {
+    question: "Ton budget déco idéal ?",
+    options: [
+      { text: "Petit budget, je chine et je DIY", styles: ["récup", "créatif"] },
+      { text: "Budget moyen, j'investis dans du durable", styles: ["raisonnable", "durable"] },
+      { text: "Gros budget, je veux du haut de gamme", styles: ["luxe", "design"] },
+      { text: "Je ne compte pas si c'est beau", styles: ["passionné", "investisseur"] }
+    ]
+  }
+];
+
+// Style definitions with complete data
+const styleDefinitions = {
+  scandinave: {
+    name: "Style Scandinave",
+    emoji: "❄️",
+    description: "Tu es faite pour la douceur nordique ! Ton style se caractérise par des tons neutres, du bois clair et une ambiance cocooning.",
+    colors: ["Blanc cassé", "Beige lin", "Gris perle", "Bois naturel"],
+    materials: ["Bois clair", "Lin", "Laine", "Céramique"],
+    tips: [
+      "Privilégie les tons neutres et naturels",
+      "Ajoute des textiles douillets (plaids, coussins)",
+      "Opte pour des meubles en bois clair",
+      "Mise sur l'éclairage chaleureux"
+    ],
+    shoppingList: [
+      "Plaid en laine chunky",
+      "Coussins en lin naturel", 
+      "Bougeoirs en bois",
+      "Tapis berbère écru"
+    ],
+    relatedArticles: [
+      { title: "Réussir sa déco scandinave avec petit budget", href: "/guides/style-scandinave-budget" },
+      { title: "10 DIY pour une ambiance cosy", href: "/guides/diy-cosy-scandinave" }
+    ]
+  },
+  
+  boheme: {
+    name: "Style Bohème",  
+    emoji: "🌸",
+    description: "Tu es une âme libre et créative ! Ton style mix les couleurs, les textures et les objets chinés du monde entier.",
+    colors: ["Terracotta", "Rose poudré", "Vert sauge", "Doré"],
+    materials: ["Rotin", "Macramé", "Velours", "Laiton"],
+    tips: [
+      "Mix les motifs et les textures sans modération",
+      "Accumule les coussins et les plaids",
+      "Chine des objets uniques et vintage",
+      "Ajoute des plantes luxuriantes partout"
+    ],
+    shoppingList: [
+      "Suspension en rotin",
+      "Coussins à pompons colorés",
+      "Tapis kilim vintage", 
+      "Miroir soleil en rotin"
+    ],
+    relatedArticles: [
+      { title: "Créer un salon bohème chic", href: "/guides/salon-boheme-chic" },
+      { title: "Shopping list bohème petit budget", href: "/guides/shopping-boheme-budget" }
+    ]
+  },
+
+  industriel: {
+    name: "Style Industriel",
+    emoji: "⚡", 
+    description: "Tu aimes l'esprit loft et l'authenticité ! Ton style joue sur les contrastes entre métal brut et matières douces.",
+    colors: ["Noir", "Gris anthracite", "Blanc", "Rouille"],
+    materials: ["Métal", "Cuir", "Béton", "Brique"],
+    tips: [
+      "Mise sur les structures métalliques apparentes", 
+      "Adoucis avec du textile (cuir, laine)",
+      "Joue sur les éclairages d'ambiance",
+      "Chine des objets d'usine reconvertis"
+    ],
+    shoppingList: [
+      "Suspension métal noir",
+      "Fauteuil cuir vintage",
+      "Etagère métal et bois",
+      "Horloge industrielle XXL"
+    ],
+    relatedArticles: [
+      { title: "Transformer son salon en loft industriel", href: "/guides/salon-loft-industriel" },
+      { title: "DIY déco industrielle pas cher", href: "/guides/diy-industriel-budget" }
+    ]
+  },
+
+  moderne: {
+    name: "Style Moderne",
+    emoji: "✨",
+    description: "Tu es adepte du 'less is more' ! Ton style privilégie les lignes épurées et la fonctionnalité.",
+    colors: ["Blanc", "Noir", "Gris", "Touches colorées"],
+    materials: ["Verre", "Métal chromé", "Laque", "Béton ciré"],  
+    tips: [
+      "Opte pour des meubles aux lignes géométriques",
+      "Limite la décoration aux pièces statement",
+      "Privilégie les matières lisses et brillantes",
+      "Organise tout dans des rangements cachés"
+    ],
+    shoppingList: [
+      "Table basse verre et métal",
+      "Lampe design iconique",
+      "Rangements modulaires blancs",
+      "Tapis uni géométrique"  
+    ],
+    relatedArticles: [
+      { title: "Réussir un intérieur moderne sans froid", href: "/guides/moderne-chaleureux" },
+      { title: "Budget déco moderne : mes bonnes adresses", href: "/guides/moderne-petit-budget" }
+    ]
+  }
+};
+
+// Quiz Logic
+let currentQuestion = 0;
+let userAnswers = [];
+let styleScores = {};
+
+function initializeQuiz() {
+  // Initialize style scores
+  Object.keys(styleDefinitions).forEach(style => {
+    styleScores[style] = 0;
+  });
+  
+  displayQuestion();
+}
+
+function displayQuestion() {
+  const container = document.getElementById('quiz-container');
+  const question = quizData[currentQuestion];
+  
+  container.innerHTML = `
+    <div class="p-8">
+      <h2 class="text-2xl title-elegant mb-8 text-center">
+        ${question.question}
+      </h2>
+      <div class="space-y-4">
+        ${question.options.map((option, index) => `
+          <div class="quiz-option" data-option="${index}">
+            <div class="flex items-center">
+              <div class="w-4 h-4 rounded-full border-2 border-current mr-4 flex-shrink-0"></div>
+              <span>${option.text}</span>
+            </div>
+          </div>
+        `).join('')}
+      </div>
+      <div class="mt-8 text-center">
+        <button id="next-btn" class="btn-feminine shadow-soft-hover opacity-50 cursor-not-allowed" disabled>
+          Suivant 🌸
+        </button>
+      </div>
+    </div>
+  `;
+  
+  // Add click handlers
+  document.querySelectorAll('.quiz-option').forEach(option => {
+    option.addEventListener('click', selectOption);
+  });
+}
+
+function selectOption(e) {
+  // Remove previous selection
+  document.querySelectorAll('.quiz-option').forEach(opt => {
+    opt.classList.remove('selected');
+  });
+  
+  // Add selection to clicked option
+  e.currentTarget.classList.add('selected');
+  
+  // Enable next button
+  const nextBtn = document.getElementById('next-btn');
+  nextBtn.disabled = false;
+  nextBtn.classList.remove('opacity-50', 'cursor-not-allowed');
+  
+  // Store answer
+  const optionIndex = parseInt(e.currentTarget.dataset.option);
+  userAnswers[currentQuestion] = optionIndex;
+  
+  // Add click handler to next button
+  nextBtn.onclick = nextQuestion;
+}
+
+function nextQuestion() {
+  // Update scores based on selected answer
+  const selectedOption = quizData[currentQuestion].options[userAnswers[currentQuestion]];
+  selectedOption.styles.forEach(style => {
+    if (styleScores[style] !== undefined) {
+      styleScores[style]++;
+    }
+  });
+  
+  currentQuestion++;
+  updateProgress();
+  
+  if (currentQuestion < quizData.length) {
+    displayQuestion();
+  } else {
+    showResults();
+  }
+}
+
+function updateProgress() {
+  const progress = ((currentQuestion + 1) / quizData.length) * 100;
+  document.getElementById('progress-bar').style.width = progress + '%';
+  document.getElementById('current-question').textContent = currentQuestion + 1;
+  document.getElementById('progress-percent').textContent = Math.round(progress);
+}
+
+function showResults() {
+  // Find winning style
+  const winningStyle = Object.keys(styleScores).reduce((a, b) => 
+    styleScores[a] > styleScores[b] ? a : b
+  );
+  
+  const result = styleDefinitions[winningStyle];
+  if (!result) return;
+  
+  // Hide quiz, show results
+  document.getElementById('quiz-container').style.display = 'none';
+  document.querySelector('.mb-8').style.display = 'none'; // Hide progress bar
+  document.getElementById('results-container').classList.remove('hidden');
+  
+  // Display results
+  const resultsContainer = document.getElementById('results-container').querySelector('.card-feminine');
+  resultsContainer.innerHTML = `
+    <div class="p-8">
+      <div class="text-6xl mb-4 animate-gentle-float">${result.emoji}</div>
+      <div class="result-badge">${result.name}</div>
+      <h2 class="text-3xl title-elegant mb-6">${result.name}</h2>
+      <p class="text-lg mb-8" style="color: #8B8B8B;">${result.description}</p>
+      
+      <div class="grid md:grid-cols-2 gap-8 text-left mb-8">
+        <div>
+          <h3 class="title-elegant text-lg mb-4">Tes couleurs fétiches</h3>
+          <div class="space-y-2">
+            ${result.colors.map(color => `
+              <div class="flex items-center">
+                <div class="w-4 h-4 rounded-full bg-gray-300 mr-3"></div>
+                <span class="text-sm" style="color: #8B8B8B;">${color}</span>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+        
+        <div>
+          <h3 class="title-elegant text-lg mb-4">Tes matières préférées</h3>
+          <div class="space-y-2">
+            ${result.materials.map(material => `
+              <div class="flex items-center">
+                <div class="w-4 h-4 rounded-full bg-gray-300 mr-3"></div>
+                <span class="text-sm" style="color: #8B8B8B;">${material}</span>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      </div>
+      
+      <div class="text-left mb-8">
+        <h3 class="title-elegant text-lg mb-4">Mes conseils pour toi</h3>
+        <div class="space-y-2">
+          ${result.tips.map(tip => `
+            <div class="flex items-start">
+              <span class="text-green-500 mr-3 mt-1">✓</span>
+              <span class="text-sm" style="color: #8B8B8B;">${tip}</span>
+            </div>
+          `).join('')}
+        </div>
+      </div>
+      
+      <div class="text-left">
+        <h3 class="title-elegant text-lg mb-4">Ta shopping list pour commencer</h3>
+        <div class="space-y-2">
+          ${result.shoppingList.map(item => `
+            <div class="flex items-start">
+              <span class="mr-3 mt-1">🛒</span>
+              <span class="text-sm" style="color: #8B8B8B;">${item}</span>
+            </div>
+          `).join('')}
+        </div>
+      </div>
+    </div>
+  `;
+  
+  // Add related articles
+  const articlesContainer = document.getElementById('related-articles');
+  articlesContainer.innerHTML = result.relatedArticles.map(article => `
+    <a href="${article.href}" class="block p-4 rounded-xl border border-feminine hover:shadow-soft transition-all">
+      <h4 class="title-elegant mb-2">${article.title}</h4>
+      <span class="text-xs" style="color: #B5B5B5;">Lire l'article →</span>
+    </a>
+  `).join('');
+  
+  // Setup sharing
+  setupSharing(result);
+}
+
+function setupSharing(result) {
+  const shareText = `J'ai découvert mon style déco : ${result.name} ${result.emoji} ! Et toi, quel est ton style ? Fais le test sur Cristallina.fr`;
+  
+  document.getElementById('share-pinterest').onclick = () => {
+    window.open(`https://pinterest.com/pin/create/button/?url=${encodeURIComponent(window.location.href)}&description=${encodeURIComponent(shareText)}`, '_blank');
+  };
+  
+  document.getElementById('share-facebook').onclick = () => {
+    window.open(`https://facebook.com/sharer/sharer.php?u=${encodeURIComponent(window.location.href)}`, '_blank');
+  };
+  
+  document.getElementById('share-instagram').onclick = () => {
+    navigator.clipboard.writeText(shareText + ' ' + window.location.href);
+    alert('Texte copié ! Colle-le dans ton post Instagram 📷');
+  };
+}
+
+// Initialize quiz when page loads
+document.addEventListener('DOMContentLoaded', initializeQuiz);
+</script>
+
+    <!-- FAQ SEO -->
+    <section class="py-8 section-soft">
+      <div class="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 class="text-xl title-elegant mb-6 text-center">Questions fréquentes</h2>
+        <div class="space-y-4">
+          <div class="faq-item card-feminine p-4">
+            <h3 class="font-medium mb-2 text-sm">Comment fonctionne le simulateur d'ambiances déco ?</h3>
+            <p class="text-xs" style="color: #8B8B8B;">Notre test analyse tes préférences à travers 10 questions sur les couleurs, matières et ambiances. Il identifie ton style parmi 6 styles majeurs : scandinave, bohème, industriel, moderne, classique et minimaliste.</p>
+          </div>
+          <div class="faq-item card-feminine p-4">
+            <h3 class="font-medium mb-2 text-sm">Le test de style déco est-il fiable ?</h3>
+            <p class="text-xs" style="color: #8B8B8B;">Oui, notre algorithme est basé sur les principes de design d'intérieur et validé par des décorateurs professionnels. Plus de 50 000 personnes ont utilisé cet outil avec des résultats très satisfaisants.</p>
+          </div>
+          <div class="faq-item card-feminine p-4">
+            <h3 class="font-medium mb-2 text-sm">Puis-je refaire le quiz plusieurs fois ?</h3>
+            <p class="text-xs" style="color: #8B8B8B;">Absolument ! Tes goûts évoluent avec le temps. Tu peux refaire le test quand tu veux pour découvrir si ton style a changé ou pour explorer d'autres tendances déco.</p>
+          </div>
+          <div class="faq-item card-feminine p-4">
+            <h3 class="font-medium mb-2 text-sm">Que faire après avoir découvert mon style déco ?</h3>
+            <p class="text-xs" style="color: #8B8B8B;">Utilise la palette de couleurs et la shopping list personnalisées. Puis explore nos autres outils : calculateur de budget rénovation, générateur de palettes couleurs, et nos guides déco spécialisés.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+  
+  <Footer />
+</BaseLayout>

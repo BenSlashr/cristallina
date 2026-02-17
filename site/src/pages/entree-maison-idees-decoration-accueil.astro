@@ -3,16 +3,40 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Entrée de Maison : 14 Idées Déco pour une Première Impression Réussie";
 const description = "Soignez votre entrée ! 14 idées déco pour accueillir avec style. Rangements malins, miroirs, éclairage et couleurs pour une entrée chaleureuse.";
+
+const pageSlug = 'entree-maison-idees-decoration-accueil';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/entree-maison-idees-decoration-accueil/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Entree', url: '/guides/decoration' },
+  { name: title, url: '/entree-maison-idees-decoration-accueil/' },
+]);
+
 ---
 
 <BaseLayout title={title} description={description}>
   <Navbar />
   
   <main class="max-w-4xl mx-auto px-6 py-12">
-    <header class="mb-8">
+    
+      <!-- Breadcrumb -->
+      <nav class="flex items-center gap-2 text-sm mb-6" style="color: #B5B5B5;" aria-label="Fil d'ariane">
+        <a href="/" class="hover:text-rose-400 transition-colors">Accueil</a>
+        <span>/</span>
+        <a href="/guides/decoration" class="hover:text-rose-400 transition-colors">Entree</a>
+        <span>/</span>
+        <span style="color: #8B8B8B;">{title}</span>
+      </nav>
+
+      <header class="mb-8">
       <h1 class="text-4xl font-bold mb-4 text-gray-900">{title}</h1>
       <p class="text-lg text-gray-600 leading-relaxed">{description}</p>
     </header>
@@ -21,7 +45,7 @@ const description = "Soignez votre entrée ! 14 idées déco pour accueillir ave
       src="/images/unsplash-entree-maison-decoration-accueil-placeholder.jpg" 
       alt="Entrée de maison moderne et accueillante avec décoration soignée"
       class="w-full h-96 object-cover rounded-lg mb-8 shadow-lg"
-    />
+     width="1200" height="675" loading="eager" decoding="async" />
 
     <article class="prose prose-lg max-w-none">
       <p class="lead">L'entrée de votre maison est la première chose que découvrent vos invités. Cette zone de transition mérite une attention particulière pour créer une ambiance chaleureuse et fonctionnelle. Découvrez 14 idées inspirantes pour transformer votre hall d'entrée en un espace accueillant qui reflète votre personnalité.</p>
@@ -31,7 +55,7 @@ const description = "Soignez votre entrée ! 14 idées déco pour accueillir ave
       <p>Une entrée réussie combine esthétique et praticité. Elle doit refléter l'atmosphère de votre intérieur tout en répondant aux besoins quotidiens : accrocher les manteaux, ranger les chaussures, poser les clés. Cette zone tampon entre l'extérieur et l'intimité de votre foyer joue un rôle crucial dans l'expérience de vos visiteurs.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237795864.jpg" alt="Entree de maison avec console et miroir decoratif" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237795864.jpg" alt="Entree de maison avec console et miroir decoratif" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -42,7 +66,7 @@ const description = "Soignez votre entrée ! 14 idées déco pour accueillir ave
       <p>La console représente l'élément central de nombreuses entrées. Ce meuble polyvalent offre un plateau pour déposer courrier, clés et objets du quotidien, ainsi que des espaces de rangement cachés. Choisissez sa largeur selon l'espace disponible : une console étroite pour les couloirs, plus généreuse pour les halls spacieux.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237226574.jpg" alt="Amenagement entree minimaliste avec rangement malin" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237226574.jpg" alt="Amenagement entree minimaliste avec rangement malin" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -68,7 +92,7 @@ const description = "Soignez votre entrée ! 14 idées déco pour accueillir ave
       <p>Le miroir constitue l'accessoire décoratif incontournable d'une entrée réussie. Au-delà de son aspect pratique pour vérifier sa tenue avant de sortir, il démultiplie la luminosité et donne une impression d'agrandissement, particulièrement appréciable dans les espaces restreints.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238008500.jpg" alt="Decoration d'entree accueillante avec plantes et patere" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238008500.jpg" alt="Decoration d'entree accueillante avec plantes et patere" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -81,7 +105,7 @@ const description = "Soignez votre entrée ! 14 idées déco pour accueillir ave
       <p>L'organisation des chaussures représente un défi majeur dans l'aménagement d'une entrée. Une solution de rangement adaptée évite l'accumulation désordonnée tout en préservant l'esthétique de l'espace. Plusieurs options s'offrent à vous selon la configuration et vos besoins.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238068474.jpg" alt="Hall d'entree moderne avec banc et rangement chaussures" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238068474.jpg" alt="Hall d'entree moderne avec banc et rangement chaussures" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -109,7 +133,7 @@ const description = "Soignez votre entrée ! 14 idées déco pour accueillir ave
       <p>L'accrochage des manteaux, vestes et accessoires nécessite une solution pratique et esthétique. Le choix entre patères murales et portemanteau sur pied dépend de votre espace et du nombre d'utilisateurs. Les patères conviennent aux familles nombreuses et s'adaptent parfaitement aux couloirs étroits.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237428506.jpg" alt="Entree style scandinave epuree et fonctionnelle" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237428506.jpg" alt="Entree style scandinave epuree et fonctionnelle" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 

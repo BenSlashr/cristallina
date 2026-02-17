@@ -3,12 +3,28 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Salle de Bain Zen : 8 Créations Spa à la Maison";
 const description = "Transformez votre salle de bain en spa zen ! 8 aménagements relaxants avec matériaux naturels, éclairage tamisé et ambiance apaisante.";
+
+const pageSlug = 'salle-de-bain-zen-spa-maison';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/salle-de-bain-zen-spa-maison/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Salle de bain', url: '/guides/decoration' },
+  { name: title, url: '/salle-de-bain-zen-spa-maison/' },
+]);
+
 ---
 
-<BaseLayout {title} {description} canonical="https://www.cristallina.fr/salle-de-bain-zen-spa-maison/">
+<BaseLayout {title} {description}
+  jsonLd={[schemaArticle, schemaBreadcrumb]}
+>
   <Navbar />
   <main class="pt-16">
     <!-- Hero Section -->
@@ -25,7 +41,7 @@ const description = "Transformez votre salle de bain en spa zen ! 8 aménagement
             src="/images/unsplash-zen-spa-bathroom-home-interior-1771177385.jpg" 
             alt="Salle de bain zen avec matériaux naturels et ambiance spa"
             class="w-full h-64 md:h-80 object-cover rounded-2xl shadow-lg"
-          />
+           width="1200" height="675" loading="eager" decoding="async" />
         </div>
       </div>
     </section>

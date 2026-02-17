@@ -1,0 +1,574 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+---
+
+<BaseLayout 
+  title="Calculateur de Taille de Tapis - Cristallina"
+  description="Trouvez la taille parfaite pour votre tapis selon votre pièce et vos meubles. Calculateur gratuit avec guide des dimensions idéales."
+  canonical="https://www.cristallina.fr/outils/taille-tapis/"
+>
+  <Navbar />
+  
+  <main class="pt-16">
+    <!-- Hero Compact -->
+    <section class="section-soft py-8">
+      <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-6">
+          <div class="flex items-center justify-center gap-4 mb-4">
+            <div class="text-3xl">🏠</div>
+            <h1 class="text-2xl md:text-3xl title-elegant">Calculateur Taille Tapis</h1>
+          </div>
+          <p class="text-sm mb-4" style="color: #8B8B8B;">Trouve la taille parfaite pour ton tapis selon ta pièce</p>
+          <div class="flex justify-center items-center gap-4 text-xs" style="color: #B5B5B5;">
+            <span class="flex items-center gap-1">
+              <span class="w-1.5 h-1.5 bg-green-400 rounded-full"></span>Proportions
+            </span>
+            <span class="flex items-center gap-1">
+              <span class="w-1.5 h-1.5 bg-purple-400 rounded-full"></span>Prix estimés
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Calculator Interface -->
+    <section class="py-4">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <!-- Main Calculator -->
+        <div class="grid lg:grid-cols-3 gap-8">
+          
+          <!-- Input Form -->
+          <div class="lg:col-span-1">
+            <div class="card-feminine shadow-soft-hover">
+              <h2 class="text-2xl title-elegant mb-6">Calculer ma taille</h2>
+              
+              <!-- Room Type -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Type de pièce</label>
+                <div class="grid grid-cols-2 gap-2" id="room-type">
+                  <button class="room-btn" data-room="salon">🛋️ Salon</button>
+                  <button class="room-btn" data-room="chambre">🛏️ Chambre</button>
+                  <button class="room-btn" data-room="salle-a-manger">🍽️ Salle à manger</button>
+                  <button class="room-btn" data-room="entree">🚪 Entrée</button>
+                </div>
+              </div>
+
+              <!-- Room Dimensions -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Dimensions de la pièce (m)</label>
+                <div class="grid grid-cols-2 gap-3">
+                  <div>
+                    <label class="text-xs mb-1 block" style="color: #8B8B8B;">Longueur</label>
+                    <input type="number" id="room-length" placeholder="4.5" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+                  </div>
+                  <div>
+                    <label class="text-xs mb-1 block" style="color: #8B8B8B;">Largeur</label>
+                    <input type="number" id="room-width" placeholder="3.5" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+                  </div>
+                </div>
+              </div>
+
+              <!-- Furniture Configuration -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Configuration meubles</label>
+                <div id="furniture-config">
+                  <!-- Dynamic content based on room type -->
+                </div>
+              </div>
+
+              <!-- Calculate Button -->
+              <button id="calculate-btn" class="btn-feminine w-full shadow-soft-hover">
+                🏠 Calculer la taille idéale
+              </button>
+            </div>
+          </div>
+
+          <!-- Results & Visualization -->
+          <div class="lg:col-span-2">
+            <div class="card-feminine shadow-soft-hover">
+              <h3 class="text-xl title-elegant mb-6">Mes recommandations</h3>
+              
+              <!-- Results Display -->
+              <div id="results" class="hidden">
+                
+                <!-- Recommended Size -->
+                <div class="bg-gradient-to-r from-primary/10 to-accent/10 rounded-xl p-6 mb-6">
+                  <div class="text-center">
+                    <div class="text-3xl font-display mb-2" style="color: #D4A574;" id="recommended-size">
+                      200 x 300 cm
+                    </div>
+                    <div class="text-sm" style="color: #8B8B8B;">Taille recommandée</div>
+                  </div>
+                </div>
+
+                <!-- Size Options -->
+                <div class="grid md:grid-cols-3 gap-4 mb-6" id="size-options">
+                  <!-- Dynamic size cards -->
+                </div>
+
+                <!-- Placement Tips -->
+                <div class="bg-purple-50 rounded-xl p-6 mb-6">
+                  <h4 class="font-semibold mb-3" style="color: #5D4E75;">💡 Conseils d'agencement</h4>
+                  <div id="placement-tips" class="space-y-2 text-sm">
+                    <!-- Dynamic tips -->
+                  </div>
+                </div>
+
+                <!-- Price Estimates -->
+                <div class="bg-green-50 rounded-xl p-6">
+                  <h4 class="font-semibold mb-3" style="color: #5D4E75;">💰 Estimation prix</h4>
+                  <div id="price-estimates" class="grid grid-cols-3 gap-4 text-sm">
+                    <!-- Dynamic price ranges -->
+                  </div>
+                </div>
+              </div>
+
+              <!-- Initial State -->
+              <div id="initial-state" class="text-center py-12">
+                <div class="text-6xl mb-4">🏠</div>
+                <p style="color: #8B8B8B;">Sélectionnez votre type de pièce pour commencer</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Tips Section -->
+        <div class="mt-16">
+          <h3 class="text-2xl title-elegant text-center mb-8">Guide des tailles de tapis</h3>
+          
+          <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">🛋️</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Salon</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Petit: 160x230cm</div>
+                <div>• Moyen: 200x300cm</div>
+                <div>• Grand: 250x350cm</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">🛏️</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Chambre</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Bout de lit: 60x120cm</div>
+                <div>• Côtés lit: 160x230cm</div>
+                <div>• Sous le lit: 200x300cm</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">🍽️</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Salle à manger</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• 4 pers: 160x230cm</div>
+                <div>• 6 pers: 200x300cm</div>
+                <div>• 8 pers: 250x350cm</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">🚪</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Entrée</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Couloir: 80x150cm</div>
+                <div>• Hall: 120x180cm</div>
+                <div>• Grand hall: 160x230cm</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-20 section-soft">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h3 class="text-2xl title-elegant text-center mb-8">Questions fréquentes</h3>
+        
+        <div class="space-y-6">
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Quelle taille de tapis pour un canapé 3 places ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Pour un canapé 3 places (environ 200cm), optez pour un tapis de 200x300cm minimum. Idéalement, le tapis doit dépasser de 20-30cm de chaque côté du canapé.</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Faut-il mettre les pieds des meubles sur le tapis ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Oui, c'est l'idéal ! Au minimum, les pieds avant des meubles doivent être sur le tapis. Pour une harmonie parfaite, tous les pieds des meubles principaux devraient être sur le tapis.</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Combien d'espace laisser entre le tapis et les murs ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Laissez 40-60cm entre les bords du tapis et les murs. Cette distance permet de créer un équilibre visuel et évite l'effet "moquette".</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Quel budget prévoir pour un tapis de qualité ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Comptez 200-500€ pour un tapis synthétique de qualité, 500-1500€ pour de la laine, et 1000€+ pour un tapis noué main selon les dimensions.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+.room-btn {
+  padding: 0.75rem;
+  font-size: 0.875rem;
+  text-align: center;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(139, 122, 168, 0.15);
+  background: rgba(255, 255, 255, 0.8);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.room-btn:hover,
+.room-btn.active {
+  background: linear-gradient(135deg, var(--color-primary-light), var(--color-accent-light));
+  border-color: rgba(139, 122, 168, 0.3);
+  box-shadow: 0 4px 24px rgba(139, 122, 168, 0.08);
+  color: #5D4E75;
+}
+
+.size-card {
+  padding: 1rem;
+  border-radius: 0.75rem;
+  border: 2px solid transparent;
+  background: rgba(255, 255, 255, 0.8);
+  transition: all 0.3s ease;
+  cursor: pointer;
+  text-align: center;
+}
+
+.size-card:hover,
+.size-card.recommended {
+  border-color: #D4A574;
+  background: linear-gradient(135deg, rgba(212, 165, 116, 0.1), rgba(139, 92, 246, 0.1));
+  box-shadow: 0 4px 24px rgba(212, 165, 116, 0.15);
+}
+
+.price-range {
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  background: rgba(255, 255, 255, 0.8);
+  text-align: center;
+}
+
+@keyframes gentle-pulse {
+  0%, 100% { 
+    box-shadow: 0 4px 24px rgba(139, 122, 168, 0.08);
+  }
+  50% { 
+    box-shadow: 0 8px 32px rgba(139, 122, 168, 0.15);
+  }
+}
+
+.pulse-animation {
+  animation: gentle-pulse 3s ease-in-out infinite;
+}
+</style>
+
+<script>
+// Room configurations and sizing logic
+const roomConfigs = {
+  salon: {
+    name: 'Salon',
+    furnitureOptions: [
+      { id: 'canape-2places', label: '🛋️ Canapé 2 places', width: 160 },
+      { id: 'canape-3places', label: '🛋️ Canapé 3 places', width: 200 },
+      { id: 'canape-angle', label: '🛋️ Canapé d\'angle', width: 280 },
+      { id: 'fauteuils', label: '🪑 Fauteuils séparés', width: 140 }
+    ],
+    tips: [
+      'Place le tapis sous les pieds avant du canapé',
+      'Laisse 40-60cm entre le tapis et les murs',
+      'Évite les tapis trop petits qui "flottent" dans l\'espace',
+      'Un tapis plus grand unifie visuellement l\'espace'
+    ]
+  },
+  chambre: {
+    name: 'Chambre',
+    furnitureOptions: [
+      { id: 'lit-simple', label: '🛏️ Lit simple (90cm)', width: 90 },
+      { id: 'lit-double', label: '🛏️ Lit double (140cm)', width: 140 },
+      { id: 'lit-queen', label: '🛏️ Lit Queen (160cm)', width: 160 },
+      { id: 'lit-king', label: '🛏️ Lit King (180cm)', width: 180 }
+    ],
+    tips: [
+      'Position idéale : 2/3 du tapis sous le lit',
+      'Alternative : tapis de chaque côté du lit',
+      'En bout de lit : tapis de 60x120cm minimum',
+      'Évite les tapis glissants près du lit'
+    ]
+  },
+  'salle-a-manger': {
+    name: 'Salle à manger',
+    furnitureOptions: [
+      { id: 'table-2pers', label: '🍽️ Table 2 personnes', width: 80 },
+      { id: 'table-4pers', label: '🍽️ Table 4 personnes', width: 120 },
+      { id: 'table-6pers', label: '🍽️ Table 6 personnes', width: 160 },
+      { id: 'table-8pers', label: '🍽️ Table 8+ personnes', width: 200 }
+    ],
+    tips: [
+      'Le tapis doit inclure table + chaises tirées',
+      'Ajoute 60cm de chaque côté de la table',
+      'Toutes les chaises doivent rester sur le tapis',
+      'Préfère des tapis faciles à nettoyer'
+    ]
+  },
+  entree: {
+    name: 'Entrée',
+    furnitureOptions: [
+      { id: 'couloir', label: '🚪 Couloir étroit', width: 80 },
+      { id: 'hall-moyen', label: '🏠 Hall moyen', width: 120 },
+      { id: 'grand-hall', label: '🏛️ Grand hall', width: 160 },
+      { id: 'entree-ouverte', label: '🌟 Entrée ouverte', width: 200 }
+    ],
+    tips: [
+      'Chois un tapis résistant au passage',
+      'Privilégie les matériaux anti-dérapants',
+      'La taille dépend du flux de circulation',
+      'Évite les couleurs trop claires'
+    ]
+  }
+};
+
+// Standard rug sizes available
+const standardSizes = [
+  { width: 60, height: 120, name: '60x120cm', price: { min: 50, max: 150 } },
+  { width: 80, height: 150, name: '80x150cm', price: { min: 80, max: 200 } },
+  { width: 120, height: 180, name: '120x180cm', price: { min: 150, max: 350 } },
+  { width: 160, height: 230, name: '160x230cm', price: { min: 250, max: 600 } },
+  { width: 200, height: 300, name: '200x300cm', price: { min: 400, max: 900 } },
+  { width: 250, height: 350, name: '250x350cm', price: { min: 600, max: 1500 } },
+  { width: 300, height: 400, name: '300x400cm', price: { min: 900, max: 2500 } }
+];
+
+let selectedRoom = null;
+let selectedFurniture = null;
+let roomLength = 0;
+let roomWidth = 0;
+
+document.addEventListener('DOMContentLoaded', () => {
+  setupEventListeners();
+});
+
+function setupEventListeners() {
+  // Room type selection
+  document.querySelectorAll('.room-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.room-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      selectedRoom = btn.dataset.room;
+      updateFurnitureConfig();
+      resetResults();
+    });
+  });
+
+  // Room dimensions
+  document.getElementById('room-length').addEventListener('input', updateRoomDimensions);
+  document.getElementById('room-width').addEventListener('input', updateRoomDimensions);
+
+  // Calculate button
+  document.getElementById('calculate-btn').addEventListener('click', calculateIdealSize);
+}
+
+function updateFurnitureConfig() {
+  const config = roomConfigs[selectedRoom];
+  const container = document.getElementById('furniture-config');
+  
+  if (!config) return;
+  
+  const html = config.furnitureOptions.map(option => `
+    <button class="furniture-btn w-full text-left px-3 py-2 mb-2 rounded-lg border border-border hover:bg-surface-hover transition-colors" data-furniture="${option.id}">
+      ${option.label}
+    </button>
+  `).join('');
+  
+  container.innerHTML = html;
+  
+  // Add event listeners to furniture buttons
+  container.querySelectorAll('.furniture-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      container.querySelectorAll('.furniture-btn').forEach(b => b.classList.remove('bg-primary', 'text-white'));
+      btn.classList.add('bg-primary', 'text-white');
+      selectedFurniture = btn.dataset.furniture;
+    });
+  });
+}
+
+function updateRoomDimensions() {
+  roomLength = parseFloat(document.getElementById('room-length').value) || 0;
+  roomWidth = parseFloat(document.getElementById('room-width').value) || 0;
+}
+
+function calculateIdealSize() {
+  if (!selectedRoom || !selectedFurniture || !roomLength || !roomWidth) {
+    alert('Merci de remplir toutes les informations !');
+    return;
+  }
+
+  const config = roomConfigs[selectedRoom];
+  const furniture = config.furnitureOptions.find(f => f.id === selectedFurniture);
+  
+  const idealSize = calculateRugSize(selectedRoom, furniture, roomLength, roomWidth);
+  const sizeOptions = findSizeOptions(idealSize);
+  
+  displayResults(idealSize, sizeOptions, config);
+}
+
+function calculateRugSize(roomType, furniture, length, width) {
+  const roomLengthCm = length * 100;
+  const roomWidthCm = width * 100;
+  
+  let idealWidth, idealHeight;
+  
+  switch (roomType) {
+    case 'salon':
+      // Base on furniture width + comfort zone
+      idealWidth = Math.max(furniture.width + 60, roomWidthCm * 0.6);
+      idealHeight = Math.max(idealWidth * 1.4, roomLengthCm * 0.6);
+      break;
+      
+    case 'chambre':
+      if (furniture.id.includes('lit')) {
+        // For bedrooms, base on bed size
+        idealWidth = Math.max(furniture.width + 80, roomWidthCm * 0.7);
+        idealHeight = Math.max(200, roomLengthCm * 0.6); // Minimum 2m length
+      }
+      break;
+      
+    case 'salle-a-manger':
+      // Table + pulled chairs (60cm each side)
+      idealWidth = furniture.width + 120;
+      idealHeight = idealWidth; // Square/rectangular based on table
+      break;
+      
+    case 'entree':
+      // Proportional to space and traffic flow
+      idealWidth = Math.min(furniture.width, roomWidthCm * 0.8);
+      idealHeight = Math.max(idealWidth * 1.5, 120);
+      break;
+  }
+  
+  // Ensure within room bounds (leave 40cm margin)
+  idealWidth = Math.min(idealWidth, roomWidthCm - 80);
+  idealHeight = Math.min(idealHeight, roomLengthCm - 80);
+  
+  return { width: Math.round(idealWidth), height: Math.round(idealHeight) };
+}
+
+function findSizeOptions(idealSize) {
+  // Find the 3 best size options
+  const scores = standardSizes.map(size => {
+    const widthDiff = Math.abs(size.width - idealSize.width);
+    const heightDiff = Math.abs(size.height - idealSize.height);
+    const totalDiff = widthDiff + heightDiff;
+    
+    return { ...size, score: totalDiff };
+  });
+  
+  scores.sort((a, b) => a.score - b.score);
+  return scores.slice(0, 3);
+}
+
+function displayResults(idealSize, sizeOptions, config) {
+  // Show results section
+  document.getElementById('initial-state').classList.add('hidden');
+  document.getElementById('results').classList.remove('hidden');
+  
+  // Update recommended size
+  const recommendedSizeName = sizeOptions[0].name;
+  document.getElementById('recommended-size').textContent = recommendedSizeName;
+  
+  // Display size options
+  const sizeOptionsContainer = document.getElementById('size-options');
+  sizeOptionsContainer.innerHTML = sizeOptions.map((size, index) => `
+    <div class="size-card ${index === 0 ? 'recommended pulse-animation' : ''}">
+      <div class="font-semibold text-lg mb-1" style="color: #5D4E75;">${size.name}</div>
+      <div class="text-xs" style="color: #8B8B8B;">
+        ${index === 0 ? 'Recommandé' : index === 1 ? 'Alternative' : 'Option'}
+      </div>
+      <div class="text-xs mt-2" style="color: #D4A574;">
+        ${size.price.min}€ - ${size.price.max}€
+      </div>
+    </div>
+  `).join('');
+  
+  // Display placement tips
+  const tipsContainer = document.getElementById('placement-tips');
+  tipsContainer.innerHTML = config.tips.map(tip => `
+    <div class="flex items-start gap-2">
+      <span class="text-purple-400 mt-0.5">•</span>
+      <span>${tip}</span>
+    </div>
+  `).join('');
+  
+  // Display price estimates
+  const priceContainer = document.getElementById('price-estimates');
+  const recommendedSize = sizeOptions[0];
+  priceContainer.innerHTML = `
+    <div class="price-range">
+      <div class="font-semibold text-sm" style="color: #5D4E75;">Synthétique</div>
+      <div class="text-xs" style="color: #8B8B8B;">${recommendedSize.price.min}€ - ${Math.round(recommendedSize.price.max * 0.6)}€</div>
+    </div>
+    <div class="price-range">
+      <div class="font-semibold text-sm" style="color: #5D4E75;">Laine</div>
+      <div class="text-xs" style="color: #8B8B8B;">${Math.round(recommendedSize.price.min * 1.5)}€ - ${recommendedSize.price.max}€</div>
+    </div>
+    <div class="price-range">
+      <div class="font-semibold text-sm" style="color: #5D4E75;">Haut de gamme</div>
+      <div class="text-xs" style="color: #8B8B8B;">${recommendedSize.price.max}€ - ${Math.round(recommendedSize.price.max * 2.5)}€</div>
+    </div>
+  `;
+  
+  // Smooth scroll to results
+  document.getElementById('results').scrollIntoView({ 
+    behavior: 'smooth', 
+    block: 'start' 
+  });
+}
+
+function resetResults() {
+  document.getElementById('initial-state').classList.remove('hidden');
+  document.getElementById('results').classList.add('hidden');
+}
+</script>
+
+    <!-- FAQ SEO -->
+    <section class="py-8 section-soft">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 class="text-xl title-elegant mb-6 text-center">Questions fréquentes</h2>
+        <div class="space-y-4">
+          <div class="faq-item card-feminine p-4">
+            <h3 class="font-medium mb-2 text-sm">Quelle taille de tapis pour un salon ?</h3>
+            <p class="text-xs" style="color: #8B8B8B;">Pour un salon, optez pour un tapis où les pieds avant de tous les meubles sont posés dessus. Comptez 200x290cm pour un grand salon, 160x230cm pour un salon moyen.</p>
+          </div>
+          <div class="faq-item card-feminine p-4">
+            <h3 class="font-medium mb-2 text-sm">Comment choisir la taille d'un tapis sous une table ?</h3>
+            <p class="text-xs" style="color: #8B8B8B;">Le tapis doit dépasser d'au moins 60cm de chaque côté de la table pour permettre de tirer les chaises sans sortir du tapis. Pour une table 160cm, choisissez un tapis 280x200cm minimum.</p>
+          </div>
+          <div class="faq-item card-feminine p-4">
+            <h3 class="font-medium mb-2 text-sm">Faut-il que le tapis touche les murs ?</h3>
+            <p class="text-xs" style="color: #8B8B8B;">Non, laissez 20-40cm entre le bord du tapis et les murs pour éviter l'effet "tapis trop petit". Cette marge crée un équilibre visuel et agrandit l'espace.</p>
+          </div>
+          <div class="faq-item card-feminine p-4">
+            <h3 class="font-medium mb-2 text-sm">Quel budget prévoir pour un tapis de qualité ?</h3>
+            <p class="text-xs" style="color: #8B8B8B;">Comptez 15-30€/m² pour un bon tapis synthétique, 50-150€/m² pour un tapis en laine, et 200€/m² et plus pour un tapis fait main. Notre calculateur inclut ces estimations.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+  
+  <Footer />
+</BaseLayout>

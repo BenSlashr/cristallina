@@ -8,7 +8,7 @@ order: 3
 image: "/images/guides/comment-verouiller-porte-interieur.webp"
 readingTime: "11 min"
 faqSchema: true
-pubDate: 2026-02-18
+pubDate: 2026-02-17
 ---
 
 Tu veux pouvoir fermer ta porte de chambre, de salle de bain ou de bureau à clé - ou au moins la bloquer correctement ? Tu n'es pas la seule. Que ce soit pour avoir un peu d'intimité, sécuriser une pièce ou simplement empêcher les enfants d'entrer dans ton atelier créatif, verrouiller une porte intérieure est un besoin ultra courant. Et la bonne nouvelle, c'est que les solutions sont nombreuses, accessibles et souvent très simples à installer.

@@ -3,12 +3,28 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Salon Bohème : 11 Idées Déco Chic et Colorée";
 const description = "Adoptez le style bohème chic ! 11 idées déco avec textiles colorés, plantes exotiques, mobilier vintage et ambiance nomade authentique.";
+
+const pageSlug = 'salon-boheme-deco-chic-coloree';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/salon-boheme-deco-chic-coloree/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Salon', url: '/guides/decoration' },
+  { name: title, url: '/salon-boheme-deco-chic-coloree/' },
+]);
+
 ---
 
-<BaseLayout {title} {description} canonical="https://www.cristallina.fr/salon-boheme-deco-chic-coloree/">
+<BaseLayout {title} {description}
+  jsonLd={[schemaArticle, schemaBreadcrumb]}
+>
   <Navbar />
   <main class="pt-16">
     <article class="max-w-4xl mx-auto px-4 py-8">
@@ -25,7 +41,7 @@ const description = "Adoptez le style bohème chic ! 11 idées déco avec textil
           src="/images/unsplash-bohemian-chic-living-room-colorful-textiles-1771177397.jpg" 
           alt="Salon bohème avec tapis colorés, coussins ethniques et plantes verdoyantes" 
           class="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg mb-8"
-        />
+         width="1200" height="675" loading="eager" decoding="async" />
       </header>
 
       <!-- Sommaire -->

@@ -1,0 +1,128 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+
+const title = "Guide Décoration - Conseils et Idées Déco | Cristallina";
+const description = "Découvrez nos guides décoration pour transformer votre intérieur ! Conseils d'experts, tendances 2026 et astuces pour créer un chez-vous unique.";
+
+// Articles déco (à automatiser plus tard)
+const decorationArticles = [
+  {
+    title: "Décoration Salon Naturel Chic : 12 Idées Tendance 2026",
+    description: "Transformez votre salon avec un style naturel chic ! Découvrez matières nobles, couleurs apaisantes et astuces déco pour un intérieur élégant.",
+    href: "/decoration-salon-naturel-chic/",
+    readingTime: "8 min",
+    category: "Salon"
+  }
+];
+---
+
+<BaseLayout {title} {description} canonical="https://www.cristallina.fr/guides/decoration/">
+  <Navbar />
+  
+  <main class="pt-16">
+    <!-- Hero -->
+    <section class="section-soft py-12">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div class="inline-block mb-6">
+          <span class="inline-flex items-center px-4 py-2 bg-white/90 shadow-soft rounded-full border border-feminine">
+            <span class="mr-2 text-lg">🏠</span> 
+            <span class="title-elegant text-sm">Guides Décoration</span>
+          </span>
+        </div>
+        
+        <h1 class="text-3xl md:text-4xl title-elegant mb-6">{title}</h1>
+        
+        <p class="text-lg mb-8 max-w-2xl mx-auto" style="color: #8B8B8B;">
+          Transformez votre intérieur avec nos guides déco experts. Tendances 2026, conseils pratiques et inspirations pour créer un chez-vous qui vous ressemble.
+        </p>
+      </div>
+    </section>
+
+    <!-- Articles Grid -->
+    <section class="py-12">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        {decorationArticles.length > 0 ? (
+          <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {decorationArticles.map(article => (
+              <article class="card-feminine shadow-soft hover:shadow-lg transition-all duration-300 group">
+                <div class="p-6">
+                  <div class="flex items-center gap-2 mb-3">
+                    <span class="text-xs px-2 py-1 bg-primary/10 text-primary rounded-full">{article.category}</span>
+                    <span class="text-xs" style="color: #B5B5B5;">📖 {article.readingTime}</span>
+                  </div>
+                  
+                  <h2 class="title-elegant text-lg mb-3 group-hover:text-primary transition-colors">
+                    <a href={article.href} class="block">
+                      {article.title}
+                    </a>
+                  </h2>
+                  
+                  <p class="text-sm mb-4" style="color: #8B8B8B;">{article.description}</p>
+                  
+                  <a 
+                    href={article.href}
+                    class="inline-flex items-center text-sm font-medium text-primary hover:text-primary-dark transition-colors"
+                  >
+                    Lire l'article 
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                  </a>
+                </div>
+              </article>
+            ))}
+          </div>
+        ) : (
+          <div class="text-center py-12">
+            <div class="text-6xl mb-4">🎨</div>
+            <h3 class="title-elegant text-xl mb-4">Bientôt disponible !</h3>
+            <p class="text-sm" style="color: #8B8B8B;">
+              Nos guides décoration arrivent très prochainement. En attendant, découvrez nos outils gratuits !
+            </p>
+            <a href="/outils" class="mt-4 inline-flex btn-feminine">
+              🛠️ Découvrir les outils
+            </a>
+          </div>
+        )}
+
+        <!-- Categories Preview -->
+        <div class="mt-16">
+          <h2 class="text-2xl title-elegant mb-8 text-center">Catégories Décoration</h2>
+          
+          <div class="grid sm:grid-cols-2 md:grid-cols-4 gap-6">
+            <div class="text-center p-6 card-feminine">
+              <div class="text-3xl mb-3">🛋️</div>
+              <h3 class="title-elegant mb-2">Salon</h3>
+              <p class="text-xs" style="color: #8B8B8B;">Idées et conseils pour un salon chaleureux</p>
+            </div>
+            
+            <div class="text-center p-6 card-feminine">
+              <div class="text-3xl mb-3">🛏️</div>
+              <h3 class="title-elegant mb-2">Chambre</h3>
+              <p class="text-xs" style="color: #8B8B8B;">Créez un espace nuit apaisant</p>
+            </div>
+            
+            <div class="text-center p-6 card-feminine">
+              <div class="text-3xl mb-3">🍳</div>
+              <h3 class="title-elegant mb-2">Cuisine</h3>
+              <p class="text-xs" style="color: #8B8B8B;">Une cuisine fonctionnelle et belle</p>
+            </div>
+            
+            <div class="text-center p-6 card-feminine">
+              <div class="text-3xl mb-3">🛁</div>
+              <h3 class="title-elegant mb-2">Salle de bain</h3>
+              <p class="text-xs" style="color: #8B8B8B;">Transformez votre salle d'eau</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+  </main>
+  
+  <Footer />
+</BaseLayout>

@@ -3,9 +3,23 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Cuisine Vintage Campagne : 21 Idées Déco pour un Charme Authentique";
 const description = "Créez une cuisine au charme campagne ! 21 idées déco vintage : mobilier patiné, vaisselle ancienne, couleurs naturelles et authenticité.";
+
+const pageSlug = 'cuisine-vintage-campagne-charme-authentique';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/cuisine-vintage-campagne-charme-authentique/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Cuisine', url: '/guides/decoration' },
+  { name: title, url: '/cuisine-vintage-campagne-charme-authentique/' },
+]);
+
 ---
 
 <BaseLayout title={title} description={description}>
@@ -27,7 +41,7 @@ const description = "Créez une cuisine au charme campagne ! 21 idées déco vin
               src="/images/unsplash-cuisine-vintage-campagne-charme-authentique-placeholder.jpg" 
               alt="Cuisine vintage campagne avec mobilier patiné et charme authentique"
               class="w-full rounded-2xl shadow-2xl"
-            />
+             width="1200" height="675" loading="eager" decoding="async" />
           </div>
         </div>
       </div>
@@ -68,7 +82,7 @@ const description = "Créez une cuisine au charme campagne ! 21 idées déco vin
               </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771236600148.jpg" alt="Cuisine vintage avec elements en bois et touches retro" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771236600148.jpg" alt="Cuisine vintage avec elements en bois et touches retro" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
             </div>
@@ -116,7 +130,7 @@ const description = "Créez une cuisine au charme campagne ! 21 idées déco vin
               </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771237277908.jpg" alt="Decoration cuisine campagne chic avec meubles anciens" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771237277908.jpg" alt="Decoration cuisine campagne chic avec meubles anciens" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
             </div>
@@ -158,7 +172,7 @@ const description = "Créez une cuisine au charme campagne ! 21 idées déco vin
               </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771235356468.jpg" alt="Cuisine rustique moderne avec credence en carrelage metro" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771235356468.jpg" alt="Cuisine rustique moderne avec credence en carrelage metro" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
             </div>
@@ -206,7 +220,7 @@ const description = "Créez une cuisine au charme campagne ! 21 idées déco vin
               </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236786831.jpg" alt="Ambiance cuisine vintage avec accessoires d'epoque" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236786831.jpg" alt="Ambiance cuisine vintage avec accessoires d'epoque" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
             </div>
@@ -248,7 +262,7 @@ const description = "Créez une cuisine au charme campagne ! 21 idées déco vin
               </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771236355476.jpg" alt="Cuisine style campagne francaise avec poutres apparentes" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771236355476.jpg" alt="Cuisine style campagne francaise avec poutres apparentes" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
             </div>

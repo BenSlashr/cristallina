@@ -6,6 +6,7 @@ import Footer from '@/components/Footer.astro';
 import CrossLinks from '@/components/CrossLinks.astro';
 import { getCollection, render } from 'astro:content';
 import type { LinkGroup } from '@/components/CrossLinks.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 export async function getStaticPaths() {
   const now = new Date();
@@ -43,12 +44,27 @@ const formattedDate = new Date(post.data.pubDate).toLocaleDateString('fr-FR', {
   month: 'long',
   day: 'numeric',
 });
+
+const pageUrl = `/${post.id}/`;
+const schemaArticle = articleSchema({
+  title: post.data.title,
+  description: post.data.description,
+  url: pageUrl,
+  image: post.data.image,
+  datePublished: post.data.pubDate.toISOString(),
+  author: post.data.author,
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: post.data.title, url: pageUrl },
+]);
 ---
 
 <BaseLayout
-  title={`${post.data.title} | MySite`}
+  title={`${post.data.title} | Cristallina`}
   description={post.data.description}
   ogImage={post.data.image}
+  jsonLd={[schemaArticle, schemaBreadcrumb]}
 >
   <Navbar />
 
@@ -121,25 +137,4 @@ const formattedDate = new Date(post.data.pubDate).toLocaleDateString('fr-FR', {
 
   <Footer />
 
-  <!-- Schema.org Article -->
-  <script type="application/ld+json" set:html={JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": post.data.title,
-    "description": post.data.description,
-    "author": {
-      "@type": "Person",
-      "name": post.data.author,
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "MySite",
-      "url": Astro.site?.toString(),
-    },
-    "datePublished": post.data.pubDate.toISOString(),
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": new URL(`/${post.id}/`, Astro.site).toString(),
-    },
-  })} />
 </BaseLayout>

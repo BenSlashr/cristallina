@@ -3,12 +3,28 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Cuisine Moderne 2026 : 10 Aménagements Innovants";
 const description = "Réinventez votre cuisine avec les tendances 2026 ! Îlots multifonctions, électroménager connecté, rangements intelligents... 10 idées innovantes.";
+
+const pageSlug = 'cuisine-moderne-2026-amenagements-innovants';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/cuisine-moderne-2026-amenagements-innovants/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Cuisine', url: '/guides/decoration' },
+  { name: title, url: '/cuisine-moderne-2026-amenagements-innovants/' },
+]);
+
 ---
 
-<BaseLayout {title} {description} canonical="https://www.cristallina.fr/cuisine-moderne-2026-amenagements-innovants/">
+<BaseLayout {title} {description}
+  jsonLd={[schemaArticle, schemaBreadcrumb]}
+>
   <Navbar />
   <main class="pt-16">
     <div class="max-w-4xl mx-auto px-4 py-12">
@@ -24,7 +40,7 @@ const description = "Réinventez votre cuisine avec les tendances 2026 ! Îlots 
           src="/images/unsplash-modern-kitchen-2026-innovative-layouts-1771177382.jpg" 
           alt="Cuisine moderne 2026 avec îlot central intelligent et électroménager connecté"
           class="w-full h-96 object-cover rounded-xl shadow-lg"
-        />
+         width="1200" height="675" loading="eager" decoding="async" />
       </header>
 
       <!-- Sommaire -->

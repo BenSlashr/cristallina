@@ -8,7 +8,7 @@ order: 4
 image: "/images/guides/meuble-salle-de-bain-beton-cire.webp"
 readingTime: "11 min"
 faqSchema: true
-pubDate: 2026-02-18
+pubDate: 2026-02-17
 ---
 
 Tu cherches à donner un vrai caractère à ta salle de bain sans tomber dans le classique meuble blanc laqué ? Le béton ciré est exactement ce qu'il te faut. C'est un matériau qui apporte une présence visuelle dingue, un côté brut et chic à la fois, et qui se prête à tous les styles - du minimaliste au plus industriel.

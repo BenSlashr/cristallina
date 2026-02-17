@@ -3,7 +3,7 @@ set -euo pipefail
 
 # ============================================================
 # benchmark-redaction.sh
-# Benchmark de rédaction d'articles [PROJECT_NAME] via API Anthropic et OpenAI
+# Benchmark de rédaction d'articles Cristallina via API Anthropic et OpenAI
 #
 # Usage:
 #   ./scripts/benchmark-redaction.sh --model sonnet --articles articles.csv

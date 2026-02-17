@@ -3,12 +3,28 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Éclairage d'Ambiance : 16 Techniques pour Sublimer votre Intérieur";
 const description = "Créez des ambiances magiques ! 16 techniques d'éclairage professionnel, jeux de lumières et astuces pour transformer chaque pièce avec style.";
+
+const pageSlug = 'eclairage-ambiance-techniques-sublimer';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/eclairage-ambiance-techniques-sublimer/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Eclairage', url: '/guides/decoration' },
+  { name: title, url: '/eclairage-ambiance-techniques-sublimer/' },
+]);
+
 ---
 
-<BaseLayout {title} {description} canonical="https://www.cristallina.fr/eclairage-ambiance-techniques-sublimer/">
+<BaseLayout {title} {description}
+  jsonLd={[schemaArticle, schemaBreadcrumb]}
+>
   <Navbar />
   <main class="pt-16">
     <article class="max-w-4xl mx-auto px-4 py-12">
@@ -24,8 +40,7 @@ const description = "Créez des ambiances magiques ! 16 techniques d'éclairage 
           src="/images/unsplash-eclairage-ambiance-techniques-1771180020.jpg" 
           alt="Salon moderne avec éclairage d'ambiance sophistiqué" 
           class="w-full max-w-3xl mx-auto rounded-lg shadow-lg mb-8"
-          loading="eager"
-        />
+         width="1200" height="675" loading="eager" decoding="async" />
       </header>
 
       <!-- Sommaire -->
@@ -63,7 +78,7 @@ const description = "Créez des ambiances magiques ! 16 techniques d'éclairage 
         </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235376750.jpg" alt="Eclairage d'ambiance avec luminaires design modernes" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235376750.jpg" alt="Eclairage d'ambiance avec luminaires design modernes" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -100,7 +115,7 @@ const description = "Créez des ambiances magiques ! 16 techniques d'éclairage 
         </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232900022.jpg" alt="Salon avec eclairage indirect et bougies decoratives" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232900022.jpg" alt="Salon avec eclairage indirect et bougies decoratives" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
         <ul class="list-disc list-inside space-y-2 text-slate-700 mb-6">
@@ -150,7 +165,7 @@ const description = "Créez des ambiances magiques ! 16 techniques d'éclairage 
         </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771236136417.jpg" alt="Techniques d'eclairage pour creer une ambiance chaleureuse" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771236136417.jpg" alt="Techniques d'eclairage pour creer une ambiance chaleureuse" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
         <ul class="list-disc list-inside space-y-2 text-slate-700 mb-6">
@@ -195,7 +210,7 @@ const description = "Créez des ambiances magiques ! 16 techniques d'éclairage 
         </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235486688.jpg" alt="Luminaires suspendus modernes dans un interieur contemporain" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235486688.jpg" alt="Luminaires suspendus modernes dans un interieur contemporain" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
         <ul class="list-disc list-inside space-y-2 text-slate-700 mb-6">
@@ -225,7 +240,7 @@ const description = "Créez des ambiances magiques ! 16 techniques d'éclairage 
         </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771236608407.jpg" alt="Eclairage de salle de bain moderne avec spots et LED" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771236608407.jpg" alt="Eclairage de salle de bain moderne avec spots et LED" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 

@@ -1,0 +1,698 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+---
+
+<BaseLayout 
+  title="Calculateur de Carrelage - Nombre de Carreaux - Cristallina"
+  description="Calculez précisément le nombre de carreaux nécessaires pour votre projet. Outil gratuit avec estimation chutes et budget."
+  canonical="https://www.cristallina.fr/outils/calculateur-carrelage/"
+>
+  <Navbar />
+  
+  <main class="pt-16">
+    <!-- Hero Section -->
+    <section class="section-soft py-20">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div class="space-y-8">
+          <div class="inline-block">
+            <span class="inline-flex items-center px-6 py-3 bg-white/90 backdrop-blur-sm shadow-soft rounded-full border border-feminine">
+              <span class="mr-3 text-lg">⬛</span> 
+              <span class="title-elegant text-sm">Calculateur Gratuit</span>
+            </span>
+          </div>
+          
+          <h1 class="text-5xl md:text-7xl lg:text-8xl font-display leading-tight">
+            <span class="block title-elegant">Calcul</span>
+            <span class="block text-6xl md:text-8xl lg:text-9xl" style="color: #D4A574; font-style: italic;">carrelage</span>
+            <span class="block title-elegant">facile</span>
+          </h1>
+          
+          <div class="quote-feminine max-w-3xl mx-auto">
+            Détermine le nombre exact de carreaux pour ton projet de carrelage
+          </div>
+          
+          <div class="flex flex-wrap justify-center gap-4 text-sm" style="color: #8B8B8B;">
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-green-400 rounded-full"></span>
+              Calcul précis
+            </span>
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-blue-400 rounded-full"></span>
+              Chutes incluses
+            </span>
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-purple-400 rounded-full"></span>
+              Budget estimé
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Calculator Interface -->
+    <section class="py-20">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <!-- Main Calculator -->
+        <div class="grid lg:grid-cols-3 gap-8">
+          
+          <!-- Input Form -->
+          <div class="lg:col-span-1">
+            <div class="card-feminine shadow-soft-hover">
+              <h2 class="text-2xl title-elegant mb-6">Paramètres du projet</h2>
+              
+              <!-- Surface to Tile -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Surface à carreler</label>
+                <div class="grid grid-cols-1 gap-2" id="surface-type">
+                  <button class="surface-btn" data-surface="rectangle">📐 Surface rectangulaire</button>
+                  <button class="surface-btn" data-surface="complex">🏠 Surface complexe</button>
+                </div>
+              </div>
+
+              <!-- Surface Dimensions -->
+              <div id="dimensions-inputs" class="mb-6">
+                <!-- Will be populated dynamically -->
+              </div>
+
+              <!-- Tile Size -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Format de carrelage</label>
+                <div class="grid grid-cols-2 gap-2 mb-3" id="tile-format">
+                  <button class="format-btn" data-size="30x30">30x30 cm</button>
+                  <button class="format-btn" data-size="45x45">45x45 cm</button>
+                  <button class="format-btn" data-size="60x60">60x60 cm</button>
+                  <button class="format-btn" data-size="30x60">30x60 cm</button>
+                  <button class="format-btn" data-size="20x20">20x20 cm</button>
+                  <button class="format-btn active" data-size="custom">📐 Personnalisé</button>
+                </div>
+                
+                <div id="custom-tile-size" class="grid grid-cols-2 gap-3">
+                  <div>
+                    <label class="text-xs mb-1 block" style="color: #8B8B8B;">Largeur (cm)</label>
+                    <input type="number" id="tile-width" placeholder="60" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+                  </div>
+                  <div>
+                    <label class="text-xs mb-1 block" style="color: #8B8B8B;">Hauteur (cm)</label>
+                    <input type="number" id="tile-height" placeholder="60" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+                  </div>
+                </div>
+              </div>
+
+              <!-- Waste Factor -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Chutes et découpes</label>
+                <select id="waste-factor" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+                  <option value="5">Pose droite simple (5%)</option>
+                  <option value="10" selected>Pose standard avec découpes (10%)</option>
+                  <option value="15">Pose diagonale ou complexe (15%)</option>
+                  <option value="20">Pose très complexe (20%)</option>
+                </select>
+              </div>
+
+              <!-- Calculate Button -->
+              <button id="calculate-tile-btn" class="btn-feminine w-full shadow-soft-hover">
+                ⬛ Calculer le carrelage
+              </button>
+            </div>
+
+            <!-- Quick Reference -->
+            <div class="card-feminine shadow-soft-hover mt-6">
+              <h3 class="text-lg title-elegant mb-4">📋 Formats courants</h3>
+              <div class="space-y-2 text-xs" style="color: #8B8B8B;">
+                <div class="flex justify-between">
+                  <span>20x20 cm</span>
+                  <span>25 carreaux/m²</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>30x30 cm</span>
+                  <span>11.11 carreaux/m²</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>45x45 cm</span>
+                  <span>4.94 carreaux/m²</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>60x60 cm</span>
+                  <span>2.78 carreaux/m²</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Results & Shopping List -->
+          <div class="lg:col-span-2">
+            <div class="card-feminine shadow-soft-hover">
+              <h3 class="text-xl title-elegant mb-6">Mes résultats</h3>
+              
+              <!-- Results Display -->
+              <div id="tile-results" class="hidden">
+                
+                <!-- Main Result -->
+                <div class="bg-gradient-to-r from-primary/10 to-accent/10 rounded-xl p-6 mb-6">
+                  <div class="grid md:grid-cols-3 gap-6">
+                    <div class="text-center">
+                      <div class="text-3xl font-display mb-2" style="color: #D4A574;" id="total-tiles">
+                        42 carreaux
+                      </div>
+                      <div class="text-sm" style="color: #8B8B8B;">À commander</div>
+                    </div>
+                    <div class="text-center">
+                      <div class="text-3xl font-display mb-2" style="color: #8B7AA8;" id="total-area">
+                        15 m²
+                      </div>
+                      <div class="text-sm" style="color: #8B8B8B;">Surface totale</div>
+                    </div>
+                    <div class="text-center">
+                      <div class="text-3xl font-display mb-2" style="color: #8B92A8;" id="total-boxes">
+                        3 boîtes
+                      </div>
+                      <div class="text-sm" style="color: #8B8B8B;">Estimation</div>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Detailed Breakdown -->
+                <div class="grid md:grid-cols-2 gap-6 mb-6">
+                  
+                  <!-- Calculation Breakdown -->
+                  <div class="bg-blue-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">🔢 Détail du calcul</h4>
+                    <div id="calculation-breakdown" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+
+                  <!-- Shopping Guide -->
+                  <div class="bg-green-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">🛒 Guide d'achat</h4>
+                    <div id="shopping-guide" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Budget & Materials -->
+                <div class="grid md:grid-cols-2 gap-6 mb-6">
+                  
+                  <!-- Budget Estimate -->
+                  <div class="bg-purple-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">💰 Estimation carrelage</h4>
+                    <div id="tile-budget" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+
+                  <!-- Additional Materials -->
+                  <div class="bg-orange-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">🔧 Matériel complémentaire</h4>
+                    <div id="additional-materials" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Installation Tips -->
+                <div class="bg-yellow-50 rounded-xl p-6">
+                  <h4 class="font-semibold mb-3" style="color: #5D4E75;">💡 Conseils pose</h4>
+                  <div id="installation-tips" class="space-y-2 text-sm">
+                    <!-- Dynamic tips -->
+                  </div>
+                </div>
+              </div>
+
+              <!-- Initial State -->
+              <div id="tile-initial-state" class="text-center py-12">
+                <div class="text-6xl mb-4">⬛</div>
+                <p style="color: #8B8B8B;">Configurez votre projet pour commencer le calcul</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Tile Guide -->
+        <div class="mt-16">
+          <h3 class="text-2xl title-elegant text-center mb-8">Guide des formats</h3>
+          
+          <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">🔲</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">20x20 cm</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• 25 carreaux/m²</div>
+                <div>• Style rétro</div>
+                <div>• Petites surfaces</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">⬛</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">30x30 cm</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• 11.11 carreaux/m²</div>
+                <div>• Format classique</div>
+                <div>• Polyvalent</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">▬</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">30x60 cm</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• 5.56 carreaux/m²</div>
+                <div>• Effet parquet</div>
+                <div>• Tendance</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">⬜</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">60x60 cm</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• 2.78 carreaux/m²</div>
+                <div>• Grand format</div>
+                <div>• Moderne</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-20 section-soft">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h3 class="text-2xl title-elegant text-center mb-8">Questions fréquentes</h3>
+        
+        <div class="space-y-6">
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Combien prévoir de carreaux en plus ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">10% minimum pour les découpes et casses. 15% pour pose diagonale, 20% pour formes complexes. Gardez des carreaux de réserve pour les futurs remplacements.</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Comment calculer les carreaux pour une surface complexe ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Découpez en rectangles simples, calculez chaque zone séparément, puis additionnez. N'oubliez pas de déduire les grandes ouvertures (> 1m²).</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Faut-il acheter tous les carreaux en même temps ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Oui, absolument ! Les lots peuvent varier en teinte. Commandez tout d'un coup et vérifiez que tous les paquets portent le même numéro de lot.</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Quel budget prévoir au m² ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">15-40€/m² pour du grès cérame standard, 40-80€/m² pour du haut de gamme, plus 10-25€/m² pour la pose selon la complexité.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+.surface-btn, .format-btn {
+  padding: 0.75rem;
+  font-size: 0.875rem;
+  text-align: center;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(139, 122, 168, 0.15);
+  background: rgba(255, 255, 255, 0.8);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.surface-btn:hover,
+.surface-btn.active,
+.format-btn:hover,
+.format-btn.active {
+  background: linear-gradient(135deg, var(--color-primary-light), var(--color-accent-light));
+  border-color: rgba(139, 122, 168, 0.3);
+  box-shadow: 0 4px 24px rgba(139, 122, 168, 0.08);
+  color: #5D4E75;
+}
+
+.dimension-input {
+  margin-bottom: 1rem;
+}
+
+.input-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+@keyframes tile-pattern {
+  0%, 100% { 
+    transform: scale(1);
+    opacity: 0.7;
+  }
+  50% { 
+    transform: scale(1.05);
+    opacity: 1;
+  }
+}
+
+.tile-animation {
+  animation: tile-pattern 2s ease-in-out infinite;
+}
+</style>
+
+<script>
+// Tile formats and standard sizes
+const tileFormats = {
+  '20x20': { width: 20, height: 20, name: '20x20 cm' },
+  '30x30': { width: 30, height: 30, name: '30x30 cm' },
+  '45x45': { width: 45, height: 45, name: '45x45 cm' },
+  '60x60': { width: 60, height: 60, name: '60x60 cm' },
+  '30x60': { width: 30, height: 60, name: '30x60 cm' },
+  '25x75': { width: 25, height: 75, name: '25x75 cm' },
+  '15x15': { width: 15, height: 15, name: '15x15 cm' },
+  custom: { width: 0, height: 0, name: 'Personnalisé' }
+};
+
+// Tile price ranges (€/m²)
+const priceRanges = {
+  ceramic: { min: 15, max: 30, name: 'Faïence/Grès' },
+  porcelain: { min: 25, max: 60, name: 'Grès cérame' },
+  natural: { min: 40, max: 120, name: 'Pierre naturelle' },
+  luxury: { min: 80, max: 200, name: 'Haut de gamme' }
+};
+
+let selectedSurface = null;
+let selectedTileFormat = 'custom';
+let surfaceAreas = [];
+let tileWidth = 60;
+let tileHeight = 60;
+
+document.addEventListener('DOMContentLoaded', () => {
+  setupEventListeners();
+});
+
+function setupEventListeners() {
+  // Surface type selection
+  document.querySelectorAll('.surface-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.surface-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      selectedSurface = btn.dataset.surface;
+      updateDimensionsInputs();
+      resetResults();
+    });
+  });
+
+  // Tile format selection
+  document.querySelectorAll('.format-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.format-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      selectedTileFormat = btn.dataset.size;
+      updateTileSize();
+    });
+  });
+
+  // Custom tile size inputs
+  document.getElementById('tile-width').addEventListener('input', updateCustomTileSize);
+  document.getElementById('tile-height').addEventListener('input', updateCustomTileSize);
+
+  // Calculate button
+  document.getElementById('calculate-tile-btn').addEventListener('click', calculateTileNeeds);
+}
+
+function updateTileSize() {
+  const format = tileFormats[selectedTileFormat];
+  
+  if (selectedTileFormat !== 'custom' && format) {
+    tileWidth = format.width;
+    tileHeight = format.height;
+    document.getElementById('tile-width').value = tileWidth;
+    document.getElementById('tile-height').value = tileHeight;
+    document.getElementById('custom-tile-size').style.display = 'none';
+  } else {
+    document.getElementById('custom-tile-size').style.display = 'grid';
+    updateCustomTileSize();
+  }
+}
+
+function updateCustomTileSize() {
+  tileWidth = parseFloat(document.getElementById('tile-width').value) || 60;
+  tileHeight = parseFloat(document.getElementById('tile-height').value) || 60;
+}
+
+function updateDimensionsInputs() {
+  const container = document.getElementById('dimensions-inputs');
+  
+  if (selectedSurface === 'rectangle') {
+    container.innerHTML = `
+      <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Dimensions de la surface</label>
+      <div class="input-pair">
+        <div>
+          <label class="text-xs mb-1 block" style="color: #8B8B8B;">Longueur (m)</label>
+          <input type="number" id="length" placeholder="5.0" step="0.1" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+        </div>
+        <div>
+          <label class="text-xs mb-1 block" style="color: #8B8B8B;">Largeur (m)</label>
+          <input type="number" id="width" placeholder="3.5" step="0.1" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+        </div>
+      </div>
+    `;
+  } else if (selectedSurface === 'complex') {
+    container.innerHTML = `
+      <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Surfaces complexes</label>
+      <div id="complex-surfaces">
+        <div class="complex-surface-item mb-3 p-3 border border-border rounded-lg">
+          <div class="flex justify-between items-center mb-2">
+            <span class="text-sm font-medium">Zone 1</span>
+            <button type="button" onclick="removeComplexSurface(this)" class="text-red-500 text-xs">Supprimer</button>
+          </div>
+          <div class="input-pair">
+            <input type="number" placeholder="Longueur (m)" step="0.1" class="complex-length w-full px-2 py-1 border border-border rounded text-sm">
+            <input type="number" placeholder="Largeur (m)" step="0.1" class="complex-width w-full px-2 py-1 border border-border rounded text-sm">
+          </div>
+        </div>
+      </div>
+      <button type="button" onclick="addComplexSurface()" class="w-full px-3 py-2 text-sm border-2 border-dashed border-primary/30 rounded-lg hover:bg-primary/5 transition-colors">
+        + Ajouter une zone
+      </button>
+    `;
+  }
+}
+
+function addComplexSurface() {
+  const container = document.getElementById('complex-surfaces');
+  const surfaceCount = container.children.length + 1;
+  
+  const surfaceHtml = `
+    <div class="complex-surface-item mb-3 p-3 border border-border rounded-lg">
+      <div class="flex justify-between items-center mb-2">
+        <span class="text-sm font-medium">Zone ${surfaceCount}</span>
+        <button type="button" onclick="removeComplexSurface(this)" class="text-red-500 text-xs">Supprimer</button>
+      </div>
+      <div class="input-pair">
+        <input type="number" placeholder="Longueur (m)" step="0.1" class="complex-length w-full px-2 py-1 border border-border rounded text-sm">
+        <input type="number" placeholder="Largeur (m)" step="0.1" class="complex-width w-full px-2 py-1 border border-border rounded text-sm">
+      </div>
+    </div>
+  `;
+  
+  container.insertAdjacentHTML('beforeend', surfaceHtml);
+}
+
+function removeComplexSurface(button) {
+  const surfaceItem = button.closest('.complex-surface-item');
+  surfaceItem.remove();
+  
+  // Renumber remaining zones
+  document.querySelectorAll('.complex-surface-item').forEach((item, index) => {
+    const label = item.querySelector('.text-sm.font-medium');
+    label.textContent = `Zone ${index + 1}`;
+  });
+}
+
+function calculateTileNeeds() {
+  if (!selectedSurface || tileWidth <= 0 || tileHeight <= 0) {
+    alert('Merci de remplir toutes les informations !');
+    return;
+  }
+
+  let totalArea = 0;
+
+  // Calculate total area based on surface type
+  if (selectedSurface === 'rectangle') {
+    const length = parseFloat(document.getElementById('length').value);
+    const width = parseFloat(document.getElementById('width').value);
+    
+    if (!length || !width) {
+      alert('Merci de saisir les dimensions !');
+      return;
+    }
+    
+    totalArea = length * width;
+    surfaceAreas = [{ length, width, area: totalArea }];
+  } else if (selectedSurface === 'complex') {
+    surfaceAreas = [];
+    const complexSurfaces = document.querySelectorAll('.complex-surface-item');
+    
+    complexSurfaces.forEach(surface => {
+      const length = parseFloat(surface.querySelector('.complex-length').value);
+      const width = parseFloat(surface.querySelector('.complex-width').value);
+      
+      if (length && width) {
+        const area = length * width;
+        totalArea += area;
+        surfaceAreas.push({ length, width, area });
+      }
+    });
+    
+    if (surfaceAreas.length === 0) {
+      alert('Merci d\'ajouter au moins une surface !');
+      return;
+    }
+  }
+
+  if (totalArea <= 0) {
+    alert('Surface calculée invalide !');
+    return;
+  }
+
+  const wastePercent = parseInt(document.getElementById('waste-factor').value);
+  calculateAndDisplayResults(totalArea, wastePercent);
+}
+
+function calculateAndDisplayResults(area, wastePercent) {
+  // Calculate tile area in m²
+  const tileAreaM2 = (tileWidth * tileHeight) / 10000; // Convert cm² to m²
+  
+  // Calculate number of tiles needed
+  const tilesPerM2 = 1 / tileAreaM2;
+  const baseTilesNeeded = Math.ceil(area * tilesPerM2);
+  const wasteQuantity = Math.ceil(baseTilesNeeded * (wastePercent / 100));
+  const totalTiles = baseTilesNeeded + wasteQuantity;
+  
+  // Estimate boxes (assuming 1m² per box on average)
+  const estimatedBoxes = Math.ceil(totalTiles * tileAreaM2);
+  
+  displayTileResults(totalTiles, area, estimatedBoxes, baseTilesNeeded, wasteQuantity, tilesPerM2);
+}
+
+function displayTileResults(totalTiles, area, boxes, baseTiles, waste, tilesPerM2) {
+  // Show results section
+  document.getElementById('tile-initial-state').classList.add('hidden');
+  document.getElementById('tile-results').classList.remove('hidden');
+  
+  // Update main results
+  document.getElementById('total-tiles').textContent = `${totalTiles} carreaux`;
+  document.getElementById('total-area').textContent = `${Math.round(area * 10) / 10} m²`;
+  document.getElementById('total-boxes').textContent = `${boxes} boîtes`;
+  
+  // Calculation breakdown
+  const breakdownContainer = document.getElementById('calculation-breakdown');
+  breakdownContainer.innerHTML = `
+    <div class="flex justify-between">
+      <span>Surface totale</span>
+      <span>${Math.round(area * 10) / 10} m²</span>
+    </div>
+    <div class="flex justify-between">
+      <span>Format carrelage</span>
+      <span>${tileWidth}x${tileHeight} cm</span>
+    </div>
+    <div class="flex justify-between">
+      <span>Carreaux par m²</span>
+      <span>${Math.round(tilesPerM2 * 100) / 100}</span>
+    </div>
+    <div class="flex justify-between">
+      <span>Carreaux nécessaires</span>
+      <span>${baseTiles}</span>
+    </div>
+    <div class="flex justify-between">
+      <span>Chutes (${document.getElementById('waste-factor').value}%)</span>
+      <span>+${waste}</span>
+    </div>
+    <div class="border-t pt-2 mt-2 flex justify-between font-semibold">
+      <span>Total à commander</span>
+      <span>${totalTiles} carreaux</span>
+    </div>
+  `;
+  
+  // Shopping guide
+  const shoppingContainer = document.getElementById('shopping-guide');
+  shoppingContainer.innerHTML = `
+    <div class="space-y-2">
+      <div>• Vérifiez le numéro de lot sur tous les paquets</div>
+      <div>• Commandezbien tout en une fois</div>
+      <div>• Prévoir ${boxes} boîtes environ (selon conditionnement)</div>
+      <div>• Gardez 5-10 carreaux de réserve</div>
+      <div>• Vérifiez les carreaux à la livraison</div>
+    </div>
+  `;
+  
+  // Tile budget
+  const budgetContainer = document.getElementById('tile-budget');
+  budgetContainer.innerHTML = Object.entries(priceRanges).map(([key, range]) => `
+    <div class="flex justify-between">
+      <span>${range.name}</span>
+      <span>${Math.round(area * range.min)}€ - ${Math.round(area * range.max)}€</span>
+    </div>
+  `).join('');
+  
+  // Additional materials
+  const materialsContainer = document.getElementById('additional-materials');
+  const cimentColle = Math.ceil(area * 3); // 3kg/m² roughly
+  const joint = Math.ceil(area * 0.5); // 0.5kg/m² roughly
+  
+  materialsContainer.innerHTML = `
+    <div class="space-y-2">
+      <div class="flex justify-between">
+        <span>Colle carrelage</span>
+        <span>~${cimentColle} kg</span>
+      </div>
+      <div class="flex justify-between">
+        <span>Mortier joint</span>
+        <span>~${joint} kg</span>
+      </div>
+      <div>• Croisillons</div>
+      <div>• Niveau, règle, seau</div>
+      <div>• Carrelette ou disqueuse</div>
+    </div>
+  `;
+  
+  // Installation tips
+  const tipsContainer = document.getElementById('installation-tips');
+  const tips = [
+    'Commencez par le centre de la pièce pour un rendu symétrique',
+    'Vérifiez la planéité du support (3mm max sous règle de 2m)',
+    'Respectez le temps ouvert de la colle (15-30 min)',
+    'Utilisez des croisillons pour des joints réguliers',
+    'Nettoyez les excès de colle avant séchage',
+    'Attendez 24h avant de jointoyer'
+  ];
+  
+  tipsContainer.innerHTML = tips.map(tip => `
+    <div class="flex items-start gap-2">
+      <span class="text-yellow-600 mt-0.5">•</span>
+      <span>${tip}</span>
+    </div>
+  `).join('');
+  
+  // Smooth scroll to results
+  document.getElementById('tile-results').scrollIntoView({ 
+    behavior: 'smooth', 
+    block: 'start' 
+  });
+}
+
+function resetResults() {
+  document.getElementById('tile-initial-state').classList.remove('hidden');
+  document.getElementById('tile-results').classList.add('hidden');
+}
+
+// Make functions available globally for onclick handlers
+window.addComplexSurface = addComplexSurface;
+window.removeComplexSurface = removeComplexSurface;
+</script>

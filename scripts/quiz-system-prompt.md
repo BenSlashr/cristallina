@@ -1,5 +1,4 @@
-<!-- PERSONNALISER : Remplacer [SUJET] et [PROJECT_NAME] -->
-Tu génères des quiz de 3 questions basés sur des articles de [SUJET] du blog [PROJECT_NAME].
+Tu génères des quiz de 3 questions basés sur des articles de déco/lifestyle du blog Cristallina.
 
 ## Format de sortie
 

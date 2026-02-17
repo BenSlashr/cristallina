@@ -1,0 +1,829 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+---
+
+<BaseLayout 
+  title="Optimiseur de Rangements - Maximisez vos Placards - Cristallina"
+  description="Optimisez l'espace de vos placards et dressings. Calculateur gratuit pour maximiser vos rangements avec solutions pratiques."
+  canonical="https://www.cristallina.fr/outils/optimiser-rangements/"
+>
+  <Navbar />
+  
+  <main class="pt-16">
+    <!-- Hero Section -->
+    <section class="section-soft py-20">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div class="space-y-8">
+          <div class="inline-block">
+            <span class="inline-flex items-center px-6 py-3 bg-white/90 backdrop-blur-sm shadow-soft rounded-full border border-feminine">
+              <span class="mr-3 text-lg">📦</span> 
+              <span class="title-elegant text-sm">Optimiseur Gratuit</span>
+            </span>
+          </div>
+          
+          <h1 class="text-5xl md:text-7xl lg:text-8xl font-display leading-tight">
+            <span class="block title-elegant">Optimise tes</span>
+            <span class="block text-6xl md:text-8xl lg:text-9xl" style="color: #D4A574; font-style: italic;">rangements</span>
+          </h1>
+          
+          <div class="quote-feminine max-w-3xl mx-auto">
+            Maximise l'espace de tes placards, dressings et zones de rangement
+          </div>
+          
+          <div class="flex flex-wrap justify-center gap-4 text-sm" style="color: #8B8B8B;">
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-green-400 rounded-full"></span>
+              Gain d'espace
+            </span>
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-blue-400 rounded-full"></span>
+              Solutions pratiques
+            </span>
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-purple-400 rounded-full"></span>
+              Budget optimisé
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Calculator Interface -->
+    <section class="py-20">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <!-- Main Calculator -->
+        <div class="grid lg:grid-cols-3 gap-8">
+          
+          <!-- Input Form -->
+          <div class="lg:col-span-1">
+            <div class="card-feminine shadow-soft-hover">
+              <h2 class="text-2xl title-elegant mb-6">Analyse mon espace</h2>
+              
+              <!-- Storage Type -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Type de rangement</label>
+                <div class="grid grid-cols-1 gap-2" id="storage-type">
+                  <button class="storage-btn" data-type="placard-chambre">👗 Placard chambre</button>
+                  <button class="storage-btn" data-type="dressing">🚪 Dressing</button>
+                  <button class="storage-btn" data-type="placard-entree">🧥 Placard entrée</button>
+                  <button class="storage-btn" data-type="cuisine">🍽️ Placards cuisine</button>
+                  <button class="storage-btn" data-type="bureau">📚 Bureau/bibliothèque</button>
+                  <button class="storage-btn" data-type="salle-de-bain">🧴 Salle de bain</button>
+                </div>
+              </div>
+
+              <!-- Current Dimensions -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Dimensions actuelles</label>
+                <div class="grid grid-cols-2 gap-3">
+                  <div>
+                    <label class="text-xs mb-1 block" style="color: #8B8B8B;">Largeur (cm)</label>
+                    <input type="number" id="width" placeholder="120" step="1" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+                  </div>
+                  <div>
+                    <label class="text-xs mb-1 block" style="color: #8B8B8B;">Profondeur (cm)</label>
+                    <input type="number" id="depth" placeholder="60" step="1" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+                  </div>
+                </div>
+                <div class="mt-3">
+                  <label class="text-xs mb-1 block" style="color: #8B8B8B;">Hauteur (cm)</label>
+                  <input type="number" id="height" placeholder="220" step="1" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+                </div>
+              </div>
+
+              <!-- Current Issues -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Problèmes actuels</label>
+                <div class="space-y-2" id="current-issues">
+                  <label class="flex items-center gap-2 text-sm">
+                    <input type="checkbox" class="issue-checkbox" value="space-wasted" class="rounded border-border">
+                    <span>Espace perdu en hauteur</span>
+                  </label>
+                  <label class="flex items-center gap-2 text-sm">
+                    <input type="checkbox" class="issue-checkbox" value="disorganized" class="rounded border-border">
+                    <span>Désorganisé / difficile à ranger</span>
+                  </label>
+                  <label class="flex items-center gap-2 text-sm">
+                    <input type="checkbox" class="issue-checkbox" value="hard-access" class="rounded border-border">
+                    <span>Zones difficiles d'accès</span>
+                  </label>
+                  <label class="flex items-center gap-2 text-sm">
+                    <input type="checkbox" class="issue-checkbox" value="not-enough-space" class="rounded border-border">
+                    <span>Pas assez d'espace</span>
+                  </label>
+                  <label class="flex items-center gap-2 text-sm">
+                    <input type="checkbox" class="issue-checkbox" value="seasonal-items" class="rounded border-border">
+                    <span>Objets saisonniers encombrants</span>
+                  </label>
+                </div>
+              </div>
+
+              <!-- Budget Range -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Budget disponible</label>
+                <select id="budget-range" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+                  <option value="low">Moins de 50€ (solutions simples)</option>
+                  <option value="medium" selected>50-150€ (aménagements modulaires)</option>
+                  <option value="high">150-400€ (système complet)</option>
+                  <option value="premium">400€+ (sur-mesure)</option>
+                </select>
+              </div>
+
+              <!-- Calculate Button -->
+              <button id="optimize-storage-btn" class="btn-feminine w-full shadow-soft-hover">
+                📦 Optimiser mes rangements
+              </button>
+            </div>
+
+            <!-- Quick Tips -->
+            <div class="card-feminine shadow-soft-hover mt-6">
+              <h3 class="text-lg title-elegant mb-4">🎯 Objectifs d'optimisation</h3>
+              <div class="space-y-2 text-xs" style="color: #8B8B8B;">
+                <div>• Gagner 30-50% d'espace</div>
+                <div>• Améliorer l'accessibilité</div>
+                <div>• Organiser par fréquence d'usage</div>
+                <div>• Exploiter la hauteur</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Results & Solutions -->
+          <div class="lg:col-span-2">
+            <div class="card-feminine shadow-soft-hover">
+              <h3 class="text-xl title-elegant mb-6">Mes solutions d'optimisation</h3>
+              
+              <!-- Results Display -->
+              <div id="storage-results" class="hidden">
+                
+                <!-- Space Analysis -->
+                <div class="bg-gradient-to-r from-primary/10 to-accent/10 rounded-xl p-6 mb-6">
+                  <div class="grid md:grid-cols-3 gap-6">
+                    <div class="text-center">
+                      <div class="text-3xl font-display mb-2" style="color: #D4A574;" id="space-gained">
+                        +40%
+                      </div>
+                      <div class="text-sm" style="color: #8B8B8B;">Espace gagné</div>
+                    </div>
+                    <div class="text-center">
+                      <div class="text-3xl font-display mb-2" style="color: #8B7AA8;" id="efficiency-score">
+                        85%
+                      </div>
+                      <div class="text-sm" style="color: #8B8B8B;">Efficacité</div>
+                    </div>
+                    <div class="text-center">
+                      <div class="text-3xl font-display mb-2" style="color: #8B92A8;" id="solutions-count">
+                        6 solutions
+                      </div>
+                      <div class="text-sm" style="color: #8B8B8B;">À appliquer</div>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Priority Solutions -->
+                <div class="grid md:grid-cols-2 gap-6 mb-6">
+                  
+                  <!-- High Impact Solutions -->
+                  <div class="bg-green-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">🎯 Impact immédiat</h4>
+                    <div id="high-impact-solutions" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+
+                  <!-- Quick Wins -->
+                  <div class="bg-blue-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">⚡ Solutions rapides</h4>
+                    <div id="quick-win-solutions" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Detailed Recommendations -->
+                <div class="grid md:grid-cols-2 gap-6 mb-6">
+                  
+                  <!-- Products & Accessories -->
+                  <div class="bg-purple-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">🛒 Produits recommandés</h4>
+                    <div id="recommended-products" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+
+                  <!-- Layout Optimization -->
+                  <div class="bg-orange-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">📐 Réorganisation</h4>
+                    <div id="layout-optimization" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Budget & Implementation -->
+                <div class="grid md:grid-cols-2 gap-6 mb-6">
+                  
+                  <!-- Budget Breakdown -->
+                  <div class="bg-yellow-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">💰 Répartition budget</h4>
+                    <div id="budget-breakdown" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+
+                  <!-- Implementation Steps -->
+                  <div class="bg-pink-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">📋 Plan d'action</h4>
+                    <div id="implementation-steps" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Pro Tips -->
+                <div class="bg-gray-50 rounded-xl p-6">
+                  <h4 class="font-semibold mb-3" style="color: #5D4E75;">💡 Astuces d'organisation</h4>
+                  <div id="organization-tips" class="space-y-2 text-sm">
+                    <!-- Dynamic tips -->
+                  </div>
+                </div>
+              </div>
+
+              <!-- Initial State -->
+              <div id="storage-initial-state" class="text-center py-12">
+                <div class="text-6xl mb-4">📦</div>
+                <p style="color: #8B8B8B;">Sélectionnez votre type de rangement pour commencer l'analyse</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Storage Solutions Gallery -->
+        <div class="mt-16">
+          <h3 class="text-2xl title-elegant text-center mb-8">Solutions par type d'espace</h3>
+          
+          <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">👗</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Dressing</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Barres modulables</div>
+                <div>• Étagères ajustables</div>
+                <div>• Tiroirs transparents</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">🍽️</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Cuisine</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Plateaux tournants</div>
+                <div>• Paniers coulissants</div>
+                <div>• Organiseurs tiroirs</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">📚</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Bureau</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Classeurs verticaux</div>
+                <div>• Boîtes de tri</div>
+                <div>• Systèmes muraux</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">🧴</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Salle de bain</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Organiseurs tiroirs</div>
+                <div>• Étagères d'angle</div>
+                <div>• Suspensions portes</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-20 section-soft">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h3 class="text-2xl title-elegant text-center mb-8">Questions fréquentes</h3>
+        
+        <div class="space-y-6">
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Comment optimiser un petit placard ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Utilisez la hauteur avec des étagères supplémentaires, installez des organiseurs de porte, et adoptez le rangement vertical. Les boîtes transparentes aident à visualiser le contenu.</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Quelles sont les erreurs à éviter ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Ne pas exploiter la hauteur, ranger les objets lourds en haut, négliger les angles morts, et ne pas trier régulièrement. Évitez aussi les solutions trop complexes.</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Combien de temps pour réorganiser un dressing ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Comptez un week-end complet : 1 jour pour vider/trier/nettoyer, 1 jour pour installer les nouvelles solutions et reretranger. Le tri est l'étape la plus longue mais cruciale.</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Quels produits pour débuter l'organisation ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Commencez par des boîtes transparentes, organiseurs de tiroirs, barres extensibles et étagères ajustables. Ces basiques couvrent 80% des besoins pour moins de 100€.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+.storage-btn {
+  padding: 0.75rem;
+  font-size: 0.875rem;
+  text-align: left;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(139, 122, 168, 0.15);
+  background: rgba(255, 255, 255, 0.8);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.storage-btn:hover,
+.storage-btn.active {
+  background: linear-gradient(135deg, var(--color-primary-light), var(--color-accent-light));
+  border-color: rgba(139, 122, 168, 0.3);
+  box-shadow: 0 4px 24px rgba(139, 122, 168, 0.08);
+  color: #5D4E75;
+}
+
+.issue-checkbox {
+  accent-color: #8B7AA8;
+}
+
+@keyframes organize-animation {
+  0%, 100% { 
+    transform: translateY(0px);
+  }
+  50% { 
+    transform: translateY(-5px);
+  }
+}
+
+.organize-animation {
+  animation: organize-animation 2s ease-in-out infinite;
+}
+
+.solution-item {
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-radius: 0.5rem;
+  background: rgba(255, 255, 255, 0.5);
+  border-left: 3px solid #D4A574;
+}
+
+.priority-high {
+  border-left-color: #10B981;
+}
+
+.priority-medium {
+  border-left-color: #F59E0B;
+}
+
+.priority-low {
+  border-left-color: #6B7280;
+}
+</style>
+
+<script>
+// Storage optimization configurations
+const storageTypes = {
+  'placard-chambre': {
+    name: 'Placard chambre',
+    commonIssues: ['space-wasted', 'disorganized', 'seasonal-items'],
+    baseEfficiency: 60,
+    solutions: {
+      'space-wasted': [
+        'Étagères supplémentaires ajustables',
+        'Double barre de penderie',
+        'Organiseurs de porte'
+      ],
+      'disorganized': [
+        'Boîtes de rangement transparentes',
+        'Séparateurs de tiroirs',
+        'Système d\'étiquetage'
+      ],
+      'hard-access': [
+        'Tiroirs coulissants',
+        'Paniers transparents',
+        'Éclairage LED intégré'
+      ],
+      'not-enough-space': [
+        'Rangement sous vide',
+        'Organiseurs verticaux',
+        'Crochets muraux supplémentaires'
+      ],
+      'seasonal-items': [
+        'Bacs de stockage haute étagère',
+        'Housses sous vide',
+        'Rotation saisonnière organisée'
+      ]
+    }
+  },
+  'dressing': {
+    name: 'Dressing',
+    commonIssues: ['space-wasted', 'hard-access', 'disorganized'],
+    baseEfficiency: 70,
+    solutions: {
+      'space-wasted': [
+        'Système modulaire sur mesure',
+        'Barres extensibles multi-niveaux',
+        'Étagères d\'angles optimisées'
+      ],
+      'disorganized': [
+        'Compartiments spécialisés',
+        'Tiroirs avec séparateurs',
+        'Système de codage couleur'
+      ],
+      'hard-access': [
+        'Tiroirs coulissants transparents',
+        'Barres descendantes motorisées',
+        'Miroirs intégrés avec éclairage'
+      ]
+    }
+  },
+  'placard-entree': {
+    name: 'Placard entrée',
+    commonIssues: ['disorganized', 'hard-access', 'seasonal-items'],
+    baseEfficiency: 55,
+    solutions: {
+      'disorganized': [
+        'Crochets par personne/saison',
+        'Étagère chaussures modulaire',
+        'Panier accessoires (gants, etc.)'
+      ],
+      'seasonal-items': [
+        'Rotation manteaux été/hiver',
+        'Bacs étiquetés par saison',
+        'Stockage vertical optimisé'
+      ]
+    }
+  },
+  'cuisine': {
+    name: 'Placards cuisine',
+    commonIssues: ['hard-access', 'disorganized', 'not-enough-space'],
+    baseEfficiency: 65,
+    solutions: {
+      'hard-access': [
+        'Plateaux tournants angles',
+        'Tiroirs coulissants profonds',
+        'Paniers extractibles'
+      ],
+      'disorganized': [
+        'Organiseurs tiroirs ustensiles',
+        'Porte-épices muraux',
+        'Système de rangement vertical'
+      ]
+    }
+  },
+  'bureau': {
+    name: 'Bureau/bibliothèque',
+    commonIssues: ['disorganized', 'space-wasted', 'hard-access'],
+    baseEfficiency: 50,
+    solutions: {
+      'disorganized': [
+        'Classeurs et trieur documents',
+        'Boîtes de tri par projet',
+        'Système d\'archivage numérique'
+      ],
+      'space-wasted': [
+        'Étagères murales supplémentaires',
+        'Organiseurs bureau verticaux',
+        'Meubles de rangement multifonctions'
+      ]
+    }
+  },
+  'salle-de-bain': {
+    name: 'Salle de bain',
+    commonIssues: ['space-wasted', 'disorganized', 'hard-access'],
+    baseEfficiency: 45,
+    solutions: {
+      'space-wasted': [
+        'Étagères d\'angle murales',
+        'Organiseurs de porte',
+        'Rangement au-dessus WC'
+      ],
+      'disorganized': [
+        'Organiseurs tiroirs cosmétiques',
+        'Paniers par catégorie',
+        'Distributeurs muraux'
+      ]
+    }
+  }
+};
+
+// Budget-based product recommendations
+const budgetSolutions = {
+  low: {
+    name: 'Solutions économiques',
+    products: [
+      { item: 'Boîtes transparentes empilables', price: '15-25€', impact: 'Moyen' },
+      { item: 'Crochets adhesifs supplémentaires', price: '5-10€', impact: 'Faible' },
+      { item: 'Organiseurs tiroirs basiques', price: '10-20€', impact: 'Moyen' },
+      { item: 'Étagères ajustables IKEA', price: '15-30€', impact: 'Élevé' }
+    ]
+  },
+  medium: {
+    name: 'Solutions modulaires',
+    products: [
+      { item: 'Système étagères modulaires', price: '40-80€', impact: 'Élevé' },
+      { item: 'Organiseurs tiroirs premium', price: '25-45€', impact: 'Élevé' },
+      { item: 'Barres extensibles ajustables', price: '20-35€', impact: 'Élevé' },
+      { item: 'Paniers coulissants', price: '30-60€', impact: 'Élevé' }
+    ]
+  },
+  high: {
+    name: 'Systèmes complets',
+    products: [
+      { item: 'Kit dressing modulaire complet', price: '150-300€', impact: 'Très élevé' },
+      { item: 'Tiroirs coulissants sur mesure', price: '80-150€', impact: 'Très élevé' },
+      { item: 'Éclairage LED intégré', price: '40-80€', impact: 'Moyen' },
+      { item: 'Miroirs avec rangements', price: '60-120€', impact: 'Moyen' }
+    ]
+  },
+  premium: {
+    name: 'Sur-mesure premium',
+    products: [
+      { item: 'Aménagement sur-mesure complet', price: '400-800€', impact: 'Maximum' },
+      { item: 'Systèmes motorisés', price: '200-400€', impact: 'Élevé' },
+      { item: 'Finitions haut de gamme', price: '100-200€', impact: 'Moyen' },
+      { item: 'Domotique intégrée', price: '150-300€', impact: 'Faible' }
+    ]
+  }
+};
+
+let selectedStorageType = null;
+let currentIssues = [];
+let dimensions = { width: 0, height: 0, depth: 0 };
+
+document.addEventListener('DOMContentLoaded', () => {
+  setupEventListeners();
+});
+
+function setupEventListeners() {
+  // Storage type selection
+  document.querySelectorAll('.storage-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.storage-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      selectedStorageType = btn.dataset.type;
+      resetResults();
+    });
+  });
+
+  // Issue checkboxes
+  document.querySelectorAll('.issue-checkbox').forEach(checkbox => {
+    checkbox.addEventListener('change', updateIssues);
+  });
+
+  // Dimensions inputs
+  document.getElementById('width').addEventListener('input', updateDimensions);
+  document.getElementById('height').addEventListener('input', updateDimensions);
+  document.getElementById('depth').addEventListener('input', updateDimensions);
+
+  // Calculate button
+  document.getElementById('optimize-storage-btn').addEventListener('click', optimizeStorage);
+}
+
+function updateIssues() {
+  currentIssues = Array.from(document.querySelectorAll('.issue-checkbox:checked'))
+    .map(cb => cb.value);
+}
+
+function updateDimensions() {
+  dimensions.width = parseFloat(document.getElementById('width').value) || 0;
+  dimensions.height = parseFloat(document.getElementById('height').value) || 0;
+  dimensions.depth = parseFloat(document.getElementById('depth').value) || 0;
+}
+
+function optimizeStorage() {
+  if (!selectedStorageType || dimensions.width === 0 || dimensions.height === 0) {
+    alert('Merci de sélectionner un type de rangement et renseigner les dimensions !');
+    return;
+  }
+
+  const budget = document.getElementById('budget-range').value;
+  const optimization = calculateOptimization(selectedStorageType, currentIssues, dimensions, budget);
+  
+  displayOptimizationResults(optimization);
+}
+
+function calculateOptimization(storageType, issues, dims, budget) {
+  const typeConfig = storageTypes[storageType];
+  const budgetConfig = budgetSolutions[budget];
+  
+  // Calculate current volume and potential
+  const currentVolume = dims.width * dims.height * dims.depth;
+  const optimizedVolume = currentVolume * 1.4; // Base 40% improvement
+  
+  // Calculate efficiency score based on issues addressed
+  let efficiencyGain = 0;
+  issues.forEach(issue => {
+    if (typeConfig.commonIssues.includes(issue)) {
+      efficiencyGain += 15; // 15% per major issue addressed
+    } else {
+      efficiencyGain += 10; // 10% per other issue
+    }
+  });
+  
+  const totalEfficiency = Math.min(95, typeConfig.baseEfficiency + efficiencyGain);
+  const spaceGain = Math.round((optimizedVolume - currentVolume) / currentVolume * 100);
+  
+  // Generate solutions based on issues
+  const solutions = {
+    highImpact: [],
+    quickWins: [],
+    products: budgetConfig.products,
+    layoutChanges: []
+  };
+  
+  // High impact solutions
+  issues.forEach(issue => {
+    if (typeConfig.solutions[issue]) {
+      typeConfig.solutions[issue].slice(0, 2).forEach(solution => {
+        solutions.highImpact.push(solution);
+      });
+    }
+  });
+  
+  // Quick wins (always applicable)
+  solutions.quickWins = [
+    'Tri et désencombrement immédiat',
+    'Regroupement par fréquence d\'usage',
+    'Exploitation optimale de la hauteur',
+    'Organisation visuelle avec étiquettes'
+  ];
+  
+  // Layout optimizations based on storage type
+  if (storageType === 'dressing' || storageType === 'placard-chambre') {
+    solutions.layoutChanges = [
+      `Zone haute (${Math.round(dims.height * 0.7)}cm+): objets saisonniers`,
+      `Zone médiane (${Math.round(dims.height * 0.3)}-${Math.round(dims.height * 0.7)}cm): usage quotidien`,
+      'Zone basse: chaussures et objets lourds',
+      'Profondeur optimale: 60cm max pour l\'accessibilité'
+    ];
+  } else if (storageType === 'cuisine') {
+    solutions.layoutChanges = [
+      'Objets fréquents à hauteur des yeux',
+      'Ustensiles lourds dans tiroirs bas',
+      'Épices et conserves visibles',
+      'Zone de préparation dégagée'
+    ];
+  }
+  
+  // Implementation steps
+  const steps = [
+    'Vider complètement l\'espace',
+    'Nettoyer et mesurer précisément',
+    'Trier : garder / donner / jeter',
+    'Installer les nouvelles solutions',
+    'Ranger par zones logiques',
+    'Étiqueter et maintenir l\'organisation'
+  ];
+  
+  return {
+    spaceGain,
+    efficiency: totalEfficiency,
+    solutionsCount: solutions.highImpact.length + solutions.quickWins.length,
+    solutions,
+    steps,
+    budget: budgetConfig,
+    storageType: typeConfig
+  };
+}
+
+function displayOptimizationResults(optimization) {
+  // Show results section
+  document.getElementById('storage-initial-state').classList.add('hidden');
+  document.getElementById('storage-results').classList.remove('hidden');
+  
+  // Update main metrics
+  document.getElementById('space-gained').textContent = `+${optimization.spaceGain}%`;
+  document.getElementById('efficiency-score').textContent = `${optimization.efficiency}%`;
+  document.getElementById('solutions-count').textContent = `${optimization.solutionsCount} solutions`;
+  
+  // High impact solutions
+  const highImpactContainer = document.getElementById('high-impact-solutions');
+  highImpactContainer.innerHTML = optimization.solutions.highImpact.slice(0, 5).map(solution => `
+    <div class="solution-item priority-high">
+      <div class="flex items-start gap-2">
+        <span class="text-green-600 mt-0.5">🎯</span>
+        <span>${solution}</span>
+      </div>
+    </div>
+  `).join('');
+  
+  // Quick wins
+  const quickWinsContainer = document.getElementById('quick-win-solutions');
+  quickWinsContainer.innerHTML = optimization.solutions.quickWins.map(solution => `
+    <div class="solution-item priority-medium">
+      <div class="flex items-start gap-2">
+        <span class="text-blue-600 mt-0.5">⚡</span>
+        <span>${solution}</span>
+      </div>
+    </div>
+  `).join('');
+  
+  // Recommended products
+  const productsContainer = document.getElementById('recommended-products');
+  productsContainer.innerHTML = optimization.budget.products.map(product => `
+    <div class="solution-item">
+      <div class="flex justify-between items-start">
+        <div class="flex-1">
+          <div class="font-medium">${product.item}</div>
+          <div class="text-xs text-purple-600">Impact: ${product.impact}</div>
+        </div>
+        <div class="text-sm font-semibold" style="color: #D4A574;">${product.price}</div>
+      </div>
+    </div>
+  `).join('');
+  
+  // Layout optimization
+  const layoutContainer = document.getElementById('layout-optimization');
+  layoutContainer.innerHTML = optimization.solutions.layoutChanges.map(change => `
+    <div class="solution-item">
+      <div class="flex items-start gap-2">
+        <span class="text-orange-600 mt-0.5">📐</span>
+        <span>${change}</span>
+      </div>
+    </div>
+  `).join('');
+  
+  // Budget breakdown
+  const budgetContainer = document.getElementById('budget-breakdown');
+  const totalBudgetMin = optimization.budget.products.reduce((sum, p) => sum + parseInt(p.price.split('-')[0]), 0);
+  const totalBudgetMax = optimization.budget.products.reduce((sum, p) => sum + parseInt(p.price.split('-')[1] || p.price.split('-')[0]), 0);
+  
+  budgetContainer.innerHTML = `
+    <div class="flex justify-between">
+      <span>${optimization.budget.name}</span>
+      <span class="font-semibold">${totalBudgetMin}-${totalBudgetMax}€</span>
+    </div>
+    <div class="flex justify-between text-xs" style="color: #8B8B8B;">
+      <span>ROI estimé</span>
+      <span>6-12 mois</span>
+    </div>
+    <div class="text-xs pt-2" style="color: #8B8B8B;">
+      Gain de temps quotidien: 10-15 min
+    </div>
+  `;
+  
+  // Implementation steps
+  const stepsContainer = document.getElementById('implementation-steps');
+  stepsContainer.innerHTML = optimization.steps.map((step, index) => `
+    <div class="flex items-start gap-2">
+      <span class="font-semibold text-pink-600">${index + 1}.</span>
+      <span>${step}</span>
+    </div>
+  `).join('');
+  
+  // Organization tips
+  const tipsContainer = document.getElementById('organization-tips');
+  const tips = [
+    `Spécifique ${optimization.storageType.name}: exploitez chaque cm³`,
+    'Règle des 80/20: 80% usage quotidien accessible facilement',
+    'Maintenance hebdomadaire: 15 min pour maintenir l\'ordre',
+    'Seasonal review: réorganiser 2x par an selon les saisons',
+    'Photo avant/après pour motivation et suivi',
+    'Impliquer toute la famille dans le système'
+  ];
+  
+  if (optimization.spaceGain > 50) {
+    tips.unshift('Excellent potentiel d\'optimisation détecté !');
+  }
+  
+  tipsContainer.innerHTML = tips.map(tip => `
+    <div class="flex items-start gap-2">
+      <span class="text-gray-600 mt-0.5">💡</span>
+      <span>${tip}</span>
+    </div>
+  `).join('');
+  
+  // Smooth scroll to results
+  document.getElementById('storage-results').scrollIntoView({ 
+    behavior: 'smooth', 
+    block: 'start' 
+  });
+}
+
+function resetResults() {
+  document.getElementById('storage-initial-state').classList.remove('hidden');
+  document.getElementById('storage-results').classList.add('hidden');
+}
+</script>

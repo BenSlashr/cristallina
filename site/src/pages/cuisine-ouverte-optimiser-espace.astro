@@ -3,16 +3,42 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Cuisine Ouverte : 12 Astuces pour Optimiser Espace et Fonctionnalité";
 const description = "Maximisez votre cuisine ouverte ! Aménagement intelligent, rangements astucieux et design harmonieux pour un espace vie parfaitement optimisé.";
+
+const pageSlug = 'cuisine-ouverte-optimiser-espace';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/cuisine-ouverte-optimiser-espace/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Cuisine', url: '/guides/decoration' },
+  { name: title, url: '/cuisine-ouverte-optimiser-espace/' },
+]);
+
 ---
 
-<BaseLayout {title} {description} canonical="https://www.cristallina.fr/cuisine-ouverte-optimiser-espace/">
+<BaseLayout {title} {description}
+  jsonLd={[schemaArticle, schemaBreadcrumb]}
+>
   <Navbar />
   
   <main class="pt-16">
     <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      
+      <!-- Breadcrumb -->
+      <nav class="flex items-center gap-2 text-sm mb-6" style="color: #B5B5B5;" aria-label="Fil d'ariane">
+        <a href="/" class="hover:text-rose-400 transition-colors">Accueil</a>
+        <span>/</span>
+        <a href="/guides/decoration" class="hover:text-rose-400 transition-colors">Cuisine</a>
+        <span>/</span>
+        <span style="color: #8B8B8B;">{title}</span>
+      </nav>
+
       <header class="mb-8">
         <h1 class="text-3xl md:text-4xl title-elegant mb-4">{title}</h1>
         <p class="text-lg mb-6" style="color: #8B8B8B;">{description}</p>
@@ -27,7 +53,7 @@ const description = "Maximisez votre cuisine ouverte ! Aménagement intelligent,
           <p>La cuisine ouverte s'impose comme la star des intérieurs contemporains, transformant l'espace vie en lieu de convivialité et d'échange. Cet aménagement moderne nécessite une réflexion approfondie pour optimiser fonctionnalité, esthétique et bien-être quotidien.</p>
 
           <div class="my-8">
-            <img src="/images/unsplash-modern-open-kitchen-design-1771172218.jpg" alt="rectangular white wooden table" class="w-full rounded-lg shadow-soft" />
+            <img src="/images/unsplash-modern-open-kitchen-design-1771172218.jpg" alt="rectangular white wooden table" class="w-full rounded-lg shadow-soft"  width="1200" height="675" loading="eager" decoding="async" />
             <p class="text-xs text-center mt-2" style="color: #B5B5B5;">Une cuisine ouverte moderne alliant fonctionnalité et esthétique</p>
           </div>
 
@@ -192,7 +218,7 @@ const description = "Maximisez votre cuisine ouverte ! Aménagement intelligent,
             <article class="group">
               <a href="/decoration-salon-naturel-chic/" class="block">
                 <div class="relative overflow-hidden rounded-2xl shadow-soft group-hover:shadow-lg transition-all duration-300">
-                  <img src="/images/unsplash-natural-linen-living-room-decor-1771167640.jpg" alt="Salon naturel chic" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300" />
+                  <img src="/images/unsplash-natural-linen-living-room-decor-1771167640.jpg" alt="Salon naturel chic" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"  width="1200" height="675" loading="lazy" decoding="async" />
                   <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
                   <div class="absolute bottom-0 left-0 right-0 p-6">
                     <h3 class="text-white font-semibold text-lg mb-2 group-hover:text-rose-200 transition-colors">Décoration Salon Naturel Chic</h3>
@@ -206,7 +232,7 @@ const description = "Maximisez votre cuisine ouverte ! Aménagement intelligent,
             <article class="group">
               <a href="/comment-fabriquer-soi-meme-un-bar-en-palettes/" class="block">
                 <div class="relative overflow-hidden rounded-2xl shadow-soft group-hover:shadow-lg transition-all duration-300">
-                  <img src="/images/unsplash-wooden-pallet-bar-diy-furniture-1771168378.jpg" alt="Bar en palettes DIY" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300" />
+                  <img src="/images/unsplash-wooden-pallet-bar-diy-furniture-1771168378.jpg" alt="Bar en palettes DIY" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"  width="1200" height="675" loading="lazy" decoding="async" />
                   <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
                   <div class="absolute bottom-0 left-0 right-0 p-6">
                     <h3 class="text-white font-semibold text-lg mb-2 group-hover:text-rose-200 transition-colors">Bar en Palettes DIY</h3>
@@ -232,7 +258,7 @@ const description = "Maximisez votre cuisine ouverte ! Aménagement intelligent,
           <div class="space-y-4">
             <article class="group">
               <a href="/amenager-chambre-cocooning/" class="flex items-center p-4 rounded-xl border border-rose-100 hover:border-rose-200 hover:bg-rose-50/50 transition-all duration-200">
-                <img src="/images/unsplash-cozy-bedroom-natural-textures-1771172070.jpg" alt="Chambre cocooning" class="w-16 h-16 object-cover rounded-lg mr-4 flex-shrink-0" />
+                <img src="/images/unsplash-cozy-bedroom-natural-textures-1771172070.jpg" alt="Chambre cocooning" class="w-16 h-16 object-cover rounded-lg mr-4 flex-shrink-0"  width="1200" height="675" loading="lazy" decoding="async" />
                 <div>
                   <h3 class="font-medium text-rose-800 group-hover:text-rose-900 transition-colors">Chambre Cocooning : 10 Idées pour un Espace Relaxant</h3>
                   <p class="text-sm text-rose-600 mt-1">📖 14 min de lecture • 🛏️ Chambre</p>

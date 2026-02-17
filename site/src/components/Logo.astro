@@ -11,22 +11,56 @@ const textSizes = { sm: 'text-base', md: 'text-lg', lg: 'text-2xl' };
 ---
 
 <div class={`flex items-center ${variant === 'horizontal' ? 'gap-2.5' : ''}`}>
-  <!-- TODO: Replace with your own logo SVG -->
+  <!-- Cristallina Logo - Design professionnel féminin -->
   <div class={`${iconSizes[size]} flex-shrink-0`}>
     <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-full h-full">
-      <rect width="64" height="64" rx="14" fill="#0E1525" class="transition-colors duration-200 group-hover:fill-[#141D30]"/>
-      <rect x="10" y="46" width="12" height="10" rx="2.5" fill="#7C3AED"/>
-      <rect x="22" y="36" width="12" height="10" rx="2.5" fill="#8B5CF6"/>
-      <rect x="16" y="26" width="12" height="10" rx="2.5" fill="#A78BFA"/>
-      <rect x="30" y="16" width="12" height="10" rx="2.5" fill="#D97706"/>
-      <rect x="40" y="6" width="12" height="10" rx="2.5" fill="#F59E0B"/>
+      <!-- Fond doux avec effet cristal -->
+      <defs>
+        <linearGradient id="crystalGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+          <stop offset="50%" style="stop-color:#f8fafc;stop-opacity:1" />
+          <stop offset="100%" style="stop-color:#f1f5f9;stop-opacity:1" />
+        </linearGradient>
+        <filter id="softShadow" x="-50%" y="-50%" width="200%" height="200%">
+          <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#cbd5e1" flood-opacity="0.15"/>
+        </filter>
+      </defs>
+      
+      <!-- Forme cristal géométrique -->
+      <g filter="url(#softShadow)">
+        <path d="M32 4 L50 18 L50 46 L32 60 L14 46 L14 18 Z" 
+              fill="url(#crystalGradient)" 
+              stroke="#e2e8f0" 
+              stroke-width="1.5"/>
+      </g>
+      
+      <!-- Lettre C moderne et élégante -->
+      <path d="M24 32c0-4.5 3.5-8 8-8 2.5 0 4.5 1 6 2.5l-2 2c-1-1-2.5-1.5-4-1.5-3 0-5 2-5 5s2 5 5 5c1.5 0 3-0.5 4-1.5l2 2c-1.5 1.5-3.5 2.5-6 2.5-4.5 0-8-3.5-8-8z" 
+            fill="#3b82f6" 
+            opacity="0.9"/>
+      
+      <!-- Facettes cristal intérieures -->
+      <g opacity="0.3">
+        <path d="M32 4 L32 32 L50 18 Z" fill="#dbeafe"/>
+        <path d="M32 32 L32 60 L50 46 Z" fill="#bfdbfe"/>
+        <path d="M14 18 L32 32 L14 46 Z" fill="#e0e7ff"/>
+      </g>
+      
+      <!-- Points de lumière subtils -->
+      <g fill="#ffffff" opacity="0.8">
+        <circle cx="38" cy="16" r="1"/>
+        <circle cx="44" cy="20" r="0.5"/>
+        <circle cx="26" cy="48" r="0.8"/>
+      </g>
+      
+      <!-- Accent rose délicat -->
+      <circle cx="42" cy="38" r="1.5" fill="#f472b6" opacity="0.4"/>
     </svg>
   </div>
 
   {variant === 'horizontal' && (
-    <span class={`font-display font-800 ${textSizes[size]} tracking-tight leading-none`}>
-      <!-- TODO: Replace with your site name -->
-      <span class="text-text-primary">My</span><span class="text-primary">Site</span>
+    <span class={`font-display font-medium ${textSizes[size]} tracking-wide leading-none`}>
+      <span class="text-gray-700">Cristall</span><span class="text-blue-400">ina</span>
     </span>
   )}
 </div>

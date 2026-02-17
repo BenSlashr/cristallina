@@ -3,9 +3,23 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Home Office Zen : 12 Astuces pour un Bureau Apaisant et Productif";
 const description = "Créez votre espace de travail zen ! 12 astuces pour un bureau apaisant : organisation minimaliste, plantes, éclairage naturel et sérénité.";
+
+const pageSlug = 'home-office-zen-bureau-apaisant-productif';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/home-office-zen-bureau-apaisant-productif/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Bureau', url: '/guides/decoration' },
+  { name: title, url: '/home-office-zen-bureau-apaisant-productif/' },
+]);
+
 ---
 
 <BaseLayout title={title} description={description}>
@@ -38,7 +52,7 @@ const description = "Créez votre espace de travail zen ! 12 astuces pour un bur
             src="/images/unsplash-home-office-zen-bureau-apaisant-1771180025.jpg" 
             alt="Bureau zen avec plantes, éclairage naturel et organisation minimaliste" 
             class="w-full h-96 object-cover rounded-2xl shadow-lg"
-          />
+           width="1200" height="675" loading="eager" decoding="async" />
         </div>
       </div>
     </section>
@@ -65,7 +79,7 @@ const description = "Créez votre espace de travail zen ! 12 astuces pour un bur
           </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237207749.jpg" alt="Bureau a domicile zen avec plantes et lumiere naturelle" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237207749.jpg" alt="Bureau a domicile zen avec plantes et lumiere naturelle" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -80,7 +94,7 @@ const description = "Créez votre espace de travail zen ! 12 astuces pour un bur
           </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237092033.jpg" alt="Espace de travail minimaliste et productif a la maison" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237092033.jpg" alt="Espace de travail minimaliste et productif a la maison" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -101,7 +115,7 @@ const description = "Créez votre espace de travail zen ! 12 astuces pour un bur
           </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238286410.jpg" alt="Home office scandinave avec bureau en bois clair" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238286410.jpg" alt="Home office scandinave avec bureau en bois clair" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -120,7 +134,7 @@ const description = "Créez votre espace de travail zen ! 12 astuces pour un bur
           </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238088012.jpg" alt="Bureau apaisant avec decoration epuree et rangements" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238088012.jpg" alt="Bureau apaisant avec decoration epuree et rangements" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -141,7 +155,7 @@ const description = "Créez votre espace de travail zen ! 12 astuces pour un bur
           </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238482733.jpg" alt="Coin bureau zen avec eclairage naturel et vegetation" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238482733.jpg" alt="Coin bureau zen avec eclairage naturel et vegetation" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 

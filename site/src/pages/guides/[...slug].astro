@@ -7,6 +7,7 @@ import CrossLinks from '@/components/CrossLinks.astro';
 import { getCollection, render } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 import type { LinkGroup } from '@/components/CrossLinks.astro';
+import { articleSchema, breadcrumbSchema, faqSchema } from '@/utils/schema';
 
 export async function getStaticPaths() {
   const now = new Date();
@@ -57,12 +58,47 @@ const crossLinkGroups: LinkGroup[] = [
     ],
   },
 ];
+
+// --- Schema.org ---
+const pageUrl = Astro.url.pathname;
+const pubDate = entry.data.pubDate ? new Date(entry.data.pubDate).toISOString() : undefined;
+
+const schemaArticle = articleSchema({
+  title: entry.data.title,
+  description: entry.data.description,
+  url: pageUrl,
+  image: entry.data.image,
+  datePublished: pubDate,
+});
+
+const breadcrumbItems = [
+  { name: 'Accueil', url: '/' },
+  { name: 'Guides', url: '/guides' },
+];
+if (parentHub) {
+  breadcrumbItems.push({
+    name: parentHub.data.title,
+    url: `/guides/${parentHub.id.replace(/\/index$/, '')}`,
+  });
+}
+if (!isHub) {
+  breadcrumbItems.push({ name: entry.data.title, url: pageUrl });
+}
+const schemaBreadcrumb = breadcrumbSchema(breadcrumbItems);
+
+// FAQ schema: parse h3 headings that look like questions from the content
+const faqHeadings = headings.filter(
+  (h) => h.depth === 3 && (h.text.includes('?') || h.text.toLowerCase().startsWith('comment') || h.text.toLowerCase().startsWith('quel') || h.text.toLowerCase().startsWith('pourquoi') || h.text.toLowerCase().startsWith('combien') || h.text.toLowerCase().startsWith('quand') || h.text.toLowerCase().startsWith('est-ce'))
+);
+
+const schemas: Record<string, unknown>[] = [schemaArticle, schemaBreadcrumb];
 ---
 
 <BaseLayout
-  title={`${entry.data.title} | MySite`}
+  title={`${entry.data.title} | Cristallina`}
   description={entry.data.description}
   ogImage={entry.data.image}
+  jsonLd={schemas}
 >
   <Navbar />
 
@@ -107,7 +143,7 @@ const crossLinkGroups: LinkGroup[] = [
       <!-- Hero Image -->
       {entry.data.image && (
         <div class="mb-10 rounded-card overflow-hidden border border-border">
-          <img src={entry.data.image} alt={entry.data.title} class="w-full h-auto object-cover aspect-video" loading="eager" />
+          <img src={entry.data.image} alt={entry.data.title} class="w-full h-auto object-cover aspect-video" width="1200" height="675" loading="eager" />
         </div>
       )}
 
@@ -174,17 +210,4 @@ const crossLinkGroups: LinkGroup[] = [
   </main>
 
   <Footer />
-
-  <!-- Schema.org -->
-  <script type="application/ld+json" set:html={JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": entry.data.title,
-    "description": entry.data.description,
-    "publisher": {
-      "@type": "Organization",
-      "name": "MySite",
-      "url": Astro.site?.toString(),
-    },
-  })} />
 </BaseLayout>

@@ -5,6 +5,7 @@ import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
 import NewsletterCTA from '@/components/NewsletterCTA.astro';
 import { getCollection } from 'astro:content';
+import { webSiteSchema, organizationSchema } from '@/utils/schema';
 
 // Recent articles (hardcoded for now - to be automated later)
 const recentArticles = [
@@ -325,7 +326,7 @@ const recentArticles = [
 
 <BaseLayout title="Cristallina | Inspiration déco et lifestyle"
             description="Découvre mes conseils déco accessible et mes astuces lifestyle pour créer un intérieur qui te ressemble vraiment, sans te ruiner."
-            canonical="https://www.cristallina.fr/"
+            jsonLd={[webSiteSchema(), organizationSchema()]}
 >
   <Navbar />
 
@@ -534,7 +535,7 @@ const recentArticles = [
           {recentArticles.map(article => (
             <article class="group bg-white rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 overflow-hidden">
               <div class="aspect-[4/3] overflow-hidden">
-                <img src={article.image} alt={article.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
+                <img src={article.image} alt={article.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" width="1200" height="675" loading="lazy" decoding="async" />
               </div>
               <div class="p-6">
                 <div class="flex items-center gap-2 mb-3">

@@ -1,0 +1,717 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+---
+
+<BaseLayout 
+  title="Calculateur d'Éclairage LED - Lumens & Watts - Cristallina"
+  description="Calculez l'éclairage optimal pour chaque pièce : lumens nécessaires, nombre de spots LED, température de couleur. Outil gratuit."
+  canonical="https://www.cristallina.fr/outils/calculateur-eclairage/"
+>
+  <Navbar />
+  
+  <main class="pt-16">
+    <!-- Hero Section -->
+    <section class="section-soft py-20">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div class="space-y-8">
+          <div class="inline-block">
+            <span class="inline-flex items-center px-6 py-3 bg-white/90 backdrop-blur-sm shadow-soft rounded-full border border-feminine">
+              <span class="mr-3 text-lg">💡</span> 
+              <span class="title-elegant text-sm">Calculateur Gratuit</span>
+            </span>
+          </div>
+          
+          <h1 class="text-5xl md:text-7xl lg:text-8xl font-display leading-tight">
+            <span class="block title-elegant">Éclairage</span>
+            <span class="block text-6xl md:text-8xl lg:text-9xl" style="color: #D4A574; font-style: italic;">optimal</span>
+          </h1>
+          
+          <div class="quote-feminine max-w-3xl mx-auto">
+            Calcule l'éclairage parfait pour chaque pièce avec les bonnes ampoules LED
+          </div>
+          
+          <div class="flex flex-wrap justify-center gap-4 text-sm" style="color: #8B8B8B;">
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-green-400 rounded-full"></span>
+              Calcul lumens
+            </span>
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-blue-400 rounded-full"></span>
+              Température couleur
+            </span>
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-purple-400 rounded-full"></span>
+              Économies LED
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Calculator Interface -->
+    <section class="py-20">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <!-- Main Calculator -->
+        <div class="grid lg:grid-cols-3 gap-8">
+          
+          <!-- Input Form -->
+          <div class="lg:col-span-1">
+            <div class="card-feminine shadow-soft-hover">
+              <h2 class="text-2xl title-elegant mb-6">Paramètres éclairage</h2>
+              
+              <!-- Room Type -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Type de pièce</label>
+                <div class="grid grid-cols-1 gap-2" id="room-type">
+                  <button class="room-btn" data-room="salon" data-lux="200">🛋️ Salon / Séjour</button>
+                  <button class="room-btn" data-room="cuisine" data-lux="400">🍳 Cuisine</button>
+                  <button class="room-btn" data-room="chambre" data-lux="150">🛏️ Chambre</button>
+                  <button class="room-btn" data-room="bureau" data-lux="500">💻 Bureau</button>
+                  <button class="room-btn" data-room="salle-de-bain" data-lux="300">🚿 Salle de bain</button>
+                  <button class="room-btn" data-room="entree" data-lux="100">🚪 Entrée/Couloir</button>
+                </div>
+              </div>
+
+              <!-- Room Dimensions -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Dimensions de la pièce</label>
+                <div class="grid grid-cols-2 gap-3">
+                  <div>
+                    <label class="text-xs mb-1 block" style="color: #8B8B8B;">Longueur (m)</label>
+                    <input type="number" id="room-length" placeholder="5.0" step="0.1" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+                  </div>
+                  <div>
+                    <label class="text-xs mb-1 block" style="color: #8B8B8B;">Largeur (m)</label>
+                    <input type="number" id="room-width" placeholder="4.0" step="0.1" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+                  </div>
+                </div>
+                <div class="mt-3">
+                  <label class="text-xs mb-1 block" style="color: #8B8B8B;">Hauteur sous plafond (m)</label>
+                  <input type="number" id="room-height" placeholder="2.5" step="0.1" value="2.5" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+                </div>
+              </div>
+
+              <!-- Lighting Type -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Type d'éclairage</label>
+                <div class="grid grid-cols-1 gap-2" id="lighting-type">
+                  <button class="lighting-btn active" data-type="general">💡 Éclairage général</button>
+                  <button class="lighting-btn" data-type="spots">✨ Spots encastrés</button>
+                  <button class="lighting-btn" data-type="mixed">🔆 Éclairage mixte</button>
+                </div>
+              </div>
+
+              <!-- Color Temperature -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Ambiance souhaitée</label>
+                <select id="color-temp" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+                  <option value="2700">Blanc chaud (2700K) - Cosy</option>
+                  <option value="3000" selected>Blanc chaud (3000K) - Confortable</option>
+                  <option value="4000">Blanc neutre (4000K) - Équilibré</option>
+                  <option value="5000">Blanc froid (5000K) - Énergisant</option>
+                  <option value="6500">Blanc froid (6500K) - Concentration</option>
+                </select>
+              </div>
+
+              <!-- Calculate Button -->
+              <button id="calculate-lighting-btn" class="btn-feminine w-full shadow-soft-hover">
+                💡 Calculer l'éclairage
+              </button>
+            </div>
+
+            <!-- Quick Reference -->
+            <div class="card-feminine shadow-soft-hover mt-6">
+              <h3 class="text-lg title-elegant mb-4">📊 Niveaux recommandés</h3>
+              <div class="space-y-2 text-xs" style="color: #8B8B8B;">
+                <div class="flex justify-between">
+                  <span>Salon</span>
+                  <span>150-200 lux</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>Cuisine</span>
+                  <span>300-400 lux</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>Bureau</span>
+                  <span>500+ lux</span>
+                </div>
+                <div class="flex justify-between">
+                  <span>Chambre</span>
+                  <span>100-150 lux</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Results & Recommendations -->
+          <div class="lg:col-span-2">
+            <div class="card-feminine shadow-soft-hover">
+              <h3 class="text-xl title-elegant mb-6">Mes recommandations</h3>
+              
+              <!-- Results Display -->
+              <div id="lighting-results" class="hidden">
+                
+                <!-- Main Result -->
+                <div class="bg-gradient-to-r from-primary/10 to-accent/10 rounded-xl p-6 mb-6">
+                  <div class="grid md:grid-cols-3 gap-6">
+                    <div class="text-center">
+                      <div class="text-3xl font-display mb-2" style="color: #D4A574;" id="total-lumens">
+                        3000 lumens
+                      </div>
+                      <div class="text-sm" style="color: #8B8B8B;">Nécessaires</div>
+                    </div>
+                    <div class="text-center">
+                      <div class="text-3xl font-display mb-2" style="color: #8B7AA8;" id="total-watts">
+                        30W LED
+                      </div>
+                      <div class="text-sm" style="color: #8B8B8B;">Puissance totale</div>
+                    </div>
+                    <div class="text-center">
+                      <div class="text-3xl font-display mb-2" style="color: #8B92A8;" id="light-points">
+                        4 points
+                      </div>
+                      <div class="text-sm" style="color: #8B8B8B;">Luminaires</div>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Lighting Solutions -->
+                <div class="grid md:grid-cols-2 gap-6 mb-6">
+                  
+                  <!-- LED Solutions -->
+                  <div class="bg-blue-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">💡 Solutions LED</h4>
+                    <div id="led-solutions" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+
+                  <!-- Layout Suggestions -->
+                  <div class="bg-green-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">📐 Disposition conseillée</h4>
+                    <div id="layout-suggestions" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Energy Savings -->
+                <div class="grid md:grid-cols-2 gap-6 mb-6">
+                  
+                  <!-- Cost Comparison -->
+                  <div class="bg-purple-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">💰 Économies LED</h4>
+                    <div id="energy-savings" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+
+                  <!-- Shopping List -->
+                  <div class="bg-orange-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">🛒 Liste d'achats</h4>
+                    <div id="shopping-list" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Pro Tips -->
+                <div class="bg-yellow-50 rounded-xl p-6">
+                  <h4 class="font-semibold mb-3" style="color: #5D4E75;">💡 Conseils d'expert</h4>
+                  <div id="lighting-tips" class="space-y-2 text-sm">
+                    <!-- Dynamic tips -->
+                  </div>
+                </div>
+              </div>
+
+              <!-- Initial State -->
+              <div id="lighting-initial-state" class="text-center py-12">
+                <div class="text-6xl mb-4">💡</div>
+                <p style="color: #8B8B8B;">Sélectionnez votre type de pièce pour commencer</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Color Temperature Guide -->
+        <div class="mt-16">
+          <h3 class="text-2xl title-elegant text-center mb-8">Guide des températures de couleur</h3>
+          
+          <div class="grid md:grid-cols-2 lg:grid-cols-5 gap-6">
+            <div class="card-feminine text-center">
+              <div class="w-12 h-12 mx-auto mb-3 rounded-full" style="background: linear-gradient(135deg, #ffd89b 0%, #ff8a50 100%);"></div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">2700K</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>Très chaud</div>
+                <div>Relaxation</div>
+                <div>Chambre</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="w-12 h-12 mx-auto mb-3 rounded-full" style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);"></div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">3000K</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>Blanc chaud</div>
+                <div>Confortable</div>
+                <div>Salon</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="w-12 h-12 mx-auto mb-3 rounded-full" style="background: linear-gradient(135deg, #fff 0%, #e6e6e6 100%);"></div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">4000K</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>Blanc neutre</div>
+                <div>Polyvalent</div>
+                <div>Cuisine</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="w-12 h-12 mx-auto mb-3 rounded-full" style="background: linear-gradient(135deg, #e6f3ff 0%, #b3d9ff 100%);"></div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">5000K</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>Blanc froid</div>
+                <div>Énergisant</div>
+                <div>Bureau</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="w-12 h-12 mx-auto mb-3 rounded-full" style="background: linear-gradient(135deg, #cce7ff 0%, #80c7ff 100%);"></div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">6500K</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>Très froid</div>
+                <div>Concentration</div>
+                <div>Atelier</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-20 section-soft">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h3 class="text-2xl title-elegant text-center mb-8">Questions fréquentes</h3>
+        
+        <div class="space-y-6">
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Quelle différence entre lumens et watts ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Les lumens mesurent la quantité de lumière produite, les watts la consommation électrique. Une LED de 10W peut produire autant de lumens qu'une ancienne ampoule de 60W.</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Combien de lumens par m² ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Salon : 150-200 lumens/m², Cuisine : 300-400 lumens/m², Bureau : 500 lumens/m², Chambre : 100-150 lumens/m². Adaptez selon vos besoins.</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Quelle température de couleur choisir ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">2700-3000K pour la détente (chambre, salon), 4000K pour la polyvalence (cuisine), 5000-6500K pour la concentration (bureau). Évitez le froid dans les pièces de vie.</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Les LED sont-elles vraiment économiques ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Oui ! Une LED consomme 80% de moins qu'une ampoule classique et dure 15 fois plus longtemps. L'investissement initial est rentabilisé en moins d'un an.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+.room-btn, .lighting-btn {
+  padding: 0.75rem;
+  font-size: 0.875rem;
+  text-align: left;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(139, 122, 168, 0.15);
+  background: rgba(255, 255, 255, 0.8);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.room-btn:hover,
+.room-btn.active,
+.lighting-btn:hover,
+.lighting-btn.active {
+  background: linear-gradient(135deg, var(--color-primary-light), var(--color-accent-light));
+  border-color: rgba(139, 122, 168, 0.3);
+  box-shadow: 0 4px 24px rgba(139, 122, 168, 0.08);
+  color: #5D4E75;
+}
+
+@keyframes light-pulse {
+  0%, 100% { 
+    box-shadow: 0 4px 24px rgba(255, 223, 0, 0.1);
+  }
+  50% { 
+    box-shadow: 0 8px 32px rgba(255, 223, 0, 0.3);
+  }
+}
+
+.light-animation {
+  animation: light-pulse 2s ease-in-out infinite;
+}
+
+.temp-indicator {
+  width: 100%;
+  height: 0.5rem;
+  border-radius: 0.25rem;
+  margin: 0.5rem 0;
+  background: linear-gradient(90deg, 
+    #ff8a50 0%,    /* 2700K - Very warm */
+    #fcb69f 20%,   /* 3000K - Warm */
+    #fff 40%,      /* 4000K - Neutral */
+    #b3d9ff 60%,   /* 5000K - Cool */
+    #80c7ff 80%,   /* 6500K - Very cool */
+    #4da6ff 100%   /* 8000K+ - Daylight */
+  );
+}
+</style>
+
+<script>
+// Lighting calculation constants
+const lightingRequirements = {
+  salon: { lux: 200, name: 'Salon / Séjour' },
+  cuisine: { lux: 400, name: 'Cuisine' },
+  chambre: { lux: 150, name: 'Chambre' },
+  bureau: { lux: 500, name: 'Bureau' },
+  'salle-de-bain': { lux: 300, name: 'Salle de bain' },
+  entree: { lux: 100, name: 'Entrée/Couloir' }
+};
+
+const colorTemperatures = {
+  2700: { name: 'Blanc très chaud', ambiance: 'Cosy et relaxant' },
+  3000: { name: 'Blanc chaud', ambiance: 'Confortable et accueillant' },
+  4000: { name: 'Blanc neutre', ambiance: 'Équilibré et polyvalent' },
+  5000: { name: 'Blanc froid', ambiance: 'Énergisant et dynamique' },
+  6500: { name: 'Blanc très froid', ambiance: 'Concentration maximale' }
+};
+
+// LED efficiency (lumens per watt)
+const LED_EFFICIENCY = 100; // Average modern LED efficiency
+const ELECTRICITY_COST = 0.18; // €/kWh average in France
+
+let selectedRoom = null;
+let selectedLightingType = 'general';
+let roomArea = 0;
+let requiredLux = 200;
+
+document.addEventListener('DOMContentLoaded', () => {
+  setupEventListeners();
+});
+
+function setupEventListeners() {
+  // Room type selection
+  document.querySelectorAll('.room-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.room-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      selectedRoom = btn.dataset.room;
+      requiredLux = parseInt(btn.dataset.lux);
+      resetResults();
+    });
+  });
+
+  // Lighting type selection
+  document.querySelectorAll('.lighting-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.lighting-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      selectedLightingType = btn.dataset.type;
+    });
+  });
+
+  // Room dimensions
+  document.getElementById('room-length').addEventListener('input', updateRoomArea);
+  document.getElementById('room-width').addEventListener('input', updateRoomArea);
+  document.getElementById('room-height').addEventListener('input', updateRoomArea);
+
+  // Calculate button
+  document.getElementById('calculate-lighting-btn').addEventListener('click', calculateLighting);
+}
+
+function updateRoomArea() {
+  const length = parseFloat(document.getElementById('room-length').value) || 0;
+  const width = parseFloat(document.getElementById('room-width').value) || 0;
+  roomArea = length * width;
+}
+
+function calculateLighting() {
+  if (!selectedRoom || roomArea <= 0) {
+    alert('Merci de sélectionner une pièce et saisir les dimensions !');
+    return;
+  }
+
+  const height = parseFloat(document.getElementById('room-height').value) || 2.5;
+  const colorTemp = parseInt(document.getElementById('color-temp').value);
+
+  const results = calculateLightingNeeds(roomArea, requiredLux, height, colorTemp, selectedLightingType);
+  displayLightingResults(results);
+}
+
+function calculateLightingNeeds(area, luxNeeded, height, colorTemp, lightingType) {
+  // Calculate total lumens needed
+  const totalLumens = area * luxNeeded;
+  
+  // Account for light loss (absorption, dispersion)
+  const lightLossFactor = height > 3 ? 1.3 : height > 2.5 ? 1.2 : 1.1;
+  const adjustedLumens = Math.round(totalLumens * lightLossFactor);
+  
+  // Calculate LED watts needed
+  const totalWatts = Math.round(adjustedLumens / LED_EFFICIENCY);
+  
+  // Calculate number of light points based on type and area
+  let lightPoints;
+  let lumensPerPoint;
+  
+  switch (lightingType) {
+    case 'spots':
+      // Spots: 1 spot per 1.5-2m² 
+      lightPoints = Math.ceil(area / 1.8);
+      lumensPerPoint = Math.round(adjustedLumens / lightPoints);
+      break;
+    case 'mixed':
+      // Mixed: Central + accent lighting
+      lightPoints = Math.ceil(area / 3) + 2;
+      lumensPerPoint = Math.round(adjustedLumens / lightPoints);
+      break;
+    default: // general
+      // General: 1-2 main light sources
+      lightPoints = area > 15 ? 2 : 1;
+      lumensPerPoint = Math.round(adjustedLumens / lightPoints);
+      break;
+  }
+  
+  return {
+    totalLumens: adjustedLumens,
+    totalWatts,
+    lightPoints,
+    lumensPerPoint,
+    wattsPerPoint: Math.round(totalWatts / lightPoints),
+    area,
+    luxNeeded,
+    colorTemp,
+    lightingType
+  };
+}
+
+function displayLightingResults(results) {
+  // Show results section
+  document.getElementById('lighting-initial-state').classList.add('hidden');
+  document.getElementById('lighting-results').classList.remove('hidden');
+  
+  // Update main results
+  document.getElementById('total-lumens').textContent = `${results.totalLumens} lumens`;
+  document.getElementById('total-watts').textContent = `${results.totalWatts}W LED`;
+  document.getElementById('light-points').textContent = `${results.lightPoints} points`;
+  
+  // LED Solutions
+  const solutionsContainer = document.getElementById('led-solutions');
+  let solutionOptions = [];
+  
+  if (results.lightingType === 'spots') {
+    solutionOptions = [
+      `${results.lightPoints} spots LED de ${results.wattsPerPoint}W`,
+      `${results.lightPoints} spots de ${results.lumensPerPoint} lumens`,
+      'Transformateur compatible',
+      'Variateur LED recommandé'
+    ];
+  } else if (results.lightingType === 'mixed') {
+    const mainWatts = Math.round(results.totalWatts * 0.6);
+    const accentWatts = results.totalWatts - mainWatts;
+    solutionOptions = [
+      `Éclairage principal: ${mainWatts}W`,
+      `Éclairage d'accent: ${accentWatts}W`,
+      'Variateurs séparés',
+      'Commandes murales'
+    ];
+  } else {
+    if (results.lightPoints === 1) {
+      solutionOptions = [
+        `1 plafonnier LED ${results.totalWatts}W`,
+        `Alternative: ${Math.ceil(results.totalWatts / 10)} ampoules LED 10W`,
+        `${results.totalLumens} lumens au total`,
+        'Variateur LED compatible'
+      ];
+    } else {
+      solutionOptions = [
+        `${results.lightPoints} plafonniers de ${results.wattsPerPoint}W chacun`,
+        `Alternative: suspension + appliques`,
+        `${results.lumensPerPoint} lumens par point`,
+        'Commandes séparées possibles'
+      ];
+    }
+  }
+  
+  solutionsContainer.innerHTML = solutionOptions.map(option => `
+    <div class="flex items-start gap-2">
+      <span class="text-blue-500 mt-0.5">•</span>
+      <span>${option}</span>
+    </div>
+  `).join('');
+  
+  // Layout Suggestions
+  const layoutContainer = document.getElementById('layout-suggestions');
+  const roomConfig = lightingRequirements[selectedRoom];
+  let layoutTips = [];
+  
+  if (results.lightingType === 'spots') {
+    layoutTips = [
+      'Répartition uniforme au plafond',
+      `Espacement: ${Math.round(Math.sqrt(results.area / results.lightPoints) * 100)}cm entre spots`,
+      'Éviter les zones d\'ombre',
+      'Distance mur: 60-80cm minimum'
+    ];
+  } else if (results.lightingType === 'mixed') {
+    layoutTips = [
+      'Plafonnier central principal',
+      'Appliques murales d\'ambiance',
+      'Éclairage indirect possible',
+      'Zones fonctionnelles définies'
+    ];
+  } else {
+    if (selectedRoom === 'cuisine') {
+      layoutTips = [
+        'Éclairage plan de travail obligatoire',
+        'Éviter les ombres portées',
+        'Plafonnier central + réglettes',
+        'Éclairage sous-meubles hauts'
+      ];
+    } else if (selectedRoom === 'bureau') {
+      layoutTips = [
+        'Lumière derrière l\'écran',
+        'Éviter les reflets',
+        'Lampe de bureau en complément',
+        'Éclairage indirect recommandé'
+      ];
+    } else {
+      layoutTips = [
+        'Position centrale optimale',
+        'Hauteur standard: 2,20m',
+        'Éviter l\'éblouissement',
+        'Multiple allumage si grande pièce'
+      ];
+    }
+  }
+  
+  layoutContainer.innerHTML = layoutTips.map(tip => `
+    <div class="flex items-start gap-2">
+      <span class="text-green-500 mt-0.5">•</span>
+      <span>${tip}</span>
+    </div>
+  `).join('');
+  
+  // Energy Savings Comparison
+  const savingsContainer = document.getElementById('energy-savings');
+  const oldWatts = results.totalLumens / 12; // Old incandescent efficiency ~12 lm/W
+  const yearlyUsage = 1000; // hours per year average
+  const oldYearlyCost = (oldWatts * yearlyUsage * ELECTRICITY_COST) / 1000;
+  const newYearlyCost = (results.totalWatts * yearlyUsage * ELECTRICITY_COST) / 1000;
+  const savings = oldYearlyCost - newYearlyCost;
+  
+  savingsContainer.innerHTML = `
+    <div class="flex justify-between">
+      <span>Ancienne consommation</span>
+      <span>${Math.round(oldWatts)}W</span>
+    </div>
+    <div class="flex justify-between">
+      <span>Nouvelle consommation</span>
+      <span>${results.totalWatts}W (-${Math.round((1 - results.totalWatts/oldWatts) * 100)}%)</span>
+    </div>
+    <div class="flex justify-between">
+      <span>Économie annuelle</span>
+      <span class="text-green-600 font-semibold">${Math.round(savings)}€</span>
+    </div>
+    <div class="text-xs pt-2 border-t">
+      Durée de vie LED: 15-25 ans vs 1 an incandescent
+    </div>
+  `;
+  
+  // Shopping List
+  const shoppingContainer = document.getElementById('shopping-list');
+  const tempInfo = colorTemperatures[results.colorTemp];
+  
+  let shoppingItems = [];
+  
+  if (results.lightingType === 'spots') {
+    shoppingItems = [
+      `${results.lightPoints} spots LED ${results.wattsPerPoint}W ${results.colorTemp}K`,
+      '1 transformateur LED compatible',
+      '1 variateur LED (optionnel)',
+      'Câbles et connecteurs'
+    ];
+  } else {
+    if (results.lightPoints === 1) {
+      shoppingItems = [
+        `1 plafonnier LED ${results.totalWatts}W ${results.colorTemp}K`,
+        'ou plusieurs ampoules E27 LED',
+        '1 variateur LED',
+        'Câblage si installation'
+      ];
+    } else {
+      shoppingItems = [
+        `${results.lightPoints} luminaires ${results.wattsPerPoint}W ${results.colorTemp}K`,
+        'Interrupteurs multiples',
+        'Variateurs LED',
+        'Installation électrique'
+      ];
+    }
+  }
+  
+  shoppingContainer.innerHTML = shoppingItems.map(item => `
+    <div class="flex items-start gap-2">
+      <span class="text-orange-500 mt-0.5">•</span>
+      <span>${item}</span>
+    </div>
+  `).join('');
+  
+  // Lighting Tips
+  const tipsContainer = document.getElementById('lighting-tips');
+  const tips = [
+    `${tempInfo.name} (${results.colorTemp}K) - ${tempInfo.ambiance}`,
+    'Privilégiez les LED de marque pour la durabilité',
+    'Vérifiez la compatibilité variateur avant achat',
+    'Installez des détecteurs de présence si pertinent',
+    'Pensez à l\'éclairage de secours dans les couloirs',
+    'L\'éclairage indirect réduit l\'éblouissement'
+  ];
+  
+  if (selectedRoom === 'salle-de-bain') {
+    tips.push('Indice IP44 minimum requis en salle de bain');
+  }
+  
+  if (results.colorTemp >= 5000) {
+    tips.push('Évitez les blancs froids dans les chambres');
+  }
+  
+  tipsContainer.innerHTML = tips.map(tip => `
+    <div class="flex items-start gap-2">
+      <span class="text-yellow-600 mt-0.5">•</span>
+      <span>${tip}</span>
+    </div>
+  `).join('');
+  
+  // Smooth scroll to results
+  document.getElementById('lighting-results').scrollIntoView({ 
+    behavior: 'smooth', 
+    block: 'start' 
+  });
+}
+
+function resetResults() {
+  document.getElementById('lighting-initial-state').classList.remove('hidden');
+  document.getElementById('lighting-results').classList.add('hidden');
+}
+</script>

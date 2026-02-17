@@ -3,16 +3,42 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Décoration Salon Naturel Chic : 12 Idées Tendance 2026";
 const description = "Transformez votre salon avec un style naturel chic ! Découvrez matières nobles, couleurs apaisantes et astuces déco pour un intérieur élégant et authentique.";
+
+const pageSlug = 'decoration-salon-naturel-chic';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/decoration-salon-naturel-chic/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Decoration', url: '/guides/decoration' },
+  { name: title, url: '/decoration-salon-naturel-chic/' },
+]);
+
 ---
 
-<BaseLayout {title} {description} canonical="https://www.cristallina.fr/decoration-salon-naturel-chic/">
+<BaseLayout {title} {description}
+  jsonLd={[schemaArticle, schemaBreadcrumb]}
+>
   <Navbar />
   
   <main class="pt-16">
     <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      
+      <!-- Breadcrumb -->
+      <nav class="flex items-center gap-2 text-sm mb-6" style="color: #B5B5B5;" aria-label="Fil d'ariane">
+        <a href="/" class="hover:text-rose-400 transition-colors">Accueil</a>
+        <span>/</span>
+        <a href="/guides/decoration" class="hover:text-rose-400 transition-colors">Decoration</a>
+        <span>/</span>
+        <span style="color: #8B8B8B;">{title}</span>
+      </nav>
+
       <header class="mb-8">
         <h1 class="text-3xl md:text-4xl title-elegant mb-4">{title}</h1>
         <p class="text-lg mb-6" style="color: #8B8B8B;">{description}</p>
@@ -27,7 +53,7 @@ const description = "Transformez votre salon avec un style naturel chic ! Décou
           <p>Tu rêves d'un salon qui respire la sérénité sans tomber dans le rustique ? Le naturel chic, c'est exactement ce qu'il te faut ! Cette tendance 2026 mélange authenticité et élégance pour créer un espace où tu auras envie de passer tous tes dimanches avec un bon livre.</p>
 
           <div class="my-8">
-            <img src="/images/unsplash-natural-linen-living-room-decor-1771167640.jpg" alt="Salon naturel avec matières naturelles et décoration lin" class="w-full rounded-lg shadow-soft" />
+            <img src="/images/unsplash-natural-linen-living-room-decor-1771167640.jpg" alt="Salon naturel avec matières naturelles et décoration lin" class="w-full rounded-lg shadow-soft"  width="1200" height="675" loading="eager" decoding="async" />
             <p class="text-xs text-center mt-2" style="color: #B5B5B5;">Un salon naturel chic qui donne envie de s'installer pour la journée</p>
           </div>
 
@@ -141,7 +167,7 @@ const description = "Transformez votre salon avec un style naturel chic ! Décou
           <p>Le parquet en chêne, c'est la base parfaite ! Si tu es locataire, un beau tapis XXL peut faire illusion. L'important : avoir cette base chaleureuse qui unifie tout.</p>
 
           <div class="my-8">
-            <img src="/images/unsplash-scandinavian-living-room-1771154911.jpg" alt="Salon scandinave moderne avec décoration naturelle" class="w-full rounded-lg shadow-soft" />
+            <img src="/images/unsplash-scandinavian-living-room-1771154911.jpg" alt="Salon scandinave moderne avec décoration naturelle" class="w-full rounded-lg shadow-soft"  width="1200" height="675" loading="lazy" decoding="async" />
             <p class="text-xs text-center mt-2" style="color: #B5B5B5;">L'équilibre parfait entre naturel et moderne</p>
           </div>
 
@@ -204,7 +230,7 @@ const description = "Transformez votre salon avec un style naturel chic ! Décou
           <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
             <a href="/salle-de-bain-cosy/" class="group bg-white rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 overflow-hidden border border-rose-100">
               <div class="aspect-[16/9] overflow-hidden">
-                <img src="/images/unsplash-cozy-bathroom-spa-lighting-1771167669.jpg" alt="Salle de bain cosy" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
+                <img src="/images/unsplash-cozy-bathroom-spa-lighting-1771167669.jpg" alt="Salle de bain cosy" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"  width="1200" height="675" loading="lazy" decoding="async" />
               </div>
               <div class="p-6">
                 <div class="flex items-center gap-2 mb-3">
@@ -222,7 +248,7 @@ const description = "Transformez votre salon avec un style naturel chic ! Décou
             </a>
             <a href="/comment-fabriquer-soi-meme-un-bar-en-palettes/" class="group bg-white rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 overflow-hidden border border-rose-100">
               <div class="aspect-[16/9] overflow-hidden">
-                <img src="/images/unsplash-wooden-pallet-bar-diy-furniture-1771168378.jpg" alt="Bar en palettes DIY" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
+                <img src="/images/unsplash-wooden-pallet-bar-diy-furniture-1771168378.jpg" alt="Bar en palettes DIY" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"  width="1200" height="675" loading="lazy" decoding="async" />
               </div>
               <div class="p-6">
                 <div class="flex items-center gap-2 mb-3">

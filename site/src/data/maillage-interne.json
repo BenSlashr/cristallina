@@ -1,0 +1,28 @@
+{
+  "plantes-interieur-deco": {
+    "article": {
+      "titre": "Plantes d",
+      "description": "Découvrez les meilleures plantes d"
+    },
+    "liens_suggeres": [
+      {
+        "slug": "[slug]",
+        "titre": "Guides",
+        "description": ""
+      }
+    ]
+  },
+  "[slug]": {
+    "article": {
+      "titre": "Guides",
+      "description": ""
+    },
+    "liens_suggeres": [
+      {
+        "slug": "plantes-interieur-deco",
+        "titre": "Plantes d",
+        "description": "Découvrez les meilleures plantes d"
+      }
+    ]
+  }
+}

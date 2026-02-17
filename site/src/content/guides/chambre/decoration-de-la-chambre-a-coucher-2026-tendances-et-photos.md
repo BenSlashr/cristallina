@@ -8,7 +8,7 @@ order: 7
 image: "/images/guides/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos.webp"
 readingTime: "12 min"
 faqSchema: true
-pubDate: 2026-02-20
+pubDate: 2026-02-17
 ---
 
 Tu cherches à donner un vrai coup de frais à ta chambre cette année ? Bonne nouvelle : 2026 est une année géniale pour se lancer. Les tendances déco chambre à coucher oscillent entre matières brutes ultra chaleureuses, palettes de couleurs qui osent enfin, et un retour au confort version cocon - sans tomber dans le kitch. Je t'ai préparé un tour complet de ce qui se fait de mieux en ce moment, avec des idées concrètes, des prix réels et mes coups de coeur perso.

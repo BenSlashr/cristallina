@@ -1,12 +1,12 @@
-# [PROJECT_NAME] - Instructions projet
+# Cristallina - Instructions projet
 
 ## Stack
 - Astro 5 + React islands + Tailwind 4
 - Dossier projet : `site/`
 - Build : `cd site && npm run build`
 - Hebergement : VPS, Caddy en reverse proxy, fichiers statiques
-- Domaine : `https://www.example.com` (version canonique avec www)
-- TOUJOURS utiliser `https://www.example.com` dans les liens internes et le maillage
+- Domaine : `https://www.cristallina.fr` (version canonique avec www)
+- TOUJOURS utiliser `https://www.cristallina.fr` dans les liens internes et le maillage
 
 ## Publication planifiee
 

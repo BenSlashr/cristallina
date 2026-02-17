@@ -1,43 +1,51 @@
 @import "tailwindcss";
 
+/* ── Google Fonts ── */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap');
+
 /* ═══════════════════════════════════════════════════════════════
-   DESIGN SYSTEM — Dark editorial theme
-   Accent colors: Primary (gold) + Secondary (violet)
-   TODO: Customize colors, fonts, and spacing for your brand
+   DESIGN SYSTEM — Cristallina theme
+   Pastel blue feminine palette for lifestyle/decor blog
+   Light, gentle, and welcoming for women-focused content
    ═══════════════════════════════════════════════════════════════ */
 
 @theme {
   /* ── Color Palette ── */
-  --color-void: #04060C;
-  --color-abyss: #080C18;
-  --color-surface: #0E1525;
-  --color-surface-raised: #141D30;
-  --color-surface-hover: #1A2540;
-  --color-border: #1E2A45;
-  --color-border-subtle: #162035;
+  --color-void: #FEFEFE;
+  --color-abyss: #FAFAFA;
+  --color-surface: #F8F8F8;
+  --color-surface-raised: #FFFFFF;
+  --color-surface-hover: #F3F4F6;
+  --color-border: #E5E7EB;
+  --color-border-subtle: #F3F4F6;
 
-  --color-text-primary: #F1F5F9;
-  --color-text-secondary: #94A3B8;
-  --color-text-muted: #64748B;
+  --color-text-primary: #4A4A4A;      /* Gris doux pour un look féminin */
+  --color-text-secondary: #8B8B8B;   /* Gris plus doux */
+  --color-text-muted: #B5B5B5;       /* Gris très doux */
 
-  /* TODO: Replace with your brand accent colors */
-  --color-primary: #F59E0B;
-  --color-primary-light: #FBBF24;
-  --color-primary-dim: #B47108;
+  /* Cristallina Brand Colors - Palette féminine douce */
+  --color-primary: #F8E8E7;        /* Rose poudré très doux */
+  --color-primary-light: #FDF5F5;  /* Rose presque blanc */
+  --color-primary-dim: #E8B4B8;    /* Rose poudré plus visible */
 
-  --color-secondary: #8B5CF6;
-  --color-secondary-light: #A78BFA;
-  --color-secondary-dim: #6D28D9;
+  --color-secondary: #F3E8FF;      /* Lilas ultra doux */
+  --color-secondary-light: #FEFBFF; /* Lilas presque blanc */
+  --color-secondary-dim: #D8B4FE;  /* Lilas doux visible */
+
+  --color-accent: #FFF4E6;         /* Champagne/crème */
+  --color-accent-light: #FFFBF7;   /* Crème presque blanc */
+  --color-accent-dim: #F6D55C;     /* Doré doux */
 
   --color-positive: #10B981;
   --color-negative: #EF4444;
   --color-info: #3B82F6;
 
   /* ── Typography Scale ── */
-  /* TODO: Replace with your chosen fonts */
-  --font-display: 'Syne', sans-serif;
-  --font-body: 'IBM Plex Sans', sans-serif;
-  --font-mono: 'IBM Plex Mono', monospace;
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'Crimson Text', Georgia, serif;
+  --font-accent: 'Lora', Georgia, serif;
 
   --text-display-xl: 4.5rem;
   --text-display-lg: 3.5rem;
@@ -58,18 +66,9 @@
   --radius-pill: 9999px;
 
   /* ── Shadows ── */
-  --shadow-glow-primary: 0 0 20px rgba(245, 158, 11, 0.15);
-  --shadow-glow-secondary: 0 0 20px rgba(139, 92, 246, 0.15);
-  --shadow-card: 0 4px 24px rgba(0, 0, 0, 0.3);
-}
-
-/* ── Google Fonts ── */
-@font-face {
-  font-family: 'Syne';
-  font-style: normal;
-  font-display: swap;
-  font-weight: 400 800;
-  src: url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&display=swap');
+  --shadow-glow-primary: 0 0 30px rgba(219, 234, 254, 0.25);
+  --shadow-glow-secondary: 0 0 30px rgba(224, 231, 255, 0.25);
+  --shadow-card: 0 4px 20px rgba(0, 0, 0, 0.03);
 }
 
 /* ── Base Styles ── */
@@ -88,7 +87,7 @@ body {
 
 /* ── Selection ── */
 ::selection {
-  background-color: rgba(245, 158, 11, 0.3);
+  background-color: rgba(125, 211, 252, 0.2);
   color: var(--color-text-primary);
 }
 
@@ -97,14 +96,14 @@ body {
   width: 6px;
 }
 ::-webkit-scrollbar-track {
-  background: var(--color-abyss);
+  background: var(--color-surface);
 }
 ::-webkit-scrollbar-thumb {
-  background: var(--color-border);
+  background: var(--color-primary-light);
   border-radius: 3px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: var(--color-text-muted);
+  background: var(--color-primary);
 }
 
 /* ── Animations ── */
@@ -164,7 +163,7 @@ body {
 
 /* ── Glass card ── */
 .glass {
-  background: rgba(14, 21, 37, 0.7);
+  background: rgba(255, 255, 255, 0.8);
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
   border: 1px solid var(--color-border);
@@ -360,7 +359,7 @@ body {
 
 /* TIP — primary accent */
 .prose-custom .markdown-alert-tip {
-  background: rgba(245, 158, 11, 0.06);
+  background: rgba(125, 211, 252, 0.06);
   border-color: var(--color-primary);
 }
 .prose-custom .markdown-alert-tip .markdown-alert-title {
@@ -417,7 +416,7 @@ body {
   display: block;
 }
 .prose-custom thead {
-  background: rgba(245, 158, 11, 0.08);
+  background: rgba(125, 211, 252, 0.08);
 }
 .prose-custom th {
   color: var(--color-text-primary);
@@ -433,7 +432,7 @@ body {
   border-bottom: 1px solid var(--color-border);
 }
 .prose-custom tbody tr:hover {
-  background: rgba(245, 158, 11, 0.04);
+  background: rgba(125, 211, 252, 0.04);
 }
 
 /* Mermaid diagrams */
@@ -442,4 +441,183 @@ body {
   height: auto;
   margin: 1.5rem auto;
   display: block;
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   STYLES FÉMININS — Pour un blog déco/lifestyle féminin
+   ═══════════════════════════════════════════════════════════════ */
+
+/* Police principale plus élégante et féminine */
+body {
+  font-family: var(--font-body);
+  line-height: 1.7;
+  color: var(--color-text-primary);
+  letter-spacing: 0.3px;
+}
+
+/* Titres élégants avec Playfair Display */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  color: #5D4E75; /* Lilas plus foncé pour les titres */
+}
+
+/* Style spécial pour les grands titres */
+.title-elegant {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-style: italic;
+  color: #8B7AA8;
+  text-shadow: 0 1px 3px rgba(139, 122, 168, 0.1);
+}
+
+/* Boutons plus doux et féminins */
+.btn-feminine {
+  font-family: var(--font-accent);
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  padding: 12px 24px;
+  border-radius: 25px;
+  border: 1px solid rgba(139, 122, 168, 0.2);
+  background: linear-gradient(135deg, var(--color-primary-light), var(--color-accent-light));
+  color: #5D4E75;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(139, 122, 168, 0.1);
+}
+
+.btn-feminine:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 16px rgba(139, 122, 168, 0.15);
+  border-color: rgba(139, 122, 168, 0.3);
+}
+
+/* Cards plus délicates */
+.card-feminine {
+  background: var(--color-surface-raised);
+  border: 1px solid rgba(139, 122, 168, 0.08);
+  border-radius: 16px;
+  padding: 2rem;
+  box-shadow: 0 4px 20px rgba(139, 122, 168, 0.05);
+  transition: all 0.3s ease;
+}
+
+.card-feminine:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 32px rgba(139, 122, 168, 0.12);
+}
+
+/* Séparateurs délicats */
+.divider-feminine {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(139, 122, 168, 0.2), transparent);
+  border: none;
+  margin: 3rem 0;
+}
+
+/* Style pour les citations inspirantes */
+.quote-feminine {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.25rem;
+  color: #8B7AA8;
+  text-align: center;
+  position: relative;
+  padding: 2rem 0;
+}
+
+.quote-feminine::before,
+.quote-feminine::after {
+  content: '"';
+  font-size: 3rem;
+  color: rgba(139, 122, 168, 0.2);
+  position: absolute;
+  font-family: Georgia, serif;
+}
+
+.quote-feminine::before {
+  top: 0;
+  left: -10px;
+}
+
+.quote-feminine::after {
+  bottom: -20px;
+  right: -10px;
+}
+
+/* Navigation plus délicate */
+.nav-feminine {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(139, 122, 168, 0.08);
+}
+
+.nav-feminine a {
+  font-family: var(--font-accent);
+  font-weight: 400;
+  letter-spacing: 0.3px;
+  color: #5D4E75;
+  transition: color 0.3s ease;
+}
+
+.nav-feminine a:hover {
+  color: #8B7AA8;
+}
+
+/* Sections avec fond doux */
+.section-soft {
+  background: linear-gradient(135deg, 
+    rgba(248, 232, 231, 0.3) 0%, 
+    rgba(243, 232, 255, 0.3) 50%, 
+    rgba(255, 244, 230, 0.3) 100%);
+  border-radius: 24px;
+}
+
+/* Animations douces */
+@keyframes gentle-float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-4px); }
+}
+
+.animate-gentle-float {
+  animation: gentle-float 3s ease-in-out infinite;
+}
+
+/* Ombres plus douces */
+.shadow-soft {
+  box-shadow: 0 4px 24px rgba(139, 122, 168, 0.08);
+}
+
+.shadow-soft-hover:hover {
+  box-shadow: 0 8px 40px rgba(139, 122, 168, 0.12);
+}
+
+/* Style pour les listes élégantes */
+.list-feminine {
+  list-style: none;
+  padding-left: 0;
+}
+
+.list-feminine li {
+  position: relative;
+  padding-left: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.list-feminine li::before {
+  content: '◦';
+  color: #8B7AA8;
+  font-size: 1.2rem;
+  position: absolute;
+  left: 0;
+  top: -2px;
+}
+
+/* Bordures délicates */
+.border-feminine {
+  border: 1px solid rgba(139, 122, 168, 0.15);
+}
+
+.border-feminine-dashed {
+  border: 2px dashed rgba(139, 122, 168, 0.2);
 }

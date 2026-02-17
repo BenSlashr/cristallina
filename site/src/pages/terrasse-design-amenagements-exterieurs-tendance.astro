@@ -3,12 +3,28 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Terrasse Design : 10 Aménagements Extérieurs Tendance";
 const description = "Aménagez une terrasse design ! 10 idées tendance avec mobilier extérieur, végétalisation, éclairage et sols modernes pour espace outdoor stylé.";
+
+const pageSlug = 'terrasse-design-amenagements-exterieurs-tendance';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/terrasse-design-amenagements-exterieurs-tendance/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Exterieur', url: '/guides/decoration' },
+  { name: title, url: '/terrasse-design-amenagements-exterieurs-tendance/' },
+]);
+
 ---
 
-<BaseLayout {title} {description} canonical="https://www.cristallina.fr/terrasse-design-amenagements-exterieurs-tendance/">
+<BaseLayout {title} {description}
+  jsonLd={[schemaArticle, schemaBreadcrumb]}
+>
   <Navbar />
   <main class="pt-16">
     <!-- Hero Section -->
@@ -48,7 +64,7 @@ const description = "Aménagez une terrasse design ! 10 idées tendance avec mob
           src="/images/unsplash-modern-terrace-design-outdoor-furniture-landscaping-1771177414.jpg" 
           alt="Terrasse design moderne avec mobilier contemporain et végétalisation"
           class="w-full h-64 md:h-96 object-cover"
-        />
+         width="1200" height="675" loading="eager" decoding="async" />
         <div class="absolute inset-0 bg-gradient-to-t from-void/20 to-transparent"></div>
       </div>
     </section>

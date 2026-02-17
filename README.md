@@ -1,4 +1,4 @@
-# Starter Pack — Site de contenu Astro 5
+# Cristallina — Blog déco/lifestyle féminin
 
 Stack complete pour creer un site de contenu editorial avec :
 - Astro 5 + React islands + Tailwind 4

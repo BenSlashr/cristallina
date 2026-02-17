@@ -8,7 +8,7 @@ order: 5
 image: "/images/guides/peinture-luxens.webp"
 readingTime: "11 min"
 faqSchema: true
-pubDate: 2026-02-19
+pubDate: 2026-02-17
 ---
 
 # Peinture Luxens : avis honnête, gammes et conseils pour bien la choisir

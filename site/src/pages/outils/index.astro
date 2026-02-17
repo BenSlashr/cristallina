@@ -1,0 +1,295 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+
+const tools = [
+  // Top Priority Tools
+  {
+    name: "Simulateur d'Ambiances",
+    description: "Découvre ton style déco idéal avec notre quiz personnalisé",
+    href: "/outils/simulateur-ambiances",
+    icon: "🎨",
+    traffic: "25K/mois",
+    category: "Style & Ambiance",
+    difficulty: "Facile",
+    time: "3 min"
+  },
+  {
+    name: "Calculateur Budget Rénovation", 
+    description: "Estime le coût de ta rénovation pièce par pièce",
+    href: "/outils/budget-renovation",
+    icon: "💰",
+    traffic: "22K/mois", 
+    category: "Budget",
+    difficulty: "Moyen",
+    time: "5 min"
+  },
+  {
+    name: "Générateur de Palettes",
+    description: "Crée des palettes harmonieuses avec les codes couleurs",
+    href: "/outils/palette-couleurs",
+    icon: "🌈", 
+    traffic: "20K/mois",
+    category: "Couleurs",
+    difficulty: "Facile", 
+    time: "2 min"
+  },
+  {
+    name: "Optimiseur Disposition",
+    description: "Optimise l'agencement de tes meubles en 2D",
+    href: "/outils/disposition-meubles",
+    icon: "📐",
+    traffic: "18K/mois",
+    category: "Aménagement", 
+    difficulty: "Avancé",
+    time: "10 min"
+  },
+  {
+    name: "Calculateur de Tapis",
+    description: "Trouve la taille parfaite pour ton tapis",
+    href: "/outils/taille-tapis", 
+    icon: "🏠",
+    traffic: "15K/mois",
+    category: "Aménagement",
+    difficulty: "Facile",
+    time: "2 min"
+  },
+  
+  // Technical Calculators
+  {
+    name: "Calculateur de Peinture",
+    description: "Calcule la quantité exacte de peinture nécessaire",
+    href: "/outils/calculateur-peinture",
+    icon: "🎨",
+    traffic: "15K/mois", 
+    category: "Matériaux",
+    difficulty: "Facile",
+    time: "3 min"
+  },
+  {
+    name: "Calculateur de Carrelage",
+    description: "Détermine le nombre de carreaux pour ton projet",
+    href: "/outils/calculateur-carrelage",
+    icon: "⬛",
+    traffic: "12K/mois",
+    category: "Matériaux", 
+    difficulty: "Moyen",
+    time: "4 min"
+  },
+  {
+    name: "Calculateur d'Éclairage",
+    description: "Calcule l'éclairage optimal pour chaque pièce",
+    href: "/outils/calculateur-eclairage",
+    icon: "💡",
+    traffic: "10K/mois",
+    category: "Éclairage",
+    difficulty: "Moyen", 
+    time: "5 min"
+  },
+  
+  // DIY & Organization
+  {
+    name: "Calculateur Matériaux DIY",
+    description: "Liste des matériaux pour tes projets DIY",
+    href: "/outils/materiaux-diy",
+    icon: "🔨",
+    traffic: "15K/mois",
+    category: "DIY",
+    difficulty: "Moyen",
+    time: "6 min"
+  },
+  {
+    name: "Optimiseur de Rangements", 
+    description: "Maximise l'espace de tes placards et dressings",
+    href: "/outils/optimiser-rangements",
+    icon: "📦",
+    traffic: "12K/mois",
+    category: "Organisation",
+    difficulty: "Moyen",
+    time: "7 min"
+  }
+];
+
+const categories = [...new Set(tools.map(t => t.category))];
+---
+
+<BaseLayout 
+  title="Outils Déco Gratuits | Calculateurs et Simulateurs - Cristallina"
+  description="Outils gratuits pour ta déco : simulateur d'ambiance, calculateurs budget, palette couleurs, disposition meubles et plus. Tous nos calculateurs déco en un endroit !"
+  canonical="https://www.cristallina.fr/outils/"
+>
+  <Navbar />
+  
+  <main class="pt-16">
+    <!-- Hero Section -->
+    <section class="section-soft py-20">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div class="space-y-8">
+          <div class="inline-block">
+            <span class="inline-flex items-center px-6 py-3 bg-white/90 backdrop-blur-sm shadow-soft rounded-full border border-feminine">
+              <span class="mr-3 text-lg">🛠️</span> 
+              <span class="title-elegant text-sm">Outils Gratuits</span>
+            </span>
+          </div>
+          
+          <h1 class="text-5xl md:text-7xl lg:text-8xl font-display leading-tight">
+            <span class="block title-elegant">Tes outils</span>
+            <span class="block text-6xl md:text-8xl lg:text-9xl" style="color: #D4A574; font-style: italic;">déco</span>
+            <span class="block title-elegant">gratuits</span>
+          </h1>
+          
+          <div class="quote-feminine max-w-3xl mx-auto">
+            Calculateurs, simulateurs et générateurs pour réussir ta déco sans te tromper et sans te ruiner
+          </div>
+          
+          <div class="flex flex-wrap justify-center gap-4 text-sm" style="color: #8B8B8B;">
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-green-400 rounded-full"></span>
+              100% Gratuits
+            </span>
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-blue-400 rounded-full"></span>
+              Résultats Instantanés
+            </span>
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-purple-400 rounded-full"></span>
+              Conseils d'Expert
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Tools Grid -->
+    <section class="py-20">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <!-- Category Filter -->
+        <div class="mb-12 text-center">
+          <h2 class="text-2xl title-elegant mb-6">Choisis ta catégorie</h2>
+          <div class="flex flex-wrap justify-center gap-3">
+            <button class="filter-btn active" data-category="all">
+              ✨ Tous les outils
+            </button>
+            {categories.map(category => (
+              <button class="filter-btn" data-category={category}>
+                {category}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        <!-- Tools Grid -->
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8" id="tools-grid">
+          {tools.map(tool => (
+            <a 
+              href={tool.href}
+              class="tool-card card-feminine shadow-soft-hover group"
+              data-category={tool.category}
+            >
+              <div class="flex items-start justify-between mb-4">
+                <div class="text-4xl animate-gentle-float">{tool.icon}</div>
+                <div class="text-right text-xs" style="color: #8B8B8B;">
+                  <div class="bg-green-100 text-green-700 px-2 py-1 rounded-full mb-1">
+                    {tool.traffic}
+                  </div>
+                  <div>{tool.time}</div>
+                </div>
+              </div>
+              
+              <h3 class="title-elegant text-xl mb-3 group-hover:text-opacity-80 transition-all">
+                {tool.name}
+              </h3>
+              
+              <p class="text-sm mb-4 leading-relaxed" style="color: #8B8B8B;">
+                {tool.description}
+              </p>
+              
+              <div class="flex items-center justify-between">
+                <span class="text-xs px-3 py-1 bg-purple-100 text-purple-700 rounded-full">
+                  {tool.category}
+                </span>
+                <span class="text-xs" style="color: #B5B5B5;">
+                  {tool.difficulty}
+                </span>
+              </div>
+            </a>
+          ))}
+        </div>
+        
+        <!-- Coming Soon -->
+        <div class="mt-16 text-center card-feminine section-soft">
+          <h3 class="text-2xl title-elegant mb-4">Bientôt disponibles</h3>
+          <p class="mb-6" style="color: #8B8B8B;">
+            D'autres outils arrivent très bientôt ! Inscris-toi à la newsletter pour être la première informée.
+          </p>
+          <a href="/newsletter" class="btn-feminine shadow-soft-hover">
+            🌸 Me tenir au courant
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+.filter-btn {
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  border-radius: 9999px;
+  border: 1px solid rgba(139, 122, 168, 0.15);
+  transition: all 0.3s ease;
+  font-family: var(--font-accent);
+  color: #8B8B8B;
+  background: rgba(255, 255, 255, 0.8);
+  cursor: pointer;
+}
+
+.filter-btn.active,
+.filter-btn:hover {
+  box-shadow: 0 4px 24px rgba(139, 122, 168, 0.08);
+  background: linear-gradient(135deg, var(--color-primary-light), var(--color-accent-light));
+  color: #5D4E75;
+  border-color: rgba(139, 122, 168, 0.3);
+}
+
+.tool-card {
+  transition: all 0.3s ease;
+}
+
+.tool-card:hover {
+  transform: translateY(-4px);
+}
+</style>
+
+<script>
+// Filter functionality
+document.addEventListener('DOMContentLoaded', () => {
+  const filterBtns = document.querySelectorAll('.filter-btn');
+  const toolCards = document.querySelectorAll('.tool-card');
+  
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      // Remove active class from all buttons
+      filterBtns.forEach(b => b.classList.remove('active'));
+      // Add active class to clicked button
+      btn.classList.add('active');
+      
+      const category = btn.dataset.category;
+      
+      toolCards.forEach(card => {
+        if (category === 'all' || card.dataset.category === category) {
+          card.style.display = 'block';
+          card.style.animation = 'fade-in-up 0.5s ease-out';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+    });
+  });
+});
+</script>

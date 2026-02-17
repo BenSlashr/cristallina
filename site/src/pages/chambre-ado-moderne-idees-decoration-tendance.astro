@@ -3,9 +3,23 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Chambre Ado Moderne : 16 Idées Déco Tendance 2026";
 const description = "Chambre d'ado stylée ! 16 idées déco moderne 2026 : couleurs tendance, mobilier modulable, coin étude et espaces de détente pour adolescents.";
+
+const pageSlug = 'chambre-ado-moderne-idees-decoration-tendance';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/chambre-ado-moderne-idees-decoration-tendance/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Chambre', url: '/guides/decoration' },
+  { name: title, url: '/chambre-ado-moderne-idees-decoration-tendance/' },
+]);
+
 ---
 
 <BaseLayout title={title} description={description}>
@@ -30,7 +44,7 @@ const description = "Chambre d'ado stylée ! 16 idées déco moderne 2026 : coul
               src="/images/unsplash-chambre-ado-moderne-decoration-tendance-placeholder.jpg" 
               alt="Chambre d'adolescent moderne avec décoration tendance 2026"
               class="w-full h-96 object-cover"
-            />
+             width="1200" height="675" loading="eager" decoding="async" />
             <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
           </div>
           
@@ -80,7 +94,7 @@ const description = "Chambre d'ado stylée ! 16 idées déco moderne 2026 : coul
             </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771235942433.jpg" alt="Chambre d'adolescent avec decoration moderne et rangements" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771235942433.jpg" alt="Chambre d'adolescent avec decoration moderne et rangements" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
             <ul class="text-sm text-gray-600 space-y-1">
@@ -155,7 +169,7 @@ const description = "Chambre d'ado stylée ! 16 idées déco moderne 2026 : coul
           </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771236286601.jpg" alt="Amenagement chambre ado tendance 2026" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771236286601.jpg" alt="Amenagement chambre ado tendance 2026" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
           
@@ -220,7 +234,7 @@ const description = "Chambre d'ado stylée ! 16 idées déco moderne 2026 : coul
           </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771235474394.jpg" alt="Decoration chambre jeune avec couleurs vives et mobilier design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771235474394.jpg" alt="Decoration chambre jeune avec couleurs vives et mobilier design" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
           
@@ -273,7 +287,7 @@ const description = "Chambre d'ado stylée ! 16 idées déco moderne 2026 : coul
           </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771235435781.jpg" alt="Espace de travail et detente dans une chambre ado" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771235435781.jpg" alt="Espace de travail et detente dans une chambre ado" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
           
@@ -334,7 +348,7 @@ const description = "Chambre d'ado stylée ! 16 idées déco moderne 2026 : coul
           </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771235843071.jpg" alt="Rangement optimise pour chambre d'adolescent" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771235843071.jpg" alt="Rangement optimise pour chambre d'adolescent" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
           

@@ -3,9 +3,23 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Dressing Optimisé : 20 Solutions Rangement pour Organiser sa Garde-robe";
 const description = "Révolutionnez votre dressing ! 20 solutions d'organisation et rangements intelligents pour une garde-robe parfaitement optimisée et fonctionnelle.";
+
+const pageSlug = 'dressing-optimise-solutions-rangement-garde-robe';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/dressing-optimise-solutions-rangement-garde-robe/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Rangement', url: '/guides/decoration' },
+  { name: title, url: '/dressing-optimise-solutions-rangement-garde-robe/' },
+]);
+
 ---
 
 <BaseLayout title={title} description={description}>
@@ -26,7 +40,7 @@ const description = "Révolutionnez votre dressing ! 20 solutions d'organisation
             src="/images/unsplash-dressing-rangement-organisation-optimise-placeholder.jpg" 
             alt="Dressing optimisé avec solutions de rangement intelligentes" 
             class="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg"
-          />
+           width="1200" height="675" loading="eager" decoding="async" />
         </div>
       </header>
 
@@ -44,7 +58,7 @@ const description = "Révolutionnez votre dressing ! 20 solutions d'organisation
         </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-rangement-salle-bain-placard-organisation-optimis--1771238389057.jpg" alt="Dressing organise avec systeme de rangement modulable" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-rangement-salle-bain-placard-organisation-optimis--1771238389057.jpg" alt="Dressing organise avec systeme de rangement modulable" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -86,7 +100,7 @@ const description = "Révolutionnez votre dressing ! 20 solutions d'organisation
         </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-rangement-salle-bain-placard-organisation-optimis--1771237409628.jpg" alt="Amenagement de placard optimise avec separateurs" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-rangement-salle-bain-placard-organisation-optimis--1771237409628.jpg" alt="Amenagement de placard optimise avec separateurs" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -128,7 +142,7 @@ const description = "Révolutionnez votre dressing ! 20 solutions d'organisation
         </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771234721406.jpg" alt="Dressing ouvert avec rangements par categories" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771234721406.jpg" alt="Dressing ouvert avec rangements par categories" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -170,7 +184,7 @@ const description = "Révolutionnez votre dressing ! 20 solutions d'organisation
         </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771233681556.jpg" alt="Organisation garde-robe avec accessoires de rangement" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771233681556.jpg" alt="Organisation garde-robe avec accessoires de rangement" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -197,7 +211,7 @@ const description = "Révolutionnez votre dressing ! 20 solutions d'organisation
         </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771235809675.jpg" alt="Dressing fonctionnel avec eclairage integre" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771235809675.jpg" alt="Dressing fonctionnel avec eclairage integre" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 

@@ -3,9 +3,23 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Studio Étudiant : 22 Astuces Déco pour un Petit Espace Stylé";
 const description = "Optimisez votre studio étudiant ! 22 astuces déco petit budget : gain de place, mobilier multifonction, couleurs et style pour un espace stylé.";
+
+const pageSlug = 'studio-etudiant-astuces-decoration-petit-espace';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/studio-etudiant-astuces-decoration-petit-espace/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Petit espace', url: '/guides/decoration' },
+  { name: title, url: '/studio-etudiant-astuces-decoration-petit-espace/' },
+]);
+
 ---
 
 <BaseLayout title={title} description={description}>
@@ -26,7 +40,7 @@ const description = "Optimisez votre studio étudiant ! 22 astuces déco petit b
           src="/images/unsplash-studio-etudiant-decoration-petit-espace-placeholder.jpg" 
           alt="Studio étudiant moderne avec décoration optimisée pour petit espace" 
           class="w-full max-w-2xl mx-auto rounded-xl shadow-2xl"
-        />
+         width="1200" height="675" loading="eager" decoding="async" />
       </div>
     </section>
 
@@ -59,7 +73,7 @@ const description = "Optimisez votre studio étudiant ! 22 astuces déco petit b
           </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771236350876.jpg" alt="Studio etudiant optimise avec meubles multifonctions" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771236350876.jpg" alt="Studio etudiant optimise avec meubles multifonctions" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -101,7 +115,7 @@ const description = "Optimisez votre studio étudiant ! 22 astuces déco petit b
           </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771234850576.jpg" alt="Amenagement petit espace etudiant avec rangement vertical" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771234850576.jpg" alt="Amenagement petit espace etudiant avec rangement vertical" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -143,7 +157,7 @@ const description = "Optimisez votre studio étudiant ! 22 astuces déco petit b
           </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771236348101.jpg" alt="Decoration studio compact avec astuces gain de place" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771236348101.jpg" alt="Decoration studio compact avec astuces gain de place" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -185,7 +199,7 @@ const description = "Optimisez votre studio étudiant ! 22 astuces déco petit b
           </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771233570909.jpg" alt="Cuisine compacte de studio avec rangements malins" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771233570909.jpg" alt="Cuisine compacte de studio avec rangements malins" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -227,7 +241,7 @@ const description = "Optimisez votre studio étudiant ! 22 astuces déco petit b
           </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-petite-cuisine-moderne-2026-compact-optimis-e-1771238144462.jpg" alt="Coin nuit et bureau dans un studio bien agence" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-petite-cuisine-moderne-2026-compact-optimis-e-1771238144462.jpg" alt="Coin nuit et bureau dans un studio bien agence" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 

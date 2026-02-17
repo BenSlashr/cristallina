@@ -83,7 +83,8 @@ for SLUG in "${SLUGS[@]}"; do
     [ "$CALLOUTS" -gt 5 ] && ERRORS=$((ERRORS+1)) && ISSUES="${ISSUES}call> "
     [ "$MERMAID" -lt 1 ] && ERRORS=$((ERRORS+1)) && ISSUES="${ISSUES}mmd< "
     [ "$MERMAID" -gt 3 ] && ERRORS=$((ERRORS+1)) && ISSUES="${ISSUES}mmd> "
-    [ "$WORDS" -gt 3000 ] && ISSUES="${ISSUES}long "
+    [ "$WORDS" -lt 1700 ] && ERRORS=$((ERRORS+1)) && ISSUES="${ISSUES}short "
+    [ "$WORDS" -gt 2500 ] && ERRORS=$((ERRORS+1)) && ISSUES="${ISSUES}long "
     if ! head -1 "$FILEPATH" | grep -q '^---'; then
         ERRORS=$((ERRORS+1)) && ISSUES="${ISSUES}fm "
     fi

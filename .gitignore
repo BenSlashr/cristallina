@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.astro/
+.env
+*.log
+
+# Pinterest bulk images (too large for git)
+site/public/images/pinterest-*.jpg

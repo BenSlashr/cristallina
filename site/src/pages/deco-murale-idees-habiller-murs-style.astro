@@ -3,12 +3,28 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Déco Murale : 14 Idées pour Habiller vos Murs avec Style";
 const description = "Transformez vos murs ! 14 idées déco murale créatives avec tableaux, papier peint, étagères design et installations artistiques pour intérieur unique.";
+
+const pageSlug = 'deco-murale-idees-habiller-murs-style';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/deco-murale-idees-habiller-murs-style/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Decoration', url: '/guides/decoration' },
+  { name: title, url: '/deco-murale-idees-habiller-murs-style/' },
+]);
+
 ---
 
-<BaseLayout {title} {description} canonical="https://www.cristallina.fr/deco-murale-idees-habiller-murs-style/">
+<BaseLayout {title} {description}
+  jsonLd={[schemaArticle, schemaBreadcrumb]}
+>
   <Navbar />
   <main class="pt-16">
     <div class="max-w-4xl mx-auto px-6 py-12">
@@ -24,7 +40,7 @@ const description = "Transformez vos murs ! 14 idées déco murale créatives av
           src="/images/unsplash-wall-decoration-stylish-interior-design-art-1771177410.jpg" 
           alt="Décoration murale moderne avec art contemporain dans salon stylé"
           class="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg mt-8"
-        />
+         width="1200" height="675" loading="eager" decoding="async" />
       </header>
 
       <!-- Sommaire -->

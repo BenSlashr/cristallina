@@ -8,7 +8,7 @@ order: 9
 image: "/images/guides/peindre-lino.webp"
 readingTime: "11 min"
 faqSchema: true
-pubDate: 2026-02-21
+pubDate: 2026-02-17
 ---
 
 Tu as un vieux lino dans ta cuisine, ta salle de bain ou ton entrée et tu n'en peux plus de cette couleur passée ? Bonne nouvelle : peindre ton sol en lino est une solution rapide, économique et assez bluffante quand c'est bien fait. Pas besoin de tout arracher ni de poser un nouveau revêtement. Un week-end, les bons produits et un peu de méthode, et tu obtiens un résultat qui change complètement l'ambiance de la pièce.

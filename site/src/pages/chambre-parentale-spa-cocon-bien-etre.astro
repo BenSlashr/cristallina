@@ -3,9 +3,23 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Chambre Parentale Spa : 15 Idées pour un Cocon de Bien-être";
 const description = "Transformez votre chambre en spa ! 15 idées pour créer un cocon de bien-être : ambiance zen, matériaux naturels et détente absolue.";
+
+const pageSlug = 'chambre-parentale-spa-cocon-bien-etre';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/chambre-parentale-spa-cocon-bien-etre/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Chambre', url: '/guides/decoration' },
+  { name: title, url: '/chambre-parentale-spa-cocon-bien-etre/' },
+]);
+
 ---
 
 <BaseLayout title={title} description={description}>
@@ -38,7 +52,7 @@ const description = "Transformez votre chambre en spa ! 15 idées pour créer un
               src="/images/unsplash-chambre-parentale-spa-cocon-bien-etre-placeholder.jpg" 
               alt="Chambre parentale aménagée en spa avec ambiance zen et cocon de bien-être"
               class="w-full h-96 object-cover"
-            />
+             width="1200" height="675" loading="eager" decoding="async" />
           </div>
 
           <!-- Introduction -->
@@ -65,7 +79,7 @@ const description = "Transformez votre chambre en spa ! 15 idées pour créer un
                 <p class="text-amber-700">Commencez par définir une palette de couleurs apaisantes (tons neutres, beiges, blancs cassés) et construisez votre ambiance spa autour de cette base harmonieuse.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-chambre-coucher-2026-tendances-d-coration-moderne-1771232831779.jpg" alt="Amenagement chambre parentale avec coin bien-etre" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-chambre-coucher-2026-tendances-d-coration-moderne-1771232831779.jpg" alt="Amenagement chambre parentale avec coin bien-etre" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
               </div>
@@ -86,7 +100,7 @@ const description = "Transformez votre chambre en spa ! 15 idées pour créer un
                 </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-chambre-adulte-deux-couleurs-peinture-bicolore-1771234827230.jpg" alt="Chambre parentale avec ambiance spa et couleurs douces" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-chambre-adulte-deux-couleurs-peinture-bicolore-1771234827230.jpg" alt="Chambre parentale avec ambiance spa et couleurs douces" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
                 <p class="text-slate-600 leading-relaxed">
@@ -165,7 +179,7 @@ const description = "Transformez votre chambre en spa ! 15 idées pour créer un
                 </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-chambre-adulte-deux-couleurs-peinture-bicolore-1771236962626.jpg" alt="Suite parentale cocooning avec textiles naturels" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-chambre-adulte-deux-couleurs-peinture-bicolore-1771236962626.jpg" alt="Suite parentale cocooning avec textiles naturels" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
                 <p class="text-slate-600 leading-relaxed">
@@ -244,7 +258,7 @@ const description = "Transformez votre chambre en spa ! 15 idées pour créer un
                 </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-chambre-coucher-2026-tendances-d-coration-moderne-1771234058233.jpg" alt="Chambre adulte bicolore elegante et apaisante" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-chambre-coucher-2026-tendances-d-coration-moderne-1771234058233.jpg" alt="Chambre adulte bicolore elegante et apaisante" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
                 <p class="text-slate-600 leading-relaxed">
@@ -312,28 +326,23 @@ const description = "Transformez votre chambre en spa ! 15 idées pour créer un
           <!-- Diagramme Process Mermaid -->
           <div class="bg-slate-100 p-8 rounded-xl mb-12">
             <h3 class="text-2xl font-semibold text-slate-800 mb-6 text-center">Processus de Transformation en 4 Étapes</h3>
-            <div class="mermaid">
+            <pre class="mermaid">
               graph TD
-                A[Analyse de l'existant] --> B[Définition de l'ambiance]
-                B --> C[Sélection des matériaux]
-                C --> D[Aménagement par zones]
-                
+                A[Analyse de l'existant] --> B[Definition de l'ambiance]
+                B --> C[Selection des materiaux]
+                C --> D[Amenagement par zones]
                 A --> A1[Mesures et contraintes]
                 A --> A2[Budget disponible]
-                A --> A3[Besoins spécifiques]
-                
+                A --> A3[Besoins specifiques]
                 B --> B1[Palette de couleurs]
-                B --> B2[Style décoratif]
-                B --> B3[Niveau de zen souhaité]
-                
+                B --> B2[Style decoratif]
+                B --> B3[Niveau de zen souhaite]
                 C --> C1[Textiles nobles]
-                C --> C2[Matériaux naturels]
-                C --> C3[Éléments techniques]
-                
+                C --> C2[Materiaux naturels]
+                C --> C3[Elements techniques]
                 D --> D1[Zone sommeil]
-                D --> D2[Zone détente]
+                D --> D2[Zone detente]
                 D --> D3[Zone rangement]
-
                 style A fill:#141D30,stroke:#F59E0B,color:#F1F5F9
                 style B fill:#141D30,stroke:#F59E0B,color:#F1F5F9
                 style C fill:#141D30,stroke:#F59E0B,color:#F1F5F9
@@ -350,7 +359,7 @@ const description = "Transformez votre chambre en spa ! 15 idées pour créer un
                 style D1 fill:#141D30,stroke:#8B5CF6,color:#F1F5F9
                 style D2 fill:#141D30,stroke:#8B5CF6,color:#F1F5F9
                 style D3 fill:#141D30,stroke:#8B5CF6,color:#F1F5F9
-            </div>
+            </pre>
           </div>
 
           <!-- Conclusion -->
@@ -365,7 +374,7 @@ const description = "Transformez votre chambre en spa ! 15 idées pour créer un
               </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-chambre-coucher-2026-tendances-d-coration-moderne-1771232288711.jpg" alt="Decoration chambre parentale style contemporain" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-chambre-coucher-2026-tendances-d-coration-moderne-1771232288711.jpg" alt="Decoration chambre parentale style contemporain" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
               
@@ -388,22 +397,15 @@ const description = "Transformez votre chambre en spa ! 15 idées pour créer un
           <!-- Diagramme Budget Mermaid -->
           <div class="bg-slate-100 p-8 rounded-xl mb-12">
             <h3 class="text-2xl font-semibold text-slate-800 mb-6 text-center">Répartition Budget Optimal</h3>
-            <div class="mermaid">
+            <pre class="mermaid">
               pie title Budget Chambre Spa (estimation pour 15m²)
                 "Textiles et literie" : 35
-                "Éclairage et ambiance" : 20
+                "Eclairage et ambiance" : 20
                 "Mobilier de rangement" : 15
-                "Matériaux naturels" : 15
+                "Materiaux naturels" : 15
                 "Plantes et accessoires" : 10
-                "Peinture et revêtements" : 5
-
-                style "Textiles et literie" fill:#F59E0B
-                style "Éclairage et ambiance" fill:#8B5CF6
-                style "Mobilier de rangement" fill:#10B981
-                style "Matériaux naturels" fill:#F97316
-                style "Plantes et accessoires" fill:#06B6D4
-                style "Peinture et revêtements" fill:#EF4444
-            </div>
+                "Peinture et revetements" : 5
+            </pre>
           </div>
 
         </div>
@@ -415,17 +417,17 @@ const description = "Transformez votre chambre en spa ! 15 idées pour créer un
 </BaseLayout>
 
 <script type="module">
-  import mermaid from 'https://unpkg.com/mermaid@10/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ 
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({
     startOnLoad: true,
-    theme: 'base',
+    theme: 'dark',
     themeVariables: {
-      primaryColor: '#F59E0B',
+      primaryColor: '#141D30',
       primaryTextColor: '#F1F5F9',
-      primaryBorderColor: '#D97706',
+      primaryBorderColor: '#F59E0B',
       lineColor: '#8B5CF6',
-      background: '#141D30',
-      darkMode: true
-    }
+      secondaryColor: '#1E293B',
+      tertiaryColor: '#1E293B',
+    },
   });
 </script>

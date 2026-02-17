@@ -3,12 +3,28 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Balcon Petit Espace : 18 Astuces pour un Aménagement Optimisé";
 const description = "Transformez votre petit balcon en oasis ! 18 astuces d'aménagement, mobilier compact et végétalisation pour optimiser chaque centimètre.";
+
+const pageSlug = 'balcon-amenagement-petit-espace-optimise';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/balcon-amenagement-petit-espace-optimise/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Exterieur', url: '/guides/decoration' },
+  { name: title, url: '/balcon-amenagement-petit-espace-optimise/' },
+]);
+
 ---
 
-<BaseLayout {title} {description} canonical="https://www.cristallina.fr/balcon-amenagement-petit-espace-optimise/">
+<BaseLayout {title} {description}
+  jsonLd={[schemaArticle, schemaBreadcrumb]}
+>
   <Navbar />
   <main class="pt-16">
     <!-- Hero Section -->
@@ -48,7 +64,7 @@ const description = "Transformez votre petit balcon en oasis ! 18 astuces d'amé
           src="/images/unsplash-balcon-amenagement-petit-espace-1771180021.jpg" 
           alt="Petit balcon aménagé avec mobilier compact, plantes verticales et éclairage cosy"
           class="w-full h-64 md:h-96 object-cover"
-        />
+         width="1200" height="675" loading="eager" decoding="async" />
         <div class="absolute inset-0 bg-gradient-to-t from-void/20 to-transparent"></div>
       </div>
     </section>
@@ -90,7 +106,7 @@ const description = "Transformez votre petit balcon en oasis ! 18 astuces d'amé
         <p>Le choix du mobilier détermine la réussite de votre aménagement. Sur un petit balcon, chaque meuble doit servir à plusieurs usages pour rentabiliser l'espace au maximum.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237768376.jpg" alt="Amenagement de balcon avec mobilier compact et plantes vertes" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237768376.jpg" alt="Amenagement de balcon avec mobilier compact et plantes vertes" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -127,7 +143,7 @@ const description = "Transformez votre petit balcon en oasis ! 18 astuces d'amé
         <p>La végétalisation verticale transforme les murs aveugles en jardins luxuriants sans empiéter sur l'espace au sol. Elle apporte fraîcheur, couleur et intimité à votre petit balcon.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237198931.jpg" alt="Petit balcon decore avec des elements scandinaves" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237198931.jpg" alt="Petit balcon decore avec des elements scandinaves" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -175,7 +191,7 @@ const description = "Transformez votre petit balcon en oasis ! 18 astuces d'amé
         <p>L'optimisation du rangement fait la différence entre un balcon encombré et un espace fonctionnel. Chaque recoin peut devenir une zone de stockage discrète.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237095436.jpg" alt="Balcon optimise avec rangements et vegetalisation verticale" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237095436.jpg" alt="Balcon optimise avec rangements et vegetalisation verticale" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -212,7 +228,7 @@ const description = "Transformez votre petit balcon en oasis ! 18 astuces d'amé
         <p>Un bon éclairage prolonge l'usage de votre balcon en soirée tout en créant une ambiance chaleureuse. Pensez à multiplier les sources lumineuses pour un rendu harmonieux.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237193167.jpg" alt="Decoration de balcon minimaliste et fonctionnelle" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237193167.jpg" alt="Decoration de balcon minimaliste et fonctionnelle" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -259,7 +275,7 @@ const description = "Transformez votre petit balcon en oasis ! 18 astuces d'amé
         <p>Créer de l'intimité sur un balcon exposé aux regards nécessite des solutions esthétiques qui ne bloquent pas complètement la lumière naturelle.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238008500.jpg" alt="Balcon cosy avec eclairage tamisé et plantes suspendues" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238008500.jpg" alt="Balcon cosy avec eclairage tamisé et plantes suspendues" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -371,4 +387,20 @@ const description = "Transformez votre petit balcon en oasis ! 18 astuces d'amé
     </article>
   </main>
   <Footer />
+
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: 'dark',
+      themeVariables: {
+        primaryColor: '#141D30',
+        primaryTextColor: '#F1F5F9',
+        primaryBorderColor: '#F59E0B',
+        lineColor: '#8B5CF6',
+        secondaryColor: '#1E293B',
+        tertiaryColor: '#1E293B',
+      },
+    });
+  </script>
 </BaseLayout>

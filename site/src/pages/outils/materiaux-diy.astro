@@ -1,0 +1,858 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+---
+
+<BaseLayout 
+  title="Calculateur Matériaux DIY - Liste d'Achats Projets - Cristallina"
+  description="Calculez les matériaux nécessaires pour vos projets DIY déco : étagères, têtes de lit, rangements. Liste détaillée et budget."
+  canonical="https://www.cristallina.fr/outils/materiaux-diy/"
+>
+  <Navbar />
+  
+  <main class="pt-16">
+    <!-- Hero Section -->
+    <section class="section-soft py-20">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div class="space-y-8">
+          <div class="inline-block">
+            <span class="inline-flex items-center px-6 py-3 bg-white/90 backdrop-blur-sm shadow-soft rounded-full border border-feminine">
+              <span class="mr-3 text-lg">🔨</span> 
+              <span class="title-elegant text-sm">Calculateur Gratuit</span>
+            </span>
+          </div>
+          
+          <h1 class="text-5xl md:text-7xl lg:text-8xl font-display leading-tight">
+            <span class="block title-elegant">Matériaux</span>
+            <span class="block text-6xl md:text-8xl lg:text-9xl" style="color: #D4A574; font-style: italic;">DIY</span>
+            <span class="block title-elegant">précis</span>
+          </h1>
+          
+          <div class="quote-feminine max-w-3xl mx-auto">
+            Liste complète des matériaux pour réussir tes projets DIY déco
+          </div>
+          
+          <div class="flex flex-wrap justify-center gap-4 text-sm" style="color: #8B8B8B;">
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-green-400 rounded-full"></span>
+              Calcul précis
+            </span>
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-blue-400 rounded-full"></span>
+              Liste d'achats
+            </span>
+            <span class="flex items-center gap-2">
+              <span class="w-2 h-2 bg-purple-400 rounded-full"></span>
+              Budget estimé
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Calculator Interface -->
+    <section class="py-20">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <!-- Main Calculator -->
+        <div class="grid lg:grid-cols-3 gap-8">
+          
+          <!-- Project Selection -->
+          <div class="lg:col-span-1">
+            <div class="card-feminine shadow-soft-hover">
+              <h2 class="text-2xl title-elegant mb-6">Choisir mon projet</h2>
+              
+              <!-- Project Categories -->
+              <div class="mb-6">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Catégorie de projet</label>
+                <div class="grid grid-cols-1 gap-2" id="project-categories">
+                  <button class="category-btn" data-category="mobilier">🪑 Mobilier</button>
+                  <button class="category-btn" data-category="rangement">📦 Rangement</button>
+                  <button class="category-btn" data-category="decoration">🎨 Décoration</button>
+                  <button class="category-btn" data-category="amenagement">🏠 Aménagement</button>
+                </div>
+              </div>
+
+              <!-- Specific Projects -->
+              <div class="mb-6" id="project-selection" style="display: none;">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Projet spécifique</label>
+                <div id="specific-projects" class="grid grid-cols-1 gap-2">
+                  <!-- Will be populated dynamically -->
+                </div>
+              </div>
+
+              <!-- Project Dimensions -->
+              <div class="mb-6" id="dimensions-section" style="display: none;">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Dimensions du projet</label>
+                <div id="dimension-inputs">
+                  <!-- Will be populated based on selected project -->
+                </div>
+              </div>
+
+              <!-- Material Quality -->
+              <div class="mb-6" id="quality-section" style="display: none;">
+                <label class="block text-sm font-semibold mb-3" style="color: #5D4E75;">Qualité matériaux</label>
+                <select id="material-quality" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+                  <option value="budget">Budget (aggloméré/pin)</option>
+                  <option value="standard" selected>Standard (contreplaqué/hêtre)</option>
+                  <option value="premium">Premium (chêne/noyer)</option>
+                </select>
+              </div>
+
+              <!-- Calculate Button -->
+              <button id="calculate-materials-btn" class="btn-feminine w-full shadow-soft-hover" style="display: none;">
+                🔨 Calculer les matériaux
+              </button>
+            </div>
+
+            <!-- Project Examples -->
+            <div class="card-feminine shadow-soft-hover mt-6">
+              <h3 class="text-lg title-elegant mb-4">💡 Projets populaires</h3>
+              <div class="space-y-2 text-xs" style="color: #8B8B8B;">
+                <div>• Étagère flottante 80cm</div>
+                <div>• Tête de lit 140cm</div>
+                <div>• Table de chevet 40x30cm</div>
+                <div>• Bibliothèque 5 cases</div>
+                <div>• Bar de cuisine 120cm</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Results & Materials List -->
+          <div class="lg:col-span-2">
+            <div class="card-feminine shadow-soft-hover">
+              <h3 class="text-xl title-elegant mb-6">Ma liste de matériaux</h3>
+              
+              <!-- Results Display -->
+              <div id="materials-results" class="hidden">
+                
+                <!-- Project Summary -->
+                <div class="bg-gradient-to-r from-primary/10 to-accent/10 rounded-xl p-6 mb-6">
+                  <div class="text-center">
+                    <h4 class="text-2xl font-display mb-2" style="color: #D4A574;" id="project-title">
+                      Étagère Flottante 80cm
+                    </h4>
+                    <div class="text-sm" style="color: #8B8B8B;" id="project-description">
+                      Description du projet
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Materials Lists -->
+                <div class="grid md:grid-cols-2 gap-6 mb-6">
+                  
+                  <!-- Wood Materials -->
+                  <div class="bg-amber-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">🪵 Matériaux bois</h4>
+                    <div id="wood-materials" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+
+                  <!-- Hardware & Fixings -->
+                  <div class="bg-gray-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">🔩 Quincaillerie</h4>
+                    <div id="hardware-materials" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Tools & Finishing -->
+                <div class="grid md:grid-cols-2 gap-6 mb-6">
+                  
+                  <!-- Tools Needed -->
+                  <div class="bg-blue-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">🔧 Outils nécessaires</h4>
+                    <div id="tools-needed" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+
+                  <!-- Finishing Materials -->
+                  <div class="bg-green-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">🎨 Finitions</h4>
+                    <div id="finishing-materials" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Budget & Instructions -->
+                <div class="grid md:grid-cols-2 gap-6 mb-6">
+                  
+                  <!-- Budget Estimate -->
+                  <div class="bg-purple-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">💰 Estimation budget</h4>
+                    <div id="budget-breakdown" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+
+                  <!-- Quick Instructions -->
+                  <div class="bg-orange-50 rounded-xl p-6">
+                    <h4 class="font-semibold mb-3" style="color: #5D4E75;">📋 Étapes principales</h4>
+                    <div id="project-steps" class="space-y-2 text-sm">
+                      <!-- Dynamic content -->
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Pro Tips -->
+                <div class="bg-yellow-50 rounded-xl p-6">
+                  <h4 class="font-semibold mb-3" style="color: #5D4E75;">💡 Conseils pro</h4>
+                  <div id="diy-tips" class="space-y-2 text-sm">
+                    <!-- Dynamic tips -->
+                  </div>
+                </div>
+              </div>
+
+              <!-- Initial State -->
+              <div id="materials-initial-state" class="text-center py-12">
+                <div class="text-6xl mb-4">🔨</div>
+                <p style="color: #8B8B8B;">Sélectionnez une catégorie de projet pour commencer</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- DIY Projects Gallery -->
+        <div class="mt-16">
+          <h3 class="text-2xl title-elegant text-center mb-8">Projets DIY populaires</h3>
+          
+          <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">📚</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Étagères</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Flottantes</div>
+                <div>• D'angle</div>
+                <div>• Bibliothèque</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">🛏️</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Mobilier chambre</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Tête de lit</div>
+                <div>• Table de chevet</div>
+                <div>• Banc bout de lit</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">🍽️</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Cuisine</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Îlot mobile</div>
+                <div>• Bar petit-déj</div>
+                <div>• Desserte</div>
+              </div>
+            </div>
+
+            <div class="card-feminine text-center">
+              <div class="text-3xl mb-3">🎨</div>
+              <h4 class="font-semibold mb-2" style="color: #5D4E75;">Décoration</h4>
+              <div class="text-sm space-y-1" style="color: #8B8B8B;">
+                <div>• Cadres photos</div>
+                <div>• Miroirs</div>
+                <div>• Patères design</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="py-20 section-soft">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h3 class="text-2xl title-elegant text-center mb-8">Questions fréquentes</h3>
+        
+        <div class="space-y-6">
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Quel bois choisir pour débuter ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Commencez par du pin ou du contreplaqué de bouleau. Faciles à travailler, prix abordable, et disponibles en magasins de bricolage.</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Quels outils minimum pour commencer ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Perceuse-visseuse, scie (égoïne ou sauteuse), mètre, équerre, crayon, papier de verre. Complétez progressivement selon vos projets.</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Comment éviter les erreurs de débutant ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">Mesurez deux fois, coupez une fois ! Commencez par des projets simples, préparez bien vos découpes, et n'hésitez pas à faire découper en magasin.</p>
+          </div>
+
+          <div class="card-feminine">
+            <h4 class="font-semibold mb-2" style="color: #5D4E75;">Quel budget prévoir pour commencer le DIY ?</h4>
+            <p class="text-sm" style="color: #8B8B8B;">150-300€ pour un kit d'outils de base, puis 20-100€ par projet selon la complexité et les matériaux choisis. L'investissement outils est rentabilisé rapidement.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+.category-btn, .project-btn {
+  padding: 0.75rem;
+  font-size: 0.875rem;
+  text-align: left;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(139, 122, 168, 0.15);
+  background: rgba(255, 255, 255, 0.8);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.category-btn:hover,
+.category-btn.active,
+.project-btn:hover,
+.project-btn.active {
+  background: linear-gradient(135deg, var(--color-primary-light), var(--color-accent-light));
+  border-color: rgba(139, 122, 168, 0.3);
+  box-shadow: 0 4px 24px rgba(139, 122, 168, 0.08);
+  color: #5D4E75;
+}
+
+.dimension-input {
+  margin-bottom: 0.75rem;
+}
+
+.input-group {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+@keyframes diy-hammer {
+  0%, 100% { transform: rotate(-15deg); }
+  50% { transform: rotate(15deg); }
+}
+
+.hammer-animation {
+  animation: diy-hammer 1.5s ease-in-out infinite;
+}
+</style>
+
+<script>
+// DIY Project configurations
+const projectCategories = {
+  mobilier: {
+    name: 'Mobilier',
+    projects: {
+      'tete-de-lit': {
+        name: 'Tête de lit',
+        description: 'Tête de lit moderne en bois',
+        dimensions: [
+          { id: 'width', label: 'Largeur lit (cm)', placeholder: '140', options: ['90', '140', '160', '180'] },
+          { id: 'height', label: 'Hauteur souhaitée (cm)', placeholder: '80' }
+        ]
+      },
+      'table-chevet': {
+        name: 'Table de chevet',
+        description: 'Table de chevet avec tiroir',
+        dimensions: [
+          { id: 'width', label: 'Largeur (cm)', placeholder: '40' },
+          { id: 'depth', label: 'Profondeur (cm)', placeholder: '30' },
+          { id: 'height', label: 'Hauteur (cm)', placeholder: '50' }
+        ]
+      },
+      'banc': {
+        name: 'Banc d\'entrée',
+        description: 'Banc avec rangement intégré',
+        dimensions: [
+          { id: 'width', label: 'Longueur (cm)', placeholder: '100' },
+          { id: 'depth', label: 'Profondeur (cm)', placeholder: '35' },
+          { id: 'height', label: 'Hauteur assise (cm)', placeholder: '45' }
+        ]
+      }
+    }
+  },
+  rangement: {
+    name: 'Rangement',
+    projects: {
+      'etagere-flottante': {
+        name: 'Étagère flottante',
+        description: 'Étagère murale invisible',
+        dimensions: [
+          { id: 'width', label: 'Longueur (cm)', placeholder: '80' },
+          { id: 'depth', label: 'Profondeur (cm)', placeholder: '25' },
+          { id: 'thickness', label: 'Épaisseur (mm)', placeholder: '32' }
+        ]
+      },
+      'bibliotheque': {
+        name: 'Bibliothèque modulaire',
+        description: 'Bibliothèque 5 cases personnalisable',
+        dimensions: [
+          { id: 'width', label: 'Largeur totale (cm)', placeholder: '120' },
+          { id: 'height', label: 'Hauteur totale (cm)', placeholder: '180' },
+          { id: 'depth', label: 'Profondeur (cm)', placeholder: '30' },
+          { id: 'shelves', label: 'Nombre d\'étagères', placeholder: '4' }
+        ]
+      },
+      'cube-rangement': {
+        name: 'Cubes de rangement',
+        description: 'Cubes modulaires empilables',
+        dimensions: [
+          { id: 'size', label: 'Dimension cube (cm)', placeholder: '35' },
+          { id: 'quantity', label: 'Nombre de cubes', placeholder: '4' }
+        ]
+      }
+    }
+  },
+  decoration: {
+    name: 'Décoration',
+    projects: {
+      'cadre-photo': {
+        name: 'Cadres photos',
+        description: 'Cadres en bois naturel',
+        dimensions: [
+          { id: 'format', label: 'Format photo', placeholder: '30x40', options: ['20x30', '30x40', '40x50', '50x70'] },
+          { id: 'quantity', label: 'Nombre de cadres', placeholder: '3' },
+          { id: 'frame_width', label: 'Largeur cadre (cm)', placeholder: '3' }
+        ]
+      },
+      'miroir-decoratif': {
+        name: 'Miroir décoratif',
+        description: 'Miroir avec encadrement personnalisé',
+        dimensions: [
+          { id: 'mirror_size', label: 'Diamètre miroir (cm)', placeholder: '60' },
+          { id: 'frame_width', label: 'Largeur encadrement (cm)', placeholder: '8' }
+        ]
+      },
+      'pateres-design': {
+        name: 'Patères design',
+        description: 'Patères murales géométriques',
+        dimensions: [
+          { id: 'quantity', label: 'Nombre de patères', placeholder: '5' },
+          { id: 'size', label: 'Taille unitaire (cm)', placeholder: '8' }
+        ]
+      }
+    }
+  },
+  amenagement: {
+    name: 'Aménagement',
+    projects: {
+      'bar-cuisine': {
+        name: 'Bar de cuisine',
+        description: 'Bar/îlot mobile avec rangements',
+        dimensions: [
+          { id: 'width', label: 'Longueur (cm)', placeholder: '120' },
+          { id: 'depth', label: 'Profondeur (cm)', placeholder: '60' },
+          { id: 'height', label: 'Hauteur plan (cm)', placeholder: '90' }
+        ]
+      },
+      'cloison-separation': {
+        name: 'Cloison séparatrice',
+        description: 'Cloison ajourée pour séparer les espaces',
+        dimensions: [
+          { id: 'width', label: 'Largeur (cm)', placeholder: '200' },
+          { id: 'height', label: 'Hauteur (cm)', placeholder: '180' },
+          { id: 'thickness', label: 'Épaisseur (mm)', placeholder: '18' }
+        ]
+      },
+      'plan-travail': {
+        name: 'Plan de travail',
+        description: 'Plan de travail sur mesure',
+        dimensions: [
+          { id: 'width', label: 'Longueur (cm)', placeholder: '160' },
+          { id: 'depth', label: 'Profondeur (cm)', placeholder: '60' },
+          { id: 'thickness', label: 'Épaisseur (mm)', placeholder: '40' }
+        ]
+      }
+    }
+  }
+};
+
+// Material prices and specifications
+const materialPrices = {
+  budget: {
+    plywood: 25, // €/m²
+    solid_wood: 15,
+    screws: 0.5, // per unit
+    hinges: 3,
+    handles: 2,
+    finish: 8 // €/L
+  },
+  standard: {
+    plywood: 35,
+    solid_wood: 25,
+    screws: 0.8,
+    hinges: 6,
+    handles: 5,
+    finish: 15
+  },
+  premium: {
+    plywood: 55,
+    solid_wood: 45,
+    screws: 1.2,
+    hinges: 12,
+    handles: 15,
+    finish: 25
+  }
+};
+
+let selectedCategory = null;
+let selectedProject = null;
+let projectDimensions = {};
+
+document.addEventListener('DOMContentLoaded', () => {
+  setupEventListeners();
+});
+
+function setupEventListeners() {
+  // Category selection
+  document.querySelectorAll('.category-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.category-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      selectedCategory = btn.dataset.category;
+      showProjectSelection();
+      hideResultsAndSections();
+    });
+  });
+
+  // Calculate button
+  document.getElementById('calculate-materials-btn').addEventListener('click', calculateMaterials);
+}
+
+function showProjectSelection() {
+  const category = projectCategories[selectedCategory];
+  const container = document.getElementById('specific-projects');
+  
+  const html = Object.entries(category.projects).map(([key, project]) => `
+    <button class="project-btn" data-project="${key}">
+      ${project.name}
+      <div class="text-xs mt-1" style="color: #8B8B8B;">${project.description}</div>
+    </button>
+  `).join('');
+  
+  container.innerHTML = html;
+  document.getElementById('project-selection').style.display = 'block';
+  
+  // Add event listeners to project buttons
+  container.querySelectorAll('.project-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      container.querySelectorAll('.project-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      selectedProject = btn.dataset.project;
+      showDimensions();
+    });
+  });
+}
+
+function showDimensions() {
+  const project = projectCategories[selectedCategory].projects[selectedProject];
+  const container = document.getElementById('dimension-inputs');
+  
+  const html = project.dimensions.map(dimension => {
+    if (dimension.options) {
+      // Dropdown for predefined options
+      return `
+        <div class="dimension-input">
+          <label class="text-xs mb-1 block" style="color: #8B8B8B;">${dimension.label}</label>
+          <select id="${dimension.id}" class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20">
+            ${dimension.options.map(option => `
+              <option value="${option}" ${option === dimension.placeholder ? 'selected' : ''}>${option}</option>
+            `).join('')}
+            <option value="custom">Personnalisé</option>
+          </select>
+        </div>
+      `;
+    } else {
+      // Number input
+      return `
+        <div class="dimension-input">
+          <label class="text-xs mb-1 block" style="color: #8B8B8B;">${dimension.label}</label>
+          <input 
+            type="number" 
+            id="${dimension.id}" 
+            placeholder="${dimension.placeholder}" 
+            step="1" 
+            class="w-full px-3 py-2 border border-border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20"
+          >
+        </div>
+      `;
+    }
+  }).join('');
+  
+  container.innerHTML = html;
+  document.getElementById('dimensions-section').style.display = 'block';
+  document.getElementById('quality-section').style.display = 'block';
+  document.getElementById('calculate-materials-btn').style.display = 'block';
+}
+
+function calculateMaterials() {
+  const project = projectCategories[selectedCategory].projects[selectedProject];
+  
+  // Collect dimensions
+  projectDimensions = {};
+  project.dimensions.forEach(dim => {
+    const element = document.getElementById(dim.id);
+    projectDimensions[dim.id] = parseFloat(element.value) || parseFloat(dim.placeholder);
+  });
+  
+  const quality = document.getElementById('material-quality').value;
+  
+  // Calculate materials based on project type
+  const materials = calculateProjectMaterials(selectedProject, projectDimensions, quality);
+  displayMaterialsResults(materials, project);
+}
+
+function calculateProjectMaterials(projectType, dimensions, quality) {
+  const prices = materialPrices[quality];
+  let materials = {
+    wood: [],
+    hardware: [],
+    tools: [],
+    finishing: [],
+    steps: [],
+    tips: [],
+    budget: { wood: 0, hardware: 0, finishing: 0, total: 0 }
+  };
+  
+  switch (projectType) {
+    case 'etagere-flottante':
+      const shelfArea = (dimensions.width * dimensions.depth) / 10000; // m²
+      materials.wood = [
+        { item: `Planche ${dimensions.width}x${dimensions.depth}x${dimensions.thickness}mm`, quantity: 1, unit: 'pcs' },
+        { item: `Tasseau de fixation ${dimensions.width-10}cm`, quantity: 1, unit: 'pcs' }
+      ];
+      materials.hardware = [
+        { item: 'Vis à bois 4x50mm', quantity: 6, unit: 'pcs' },
+        { item: 'Chevilles molly', quantity: 4, unit: 'pcs' },
+        { item: 'Vis de fixation murale', quantity: 4, unit: 'pcs' }
+      ];
+      materials.tools = ['Perceuse', 'Niveau à bulle', 'Mètre', 'Crayon', 'Détecteur de métaux'];
+      materials.finishing = [
+        { item: 'Papier de verre grain 120', quantity: 1, unit: 'feuille' },
+        { item: 'Huile ou vernis', quantity: '250ml', unit: 'pot' }
+      ];
+      materials.steps = [
+        'Découper la planche aux dimensions',
+        'Poncer les surfaces et arêtes',
+        'Fixer le tasseau au mur (niveau obligatoire)',
+        'Percer la planche pour le tasseau',
+        'Appliquer la finition',
+        'Monter l\'étagère sur le tasseau'
+      ];
+      materials.budget.wood = shelfArea * prices.plywood + 5;
+      materials.budget.hardware = 15;
+      materials.budget.finishing = 8;
+      break;
+
+    case 'tete-de-lit':
+      const headboardArea = (dimensions.width * dimensions.height) / 10000;
+      materials.wood = [
+        { item: `Panneau contreplaqué ${dimensions.width}x${dimensions.height}cm`, quantity: 1, unit: 'pcs' },
+        { item: `Tasseaux 32x32mm pour structure`, quantity: Math.ceil(dimensions.width/50), unit: 'ml' }
+      ];
+      materials.hardware = [
+        { item: 'Vis à bois 4x40mm', quantity: 16, unit: 'pcs' },
+        { item: 'Équerre de fixation', quantity: 2, unit: 'pcs' },
+        { item: 'Vis de fixation murale', quantity: 4, unit: 'pcs' }
+      ];
+      materials.tools = ['Scie sauteuse', 'Perceuse', 'Ponceuse', 'Niveau', 'Mètre'];
+      materials.finishing = [
+        { item: 'Peinture acrylique', quantity: '500ml', unit: 'pot' },
+        { item: 'Pinceau et rouleau', quantity: 1, unit: 'set' },
+        { item: 'Papier de verre assortiment', quantity: 1, unit: 'pack' }
+      ];
+      materials.steps = [
+        'Découper le panneau à la forme souhaitée',
+        'Construire l\'ossature avec les tasseaux',
+        'Poncer entièrement',
+        'Appliquer sous-couche si nécessaire',
+        'Peindre ou teinter',
+        'Fixer au mur derrière le lit'
+      ];
+      materials.budget.wood = headboardArea * prices.plywood + 20;
+      materials.budget.hardware = 12;
+      materials.budget.finishing = 25;
+      break;
+
+    case 'table-chevet':
+      const surfaceArea = (dimensions.width * dimensions.depth) / 10000;
+      materials.wood = [
+        { item: `Plateau ${dimensions.width}x${dimensions.depth}cm ép.18mm`, quantity: 1, unit: 'pcs' },
+        { item: `Côtés ${dimensions.depth}x${dimensions.height}cm`, quantity: 2, unit: 'pcs' },
+        { item: `Fond ${dimensions.width}x${dimensions.height}cm`, quantity: 1, unit: 'pcs' },
+        { item: `Étagère intérieure`, quantity: 1, unit: 'pcs' }
+      ];
+      materials.hardware = [
+        { item: 'Vis à bois 3x25mm', quantity: 20, unit: 'pcs' },
+        { item: 'Tourillons 8mm', quantity: 12, unit: 'pcs' },
+        { item: 'Charnière pour porte', quantity: 2, unit: 'pcs' },
+        { item: 'Poignée', quantity: 1, unit: 'pcs' }
+      ];
+      materials.tools = ['Scie', 'Perceuse', 'Mèche à tourillons', 'Serre-joints', 'Équerre'];
+      materials.finishing = [
+        { item: 'Colle à bois', quantity: 1, unit: 'tube' },
+        { item: 'Vernis mat', quantity: '250ml', unit: 'pot' }
+      ];
+      materials.budget.wood = surfaceArea * 3 * prices.plywood + 15;
+      materials.budget.hardware = prices.hinges * 2 + prices.handles + 8;
+      materials.budget.finishing = 12;
+      break;
+
+    default:
+      // Generic calculation for other projects
+      const estimatedArea = Object.values(dimensions).reduce((acc, val) => acc + val, 0) / 10000;
+      materials.budget.wood = Math.max(estimatedArea * prices.plywood, 20);
+      materials.budget.hardware = 15;
+      materials.budget.finishing = 10;
+  }
+  
+  materials.budget.total = materials.budget.wood + materials.budget.hardware + materials.budget.finishing;
+  
+  // Add generic tips
+  materials.tips = [
+    'Mesurez deux fois, coupez une fois',
+    `Qualité ${quality}: bon compromis prix/finition`,
+    'Testez l\'assemblage à blanc avant collage',
+    'Pré-percez pour éviter les fentes',
+    'Poncez dans le sens du grain',
+    'Protégez votre plan de travail'
+  ];
+  
+  return materials;
+}
+
+function displayMaterialsResults(materials, project) {
+  // Show results section
+  document.getElementById('materials-initial-state').classList.add('hidden');
+  document.getElementById('materials-results').classList.remove('hidden');
+  
+  // Update project info
+  document.getElementById('project-title').textContent = project.name;
+  document.getElementById('project-description').textContent = project.description;
+  
+  // Wood materials
+  const woodContainer = document.getElementById('wood-materials');
+  if (materials.wood.length > 0) {
+    woodContainer.innerHTML = materials.wood.map(item => `
+      <div class="flex justify-between">
+        <span>${item.item}</span>
+        <span>${item.quantity} ${item.unit}</span>
+      </div>
+    `).join('');
+  } else {
+    woodContainer.innerHTML = `
+      <div>Matériaux calculés selon dimensions</div>
+      <div class="text-xs">Détail disponible en magasin</div>
+    `;
+  }
+  
+  // Hardware materials
+  const hardwareContainer = document.getElementById('hardware-materials');
+  if (materials.hardware.length > 0) {
+    hardwareContainer.innerHTML = materials.hardware.map(item => `
+      <div class="flex justify-between">
+        <span>${item.item}</span>
+        <span>${item.quantity} ${item.unit}</span>
+      </div>
+    `).join('');
+  } else {
+    hardwareContainer.innerHTML = `
+      <div>Visserie et fixations standards</div>
+      <div class="text-xs">Liste détaillée après calcul</div>
+    `;
+  }
+  
+  // Tools needed
+  const toolsContainer = document.getElementById('tools-needed');
+  toolsContainer.innerHTML = materials.tools.map(tool => `
+    <div class="flex items-center gap-2">
+      <span class="text-blue-500">•</span>
+      <span>${tool}</span>
+    </div>
+  `).join('');
+  
+  // Finishing materials
+  const finishingContainer = document.getElementById('finishing-materials');
+  if (materials.finishing.length > 0) {
+    finishingContainer.innerHTML = materials.finishing.map(item => `
+      <div class="flex justify-between">
+        <span>${item.item}</span>
+        <span>${item.quantity} ${item.unit}</span>
+      </div>
+    `).join('');
+  } else {
+    finishingContainer.innerHTML = `
+      <div>Finition selon goût personnel</div>
+      <div class="text-xs">Huile, vernis, peinture ou lasure</div>
+    `;
+  }
+  
+  // Budget breakdown
+  const budgetContainer = document.getElementById('budget-breakdown');
+  budgetContainer.innerHTML = `
+    <div class="flex justify-between">
+      <span>Matériaux bois</span>
+      <span>${Math.round(materials.budget.wood)}€</span>
+    </div>
+    <div class="flex justify-between">
+      <span>Quincaillerie</span>
+      <span>${Math.round(materials.budget.hardware)}€</span>
+    </div>
+    <div class="flex justify-between">
+      <span>Finitions</span>
+      <span>${Math.round(materials.budget.finishing)}€</span>
+    </div>
+    <div class="border-t pt-2 mt-2 flex justify-between font-semibold">
+      <span>Total estimé</span>
+      <span class="text-lg" style="color: #D4A574;">${Math.round(materials.budget.total)}€</span>
+    </div>
+    <div class="text-xs pt-1" style="color: #8B8B8B;">Hors outils (location possible)</div>
+  `;
+  
+  // Project steps
+  const stepsContainer = document.getElementById('project-steps');
+  if (materials.steps.length > 0) {
+    stepsContainer.innerHTML = materials.steps.map((step, index) => `
+      <div class="flex items-start gap-2">
+        <span class="text-orange-500 font-semibold">${index + 1}.</span>
+        <span>${step}</span>
+      </div>
+    `).join('');
+  } else {
+    stepsContainer.innerHTML = `
+      <div>Étapes personnalisées selon projet</div>
+      <div class="text-xs">Plan détaillé fourni avec calcul</div>
+    `;
+  }
+  
+  // DIY Tips
+  const tipsContainer = document.getElementById('diy-tips');
+  tipsContainer.innerHTML = materials.tips.map(tip => `
+    <div class="flex items-start gap-2">
+      <span class="text-yellow-600 mt-0.5">•</span>
+      <span>${tip}</span>
+    </div>
+  `).join('');
+  
+  // Smooth scroll to results
+  document.getElementById('materials-results').scrollIntoView({ 
+    behavior: 'smooth', 
+    block: 'start' 
+  });
+}
+
+function hideResultsAndSections() {
+  document.getElementById('materials-initial-state').classList.remove('hidden');
+  document.getElementById('materials-results').classList.add('hidden');
+  document.getElementById('project-selection').style.display = 'none';
+  document.getElementById('dimensions-section').style.display = 'none';
+  document.getElementById('quality-section').style.display = 'none';
+  document.getElementById('calculate-materials-btn').style.display = 'none';
+}
+</script>

@@ -3,9 +3,23 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Déco Récup : 25 Idées Upcycling pour une Maison Unique";
 const description = "Créez du unique avec la récup ! 25 idées upcycling créatives pour transformer vos objets du quotidien en déco tendance et écologique.";
+
+const pageSlug = 'decoration-recup-upcycling-maison-unique';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/decoration-recup-upcycling-maison-unique/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'DIY', url: '/guides/decoration' },
+  { name: title, url: '/decoration-recup-upcycling-maison-unique/' },
+]);
+
 ---
 
 <BaseLayout title={title} description={description}>
@@ -31,7 +45,7 @@ const description = "Créez du unique avec la récup ! 25 idées upcycling créa
           src="/images/unsplash-decoration-recup-upcycling-maison-unique-placeholder.jpg" 
           alt="Déco récup et upcycling pour une maison unique" 
           class="w-full h-80 object-cover"
-        />
+         width="1200" height="675" loading="eager" decoding="async" />
       </div>
     </section>
 
@@ -67,7 +81,7 @@ const description = "Créez du unique avec la récup ! 25 idées upcycling créa
             </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-shabby-chic-pastel-vintage-romantique-1771237472098.jpg" alt="Meuble recycle transforme en piece unique decorative" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-shabby-chic-pastel-vintage-romantique-1771237472098.jpg" alt="Meuble recycle transforme en piece unique decorative" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
             <p class="text-gray-700">
@@ -127,7 +141,7 @@ const description = "Créez du unique avec la récup ! 25 idées upcycling créa
             </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-shabby-chic-pastel-vintage-romantique-1771236938997.jpg" alt="Decoration upcycling avec palettes et objets recuperes" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-shabby-chic-pastel-vintage-romantique-1771236938997.jpg" alt="Decoration upcycling avec palettes et objets recuperes" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
           </div>
@@ -179,7 +193,7 @@ const description = "Créez du unique avec la récup ! 25 idées upcycling créa
             </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771236370598.jpg" alt="Interieur shabby chic avec elements de recup" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771236370598.jpg" alt="Interieur shabby chic avec elements de recup" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
           </div>
@@ -233,7 +247,7 @@ const description = "Créez du unique avec la récup ! 25 idées upcycling créa
             </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771236784765.jpg" alt="Etagere DIY avec materiaux recuperes et plantes" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771236784765.jpg" alt="Etagere DIY avec materiaux recuperes et plantes" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
           </div>
@@ -282,7 +296,7 @@ const description = "Créez du unique avec la récup ! 25 idées upcycling créa
             </p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-shabby-chic-pastel-vintage-romantique-1771235851683.jpg" alt="Salon decore avec des objets chines et recycles" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-shabby-chic-pastel-vintage-romantique-1771235851683.jpg" alt="Salon decore avec des objets chines et recycles" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
             <p class="text-gray-700">

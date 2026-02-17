@@ -3,16 +3,42 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Aménagement Feng Shui : 12 Principes pour Harmoniser votre Intérieur";
 const description = "Transformez votre habitat avec le feng shui ! Circulation d'énergie, placement des meubles et couleurs harmonieuses pour un intérieur équilibré.";
+
+const pageSlug = 'amenagement-feng-shui';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/amenagement-feng-shui/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Feng Shui', url: '/guides/decoration' },
+  { name: title, url: '/amenagement-feng-shui/' },
+]);
+
 ---
 
-<BaseLayout {title} {description} canonical="https://www.cristallina.fr/amenagement-feng-shui/">
+<BaseLayout {title} {description}
+  jsonLd={[schemaArticle, schemaBreadcrumb]}
+>
   <Navbar />
   
   <main class="pt-16">
     <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      
+      <!-- Breadcrumb -->
+      <nav class="flex items-center gap-2 text-sm mb-6" style="color: #B5B5B5;" aria-label="Fil d'ariane">
+        <a href="/" class="hover:text-rose-400 transition-colors">Accueil</a>
+        <span>/</span>
+        <a href="/guides/decoration" class="hover:text-rose-400 transition-colors">Feng Shui</a>
+        <span>/</span>
+        <span style="color: #8B8B8B;">{title}</span>
+      </nav>
+
       <header class="mb-8">
         <h1 class="text-3xl md:text-4xl title-elegant mb-4">{title}</h1>
         <p class="text-lg mb-6" style="color: #8B8B8B;">{description}</p>
@@ -27,7 +53,7 @@ const description = "Transformez votre habitat avec le feng shui ! Circulation d
           <p>L'art millénaire du feng shui transforme nos espaces de vie en sanctuaires d'harmonie et d'équilibre. Cette philosophie chinoise ancienne révèle comment l'aménagement conscient de notre intérieur influence profondément notre bien-être, notre prospérité et nos relations. Découvrons ensemble les principes fondamentaux pour créer un habitat qui nourrit votre énergie vitale.</p>
 
           <div class="my-8">
-            <img src="/images/unsplash-feng-shui-harmonious-interior-zen-meditation-space-1771175109.jpg" alt="Intérieur harmonieux suivant les principes feng shui" class="w-full rounded-lg shadow-soft" />
+            <img src="/images/unsplash-feng-shui-harmonious-interior-zen-meditation-space-1771175109.jpg" alt="Intérieur harmonieux suivant les principes feng shui" class="w-full rounded-lg shadow-soft"  width="1200" height="675" loading="eager" decoding="async" />
             <p class="text-xs text-center mt-2" style="color: #B5B5B5;">Un aménagement feng shui favorise la circulation harmonieuse de l'énergie</p>
           </div>
 
@@ -201,7 +227,7 @@ const description = "Transformez votre habitat avec le feng shui ! Circulation d
             <article class="group">
               <a href="/amenager-chambre-cocooning/" class="block">
                 <div class="relative overflow-hidden rounded-2xl shadow-soft group-hover:shadow-lg transition-all duration-300">
-                  <img src="/images/unsplash-cozy-bedroom-natural-textures-1771172070.jpg" alt="Chambre cocooning" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300" />
+                  <img src="/images/unsplash-cozy-bedroom-natural-textures-1771172070.jpg" alt="Chambre cocooning" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"  width="1200" height="675" loading="lazy" decoding="async" />
                   <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
                   <div class="absolute bottom-0 left-0 right-0 p-6">
                     <h3 class="text-white font-semibold text-lg mb-2 group-hover:text-rose-200 transition-colors">Chambre Cocooning</h3>
@@ -214,7 +240,7 @@ const description = "Transformez votre habitat avec le feng shui ! Circulation d
             <article class="group">
               <a href="/tendances-deco-2026/" class="block">
                 <div class="relative overflow-hidden rounded-2xl shadow-soft group-hover:shadow-lg transition-all duration-300">
-                  <img src="/images/unsplash-contemporary-home-decor-trends-2026-modern-interior-1771174801.jpg" alt="Tendances déco 2026" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300" />
+                  <img src="/images/unsplash-contemporary-home-decor-trends-2026-modern-interior-1771174801.jpg" alt="Tendances déco 2026" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"  width="1200" height="675" loading="lazy" decoding="async" />
                   <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
                   <div class="absolute bottom-0 left-0 right-0 p-6">
                     <h3 class="text-white font-semibold text-lg mb-2 group-hover:text-rose-200 transition-colors">Tendances Déco 2026</h3>
@@ -249,7 +275,7 @@ const description = "Transformez votre habitat avec le feng shui ! Circulation d
             
             <article class="group">
               <a href="/style-industriel-moderne/" class="flex items-center p-4 rounded-xl border border-rose-100 hover:border-rose-200 hover:bg-rose-50/50 transition-all duration-200">
-                <img src="/images/unsplash-industrial-loft-raw-materials-exposed-brick-1771174640.jpg" alt="Style industriel" class="w-16 h-16 object-cover rounded-lg mr-4 flex-shrink-0" />
+                <img src="/images/unsplash-industrial-loft-raw-materials-exposed-brick-1771174640.jpg" alt="Style industriel" class="w-16 h-16 object-cover rounded-lg mr-4 flex-shrink-0"  width="1200" height="675" loading="lazy" decoding="async" />
                 <div>
                   <h3 class="font-medium text-rose-800 group-hover:text-rose-900 transition-colors">Style Industriel Moderne : Guide Complet 2026</h3>
                   <p class="text-sm text-rose-600 mt-1">📖 15 min de lecture • 🏭 Style</p>

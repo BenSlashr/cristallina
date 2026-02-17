@@ -3,9 +3,23 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Déco Vintage Moderne : 19 Astuces pour Mixer les Époques avec Style";
 const description = "Mariez vintage et moderne ! 19 astuces déco pour mixer les époques avec style : mobilier rétro, accessoires contemporains et harmonie parfaite.";
+
+const pageSlug = 'decoration-vintage-moderne-mixer-epoques-style';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/decoration-vintage-moderne-mixer-epoques-style/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Style', url: '/guides/decoration' },
+  { name: title, url: '/decoration-vintage-moderne-mixer-epoques-style/' },
+]);
+
 ---
 
 <BaseLayout title={title} description={description}>
@@ -25,7 +39,7 @@ const description = "Mariez vintage et moderne ! 19 astuces déco pour mixer les
             src="/images/unsplash-decoration-vintage-moderne-mixer-1771180034.jpg" 
             alt="Salon moderne avec mobilier vintage et touches contemporaines" 
             class="w-full rounded-lg shadow-lg"
-          />
+           width="1200" height="675" loading="eager" decoding="async" />
         </div>
       </header>
 
@@ -39,7 +53,7 @@ const description = "Mariez vintage et moderne ! 19 astuces déco pour mixer les
         <p>La réussite d'un intérieur vintage moderne repose sur la maîtrise de l'équilibre entre les époques. Cette harmonie s'obtient en respectant la règle des proportions : ni trop vintage au risque de créer un musée, ni trop moderne au risque de perdre l'âme du lieu. L'objectif consiste à faire dialoguer les pièces pour créer une cohérence visuelle.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237046618.jpg" alt="Salon avec melange de meubles vintage et modernes" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237046618.jpg" alt="Salon avec melange de meubles vintage et modernes" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -71,7 +85,7 @@ const description = "Mariez vintage et moderne ! 19 astuces déco pour mixer les
         <p>Le mobilier constitue l'ossature de votre décoration vintage moderne. Certaines pièces iconiques traversent les époques et s'adaptent naturellement aux intérieurs contemporains. Ces éléments deviennent les ambassadeurs du style et méritent une attention particulière dans leur sélection et leur mise en valeur.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-shabby-chic-pastel-vintage-romantique-1771236254646.jpg" alt="Decoration vintage chic avec patine et dorures" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-shabby-chic-pastel-vintage-romantique-1771236254646.jpg" alt="Decoration vintage chic avec patine et dorures" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -107,7 +121,7 @@ const description = "Mariez vintage et moderne ! 19 astuces déco pour mixer les
         <p>La palette chromatique et le choix des matières constituent les éléments unificateurs d'un intérieur vintage moderne réussi. Ces composantes créent la cohérence visuelle nécessaire pour que des objets d'époques différentes cohabitent harmonieusement. L'art consiste à établir des ponts visuels entre les différents éléments.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237978637.jpg" alt="Interieur mix and match epoques et styles" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237978637.jpg" alt="Interieur mix and match epoques et styles" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -143,7 +157,7 @@ const description = "Mariez vintage et moderne ! 19 astuces déco pour mixer les
         <p>Les accessoires constituent l'âme d'un intérieur vintage moderne. Ces petits objets racontent des histoires, témoignent de voyages ou d'héritages familiaux. Leur sélection et leur mise en scène nécessitent un œil exercé pour créer des compositions équilibrées qui enrichissent l'espace sans l'encombrer.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237320953.jpg" alt="Coin lecture vintage avec fauteuil retro et lampe ancienne" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237320953.jpg" alt="Coin lecture vintage avec fauteuil retro et lampe ancienne" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -179,7 +193,7 @@ const description = "Mariez vintage et moderne ! 19 astuces déco pour mixer les
         <p>L'éclairage joue un rôle fondamental dans la réussite d'un intérieur vintage moderne. Il ne s'agit pas seulement d'illuminer l'espace mais de créer des ambiances qui mettent en valeur chaque époque représentée. La combinaison judicieuse de luminaires vintage et contemporains permet de moduler les atmosphères selon les moments de la journée.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237890273.jpg" alt="Decoration shabby chic avec couleurs pastel et brocante" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237890273.jpg" alt="Decoration shabby chic avec couleurs pastel et brocante" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 

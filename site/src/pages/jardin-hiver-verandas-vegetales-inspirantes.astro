@@ -3,12 +3,28 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Jardin d'Hiver : 6 Vérandas Végétales Inspirantes";
 const description = "Créez votre jardin d'hiver ! 6 vérandas végétales avec plantes tropicales, verrières design et aménagement biophilique pour connexion nature.";
+
+const pageSlug = 'jardin-hiver-verandas-vegetales-inspirantes';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/jardin-hiver-verandas-vegetales-inspirantes/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Plantes', url: '/guides/decoration' },
+  { name: title, url: '/jardin-hiver-verandas-vegetales-inspirantes/' },
+]);
+
 ---
 
-<BaseLayout {title} {description} canonical="https://www.cristallina.fr/jardin-hiver-verandas-vegetales-inspirantes/">
+<BaseLayout {title} {description}
+  jsonLd={[schemaArticle, schemaBreadcrumb]}
+>
   <Navbar />
   <main class="pt-16">
     <!-- Hero Section -->
@@ -28,7 +44,7 @@ const description = "Créez votre jardin d'hiver ! 6 vérandas végétales avec 
             src="/images/unsplash-winter-garden-veranda-plants-indoor-greenhouse-1771177405.jpg" 
             alt="Véranda végétale moderne avec verrière et plantes tropicales"
             class="w-full h-80 md:h-96 object-cover"
-          />
+           width="1200" height="675" loading="eager" decoding="async" />
           <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
         </div>
       </div>
@@ -605,7 +621,7 @@ const description = "Créez votre jardin d'hiver ! 6 vérandas végétales avec 
                 src="/images/unsplash-indoor-plants-decoration-living-room-green.jpg" 
                 alt="Plantes d'intérieur décoratives dans salon"
                 class="w-full h-48 object-cover"
-              />
+               width="1200" height="675" loading="lazy" decoding="async" />
               <div class="p-6">
                 <h3 class="text-lg font-semibold text-slate-800 mb-2">
                   <a href="/plantes-interieur-deco/" class="hover:text-emerald-600 transition-colors">
@@ -623,7 +639,7 @@ const description = "Créez votre jardin d'hiver ! 6 vérandas végétales avec 
                 src="/images/unsplash-feng-shui-interior-harmony-balance-zen.jpg" 
                 alt="Aménagement Feng Shui harmonieux"
                 class="w-full h-48 object-cover"
-              />
+               width="1200" height="675" loading="lazy" decoding="async" />
               <div class="p-6">
                 <h3 class="text-lg font-semibold text-slate-800 mb-2">
                   <a href="/amenagement-feng-shui/" class="hover:text-emerald-600 transition-colors">
@@ -641,7 +657,7 @@ const description = "Créez votre jardin d'hiver ! 6 vérandas végétales avec 
                 src="/images/unsplash-sustainable-eco-green-home-natural.jpg" 
                 alt="Maison écologique et durable"
                 class="w-full h-48 object-cover"
-              />
+               width="1200" height="675" loading="lazy" decoding="async" />
               <div class="p-6">
                 <h3 class="text-lg font-semibold text-slate-800 mb-2">
                   <a href="/maison-ecologique-durable/" class="hover:text-emerald-600 transition-colors">

@@ -3,16 +3,42 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
+import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 const title = "Couleurs Apaisantes : 8 Palettes pour un Intérieur Zen";
 const description = "Créez une ambiance zen avec les bonnes couleurs ! 8 palettes apaisantes, psychologie des couleurs et conseils pour un intérieur relaxant.";
+
+const pageSlug = 'couleurs-apaisantes-zen';
+const schemaArticle = articleSchema({
+  title,
+  description,
+  url: '/couleurs-apaisantes-zen/',
+});
+const schemaBreadcrumb = breadcrumbSchema([
+  { name: 'Accueil', url: '/' },
+  { name: 'Couleurs', url: '/guides/decoration' },
+  { name: title, url: '/couleurs-apaisantes-zen/' },
+]);
+
 ---
 
-<BaseLayout {title} {description} canonical="https://www.cristallina.fr/couleurs-apaisantes-zen/">
+<BaseLayout {title} {description}
+  jsonLd={[schemaArticle, schemaBreadcrumb]}
+>
   <Navbar />
   
   <main class="pt-16">
     <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      
+      <!-- Breadcrumb -->
+      <nav class="flex items-center gap-2 text-sm mb-6" style="color: #B5B5B5;" aria-label="Fil d'ariane">
+        <a href="/" class="hover:text-rose-400 transition-colors">Accueil</a>
+        <span>/</span>
+        <a href="/guides/decoration" class="hover:text-rose-400 transition-colors">Couleurs</a>
+        <span>/</span>
+        <span style="color: #8B8B8B;">{title}</span>
+      </nav>
+
       <header class="mb-8">
         <h1 class="text-3xl md:text-4xl title-elegant mb-4">{title}</h1>
         <p class="text-lg mb-6" style="color: #8B8B8B;">{description}</p>
@@ -27,7 +53,7 @@ const description = "Créez une ambiance zen avec les bonnes couleurs ! 8 palett
           <p>Les couleurs influencent profondément notre état psychologique et notre niveau de stress. Cette science ancestrale, confirmée par des études modernes, révèle comment certaines teintes peuvent transformer notre intérieur en véritable sanctuaire de paix. Découvrons ensemble 8 palettes soigneusement sélectionnées pour créer des espaces réellement apaisants.</p>
 
           <div class="my-8">
-            <img src="/images/unsplash-calming-colors-zen-interior-soft-pastels-1771175693.jpg" alt="Intérieur zen aux couleurs apaisantes" class="w-full rounded-lg shadow-soft" />
+            <img src="/images/unsplash-calming-colors-zen-interior-soft-pastels-1771175693.jpg" alt="Intérieur zen aux couleurs apaisantes" class="w-full rounded-lg shadow-soft"  width="1200" height="675" loading="eager" decoding="async" />
             <p class="text-xs text-center mt-2" style="color: #B5B5B5;">Des couleurs douces créent instantanément une atmosphère relaxante</p>
           </div>
 
@@ -49,7 +75,7 @@ const description = "Créez une ambiance zen avec les bonnes couleurs ! 8 palett
           <p>Les couleurs agissent directement sur notre système nerveux autonome. Les teintes froides (bleus, verts) ralentissent le rythme cardiaque et diminuent la tension artérielle, tandis que les neutres doux maintiennent un état d'équilibre psychologique optimal.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237033838.jpg" alt="Palette de couleurs zen dans un interieur lumineux" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237033838.jpg" alt="Palette de couleurs zen dans un interieur lumineux" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -70,7 +96,7 @@ const description = "Créez une ambiance zen avec les bonnes couleurs ! 8 palett
           <p><strong>Composition :</strong> Blanc cassé + Gris perle + Beige lin</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771235492119.jpg" alt="Salon aux tons pastel et naturels pour une ambiance sereine" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771235492119.jpg" alt="Salon aux tons pastel et naturels pour une ambiance sereine" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
           <p>Cette palette minimaliste élimine toute sur-stimulation visuelle. L'absence de contraste fort permet au regard de se reposer, créant un sentiment immédiat de calme.</p>
@@ -125,7 +151,7 @@ const description = "Créez une ambiance zen avec les bonnes couleurs ! 8 palett
           <p>La chambre demande des couleurs particulièrement douces. Privilégiez les palettes "Brume Matinale" ou "Sérénité Nordique" avec une température inférieure à 25°C de saturation.</p>
 
         <div class="my-8">
-          <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771235496982.jpg" alt="Decoration minimaliste avec couleurs douces et apaisantes" class="w-full rounded-lg shadow-sm" loading="lazy" />
+          <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771235496982.jpg" alt="Decoration minimaliste avec couleurs douces et apaisantes" class="w-full rounded-lg shadow-sm"  width="1200" height="675" loading="lazy" decoding="async" />
         </div>
 
 
@@ -179,7 +205,7 @@ const description = "Créez une ambiance zen avec les bonnes couleurs ! 8 palett
             <article class="group">
               <a href="/amenagement-feng-shui/" class="block">
                 <div class="relative overflow-hidden rounded-2xl shadow-soft group-hover:shadow-lg transition-all duration-300">
-                  <img src="/images/unsplash-feng-shui-harmonious-interior-zen-meditation-space-1771175109.jpg" alt="Aménagement feng shui" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300" />
+                  <img src="/images/unsplash-feng-shui-harmonious-interior-zen-meditation-space-1771175109.jpg" alt="Aménagement feng shui" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"  width="1200" height="675" loading="lazy" decoding="async" />
                   <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
                   <div class="absolute bottom-0 left-0 right-0 p-6">
                     <h3 class="text-white font-semibold text-lg mb-2 group-hover:text-rose-200 transition-colors">Aménagement Feng Shui</h3>
@@ -192,7 +218,7 @@ const description = "Créez une ambiance zen avec les bonnes couleurs ! 8 palett
             <article class="group">
               <a href="/amenager-chambre-cocooning/" class="block">
                 <div class="relative overflow-hidden rounded-2xl shadow-soft group-hover:shadow-lg transition-all duration-300">
-                  <img src="/images/unsplash-cozy-bedroom-natural-textures-1771172070.jpg" alt="Chambre cocooning" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300" />
+                  <img src="/images/unsplash-cozy-bedroom-natural-textures-1771172070.jpg" alt="Chambre cocooning" class="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"  width="1200" height="675" loading="lazy" decoding="async" />
                   <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
                   <div class="absolute bottom-0 left-0 right-0 p-6">
                     <h3 class="text-white font-semibold text-lg mb-2 group-hover:text-rose-200 transition-colors">Chambre Cocooning</h3>

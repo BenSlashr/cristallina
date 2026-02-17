@@ -1,0 +1,735 @@
+---
+import '@/styles/global.css';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Navbar from '@/components/Navbar.astro';
+import Footer from '@/components/Footer.astro';
+---
+
+<BaseLayout 
+  title="Calculateur Budget Rénovation - Estime le Coût de ta Réno | Cristallina"
+  description="Calcule gratuitement le budget de ta rénovation ! Estimation détaillée pièce par pièce avec coûts matériaux et main d'œuvre. Outil gratuit et personnalisé."
+  canonical="https://www.cristallina.fr/outils/budget-renovation/"
+>
+  <Navbar />
+  
+  <main class="pt-16">
+    <!-- Hero Compact -->
+    <section class="section-soft py-8">
+      <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-6">
+          <div class="flex items-center justify-center gap-4 mb-4">
+            <div class="text-3xl">💰</div>
+            <h1 class="text-2xl md:text-3xl title-elegant">Calculateur Budget Rénovation</h1>
+          </div>
+          <p class="text-sm mb-4" style="color: #8B8B8B;">Estime le coût de ta rénovation pièce par pièce</p>
+          <div class="flex justify-center items-center gap-4 text-xs" style="color: #B5B5B5;">
+            <span class="flex items-center gap-1">
+              <span class="w-1.5 h-1.5 bg-green-400 rounded-full"></span>5 min
+            </span>
+            <span class="flex items-center gap-1">
+              <span class="w-1.5 h-1.5 bg-purple-400 rounded-full"></span>Estimation précise
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Calculator Form -->
+    <section class="py-4">
+      <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <!-- Step Indicator -->
+        <div class="mb-8">
+          <div class="flex justify-between text-sm mb-4" style="color: #8B8B8B;">
+            <span class="step-indicator active" data-step="1">
+              <span class="step-number">1</span>
+              <span class="step-text">Type de logement</span>
+            </span>
+            <span class="step-indicator" data-step="2">
+              <span class="step-number">2</span>
+              <span class="step-text">Pièces à rénover</span>
+            </span>
+            <span class="step-indicator" data-step="3">
+              <span class="step-number">3</span>
+              <span class="step-text">Niveau de finition</span>
+            </span>
+            <span class="step-indicator" data-step="4">
+              <span class="step-number">4</span>
+              <span class="step-text">Résultats</span>
+            </span>
+          </div>
+          <div class="w-full bg-gray-200 rounded-full h-2">
+            <div id="progress-bar" class="h-2 rounded-full transition-all duration-500" 
+                 style="width: 25%; background: linear-gradient(135deg, #F8E8E7, #D4A574);"></div>
+          </div>
+        </div>
+
+        <!-- Form Steps -->
+        <div id="calculator-form" class="card-feminine shadow-soft">
+          
+          <!-- Step 1: Property Type -->
+          <div id="step-1" class="step-content">
+            <div class="p-8">
+              <h2 class="text-2xl title-elegant mb-8 text-center">Quel est ton type de logement ?</h2>
+              <div class="grid md:grid-cols-2 gap-6">
+                <div class="property-option" data-type="apartment" data-multiplier="1">
+                  <div class="text-4xl mb-4">🏢</div>
+                  <h3 class="title-elegant text-lg mb-2">Appartement</h3>
+                  <p class="text-sm" style="color: #8B8B8B;">Logement en immeuble collectif</p>
+                  <div class="mt-4 text-xs" style="color: #B5B5B5;">
+                    Surface moyenne : 60-80m²
+                  </div>
+                </div>
+                <div class="property-option" data-type="house" data-multiplier="1.2">
+                  <div class="text-4xl mb-4">🏠</div>
+                  <h3 class="title-elegant text-lg mb-2">Maison individuelle</h3>
+                  <p class="text-sm" style="color: #8B8B8B;">Maison avec jardin/terrain</p>
+                  <div class="mt-4 text-xs" style="color: #B5B5B5;">
+                    Surface moyenne : 90-120m²
+                  </div>
+                </div>
+                <div class="property-option" data-type="studio" data-multiplier="0.8">
+                  <div class="text-4xl mb-4">🏡</div>
+                  <h3 class="title-elegant text-lg mb-2">Studio / T1</h3>
+                  <p class="text-sm" style="color: #8B8B8B;">Logement une pièce principale</p>
+                  <div class="mt-4 text-xs" style="color: #B5B5B5;">
+                    Surface moyenne : 25-35m²
+                  </div>
+                </div>
+                <div class="property-option" data-type="loft" data-multiplier="1.4">
+                  <div class="text-4xl mb-4">🏭</div>
+                  <h3 class="title-elegant text-lg mb-2">Loft / Atelier</h3>
+                  <p class="text-sm" style="color: #8B8B8B;">Grand volume à aménager</p>
+                  <div class="mt-4 text-xs" style="color: #B5B5B5;">
+                    Surface moyenne : 80-150m²
+                  </div>
+                </div>
+              </div>
+              <div class="mt-8 text-center">
+                <button id="next-step-1" class="btn-feminine shadow-soft-hover opacity-50 cursor-not-allowed" disabled>
+                  Continuer 🌸
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <!-- Step 2: Rooms -->
+          <div id="step-2" class="step-content hidden">
+            <div class="p-8">
+              <h2 class="text-2xl title-elegant mb-8 text-center">Quelles pièces veux-tu rénover ?</h2>
+              <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+                <div class="room-option" data-room="cuisine" data-base-cost="8000">
+                  <div class="flex items-center">
+                    <input type="checkbox" class="room-checkbox mr-4">
+                    <div class="flex-1">
+                      <div class="flex items-center mb-2">
+                        <span class="text-2xl mr-3">🍳</span>
+                        <span class="title-elegant">Cuisine</span>
+                      </div>
+                      <div class="text-xs" style="color: #B5B5B5;">
+                        À partir de 8 000€
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="room-option" data-room="salon" data-base-cost="5000">
+                  <div class="flex items-center">
+                    <input type="checkbox" class="room-checkbox mr-4">
+                    <div class="flex-1">
+                      <div class="flex items-center mb-2">
+                        <span class="text-2xl mr-3">🛋️</span>
+                        <span class="title-elegant">Salon</span>
+                      </div>
+                      <div class="text-xs" style="color: #B5B5B5;">
+                        À partir de 5 000€
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="room-option" data-room="chambre" data-base-cost="3000">
+                  <div class="flex items-center">
+                    <input type="checkbox" class="room-checkbox mr-4">
+                    <div class="flex-1">
+                      <div class="flex items-center mb-2">
+                        <span class="text-2xl mr-3">🛏️</span>
+                        <span class="title-elegant">Chambre</span>
+                      </div>
+                      <div class="text-xs" style="color: #B5B5B5;">
+                        À partir de 3 000€
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="room-option" data-room="salle-de-bain" data-base-cost="7000">
+                  <div class="flex items-center">
+                    <input type="checkbox" class="room-checkbox mr-4">
+                    <div class="flex-1">
+                      <div class="flex items-center mb-2">
+                        <span class="text-2xl mr-3">🛁</span>
+                        <span class="title-elegant">Salle de bain</span>
+                      </div>
+                      <div class="text-xs" style="color: #B5B5B5;">
+                        À partir de 7 000€
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="room-option" data-room="wc" data-base-cost="1500">
+                  <div class="flex items-center">
+                    <input type="checkbox" class="room-checkbox mr-4">
+                    <div class="flex-1">
+                      <div class="flex items-center mb-2">
+                        <span class="text-2xl mr-3">🚽</span>
+                        <span class="title-elegant">WC</span>
+                      </div>
+                      <div class="text-xs" style="color: #B5B5B5;">
+                        À partir de 1 500€
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="room-option" data-room="entree" data-base-cost="2000">
+                  <div class="flex items-center">
+                    <input type="checkbox" class="room-checkbox mr-4">
+                    <div class="flex-1">
+                      <div class="flex items-center mb-2">
+                        <span class="text-2xl mr-3">🚪</span>
+                        <span class="title-elegant">Entrée</span>
+                      </div>
+                      <div class="text-xs" style="color: #B5B5B5;">
+                        À partir de 2 000€
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="mt-8 flex justify-between">
+                <button id="back-step-2" class="btn-feminine text-sm" style="background: rgba(255,255,255,0.8);">
+                  ← Retour
+                </button>
+                <button id="next-step-2" class="btn-feminine shadow-soft-hover opacity-50 cursor-not-allowed" disabled>
+                  Continuer 🌸
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <!-- Step 3: Quality Level -->
+          <div id="step-3" class="step-content hidden">
+            <div class="p-8">
+              <h2 class="text-2xl title-elegant mb-8 text-center">Quel niveau de finition souhaites-tu ?</h2>
+              <div class="space-y-6">
+                <div class="quality-option" data-quality="economique" data-multiplier="1">
+                  <div class="flex items-start p-6 rounded-xl border border-feminine cursor-pointer">
+                    <input type="radio" name="quality" class="quality-radio mr-4 mt-1">
+                    <div class="flex-1">
+                      <h3 class="title-elegant text-lg mb-2">🌱 Économique</h3>
+                      <p class="text-sm mb-3" style="color: #8B8B8B;">
+                        Rénovation avec du matériel d'entrée de gamme, en gardant une qualité correcte
+                      </p>
+                      <div class="text-xs" style="color: #B5B5B5;">
+                        • Peinture standard • Carrelage basique • Électricité aux normes
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="quality-option" data-quality="standard" data-multiplier="1.5">
+                  <div class="flex items-start p-6 rounded-xl border border-feminine cursor-pointer">
+                    <input type="radio" name="quality" class="quality-radio mr-4 mt-1">
+                    <div class="flex-1">
+                      <h3 class="title-elegant text-lg mb-2">⭐ Standard</h3>
+                      <p class="text-sm mb-3" style="color: #8B8B8B;">
+                        Rénovation de qualité avec des matériaux de gamme moyenne
+                      </p>
+                      <div class="text-xs" style="color: #B5B5B5;">
+                        • Peinture de marque • Carrelage de qualité • Finitions soignées
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="quality-option" data-quality="premium" data-multiplier="2.2">
+                  <div class="flex items-start p-6 rounded-xl border border-feminine cursor-pointer">
+                    <input type="radio" name="quality" class="quality-radio mr-4 mt-1">
+                    <div class="flex-1">
+                      <h3 class="title-elegant text-lg mb-2">💎 Premium</h3>
+                      <p class="text-sm mb-3" style="color: #8B8B8B;">
+                        Rénovation haut de gamme avec des matériaux premium et finitions parfaites
+                      </p>
+                      <div class="text-xs" style="color: #B5B5B5;">
+                        • Matériaux premium • Marques reconnues • Finitions d'exception
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="mt-8 flex justify-between">
+                <button id="back-step-3" class="btn-feminine text-sm" style="background: rgba(255,255,255,0.8);">
+                  ← Retour
+                </button>
+                <button id="calculate-budget" class="btn-feminine shadow-soft-hover opacity-50 cursor-not-allowed" disabled>
+                  Calculer mon budget 💰
+                </button>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Results -->
+        <div id="results-container" class="hidden">
+          <div class="card-feminine shadow-soft">
+            <div class="p-8">
+              <div class="text-center mb-8">
+                <div class="text-6xl mb-4 animate-gentle-float">📊</div>
+                <h2 class="text-3xl title-elegant mb-4">Ton budget estimé</h2>
+                <div class="text-4xl font-display mb-2" style="color: #D4A574;">
+                  <span id="total-budget">0</span> €
+                </div>
+                <p class="text-sm" style="color: #8B8B8B;">
+                  Estimation basée sur les prix moyens 2026 en France
+                </p>
+              </div>
+
+              <div id="budget-breakdown" class="mb-8">
+                <!-- Budget breakdown will be inserted here -->
+              </div>
+
+              <div class="text-center">
+                <button id="download-pdf" class="btn-feminine shadow-soft-hover mr-4">
+                  📄 Télécharger le devis PDF
+                </button>
+                <button id="save-project" class="btn-feminine text-sm" style="background: rgba(255,255,255,0.8);">
+                  💾 Sauvegarder mon projet
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <!-- Tips Section -->
+          <div class="mt-8 card-feminine section-soft">
+            <div class="p-8">
+              <h3 class="text-2xl title-elegant mb-6 text-center">Mes conseils pour optimiser ton budget</h3>
+              <div class="grid md:grid-cols-2 gap-6">
+                <div class="space-y-4">
+                  <div class="flex items-start">
+                    <span class="text-green-500 mr-3 mt-1">💡</span>
+                    <div>
+                      <h4 class="title-elegant mb-1">Planifie par étapes</h4>
+                      <p class="text-sm" style="color: #8B8B8B;">Rénove pièce par pièce pour étaler les coûts</p>
+                    </div>
+                  </div>
+                  <div class="flex items-start">
+                    <span class="text-green-500 mr-3 mt-1">🔨</span>
+                    <div>
+                      <h4 class="title-elegant mb-1">Mix pro et DIY</h4>
+                      <p class="text-sm" style="color: #8B8B8B;">Garde les gros œuvre aux pros, fais la déco toi-même</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="space-y-4">
+                  <div class="flex items-start">
+                    <span class="text-green-500 mr-3 mt-1">🛍️</span>
+                    <div>
+                      <h4 class="title-elegant mb-1">Compare les devis</h4>
+                      <p class="text-sm" style="color: #8B8B8B;">Demande au moins 3 devis pour chaque corps de métier</p>
+                    </div>
+                  </div>
+                  <div class="flex items-start">
+                    <span class="text-green-500 mr-3 mt-1">📅</span>
+                    <div>
+                      <h4 class="title-elegant mb-1">Choisis la bonne période</h4>
+                      <p class="text-sm" style="color: #8B8B8B;">Évite les périodes de forte demande (printemps)</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Related Articles -->
+          <div class="mt-8 card-feminine section-soft">
+            <div class="p-8">
+              <h3 class="text-2xl title-elegant mb-6 text-center">Pour aller plus loin</h3>
+              <div class="grid md:grid-cols-3 gap-6">
+                <a href="/guides/budget-renovation-cuisine" class="block p-4 rounded-xl border border-feminine hover:shadow-soft transition-all">
+                  <div class="text-2xl mb-2">🍳</div>
+                  <h4 class="title-elegant mb-2">Budget cuisine : mes astuces</h4>
+                  <span class="text-xs" style="color: #B5B5B5;">Lire l'article →</span>
+                </a>
+                <a href="/guides/renovation-salle-de-bain-petit-budget" class="block p-4 rounded-xl border border-feminine hover:shadow-soft transition-all">
+                  <div class="text-2xl mb-2">🛁</div>
+                  <h4 class="title-elegant mb-2">Rénover sa SDB pas cher</h4>
+                  <span class="text-xs" style="color: #B5B5B5;">Lire l'article →</span>
+                </a>
+                <a href="/guides/diy-renovation-economique" class="block p-4 rounded-xl border border-feminine hover:shadow-soft transition-all">
+                  <div class="text-2xl mb-2">🔨</div>
+                  <h4 class="title-elegant mb-2">DIY réno : que faire soi-même</h4>
+                  <span class="text-xs" style="color: #B5B5B5;">Lire l'article →</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+.step-indicator {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  opacity: 0.5;
+}
+
+.step-indicator.active {
+  opacity: 1;
+  color: #D4A574;
+}
+
+.step-number {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 9999px;
+  border: 2px solid currentColor;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.875rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.step-indicator.active .step-number {
+  background: #D4A574;
+  color: white;
+  border-color: #D4A574;
+}
+
+.step-text {
+  font-size: 0.75rem;
+  font-family: var(--font-accent);
+}
+
+.property-option,
+.room-option,
+.quality-option > div {
+  padding: 1.5rem;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(139, 122, 168, 0.15);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.property-option:hover,
+.room-option:hover,
+.quality-option > div:hover {
+  box-shadow: 0 4px 24px rgba(139, 122, 168, 0.08);
+  background: linear-gradient(135deg, var(--color-primary-light), var(--color-accent-light));
+  border-color: rgba(139, 122, 168, 0.3);
+}
+
+.property-option.selected,
+.room-option.selected,
+.quality-option.selected > div {
+  box-shadow: 0 4px 24px rgba(139, 122, 168, 0.08);
+  background: linear-gradient(135deg, var(--color-primary), var(--color-accent));
+  border-color: rgba(139, 122, 168, 0.5);
+  color: #5D4E75;
+}
+
+.budget-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(139, 122, 168, 0.15);
+  margin-bottom: 0.75rem;
+  background: rgba(255, 255, 255, 0.5);
+}
+</style>
+
+<script>
+// Budget Calculator Data
+const roomBaseCosts = {
+  cuisine: 8000,
+  salon: 5000,
+  chambre: 3000,
+  'salle-de-bain': 7000,
+  wc: 1500,
+  entree: 2000
+};
+
+const roomLabels = {
+  cuisine: "Cuisine 🍳",
+  salon: "Salon 🛋️", 
+  chambre: "Chambre 🛏️",
+  'salle-de-bain': "Salle de bain 🛁",
+  wc: "WC 🚽",
+  entree: "Entrée 🚪"
+};
+
+let currentStep = 1;
+let selectedPropertyType = null;
+let selectedRooms = [];
+let selectedQuality = null;
+let propertyMultiplier = 1;
+
+// Initialize calculator
+document.addEventListener('DOMContentLoaded', () => {
+  setupStep1();
+  setupStep2(); 
+  setupStep3();
+});
+
+function setupStep1() {
+  document.querySelectorAll('.property-option').forEach(option => {
+    option.addEventListener('click', () => {
+      // Remove previous selection
+      document.querySelectorAll('.property-option').forEach(opt => {
+        opt.classList.remove('selected');
+      });
+      
+      // Add selection
+      option.classList.add('selected');
+      selectedPropertyType = option.dataset.type;
+      propertyMultiplier = parseFloat(option.dataset.multiplier);
+      
+      // Enable next button
+      const nextBtn = document.getElementById('next-step-1');
+      nextBtn.disabled = false;
+      nextBtn.classList.remove('opacity-50', 'cursor-not-allowed');
+      nextBtn.onclick = () => goToStep(2);
+    });
+  });
+}
+
+function setupStep2() {
+  document.querySelectorAll('.room-option').forEach(option => {
+    const checkbox = option.querySelector('.room-checkbox');
+    
+    option.addEventListener('click', (e) => {
+      if (e.target !== checkbox) {
+        checkbox.checked = !checkbox.checked;
+      }
+      
+      if (checkbox.checked) {
+        option.classList.add('selected');
+        if (!selectedRooms.includes(option.dataset.room)) {
+          selectedRooms.push(option.dataset.room);
+        }
+      } else {
+        option.classList.remove('selected');
+        selectedRooms = selectedRooms.filter(room => room !== option.dataset.room);
+      }
+      
+      // Enable/disable next button
+      const nextBtn = document.getElementById('next-step-2');
+      if (selectedRooms.length > 0) {
+        nextBtn.disabled = false;
+        nextBtn.classList.remove('opacity-50', 'cursor-not-allowed');
+        nextBtn.onclick = () => goToStep(3);
+      } else {
+        nextBtn.disabled = true;
+        nextBtn.classList.add('opacity-50', 'cursor-not-allowed');
+      }
+    });
+  });
+  
+  document.getElementById('back-step-2').onclick = () => goToStep(1);
+}
+
+function setupStep3() {
+  document.querySelectorAll('.quality-option').forEach(option => {
+    option.addEventListener('click', () => {
+      // Remove previous selection
+      document.querySelectorAll('.quality-option').forEach(opt => {
+        opt.classList.remove('selected');
+        opt.querySelector('.quality-radio').checked = false;
+      });
+      
+      // Add selection
+      option.classList.add('selected');
+      option.querySelector('.quality-radio').checked = true;
+      selectedQuality = {
+        type: option.dataset.quality,
+        multiplier: parseFloat(option.dataset.multiplier)
+      };
+      
+      // Enable calculate button
+      const calcBtn = document.getElementById('calculate-budget');
+      calcBtn.disabled = false;
+      calcBtn.classList.remove('opacity-50', 'cursor-not-allowed');
+      calcBtn.onclick = calculateBudget;
+    });
+  });
+  
+  document.getElementById('back-step-3').onclick = () => goToStep(2);
+}
+
+function goToStep(step) {
+  // Hide current step
+  document.querySelectorAll('.step-content').forEach(content => {
+    content.classList.add('hidden');
+  });
+  
+  // Show target step
+  document.getElementById(`step-${step}`).classList.remove('hidden');
+  
+  // Update step indicators
+  document.querySelectorAll('.step-indicator').forEach(indicator => {
+    indicator.classList.remove('active');
+  });
+  document.querySelector(`[data-step="${step}"]`).classList.add('active');
+  
+  // Update progress bar
+  const progress = (step / 4) * 100;
+  document.getElementById('progress-bar').style.width = progress + '%';
+  
+  currentStep = step;
+}
+
+function calculateBudget() {
+  let totalBudget = 0;
+  let breakdown = [];
+  
+  selectedRooms.forEach(roomId => {
+    const baseCost = roomBaseCosts[roomId];
+    const roomCost = Math.round(baseCost * propertyMultiplier * selectedQuality.multiplier);
+    totalBudget += roomCost;
+    
+    breakdown.push({
+      name: roomLabels[roomId],
+      cost: roomCost
+    });
+  });
+  
+  // Show results
+  showResults(totalBudget, breakdown);
+}
+
+function showResults(totalBudget, breakdown) {
+  // Hide form
+  document.getElementById('calculator-form').style.display = 'none';
+  document.querySelector('.mb-8').style.display = 'none'; // Hide steps
+  document.getElementById('results-container').classList.remove('hidden');
+  
+  // Display total
+  document.getElementById('total-budget').textContent = totalBudget.toLocaleString('fr-FR');
+  
+  // Display breakdown
+  const breakdownContainer = document.getElementById('budget-breakdown');
+  breakdownContainer.innerHTML = `
+    <h3 class="title-elegant text-lg mb-4 text-center">Détail par pièce</h3>
+    <div class="space-y-3">
+      ${breakdown.map(item => `
+        <div class="budget-item">
+          <span>${item.name}</span>
+          <span class="font-medium">${item.cost.toLocaleString('fr-FR')} €</span>
+        </div>
+      `).join('')}
+    </div>
+    <div class="mt-6 p-4 rounded-xl" style="background: linear-gradient(135deg, var(--color-secondary-light), var(--color-accent-light));">
+      <div class="flex justify-between items-center">
+        <span class="title-elegant">Budget total estimé</span>
+        <span class="text-xl font-bold" style="color: #D4A574;">${totalBudget.toLocaleString('fr-FR')} €</span>
+      </div>
+      <p class="text-xs mt-2" style="color: #8B8B8B;">
+        Cette estimation inclut matériaux et main d'œuvre. Prévoir +15% de marge pour les imprévus.
+      </p>
+    </div>
+  `;
+  
+  // Setup PDF download
+  document.getElementById('download-pdf').onclick = () => generatePDF(totalBudget, breakdown);
+  
+  // Setup save project
+  document.getElementById('save-project').onclick = () => saveProject(totalBudget, breakdown);
+}
+
+function generatePDF(totalBudget, breakdown) {
+  // Simulate PDF generation
+  const pdfContent = {
+    title: "Estimation Budget Rénovation - Cristallina.fr",
+    property: selectedPropertyType,
+    rooms: selectedRooms,
+    quality: selectedQuality.type,
+    total: totalBudget,
+    breakdown: breakdown,
+    date: new Date().toLocaleDateString('fr-FR')
+  };
+  
+  // In real app, would use library like jsPDF
+  alert(`Génération du PDF en cours...\n\nBudget total: ${totalBudget.toLocaleString('fr-FR')} €\n\nLe PDF sera téléchargé dans quelques secondes !`);
+  
+  // Track conversion for analytics
+  if (typeof gtag !== 'undefined') {
+    gtag('event', 'generate_pdf', {
+      event_category: 'budget_calculator',
+      event_label: selectedPropertyType,
+      value: totalBudget
+    });
+  }
+}
+
+function saveProject(totalBudget, breakdown) {
+  const project = {
+    property: selectedPropertyType,
+    rooms: selectedRooms,
+    quality: selectedQuality.type,
+    total: totalBudget,
+    breakdown: breakdown,
+    date: Date.now()
+  };
+  
+  // Save to localStorage
+  const savedProjects = JSON.parse(localStorage.getItem('cristallina_projects') || '[]');
+  savedProjects.push(project);
+  localStorage.setItem('cristallina_projects', JSON.stringify(savedProjects));
+  
+  alert('Projet sauvegardé ! Tu peux le retrouver dans tes projets sauvegardés.');
+}
+</script>
+
+    <!-- FAQ SEO -->
+    <section class="py-8 section-soft">
+      <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 class="text-xl title-elegant mb-6 text-center">Questions fréquentes</h2>
+        <div class="space-y-4">
+          <div class="faq-item card-feminine p-4">
+            <h3 class="font-medium mb-2 text-sm">Comment calculer précisément son budget rénovation ?</h3>
+            <p class="text-xs" style="color: #8B8B8B;">Notre calculateur utilise les prix moyens du marché français 2026. Il prend en compte le type de logement, la surface des pièces, et le niveau de finition souhaité pour une estimation réaliste.</p>
+          </div>
+          <div class="faq-item card-feminine p-4">
+            <h3 class="font-medium mb-2 text-sm">Quel budget prévoir pour une rénovation complète ?</h3>
+            <p class="text-xs" style="color: #8B8B8B;">Pour une rénovation complète, comptez entre 400€/m² (basique) et 1200€/m² (haut de gamme). Notre outil vous donne une estimation personnalisée selon vos choix de finition et les pièces à rénover.</p>
+          </div>
+          <div class="faq-item card-feminine p-4">
+            <h3 class="font-medium mb-2 text-sm">Les prix incluent-ils la main d'œuvre ?</h3>
+            <p class="text-xs" style="color: #8B8B8B;">Oui, nos estimations incluent matériaux et main d'œuvre. Les tarifs sont basés sur les prix moyens pratiqués par les artisans qualifiés en France métropolitaine.</p>
+          </div>
+          <div class="faq-item card-feminine p-4">
+            <h3 class="font-medium mb-2 text-sm">Comment économiser sur ma rénovation ?</h3>
+            <p class="text-xs" style="color: #8B8B8B;">Planifiez par phases, comparez plusieurs devis, explorez les aides à la rénovation énergétique, et considérez faire certains travaux vous-même. Notre guide détaillé vous accompagne.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+  
+  <Footer />
+</BaseLayout>

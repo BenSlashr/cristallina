@@ -1,8 +1,43 @@
 <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="64" height="64" rx="14" fill="#0E1525"/>
-  <rect x="10" y="46" width="12" height="10" rx="2.5" fill="#7C3AED"/>
-  <rect x="22" y="36" width="12" height="10" rx="2.5" fill="#8B5CF6"/>
-  <rect x="16" y="26" width="12" height="10" rx="2.5" fill="#A78BFA"/>
-  <rect x="30" y="16" width="12" height="10" rx="2.5" fill="#D97706"/>
-  <rect x="40" y="6" width="12" height="10" rx="2.5" fill="#F59E0B"/>
+  <!-- Fond cristal avec dégradé doux -->
+  <defs>
+    <linearGradient id="crystalBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f1f5f9;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#cbd5e1" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+  
+  <!-- Forme cristal hexagonale -->
+  <g filter="url(#shadow)">
+    <path d="M32 6 L48 16 L48 48 L32 58 L16 48 L16 16 Z" 
+          fill="url(#crystalBg)" 
+          stroke="#e2e8f0" 
+          stroke-width="1.8"/>
+  </g>
+  
+  <!-- Lettre C moderne et sophistiquée -->
+  <path d="M25 32c0-4 3-7 7-7 2.5 0 4 1 5.5 2.5l-1.5 1.5c-1-1-2-1.5-3.5-1.5-2.5 0-4.5 2-4.5 4.5s2 4.5 4.5 4.5c1.5 0 2.5-0.5 3.5-1.5l1.5 1.5c-1.5 1.5-3 2.5-5.5 2.5-4 0-7-3-7-7z" 
+        fill="#3b82f6" 
+        opacity="0.95"/>
+  
+  <!-- Facettes cristal pour l'effet 3D -->
+  <g opacity="0.25">
+    <path d="M32 6 L32 32 L48 16 Z" fill="#dbeafe"/>
+    <path d="M32 32 L32 58 L48 48 Z" fill="#bfdbfe"/>
+    <path d="M16 16 L32 32 L16 48 Z" fill="#e0e7ff"/>
+  </g>
+  
+  <!-- Points de brillance -->
+  <g fill="#ffffff" opacity="0.9">
+    <circle cx="36" cy="14" r="0.8"/>
+    <circle cx="42" cy="18" r="0.4"/>
+    <circle cx="28" cy="50" r="0.6"/>
+  </g>
+  
+  <!-- Accent rose subtil -->
+  <circle cx="40" cy="36" r="1.2" fill="#f472b6" opacity="0.35"/>
 </svg>

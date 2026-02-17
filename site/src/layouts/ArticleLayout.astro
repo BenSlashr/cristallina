@@ -1,0 +1,117 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import AuthorBox from '../components/AuthorBox.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  image?: string;
+  readingTime?: string;
+  pubDate?: Date;
+  showAuthor?: boolean;
+  authorVariant?: 'full' | 'compact';
+}
+
+const { 
+  title, 
+  description, 
+  canonical, 
+  image,
+  readingTime,
+  pubDate,
+  showAuthor = true,
+  authorVariant = 'full'
+} = Astro.props;
+---
+
+<BaseLayout 
+  title={title}
+  description={description}
+  canonical={canonical}
+  image={image}
+>
+  <main class="container mx-auto px-4 py-8 max-w-4xl">
+    <!-- Article Header -->
+    <header class="mb-12 text-center">
+      <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-6 leading-tight">
+        {title}
+      </h1>
+      
+      <div class="flex items-center justify-center gap-6 text-gray-600 mb-8">
+        {pubDate && (
+          <time datetime={pubDate.toISOString()} class="flex items-center gap-2">
+            <span>📅</span>
+            {pubDate.toLocaleDateString('fr-FR', { 
+              year: 'numeric', 
+              month: 'long', 
+              day: 'numeric' 
+            })}
+          </time>
+        )}
+        
+        {readingTime && (
+          <div class="flex items-center gap-2">
+            <span>⏱️</span>
+            {readingTime}
+          </div>
+        )}
+      </div>
+
+      {image && (
+        <div class="aspect-video rounded-2xl overflow-hidden mb-8 bg-gradient-to-br from-rose-100 to-purple-100">
+          <img 
+            src={image} 
+            alt={title}
+            class="w-full h-full object-cover"
+            loading="eager"
+          />
+        </div>
+      )}
+    </header>
+
+    <!-- Article Content -->
+    <article class="prose prose-lg mx-auto max-w-none">
+      <div class="prose-headings:text-gray-900 prose-p:text-gray-700 prose-p:leading-relaxed prose-strong:text-gray-900 prose-a:text-purple-600 prose-a:no-underline hover:prose-a:underline">
+        <slot />
+      </div>
+    </article>
+
+    <!-- Author Box -->
+    {showAuthor && (
+      <AuthorBox variant={authorVariant} />
+    )}
+
+    <!-- Article Footer -->
+    <footer class="mt-16 pt-8 border-t border-gray-200">
+      <div class="text-center">
+        <p class="text-gray-600 mb-4">
+          Cet article t'a plu ? Partage-le avec tes amies !
+        </p>
+        
+        <div class="flex items-center justify-center gap-4">
+          <button 
+            onclick="navigator.share && navigator.share({title: document.title, url: window.location.href}) || window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + '&url=' + encodeURIComponent(window.location.href), '_blank')"
+            class="inline-flex items-center px-4 py-2 bg-blue-500 text-white rounded-full font-medium hover:bg-blue-600 transition-colors"
+          >
+            🐦 Twitter
+          </button>
+          
+          <button 
+            onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(window.location.href), '_blank')"
+            class="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-full font-medium hover:bg-blue-700 transition-colors"
+          >
+            📘 Facebook
+          </button>
+          
+          <button 
+            onclick="window.open('https://pinterest.com/pin/create/button/?url=' + encodeURIComponent(window.location.href) + '&description=' + encodeURIComponent(document.title), '_blank')"
+            class="inline-flex items-center px-4 py-2 bg-red-600 text-white rounded-full font-medium hover:bg-red-700 transition-colors"
+          >
+            📌 Pinterest
+          </button>
+        </div>
+      </div>
+    </footer>
+  </main>
+</BaseLayout>
