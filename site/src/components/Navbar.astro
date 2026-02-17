@@ -1,11 +1,15 @@
 ---
 import Logo from './Logo.astro';
 
-const navLinks = [
-  { label: 'Décoration', href: '/guides/decoration' },
-  { label: 'Lifestyle', href: '/guides/lifestyle' },
-  { label: 'Outils', href: '/outils' },
-  { label: 'À propos', href: '/a-propos' },
+const categories = [
+  { label: 'Decoration', href: '/guides/decoration', icon: '🎨' },
+  { label: 'Exterieur', href: '/guides/exterieur', icon: '🌿' },
+  { label: 'Salle de bain', href: '/guides/salle-de-bain', icon: '🛁' },
+  { label: 'Cuisine', href: '/guides/cuisine', icon: '🍳' },
+  { label: 'Couleurs', href: '/guides/couleurs', icon: '🎨' },
+  { label: 'Chambre', href: '/guides/chambre', icon: '🛏️' },
+  { label: 'Shopping', href: '/guides/shopping', icon: '🛒' },
+  { label: 'Rangement', href: '/guides/rangement', icon: '📦' },
 ];
 ---
 
@@ -20,14 +24,46 @@ const navLinks = [
 
         <!-- Nav Links (Desktop) -->
         <div class="hidden md:flex items-center gap-1">
-          {navLinks.map((link) => (
-            <a
-              href={link.href}
-              class="px-3 py-2 text-sm text-text-secondary hover:text-text-primary transition-colors duration-200 cursor-pointer rounded-lg hover:bg-surface-hover"
+          <!-- Dropdown Guides -->
+          <div class="relative" id="guides-dropdown">
+            <button
+              id="guides-btn"
+              class="px-3 py-2 text-sm text-text-secondary hover:text-text-primary transition-colors duration-200 cursor-pointer rounded-lg hover:bg-surface-hover inline-flex items-center gap-1"
+              aria-expanded="false"
+              aria-haspopup="true"
             >
-              {link.label}
-            </a>
-          ))}
+              Guides
+              <svg class="w-3.5 h-3.5 transition-transform duration-200" id="guides-chevron" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+              </svg>
+            </button>
+
+            <!-- Dropdown Panel -->
+            <div
+              id="guides-panel"
+              class="absolute top-full left-0 mt-1 w-72 bg-abyss/95 backdrop-blur-xl border border-border rounded-xl shadow-lg opacity-0 invisible translate-y-1 transition-all duration-200 pointer-events-none"
+            >
+              <div class="p-2">
+                {categories.map((cat) => (
+                  <a
+                    href={cat.href}
+                    class="flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm text-text-secondary hover:text-text-primary hover:bg-surface-hover transition-all duration-150 cursor-pointer"
+                  >
+                    <span class="text-base">{cat.icon}</span>
+                    <span>{cat.label}</span>
+                  </a>
+                ))}
+              </div>
+              <div class="border-t border-border p-2">
+                <a
+                  href="/guides"
+                  class="flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm text-primary hover:bg-surface-hover transition-all duration-150 cursor-pointer font-medium"
+                >
+                  Tous les guides
+                </a>
+              </div>
+            </div>
+          </div>
         </div>
 
         <!-- Right Actions -->
@@ -36,7 +72,7 @@ const navLinks = [
             href="/newsletter"
             class="hidden sm:inline-flex items-center gap-2 btn-feminine text-xs"
           >
-            🌸 Newsletter
+            Newsletter
           </a>
 
           <!-- Mobile Menu Toggle -->
@@ -64,22 +100,33 @@ const navLinks = [
     id="mobile-menu"
     class="md:hidden fixed inset-x-0 top-16 bottom-0 bg-abyss/95 backdrop-blur-xl border-t border-border transform translate-y-full opacity-0 transition-all duration-300 ease-out pointer-events-none z-40"
   >
-    <div class="max-w-7xl mx-auto px-4 py-6">
+    <div class="max-w-7xl mx-auto px-4 py-6 overflow-y-auto max-h-full">
+      <p class="px-4 pb-2 text-xs font-semibold text-text-muted uppercase tracking-wider">Guides</p>
       <div class="flex flex-col gap-1">
-        {navLinks.map((link) => (
+        {categories.map((cat) => (
           <a
-            href={link.href}
-            class="mobile-nav-link flex items-center justify-between px-4 py-3.5 text-base font-medium text-text-secondary hover:text-text-primary rounded-xl hover:bg-surface-hover transition-all duration-200 cursor-pointer"
+            href={cat.href}
+            class="mobile-nav-link flex items-center gap-3 px-4 py-3 text-base font-medium text-text-secondary hover:text-text-primary rounded-xl hover:bg-surface-hover transition-all duration-200 cursor-pointer"
           >
-            {link.label}
-            <svg class="w-4 h-4 text-text-muted" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
-            </svg>
+            <span class="text-lg">{cat.icon}</span>
+            <span>{cat.label}</span>
           </a>
         ))}
       </div>
 
-      <div class="mt-6 pt-6 border-t border-border">
+      <div class="mt-4 pt-4 border-t border-border">
+        <a
+          href="/guides"
+          class="mobile-nav-link flex items-center justify-between px-4 py-3 text-base font-medium text-primary hover:text-text-primary rounded-xl hover:bg-surface-hover transition-all duration-200 cursor-pointer"
+        >
+          Tous les guides
+          <svg class="w-4 h-4 text-text-muted" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+          </svg>
+        </a>
+      </div>
+
+      <div class="mt-4 pt-4 border-t border-border">
         <a
           href="/newsletter"
           class="flex items-center justify-center gap-2 w-full px-4 py-3 text-sm font-semibold bg-primary text-void rounded-xl hover:bg-primary-light transition-colors duration-200 cursor-pointer"
@@ -95,6 +142,7 @@ const navLinks = [
 </header>
 
 <script>
+  // Mobile menu
   const btn = document.getElementById('mobile-menu-btn');
   const menu = document.getElementById('mobile-menu');
   const iconOpen = document.getElementById('menu-icon-open');
@@ -128,7 +176,52 @@ const navLinks = [
     });
   });
 
+  // Desktop dropdown
+  const guidesBtn = document.getElementById('guides-btn');
+  const guidesPanel = document.getElementById('guides-panel');
+  const guidesChevron = document.getElementById('guides-chevron');
+  const guidesDropdown = document.getElementById('guides-dropdown');
+  let dropdownOpen = false;
+  let closeTimeout: ReturnType<typeof setTimeout>;
+
+  function openDropdown() {
+    clearTimeout(closeTimeout);
+    dropdownOpen = true;
+    guidesBtn?.setAttribute('aria-expanded', 'true');
+    guidesPanel?.classList.remove('opacity-0', 'invisible', 'translate-y-1', 'pointer-events-none');
+    guidesPanel?.classList.add('opacity-100', 'visible', 'translate-y-0', 'pointer-events-auto');
+    guidesChevron?.classList.add('rotate-180');
+  }
+
+  function closeDropdown() {
+    closeTimeout = setTimeout(() => {
+      dropdownOpen = false;
+      guidesBtn?.setAttribute('aria-expanded', 'false');
+      guidesPanel?.classList.add('opacity-0', 'invisible', 'translate-y-1', 'pointer-events-none');
+      guidesPanel?.classList.remove('opacity-100', 'visible', 'translate-y-0', 'pointer-events-auto');
+      guidesChevron?.classList.remove('rotate-180');
+    }, 150);
+  }
+
+  guidesDropdown?.addEventListener('mouseenter', openDropdown);
+  guidesDropdown?.addEventListener('mouseleave', closeDropdown);
+  guidesBtn?.addEventListener('click', () => {
+    if (dropdownOpen) closeDropdown();
+    else openDropdown();
+  });
+
+  // Close on Escape
   document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && isOpen) toggleMenu();
+    if (e.key === 'Escape') {
+      if (isOpen) toggleMenu();
+      if (dropdownOpen) closeDropdown();
+    }
+  });
+
+  // Close dropdown on outside click
+  document.addEventListener('click', (e) => {
+    if (dropdownOpen && !guidesDropdown?.contains(e.target as Node)) {
+      closeDropdown();
+    }
   });
 </script>
