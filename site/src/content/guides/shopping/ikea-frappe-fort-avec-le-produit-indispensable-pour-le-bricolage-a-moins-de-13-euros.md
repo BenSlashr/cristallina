@@ -181,6 +181,12 @@ Le kit TRIXIG d'IKEA n'est pas un gadget. C'est un vrai set d'outils fonctionnel
 
 Si tu démarres ta vie en solo, si tu équipes un premier appartement, ou si tu veux juste avoir le minimum vital sous la main pour ne pas appeler un voisin à chaque vis qui se desserre, le TRIXIG mérite clairement sa place dans ton placard.
 
+
+## Sur le meme theme
+
+- [plateau multifonction ikea](/guides/shopping/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
+- [étagères murales ikea](/guides/shopping/cohue-chez-ikea-avec-letagere-murale-prisee-a-prix-imbattable/)
+
 ## FAQ
 
 ### Le kit TRIXIG est-il suffisant pour monter un meuble IKEA ?

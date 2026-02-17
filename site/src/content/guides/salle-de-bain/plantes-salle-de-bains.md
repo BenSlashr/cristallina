@@ -184,6 +184,12 @@ Si tu n'as pas beaucoup de place, une rangée de 5-6 petits pots identiques avec
 
 La [peperomia hope](/guides/decoration/la-peperomia-hope/) est particulièrement adaptée à cet usage : compacte, graphique avec ses petites feuilles rondes, et elle supporte bien les variations de conditions.
 
+
+## Sur le meme theme
+
+- [carrelage métro salle de bain](/guides/salle-de-bain/carrelage-metro-salle-de-bain/)
+- [rangement salle de bains](/guides/salle-de-bain/idees-de-rangement-et-de-placards-pour-la-salle-de-bains/)
+
 ## FAQ
 
 **Peut-on mettre des plantes dans une salle de bains sans fenêtre ?**

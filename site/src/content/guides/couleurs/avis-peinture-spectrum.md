@@ -168,6 +168,11 @@ Si tu cherches la meilleure peinture qualité/prix pour une grande pièce à viv
 
 ---
 
+
+## Sur le meme theme
+
+- [couleurs d'intérieur 2026](/guides/couleurs/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/)
+
 ## Questions fréquentes sur la peinture Spectrum
 
 **La peinture Spectrum est-elle lessivable ?**

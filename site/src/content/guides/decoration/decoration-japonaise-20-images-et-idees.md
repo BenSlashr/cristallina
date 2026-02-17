@@ -196,6 +196,11 @@ Prends le temps. La déco japonaise n'est pas un makeover du week-end. C'est une
 
 ---
 
+
+## Sur le meme theme
+
+- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+
 ## Questions fréquentes sur la décoration japonaise
 
 **Comment créer une ambiance japonaise dans un petit appartement ?**

@@ -153,6 +153,11 @@ Si tu es dans ce dernier cas et que tu cherches un coin bureau sympa à l'intér
 
 ---
 
+
+## Sur le meme theme
+
+- [éclairage extérieur sans fil](/guides/exterieur/installer-eclairage-exterieur-sans-fil/)
+
 ## Questions fréquentes
 
 ### Un bureau de jardin de 5m2 nécessite-t-il un permis de construire ?

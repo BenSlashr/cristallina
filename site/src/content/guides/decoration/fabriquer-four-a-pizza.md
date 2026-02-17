@@ -170,6 +170,11 @@ pie title Budget construction four à pizza
 
 ```
 
+
+## Sur le meme theme
+
+- [table basse diy](/guides/decoration/creez-votre-table-basse-au-design-original-avec-ces-astuces-diy/)
+
 ## FAQ
 
 **Combien de temps dure un four à pizza maison ?**

@@ -201,6 +201,11 @@ Un patio moderne bien pensé, c'est un espace que tu utilises du printemps à l'
 
 ---
 
+
+## Sur le meme theme
+
+- [pergola ou tonnelle](/guides/exterieur/difference-pergola-tonnelle/)
+
 ## FAQ
 
 **Quelle taille minimum pour un patio moderne fonctionnel ?**

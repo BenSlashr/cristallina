@@ -195,6 +195,13 @@ Tu as déjà du crépi mais il est abîmé, jauni ou simplement daté ? Pas beso
 > [!CAUTION]
 > Si ta maison date d'avant 1997, fais analyser l'ancien crépi avant de le gratter. Certains crépis anciens contiennent de l'amiante. Une analyse coûte environ 30€ chez un laboratoire agréé - c'est un investissement qui en vaut la peine pour ta santé et celle de ta famille.
 
+
+## Sur le meme theme
+
+- [enduire un mur en parpaing](/guides/decoration/comment-enduir-un-mur-en-parpaing/)
+- [pistolet à calfeutrer](/guides/decoration/pistolet-a-calfeutrer/)
+- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+
 ## Quelques inspirations déco avec le crépi
 
 Le crépi intérieur revient fort dans les tendances déco 2025-2026. Quelques idées pour t'inspirer :

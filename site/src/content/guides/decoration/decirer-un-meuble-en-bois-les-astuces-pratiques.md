@@ -233,6 +233,12 @@ flowchart TD
     style H fill:#FFF0F5,stroke:#E879F9,color:#701A75
 ```
 
+
+## Sur le meme theme
+
+- [remplacer une roulette de véranda](/guides/decoration/remplacer-roulette-veranda/)
+- [table basse japonaise kotatsu](/guides/decoration/table-basse-japonaise-kotatsu/)
+
 ## FAQ - Décirer un meuble en bois
 
 ### Comment savoir si mon meuble est ciré ou verni ?

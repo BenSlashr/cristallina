@@ -158,7 +158,7 @@ Un pneu de moto, rembourré et recouvert de cuir synthétique noir, fait un tabo
 
 **Les bougies et photophores**
 
-Un petit pneu de vélo, posé à plat et peint, fait un socle original pour des bougies piliers ou des photophores. Place-en trois sur une table basse, dans des tailles différentes, avec des bougies parfumées - effet garanti. Si tu aimes les plantes dans ton salon, tu peux aussi glisser un petit pot de [Peperomia Hope](/guides/la-peperomia-hope/) à l'intérieur d'un petit anneau de pneu pour un effet terrarium vintage.
+Un petit pneu de vélo, posé à plat et peint, fait un socle original pour des bougies piliers ou des photophores. Place-en trois sur une table basse, dans des tailles différentes, avec des bougies parfumées - effet garanti. Si tu aimes les plantes dans ton salon, tu peux aussi glisser un petit pot de [Peperomia Hope](/guides/decoration/la-peperomia-hope/) à l'intérieur d'un petit anneau de pneu pour un effet terrarium vintage.
 
 > [!IMPORTANT]
 > N'utilise jamais de pneu à l'intérieur pour un usage permanent si la pièce est mal ventilée. Même si les vieux pneus ne dégagent presque rien à température ambiante, une bonne aération reste une bonne pratique pour toute déco avec des matériaux industriels recyclés.
@@ -194,6 +194,12 @@ Un grand pneu de tracteur (si tu en trouves un) enterré légèrement dans le so
 **Potager-jeu**
 
 Des pneus peints en blanc, disposés en carré ou en rond, font un potager enfant parfait. Chaque pneu devient une parcelle avec une plante différente. Les enfants apprennent à jardiner et les pneus délimitent clairement les zones - une idée qui s'associe bien à la création de [bordures de jardin sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/) pour un espace extérieur cohérent et bien organisé.
+
+
+## Sur le meme theme
+
+- [artisanat recyclé pour la maison](/guides/decoration/artisanat-avec-des-materiaux-recycles-pour-la-maison/)
+- [table basse diy](/guides/decoration/creez-votre-table-basse-au-design-original-avec-ces-astuces-diy/)
 
 ## FAQ
 

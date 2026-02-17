@@ -167,7 +167,7 @@ Pour les extérieurs, si tu cherches des idées pour [aménager les abords de ta
 
 **Piétiner pendant la germination** : une fois que tu as semé et tassé, évite de marcher sur la zone pendant au moins 3 semaines, le temps que les racines s'installent.
 
-Pour d'autres projets de jardin qui peuvent se faire sans outils complexes, la pose de [bordures de jardin sans béton](/guides/decoration/poser-bordure-jardin-sans-beton/) est un bel exemple de travaux accessibles avec les moyens du bord.
+Pour d'autres projets de jardin qui peuvent se faire sans outils complexes, la pose de [bordures de jardin sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/) est un bel exemple de travaux accessibles avec les moyens du bord.
 
 ## Le calendrier de suivi semaine par semaine
 
@@ -194,6 +194,12 @@ Se passer de rouleau pour semer du gazon, c'est tout à fait possible et beaucou
 Pour les petites et moyennes surfaces, les méthodes "débrouille" fonctionnent très bien. Sur de grandes surfaces (au-delà de 100 m2), louer un rouleau pour la journée reste plus efficace - compte une trentaine d'euros la demi-journée. Mais pour ton jardin de ville ou ton petit coin de verdure, les alternatives suffisent largement. Lance-toi !
 
 ---
+
+
+## Sur le meme theme
+
+- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [peindre des bocaux ou bouteilles en verre](/guides/decoration/comment-peindre-des-bocaux-ou-des-bouteilles-en-verre/)
 
 ## FAQ
 

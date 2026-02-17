@@ -196,6 +196,11 @@ Pour l'ambiance de ton entrée et de ta cage d'escalier, pense aussi au [choix d
 > [!TIP]
 > Avant de te lancer, fais le test de la bougie : allume une bougie en bas et en haut de ton escalier. Si la flamme vacille fort, c'est que le courant d'air est important et qu'une isolation fera vraiment la différence. C'est simple et ça te motive à passer à l'action !
 
+
+## Sur le meme theme
+
+- [peindre du lino](/guides/decoration/peindre-lino/)
+
 ## FAQ
 
 ### Est-ce que je peux isoler ma montée d'escalier moi-même ?

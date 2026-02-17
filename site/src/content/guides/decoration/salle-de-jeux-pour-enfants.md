@@ -212,6 +212,13 @@ Un point qu'on oublie souvent : une salle de jeux pour un enfant de 3 ans ne res
 
 Quand ton enfant grandit, la salle de jeux peut se transformer en coin gaming, en studio créatif ou en espace devoirs. Pour les ados, un guide comme [les idées déco chambre ado moderne](/chambre-ado-moderne-idees-decoration-tendance/) te donnera des pistes pour faire évoluer l'espace.
 
+
+## Sur le meme theme
+
+- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
+- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+- [peindre des bocaux ou bouteilles en verre](/guides/decoration/comment-peindre-des-bocaux-ou-des-bouteilles-en-verre/)
+
 ## FAQ
 
 **Quelle surface minimale pour une salle de jeux ?**

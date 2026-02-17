@@ -171,6 +171,12 @@ La personnalisation, c'est ce qui distingue un îlot générique d'un meuble qui
 
 Si tu cherches d'autres idées pour une [petite cuisine moderne avec îlot compact](/guides/cuisine/petites-cuisines-modernes-2026-designs-et-modeles/), on a un guide dédié qui couvre les configurations réduites en détail.
 
+
+## Sur le meme theme
+
+- [cuisines modernes 2026](/guides/cuisine/cuisines-modernes-2026-designs-modeles/)
+- [couleurs de cuisine 2026](/guides/cuisine/couleurs-de-cuisine-2026/)
+
 ## FAQ
 
 **Quelle surface minimum pour installer un îlot central ?**

@@ -202,6 +202,12 @@ J'ai fait quelques bourdes au fil des années, alors autant que tu en profites.
 
 **Prendre sans vérifier les dimensions.** La FADO, par exemple, fait 25 cm de diamètre. C'est plus gros qu'on ne le pense sur une petite table de nuit. Mesure avant d'acheter.
 
+
+## Sur le meme theme
+
+- [tables de nuit ikea à petit prix](/guides/shopping/ikea-frappe-fort-sa-nouvelle-table-de-nuit-a-9-e-en-edition-limitee/)
+- [support casque ikea gaming](/guides/shopping/ikea-lance-son-nouveau-support-pour-casque-design-a-un-prix-totalement-fou/)
+
 ## FAQ - Lampes articulées IKEA
 
 ### La TERTIAL est-elle vraiment solide pour un usage quotidien ?

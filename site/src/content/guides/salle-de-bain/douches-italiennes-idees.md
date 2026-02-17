@@ -164,6 +164,11 @@ Pour comprendre comment ça marche niveau accessibilité et aides financières, 
 
 **Budget** : Entre 2 000 et 5 000 € selon l'état de l'existant et les finitions choisies. La majeure partie du budget va à la reprise du sol (évacuation, étanchéité, carrelage).
 
+
+## Sur le meme theme
+
+- [salle de bain rustique moderne](/guides/salle-de-bain/salles-de-bains-rustiques-decoration-et-design-modernes/)
+
 ## Les questions à se poser avant de choisir
 
 Avant de te lancer dans une direction, quelques points pratiques à clarifier :

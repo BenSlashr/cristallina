@@ -177,6 +177,11 @@ La bonne nouvelle : tu n'as pas besoin de tout changer pour en profiter. Des poi
 
 ---
 
+
+## Sur le meme theme
+
+- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
+
 ## FAQ
 
 **Quelle est la couleur de cuisine la plus tendance en 2026 ?**

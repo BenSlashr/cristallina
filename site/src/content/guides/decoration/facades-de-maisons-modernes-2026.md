@@ -84,7 +84,7 @@ Le noir mat reste safe et moderne, mais ce qui monte vraiment c'est le terracott
 
 Pour les couleurs plus claires, le blanc cassé (creamy white) et le gris lin restent très demandés - parfaits pour les facades avec reliefs, parce que les jeux d'ombre et de lumière ressortent bien sur ces teintes neutres.
 
-Si tu veux aller plus loin sur la question des couleurs pour tes extérieurs, j'ai fait un article entier là-dessus : [couleurs pour les facades et extérieurs de maisons en 2026](/guides/decoration/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) avec des palettes et des combinaisons testées.
+Si tu veux aller plus loin sur la question des couleurs pour tes extérieurs, j'ai fait un article entier là-dessus : [couleurs pour les facades et extérieurs de maisons en 2026](/guides/exterieur/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) avec des palettes et des combinaisons testées.
 
 ## Les styles architecturaux qui dominent
 
@@ -152,6 +152,12 @@ Pour une construction neuve, tout passe par le permis de construire - et ton arc
 
 > [!WARNING]
 > Certaines communes ont des règles très strictes sur les couleurs de facade - surtout dans les centres-bourgs et villages classés. Avant de commander ta peinture anthracite, vérifie auprès du service urbanisme de ta mairie. Ça peut t'éviter une mise en demeure coûteuse.
+
+
+## Sur le meme theme
+
+- [salons modernes et élégants 2026](/guides/decoration/salons-modernes-et-elegants-2026/)
+- [maisons modernes en adobe](/guides/exterieur/maisons-modernes-en-adobe-images-dinterieurs-et-dexterieurs/)
 
 ## FAQ
 

@@ -195,6 +195,11 @@ Pour les escaliers en bois dans un immeuble (cage d'escalier commune), l'isolati
 > [!TIP]
 > Commence toujours par la solution la moins invasive. Le talc d'abord, la colle ensuite, les vis en dernier recours. Chaque étape te donne de l'information sur la gravité du problème et peut suffire à le régler.
 
+
+## Sur le meme theme
+
+- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
+
 ## Ce que je ferais dans ma situation
 
 Si c'est juste 1 ou 2 marches qui grincent, je commence par le graphite en poudre Loctite (6€). Si ça revient dans le mois, je passe à la colle Titebond avec une seringue. Si le grincement persiste après la colle, je visse par dessous avec des tasseaux si j'ai accès, ou par dessus avec des vis et tourillons sinon.

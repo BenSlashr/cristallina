@@ -256,6 +256,11 @@ Après avoir aidé des dizaines de lectrices à choisir leurs tableaux, voici le
 
 ---
 
+
+## Sur le meme theme
+
+- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
+
 ## FAQ
 
 ### Comment choisir la bonne taille de tableau pour mon mur ?

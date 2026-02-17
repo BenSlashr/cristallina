@@ -166,6 +166,12 @@ Les brise-vue végétaux vivants durent le plus longtemps - une haie bien entret
 
 Le brise-vue parfait n'existe pas de façon universelle. Tout dépend de ton espace, de ton budget et du rendu que tu recherches. La bonne nouvelle, c'est que même les solutions les plus économiques (une toile HDPE à 5 euros le mètre) transforment immédiatement un balcon ou une terrasse en coin d'intimité. Commence par la version simple, teste, et monte en gamme si tu sens le besoin d'un résultat plus durable ou plus esthétique.
 
+
+## Sur le meme theme
+
+- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
+- [tapis logo personnalisé](/guides/decoration/choisir-tapis-logo-personnalise/)
+
 ## FAQ
 
 ### Quel brise-vue choisir pour un balcon exposé au vent ?

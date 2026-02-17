@@ -176,10 +176,16 @@ La technique de peindre sans poncer s'applique aussi à d'autres surfaces. Si tu
 
 Pour le sol, [peindre un lino](/guides/decoration/peindre-lino/) sans poncer suit le même principe : nettoyage approfondi, peinture sol spéciale vinyle. Une bonne alternative pour rénover un sol abimé à petit budget.
 
-Pour les murs, si tu cherches une peinture de qualité avec un bon rendu, j'ai comparé plusieurs gammes dont [la peinture Luxens de Leroy Merlin](/guides/decoration/peinture-luxens/) - un bon rapport qualité-prix pour les murs intérieurs.
+Pour les murs, si tu cherches une peinture de qualité avec un bon rendu, j'ai comparé plusieurs gammes dont [la peinture Luxens de Leroy Merlin](/guides/couleurs/peinture-luxens/) - un bon rapport qualité-prix pour les murs intérieurs.
 
 > [!IMPORTANT]
 > Sur carrelage ou lino, la résistance de la peinture dépend beaucoup de la circulation. Dans une salle de bain avec eau et vapeur quotidiennes, prévois un entretien plus fréquent et une peinture spécifiquement formulée pour les pièces humides.
+
+
+## Sur le meme theme
+
+- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [enduire un mur en parpaing](/guides/decoration/comment-enduir-un-mur-en-parpaing/)
 
 ## FAQ
 

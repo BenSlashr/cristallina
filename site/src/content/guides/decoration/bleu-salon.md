@@ -167,6 +167,11 @@ Bleu + gris, ça peut marcher, mais uniquement avec un gris chaud (greige, gris 
 
 Une couleur bleu sur un écran et cette même couleur sur ton mur, ce n'est jamais pareil. La lumière de ta pièce, l'orientation, le revêtement de sol - tout influence le rendu. Commande systématiquement des échantillons et teste-les sur place avant de te lancer. Deux euros d'échantillon peuvent te sauver de 200 euros de peinture à refaire.
 
+
+## Sur le meme theme
+
+- [salon brun](/guides/decoration/salons-bruns-idees-et-images/)
+
 ## FAQ - Le bleu dans le salon
 
 ### Le bleu canard, c'est encore tendance en 2026 ?

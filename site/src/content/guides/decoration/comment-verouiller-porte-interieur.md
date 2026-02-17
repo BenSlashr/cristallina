@@ -231,6 +231,15 @@ Quelques pièges classiques que je vois souvent quand on veut poser un verrou :
 
 Pour un [rangement bien organisé](/rangement-creatif-optimisation/) ou un [dressing optimisé](/dressing-optimise-solutions-rangement-garde-robe/), un verrou à clé est aussi une option intéressante pour protéger tes affaires les plus précieuses.
 
+
+## Sur le meme theme
+
+- [enduire un mur en parpaing](/guides/decoration/comment-enduir-un-mur-en-parpaing/)
+- [remplacer une roulette de véranda](/guides/decoration/remplacer-roulette-veranda/)
+- [comment nettoyer une table en céramique](/guides/decoration/comment-nettoyer-une-table-en-ceramique/)
+- [bien accrocher un tableau mural](/guides/decoration/bien-accrocher-tableau-mural/)
+- [tiny house container](/guides/decoration/tiny-house-container/)
+
 ## FAQ
 
 ### Peut-on verrouiller une porte intérieure sans faire de trous ?

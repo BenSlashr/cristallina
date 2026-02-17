@@ -178,6 +178,12 @@ flowchart TD
     classDef detail fill:#FAFAFA,stroke:#6B7280,color:#374151
 ```
 
+
+## Sur le meme theme
+
+- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
+- [cuisine haut de gamme en seine-et-marne](/guides/cuisine/cuisine-haut-gamme-77-ai-concept/)
+
 ## FAQ
 
 ### Est-ce qu'une cuisine américaine convient à un appartement de moins de 40 m² ?

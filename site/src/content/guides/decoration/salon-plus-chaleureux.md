@@ -220,6 +220,11 @@ Pour encore plus d'inspiration sur les tendances actuelles, découvre aussi mon 
 > [!IMPORTANT]
 > L'erreur la plus courante, c'est de vouloir tout acheter d'un coup dans le même magasin. Prends ton temps, chine dans les brocantes, mélange les sources. C'est le mix qui rend un intérieur unique et personnel.
 
+
+## Sur le meme theme
+
+- [décoration petit salon](/guides/decoration/decoration-petit-salon/)
+
 ## FAQ
 
 ### Comment rendre un salon chaleureux avec un petit budget ?

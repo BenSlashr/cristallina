@@ -194,6 +194,12 @@ Si tu repenses aussi l'aspect esthétique global de ta maison en même temps que
 
 La sécurité de ta terrasse, c'est un investissement qui te donnera de la tranquillité d'esprit pour des années. Pas besoin de tout refaire en une fois - commence par les points critiques (sol glissant et garde-corps), puis améliore progressivement le drainage et l'éclairage. Et profite enfin de ta terrasse sans te poser de questions.
 
+
+## Sur le meme theme
+
+- [peinture carrelage extérieur terrasse](/guides/exterieur/peinture-pour-carrelage-exterieur-terrasse/)
+- [parasols de terrasse pour cafés et restaurants](/guides/exterieur/le-guide-ultime-des-parasols-de-terrasse-pour-cafes-hotels-et-restaurants/)
+
 ## Questions fréquentes
 
 **Quelle est la hauteur réglementaire d'un garde-corps de terrasse en France ?**

@@ -102,6 +102,12 @@ La question du format arrive toujours trop tard dans la réflexion. Pourtant, le
 > [!TIP]
 > Si ta salle de bain fait moins de 4m2, pense au receveur quart-de-cercle. Il libère de la place dans la pièce tout en conservant une surface de douche confortable. Jacob Delafon en a des bons modèles autour de 300-450€.
 
+
+## Sur le meme theme
+
+- [douche à 1 euro](/guides/salle-de-bain/douche-1-euro/)
+- [carrelage métro salle de bain](/guides/salle-de-bain/carrelage-metro-salle-de-bain/)
+
 ## Les bonnes questions avant d'acheter
 
 ### Ton évacuation existe déjà ou est à créer ?

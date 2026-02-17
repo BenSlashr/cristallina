@@ -155,6 +155,12 @@ La décoration minimaliste, c'est vraiment l'un des styles les plus accessibles 
 
 ---
 
+
+## Sur le meme theme
+
+- [décoration japonaise](/guides/decoration/decoration-japonaise-20-images-et-idees/)
+- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+
 ## Questions fréquentes sur la décoration minimaliste
 
 **Comment rendre un intérieur minimaliste sans le rendre froid ?**

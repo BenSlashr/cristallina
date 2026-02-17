@@ -206,6 +206,11 @@ Ce que je vois chez les clients qui se lancent dans des projets cuisine cette an
 
 Si tu aimes les matières naturelles et les finitions artisanales, tu pourrais aussi regarder du côté du [béton ciré pour la salle de bain](/guides/salle-de-bain/meuble-salle-de-bain-beton-cire/) - c'est une matière qui s'étend aussi à la cuisine et qui donne un résultat vraiment unique.
 
+
+## Sur le meme theme
+
+- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
+
 ## FAQ - Tes questions sur les cuisines haut de gamme en 77
 
 **Quelle est la durée de fabrication et de livraison ?**

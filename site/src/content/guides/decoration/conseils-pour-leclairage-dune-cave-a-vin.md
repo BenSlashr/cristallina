@@ -184,6 +184,11 @@ L'éclairage d'une cave à vin, c'est aussi une opportunité déco. Quelques id�
 > [!TIP]
 > Pour une ambiance de cave professionnelle sans le budget d'un architecte, combine ruban LED 2200K sous les casiers + 2 spots orientables au plafond dirigés vers les murs + un variateur centralisé. Cout total : 150 à 200 euros, installation comprise si tu fais toi-même.
 
+
+## Sur le meme theme
+
+- [comment nettoyer une table en céramique](/guides/decoration/comment-nettoyer-une-table-en-ceramique/)
+
 ## FAQ
 
 **Est-ce que les LED peuvent abimer le vin ?**

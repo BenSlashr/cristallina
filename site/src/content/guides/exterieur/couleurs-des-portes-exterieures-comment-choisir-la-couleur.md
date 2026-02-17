@@ -188,6 +188,12 @@ La poignée, la serrure, le heurtoir, le numéro de maison - ces petits détails
 
 Pour trouver d'autres idées déco qui s'accordent avec ta porte d'entrée, notre guide sur les [couleurs de peinture tendance 2026](/guides/couleurs/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/) peut te donner des pistes pour créer un fil conducteur entre l'extérieur et l'intérieur de ta maison.
 
+
+## Sur le meme theme
+
+- [construire un pool house](/guides/exterieur/construire-pool-house/)
+- [maisons modernes en adobe](/guides/exterieur/maisons-modernes-en-adobe-images-dinterieurs-et-dexterieurs/)
+
 ## FAQ - Couleur porte d'entrée
 
 ### Quelle est la couleur la plus tendance pour une porte d'entrée en 2026 ?

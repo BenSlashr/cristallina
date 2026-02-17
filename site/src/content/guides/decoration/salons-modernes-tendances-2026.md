@@ -170,6 +170,11 @@ Les designers intègrent cette dimension directement dans leurs collections : bo
 > [!IMPORTANT]
 > Avant d'acheter un meuble neuf, pose-toi trois questions : est-ce que je peux le trouver en seconde main ? Est-ce qu'il durera au moins 10 ans ? Est-ce que je l'aime vraiment ou c'est juste un achat impulsif ? Ces trois filtres t'éviteront bien des erreurs.
 
+
+## Sur le meme theme
+
+- [salons modernes et élégants 2026](/guides/decoration/salons-modernes-et-elegants-2026/)
+
 ## FAQ : tes questions sur les salons modernes 2026
 
 ### Quel budget prévoir pour relooker un salon en 2026 ?

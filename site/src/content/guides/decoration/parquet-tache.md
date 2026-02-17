@@ -168,6 +168,12 @@ Le tarif moyen d'un ponçage-vitrification par un pro se situe entre 25 et 45 eu
 
 Si tu rénoves plus largement et que tu t'attaques aussi a tes [murs en parpaings](/guides/decoration/recouvrir-parpaings/), pense a bien protéger ton parquet avec une bache épaisse et du ruban de masquage pendant les travaux.
 
+
+## Sur le meme theme
+
+- [décirer un meuble en bois](/guides/decoration/decirer-un-meuble-en-bois-les-astuces-pratiques/)
+- [volets en bois](/guides/decoration/volets-en-bois/)
+
 ## FAQ - Les questions que tout le monde se pose
 
 ### Comment enlever une tache d'eau sur du parquet huilé ?

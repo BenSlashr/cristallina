@@ -258,6 +258,12 @@ Si tu veux intégrer tes suspensions dans un aménagement plus large, le guide p
 
 ---
 
+
+## Sur le meme theme
+
+- [diy jardinière](/guides/exterieur/diy-jardiniere/)
+- [serre tunnel](/guides/exterieur/installer-serre-tunnel/)
+
 ## FAQ
 
 ### Quel poids peut supporter un crochet de plafond ?

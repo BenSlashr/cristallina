@@ -61,7 +61,7 @@ flowchart TD
 
 C'est l'étape qu'on bacle souvent, et c'est une erreur. Un bon sol, c'est la base d'un jardin qui reste beau sur le long terme.
 
-Commence par délimiter ta zone avec des bordures. Des bordures propres en acier Corten, en pierre naturelle ou en bambou donnent une finition nette qui est vraiment le truc qui fait la différence entre un jardin amateur et un jardin soigné. Pour tout ce qui concerne la pose et les options disponibles, jette un oeil a notre guide sur [comment poser une bordure de jardin sans béton](/guides/decoration/poser-bordure-jardin-sans-beton/) - c'est exactement le type d'installation qui convient ici.
+Commence par délimiter ta zone avec des bordures. Des bordures propres en acier Corten, en pierre naturelle ou en bambou donnent une finition nette qui est vraiment le truc qui fait la différence entre un jardin amateur et un jardin soigné. Pour tout ce qui concerne la pose et les options disponibles, jette un oeil a notre guide sur [comment poser une bordure de jardin sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/) - c'est exactement le type d'installation qui convient ici.
 
 Ensuite, pose un géotextile (feutre anti-mauvaises herbes) sur toute la surface du jardin sec. Ce tissu laisse passer l'eau mais bloque la végétation. Sans lui, dans 6 mois, tu passes la moitié de ton temps a désherber entre les cailloux.
 
@@ -154,6 +154,12 @@ Un jardin zen n'est pas un jardin sans entretien - c'est un mythe. Mais l'entret
 > Prévois 30 minutes par semaine pour l'entretien de base. C'est le temps minimal pour garder un jardin zen qui reste beau. La bonne nouvelle : ce moment de jardinage est lui-meme une forme de mindfulness - tu te vides la tete naturellement.
 
 ---
+
+
+## Sur le meme theme
+
+- [conteneur maritime au jardin](/guides/exterieur/comment-transformer-votre-jardin-avec-un-conteneur-maritime/)
+- [jardins verticaux](/guides/exterieur/jardins-verticaux-de-40-photos-dinspiration-verte/)
 
 ## Questions fréquentes sur le jardin zen
 

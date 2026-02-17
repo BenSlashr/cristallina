@@ -192,6 +192,11 @@ Ranger sa chambre n'est pas une corvée à faire une fois pour toutes - c'est un
 
 ---
 
+
+## Sur le meme theme
+
+- [chambre sans fenêtre](/guides/chambre/chambre-sans-fenetre/)
+
 ## Questions fréquentes
 
 **Combien de temps faut-il pour ranger une chambre complètement désorganisée ?**

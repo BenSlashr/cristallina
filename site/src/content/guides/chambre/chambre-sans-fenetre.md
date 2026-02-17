@@ -211,6 +211,11 @@ flowchart TD
 > [!IMPORTANT]
 > Vérifie la réglementation de ton logement avant d'aménager une chambre sans fenêtre. En France, le Code de la construction impose une ouverture sur l'extérieur pour qu'une pièce soit considérée comme "chambre" au sens légal. Une pièce aveugle peut servir de bureau, dressing ou chambre d'amis, mais elle ne peut pas être déclarée comme chambre principale dans un bail.
 
+
+## Sur le meme theme
+
+- [décorer sa chambre en location](/guides/chambre/decorer-chambre-coucher-location/)
+
 ## FAQ
 
 **Est-ce légal de dormir dans une chambre sans fenêtre ?**

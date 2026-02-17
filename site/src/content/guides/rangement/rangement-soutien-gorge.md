@@ -186,6 +186,15 @@ Si tu veux aller plus loin dans l'optimisation de ton [dressing](/dressing-optim
 
 ---
 
+
+## Sur le meme theme
+
+- [rangement bureau ikea](/guides/rangement/ikea-cartonne-avec-ce-rangement-bureau-decouverte-du-must-have-de-la-saison/)
+- [ranger sa chambre efficacement](/guides/chambre/ranger-chambre/)
+- [armoire d'angle IKEA](/guides/shopping/ikea-cartonne-avec-son-armoire-dangle/)
+- [decoration de chambre petit budget](/guides/chambre/decorer-la-chambre-a-coucher-avec-peu-dargent/)
+- [idees de rangement pour la salle de bains](/guides/salle-de-bain/idees-de-rangement-et-de-placards-pour-la-salle-de-bains/)
+
 ## Questions fréquentes
 
 **Peut-on empiler les soutiens-gorge à coques les uns sur les autres ?**

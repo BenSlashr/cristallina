@@ -220,6 +220,11 @@ Et si tu veux prolonger l'expérience galets vers l'extérieur, notre guide sur 
 
 ---
 
+
+## Sur le meme theme
+
+- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+
 ## FAQ : Galets en déco d'intérieur
 
 **Peut-on utiliser des galets de plage en déco intérieure ?**

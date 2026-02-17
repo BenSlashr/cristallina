@@ -184,6 +184,11 @@ Une fois que tu as le coup de main, les possibilités sont infinies : dégradés
 
 ---
 
+
+## Sur le meme theme
+
+- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
+
 ## FAQ
 
 **Quelle peinture utiliser pour peindre des bocaux en verre ?**

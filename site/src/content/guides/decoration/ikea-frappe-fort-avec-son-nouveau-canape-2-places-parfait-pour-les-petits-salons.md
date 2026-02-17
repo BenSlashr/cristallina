@@ -105,7 +105,7 @@ Le KLIPPAN fait 180 cm de large - c'est le plus large des trois modèles, ce qui
 
 ### Pour qui ?
 
-Le KLIPPAN est parfait si tu as un budget serré, si tu déménages souvent (il est léger et se démonte facilement), ou si tu veux un canapé "jetable" que tu peux relooker avec une housse trendy. Si tu veux aller plus loin sur le style de [ton canapé et sa couleur](/guides/decoration/couleur-canape-choisir/), j'ai un guide dédié qui t'aidera à choisir la bonne teinte selon ton salon.
+Le KLIPPAN est parfait si tu as un budget serré, si tu déménages souvent (il est léger et se démonte facilement), ou si tu veux un canapé "jetable" que tu peux relooker avec une housse trendy. Si tu veux aller plus loin sur le style de [ton canapé et sa couleur](/guides/couleurs/couleur-canape-choisir/), j'ai un guide dédié qui t'aidera à choisir la bonne teinte selon ton salon.
 
 > [!WARNING]
 > Le KLIPPAN n'a pas de pieds hauts - il est posé quasi au ras du sol. Dans un petit salon, ça alourdit visuellement l'ensemble. Si tu veux contrebalancer, mise sur des meubles suspendus autour (étagères murales, meuble TV fixé au mur).
@@ -175,6 +175,11 @@ Les canapés IKEA à housses amovibles ont un gros avantage sur la concurrence :
 - **Les coussins** : aspire-les une fois par mois avec l'embout brosse de ton aspirateur. Retourne-les toutes les deux semaines pour une usure uniforme
 - **Les taches** : un mélange eau tiède + savon de Marseille retire la plupart des taches courantes (café, vin, sauce). Tamponne sans frotter, puis rince à l'eau claire
 - **Le bois apparent (TORNSBORG)** : un coup de chiffon humide suffit. Évite les produits abrasifs. Tu peux appliquer une huile pour bois clair (type huile Stockaryd chez IKEA, 10 euros) une fois par an pour nourrir le pin
+
+
+## Sur le meme theme
+
+- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
 
 ## FAQ
 

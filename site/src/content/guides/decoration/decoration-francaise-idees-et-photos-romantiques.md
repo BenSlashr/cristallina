@@ -206,6 +206,12 @@ Trust me, le style romantique à la française est l'un des moins onéreux à re
 
 ---
 
+
+## Sur le meme theme
+
+- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+- [décoration classique contemporaine](/guides/decoration/decoration-classique-20-images-et-idees-contemporaines/)
+
 ## Questions fréquentes
 
 ### C'est quoi la différence entre déco romantique et déco shabby chic ?

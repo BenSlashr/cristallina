@@ -167,6 +167,11 @@ Quelques noms reconnus en France : Ma Construction Container (MCC), RG Conceptio
 > [!IMPORTANT]
 > Demande systématiquement à voir des chantiers en cours ou des maisons livrées. Une photo sur un site ne dit pas grand chose - une visite avec les propriétaires, ça vaut de l'or. Les forums comme "maison container france" regorgent de retours d'expérience très concrets.
 
+
+## Sur le meme theme
+
+- [tiny house container](/guides/decoration/tiny-house-container/)
+
 ## Ce que ça donne au quotidien
 
 Les retours d'expérience des habitants de maisons container sont globalement positifs sur quelques points clés :

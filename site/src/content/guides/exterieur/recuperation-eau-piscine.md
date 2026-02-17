@@ -175,6 +175,12 @@ Pour une piscine de 50 m3 avec un coût d'eau à 4,50 euros le m3, tu économise
 > [!TIP]
 > Si tu as un grand jardin, pense à dimensionner ta cuve pour qu'elle serve aussi l'arrosage. Un système à 10 000 litres qui alimente à la fois la piscine et tes massifs, c'est une logique globale qui accélère l'amortissement. Pour les jardins aménagés avec plusieurs zones, comme quand on travaille à [transformer un espace extérieur en zone de vie](/guides/exterieur/comment-transformer-votre-jardin-avec-un-conteneur-maritime/), ce type d'investissement s'intègre naturellement.
 
+
+## Sur le meme theme
+
+- [construire un pool house](/guides/exterieur/construire-pool-house/)
+- [patio moderne](/guides/exterieur/patio-moderne-de-maisons-simples-et-belles/)
+
 ## Les questions qu'on se pose souvent
 
 **Est-ce que l'eau de pluie peut vraiment servir dans une piscine ?**

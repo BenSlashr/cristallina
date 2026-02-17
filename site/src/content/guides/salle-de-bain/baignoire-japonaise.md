@@ -152,6 +152,14 @@ Si tu rénoves ta salle de bain en ce moment, la baignoire japonaise mérite vra
 
 Le prix d'entrée fait peur, mais un ofuro en hinoki bien entretenu, ca dure 30 à 50 ans. Ramené sur la durée, c'est moins cher qu'une baignoire acrylique qu'on change tous les 10 ans. Et surtout, c'est une expérience quotidienne qui transforme vraiment le rapport au corps et au soin.
 
+
+## Sur le meme theme
+
+- [meuble salle de bain béton ciré](/guides/salle-de-bain/meuble-salle-de-bain-beton-cire/)
+- [entretenir un bain nordique](/guides/salle-de-bain/comment-entretenir-un-bain-nordique/)
+- [baignoire scandinave](/guides/salle-de-bain/baignoire-scandinave/)
+- [salle de bain industrielle](/guides/salle-de-bain/salle-de-bain-industrielle/)
+
 ## FAQ
 
 **Quelle est la différence entre un ofuro et une baignoire normale ?**

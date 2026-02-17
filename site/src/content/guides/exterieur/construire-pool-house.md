@@ -216,6 +216,11 @@ Mon conseil : commence par lister tes vrais besoins. Un pool house de 15 m2 bien
 
 **Poser le pool house trop loin de la piscine.** L'idéal, c'est entre 3 et 8 mètres du bassin. Assez près pour être pratique, assez loin pour ne pas gêner la circulation autour de la piscine et éviter les projections d'eau constantes sur la structure.
 
+
+## Sur le meme theme
+
+- [couleurs facades maison 2026](/guides/exterieur/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/)
+
 ## FAQ
 
 **Faut-il un permis de construire pour un pool house ?**

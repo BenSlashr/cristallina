@@ -179,6 +179,12 @@ Une table de nuit IKEA basique peut devenir un vrai élément de décoration ave
 > [!IMPORTANT]
 > Les prix indiqués sont ceux du catalogue IKEA France en 2026. Ils peuvent varier légèrement selon les magasins et les périodes. Vérifie toujours le prix en ligne avant de te déplacer.
 
+
+## Sur le meme theme
+
+- [lampe articulée ikea à petit prix](/guides/shopping/cohue-chez-ikea-avec-cette-lampe-articulee-super-design-a-moins-de-5-euros/)
+- [plateau multifonction ikea](/guides/shopping/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
+
 ## FAQ
 
 ### Quelle est la table de nuit IKEA la moins chère en 2026 ?

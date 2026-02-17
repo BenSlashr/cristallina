@@ -209,6 +209,11 @@ Et rappelle-toi : un canapé, ça se change moins facilement qu'un mur de peintu
 
 Si tu cherches de l'inspiration pour les murs justement, mon guide sur les [couleurs pour la salle à manger](/guides/couleurs/couleurs-pour-la-salle-a-manger-a-peindre-et-a-decorer/) te montrera comment peinture et mobilier peuvent raconter la même histoire.
 
+
+## Sur le meme theme
+
+- [chaise de salon](/guides/decoration/chaise-salon/)
+
 ## FAQ
 
 ### Quelle est la couleur de canapé la plus facile à vivre ?

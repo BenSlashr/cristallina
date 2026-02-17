@@ -187,6 +187,11 @@ Pour finir cette galerie, voici les styles qui reviennent le plus souvent dans l
 
 **La cloison végétale d'intérieur** : Un mur végétal double face qui sépare deux espaces (salon/salle à manger par exemple). La lumière passe, l'air circule, et tu gagnes en intimité sans perdre en luminosité.
 
+
+## Sur le meme theme
+
+- [jardins intérieurs modernes](/guides/exterieur/jardins-interieurs-modernes-photos-et-conseils-de-conception/)
+
 ## FAQ - Jardins verticaux
 
 **Combien coûte un jardin vertical au m2 ?**

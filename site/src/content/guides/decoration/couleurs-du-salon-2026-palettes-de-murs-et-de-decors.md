@@ -130,7 +130,7 @@ Choisir la couleur des murs c'est la moitié du travail. Le reste, c'est savoir 
 - Bois clair ou pin naturel
 - A éviter : le blanc pur trop froid, préfère le chaux ou le blanc cassé
 
-Si tu cherches à affiner tes associations de couleurs, notre article sur les [couleurs compatibles avec l'orange pour les murs et la decoration](/guides/decoration/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) te donnera des idées pour travailler les tonalités chaudes dans tout l'appartement.
+Si tu cherches à affiner tes associations de couleurs, notre article sur les [couleurs compatibles avec l'orange pour les murs et la decoration](/guides/couleurs/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) te donnera des idées pour travailler les tonalités chaudes dans tout l'appartement.
 
 ## Budget : ce que ça coûte vraiment de repeindre son salon
 
@@ -193,6 +193,12 @@ La couleur de ton salon en 2026, c'est avant tout une histoire de cohérence ent
 > Avant d'acheter quoi que ce soit, photographie ton salon en pleine journée et en soirée avec ta lampe principale allumée. Ces deux photos te montreront exactement les dominantes de couleur actuelles - et t'aideront à choisir ce qui les équilibrera ou les prolongera.
 
 ---
+
+
+## Sur le meme theme
+
+- [salon brun](/guides/decoration/salons-bruns-idees-et-images/)
+- [bleu salon](/guides/decoration/bleu-salon/)
 
 ## FAQ - Couleurs salon 2026
 

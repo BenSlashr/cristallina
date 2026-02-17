@@ -216,6 +216,11 @@ Quelques réflexes spécifiques pour la chambre :
 
 La température idéale pour bien dormir se situe entre 16 et 19 °C. Si tu n'arrives pas à descendre sous 24 °C malgré tout, un [aménagement malin de la chambre](/guides/chambre/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/) et un ventilateur silencieux (moins de 40 dB) brassé sur toi toute la nuit feront la différence.
 
+
+## Sur le meme theme
+
+- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+
 ## FAQ
 
 ### À quelle température une pièce est-elle trop chaude ?

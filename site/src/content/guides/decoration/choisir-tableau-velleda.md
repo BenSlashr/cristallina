@@ -218,6 +218,12 @@ flowchart TD
 
 ---
 
+
+## Sur le meme theme
+
+- [tableau pour enfant](/guides/decoration/choisir-tableau-enfant/)
+- [cadre tableau mural végétal](/guides/decoration/choisir-cadre-tableau-mural-vegetal/)
+
 ## FAQ
 
 **Quelle est la différence entre un tableau Velleda et un tableau blanc classique ?**

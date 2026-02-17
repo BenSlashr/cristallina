@@ -178,6 +178,11 @@ flowchart TD
     classDef neutre fill:#F9FAFB,stroke:#6B7280,color:#374151
 ```
 
+
+## Sur le meme theme
+
+- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
+
 ## FAQ
 
 ### À quelle hauteur poser sa tringle à rideaux ?

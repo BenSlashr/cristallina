@@ -174,6 +174,11 @@ Quelques astuces qui font la différence entre un résultat amateur et un objet 
 
 **Finitions soignées.** Un vernis de finition, un coup de cire, un bord bien poncé... ce sont ces petits détails qui transforment un bricolage en objet déco.
 
+
+## Sur le meme theme
+
+- [pneus recyclés pour la déco](/guides/decoration/pneus-recycles-pour-la-decoration/)
+
 ## FAQ
 
 **Quels matériaux recyclés sont les plus faciles à travailler pour un débutant ?**

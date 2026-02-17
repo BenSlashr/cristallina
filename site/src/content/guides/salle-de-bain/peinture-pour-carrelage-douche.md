@@ -191,6 +191,11 @@ Compare ça aux 1500-3000 euros d'un remplacement complet du carrelage, et le ca
 
 Et si tu cherches des idées de rangement pour compléter ta salle de bain rénovée, jette un oeil à mes [astuces rangement salle de bain](/guides/salle-de-bain/idees-de-rangement-et-de-placards-pour-la-salle-de-bains/) - ça vaut le détour.
 
+
+## Sur le meme theme
+
+- [peinture carrelage salle de bain](/guides/salle-de-bain/peinture-pour-carrelage-salle-de-bain-les-choses-a-eviter/)
+
 ## FAQ
 
 ### Combien de temps dure la peinture sur carrelage de douche ?

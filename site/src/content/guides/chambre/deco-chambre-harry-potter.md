@@ -173,6 +173,15 @@ Si tu as une maison préférée, autant jouer la carte jusqu'au bout - mais subt
 > [!IMPORTANT]
 > La déco de ta maison de Poudlard doit rester une inspiration, pas une application littérale. Si tu peins tout en vert et argent pour Serpentard, le résultat risque d'être froid et difficile à vivre. Prends les couleurs comme point de départ et module en fonction de ce qui te plait vraiment.
 
+
+## Sur le meme theme
+
+- [déco terracotta chambre](/guides/chambre/deco-terracotta-chambre/)
+- [décorer sa chambre en location](/guides/chambre/decorer-chambre-coucher-location/)
+- [déco pop chambre](/guides/chambre/guide-pour-une-deco-pop-dans-la-chambre-a-coucher/)
+- [chambre style jungle](/guides/chambre/decorer-une-chambre-dans-un-style-jungle/)
+- [chambre sans fenêtre](/guides/chambre/chambre-sans-fenetre/)
+
 ## Budget et priorités
 
 Tu n'as pas besoin de tout faire en une fois. Voici comment prioriser si tu pars de zéro.

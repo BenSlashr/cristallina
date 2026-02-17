@@ -120,7 +120,7 @@ C'est là où beaucoup font des erreurs. La peinture est sèche au toucher en qu
 
 Attends au moins 48h avant de remettre des objets sur un plan de travail peint, et 72h avant de marcher sur un sol, même en chaussettes.
 
-Si tu as envie de voir le résultat rapidement, c'est le bon moment pour te faire un thé et regarder [comment bien choisir une peinture murale de qualité pour le reste de ta pièce](/guides/decoration/peinture-luxens/).
+Si tu as envie de voir le résultat rapidement, c'est le bon moment pour te faire un thé et regarder [comment bien choisir une peinture murale de qualité pour le reste de ta pièce](/guides/couleurs/peinture-luxens/).
 
 ## Sol ou mur : les différences importantes
 
@@ -201,6 +201,12 @@ Budget réaliste : 50 à 100 euros pour une salle de bain standard (5 à 8m2 de 
 Le rapport effort-résultat est imbattable pour ce type de rénovation. Et franchement, transformer un carrelage marron moche en un beau mur blanc mat ou vert amande, ça donne envie de passer plus de temps dans sa salle de bain. Ce n'est pas rien.
 
 ---
+
+
+## Sur le meme theme
+
+- [peinture pour carrelage cuisine](/guides/cuisine/peinture-pour-carrelage-cuisine/)
+- [peinture carrelage extérieur terrasse](/guides/exterieur/peinture-pour-carrelage-exterieur-terrasse/)
 
 ## Questions fréquentes
 

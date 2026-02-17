@@ -27,7 +27,7 @@ Il existe plusieurs grandes familles :
 - **Le beige mastic** : version désaturée de l'ocre, parfaite pour ceux qui veulent la chaleur sans l'intensité.
 
 > [!NOTE]
-> L'ocre rouge et la terracotta sont proches mais pas identiques. La terracotta tire davantage vers le rouge brique, l'ocre rouge reste plus lumineux et plus chaud. Pour tout savoir sur la déco terracotta en chambre, j'ai écrit un article dédié : [déco terracotta pour la chambre](/guides/decoration/deco-terracotta-chambre/).
+> L'ocre rouge et la terracotta sont proches mais pas identiques. La terracotta tire davantage vers le rouge brique, l'ocre rouge reste plus lumineux et plus chaud. Pour tout savoir sur la déco terracotta en chambre, j'ai écrit un article dédié : [déco terracotta pour la chambre](/guides/chambre/deco-terracotta-chambre/).
 
 ## Avec quoi associer l'ocre sur tes murs ?
 
@@ -156,7 +156,7 @@ L'ocre est une couleur qui ne se "démode" pas vraiment - elle a 40 000 ans d'hi
 
 C'est le mouvement "matière première" qui pousse l'ocre vers un territoire encore plus naturel. Moins paint-over-everything, plus texture et profondeur. Si tu associes une peinture ocre avec un mur en enduit brut ou des panneaux de liège, c'est la version la plus contemporaine de cette couleur.
 
-L'orange étant une couleur complémentaire de l'ocre, les deux travaillent d'ailleurs souvent ensemble dans les palettes actuelles - pour creuser ce sujet, mon article sur les [couleurs compatibles avec l'orange pour les murs](/guides/decoration/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) te donnera beaucoup d'idées supplémentaires.
+L'orange étant une couleur complémentaire de l'ocre, les deux travaillent d'ailleurs souvent ensemble dans les palettes actuelles - pour creuser ce sujet, mon article sur les [couleurs compatibles avec l'orange pour les murs](/guides/couleurs/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) te donnera beaucoup d'idées supplémentaires.
 
 ## Par où commencer concrètement ?
 
@@ -170,6 +170,12 @@ Si tu es complètement nouvelle avec l'ocre, voici ma stratégie :
 Ce qui est bien avec l'ocre, c'est que même si tu changes d'avis, ça se repeint. Rien n'est irréversible. Et franchement, la plupart des gens qui "essaient" l'ocre finissent par l'adorer.
 
 ---
+
+
+## Sur le meme theme
+
+- [couleurs qui se marient avec le violet](/guides/couleurs/quelles-sont-les-couleurs-qui-se-marient-bien-avec-le-violet-en-decoration/)
+- [couleurs pour donner de la profondeur](/guides/couleurs/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece/)
 
 ## FAQ - Couleurs ocres pour les murs
 

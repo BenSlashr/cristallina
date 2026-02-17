@@ -198,6 +198,11 @@ Un brin cassé ? Pas de panique. Tu peux le remplacer en achetant du rotin de re
 
 **Ignorer l'entretien** - Le rotin qui craque et qui grise, c'est du rotin mal entretenu. 10 minutes de soin par mois suffisent a garder tes meubles beaux pendant des années.
 
+
+## Sur le meme theme
+
+- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
+
 ## FAQ
 
 ### Quelle est la vraie différence entre le rotin et l'osier ?

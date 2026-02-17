@@ -204,6 +204,11 @@ Si tu as des travaux à prévoir à l'intérieur après la réfection de ton toi
 
 Le shingle gagne sur le prix et la facilité de pose. Il perd sur la longévité et l'isolation. Le bon choix dépend de ton projet : pour un abri de jardin ou un garage, c'est parfait. Pour ta maison principale, la tuile ou le zinc restent plus pertinents sur la durée. Et si tu cherches à intégrer des éléments lumineux dans ta couverture, notre article sur les [tuiles transparentes](/guides/decoration/tuile-transparente-cout-et-usage/) donne de bonnes pistes.
 
+
+## Sur le meme theme
+
+- [tuile chatière](/guides/decoration/installation-et-usage-dune-tuile-chatiere/)
+
 ## FAQ : les questions les plus fréquentes
 
 ### Le shingle est-il autorisé partout en France ?

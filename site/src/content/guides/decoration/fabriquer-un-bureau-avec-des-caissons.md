@@ -201,6 +201,11 @@ Si ton bureau est dans une pièce où le sol peut être un peu pris, pense à pr
 
 Les caissons Ikea (Kallax, Alex) ont une structure solide mais les glissières de tiroirs peuvent s'user avec le temps. Des pièces de rechange sont disponibles sur le site d'Ikea ou en GSB à moins de 5 € pièce.
 
+
+## Sur le meme theme
+
+- [table basse diy](/guides/decoration/creez-votre-table-basse-au-design-original-avec-ces-astuces-diy/)
+
 ## Questions fréquentes
 
 **Est-ce que je peux mettre des roulettes sous les caissons ?**

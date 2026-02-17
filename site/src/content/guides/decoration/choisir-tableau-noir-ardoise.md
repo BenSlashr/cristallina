@@ -210,6 +210,11 @@ Les chevalets double-face combinent un côté ardoise noire et un côté tableau
 
 ---
 
+
+## Sur le meme theme
+
+- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
+
 ## FAQ
 
 **Quelle est la différence entre un tableau noir en ardoise et un tableau en mélamine ?**

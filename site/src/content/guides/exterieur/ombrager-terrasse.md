@@ -201,6 +201,11 @@ graph TD
     style F4 fill:#141D30,stroke:#F59E0B,color:#F1F5F9
 ```
 
+
+## Sur le meme theme
+
+- [peinture carrelage extérieur terrasse](/guides/exterieur/peinture-pour-carrelage-exterieur-terrasse/)
+
 ## FAQ
 
 ### Quelle est la solution la plus efficace pour ombrager une grande terrasse ?

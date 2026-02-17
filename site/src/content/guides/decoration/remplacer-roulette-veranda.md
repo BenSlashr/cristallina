@@ -218,6 +218,11 @@ Quelques pièges classiques que je vois revenir souvent :
 
 Pour le rangement de tes outils après l'intervention, notre article sur [les escaliers silencieux](/guides/decoration/escaliers-silencieux/) peut aussi t'inspirer pour l'entretien de ta maison en général.
 
+
+## Sur le meme theme
+
+- [décirer un meuble en bois](/guides/decoration/decirer-un-meuble-en-bois-les-astuces-pratiques/)
+
 ## FAQ
 
 ### Peut-on remplacer les roulettes sans démonter la porte ?

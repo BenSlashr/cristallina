@@ -189,6 +189,11 @@ flowchart TD
 > [!IMPORTANT]
 > N'oublie pas la teinte du sol et des boiseries quand tu choisis tes deux couleurs. Un parquet en chêne clair ou foncé ne s'accommode pas des mêmes teintes. Prends toujours en photo ton sol et tes menuiseries avant de faire tes essais de couleur.
 
+
+## Sur le meme theme
+
+- [feng shui chambre à coucher](/guides/chambre/le-feng-shui-dans-la-chambre-a-coucher/)
+
 ## Avant de te lancer : les questions à te poser
 
 **Mon orientation lumineuse ?** Une chambre plein nord a besoin de couleurs chaudes ou de neutres clairs pour ne pas devenir froide. Une chambre plein sud peut absorber des teintes plus profondes sans que la pièce paraisse sombre.

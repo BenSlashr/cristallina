@@ -142,6 +142,13 @@ Pour la protection, installe une alèse dès la première nuit. Pas la peine de 
 
 Enfin, un point souvent oublié : lave ta housse amovible Emma régulièrement. Elle se détache facilement avec la fermeture éclair, passe en machine à 60 °C et se remet en place en deux minutes. Emma recommande un lavage toutes les six à huit semaines.
 
+
+## Sur le meme theme
+
+- [pistolet à calfeutrer](/guides/decoration/pistolet-a-calfeutrer/)
+- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [facades de maisons modernes 2026](/guides/decoration/facades-de-maisons-modernes-2026/)
+
 ## Récap : tout ce qu'il faut retenir
 
 Pour résumer en quelques points clés :

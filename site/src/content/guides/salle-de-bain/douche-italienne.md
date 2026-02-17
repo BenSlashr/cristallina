@@ -159,6 +159,12 @@ Pour encore plus d'inspiration, jette un oeil à notre sélection d'[idées pour
 > [!TIP]
 > Mon combo préféré pour un rendu haut de gamme sans se ruiner : carrelage grand format imitation béton ciré (Castorama en a de très bien autour de 25-35€/m²), joints époxy gris anthracite, robinetterie noire mate (Leroy Merlin propose des gammes noires à partir de 80€ pour le mitigeur). Résultat garanti.
 
+
+## Sur le meme theme
+
+- [douche à 1 euro](/guides/salle-de-bain/douche-1-euro/)
+- [peinture pour carrelage de douche](/guides/salle-de-bain/peinture-pour-carrelage-douche/)
+
 ## FAQ
 
 **Peut-on installer une douche italienne dans un appartement en étage ?**

@@ -173,6 +173,12 @@ Prends le temps de bien définir l'usage avant tout - c'est lui qui déterminera
 
 ---
 
+
+## Sur le meme theme
+
+- [jardins intérieurs modernes](/guides/exterieur/jardins-interieurs-modernes-photos-et-conseils-de-conception/)
+- [jardins et cours mexicains](/guides/exterieur/jardins-et-cours-mexicains-images-et-idees-pour-linspiration/)
+
 ## Questions fréquentes
 
 **Un conteneur maritime est-il autorisé dans tous les jardins ?**

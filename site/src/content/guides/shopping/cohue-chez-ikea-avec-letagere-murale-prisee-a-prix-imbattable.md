@@ -175,6 +175,12 @@ Après avoir testé pas mal de configurations, voici les trois combos que je rec
 
 ---
 
+
+## Sur le meme theme
+
+- [plateau multifonction ikea](/guides/shopping/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
+- [séchoir ikea à moins de 6 euros](/guides/shopping/ikea-cet-indispensable-pour-secher-son-linge-meme-en-automne-a-moins-de-6-euros/)
+
 ## Questions fréquentes
 
 **Quelle étagère murale IKEA est la moins chère ?**

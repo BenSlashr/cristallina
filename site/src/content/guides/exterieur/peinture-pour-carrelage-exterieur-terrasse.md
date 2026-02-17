@@ -176,6 +176,11 @@ Si tu réfléchis aussi à d'autres aménagements pour ta terrasse, regarde la [
 
 Repeindre le carrelage de ta terrasse, c'est le meilleur rapport effort-résultat pour rafraîchir ton extérieur. Avec le bon produit (oublie l'époxy, mise sur V33 ou Syntilor), une préparation sérieuse et un peu de patience au séchage, tu obtiens un résultat qui change complètement l'ambiance de ton espace dehors. Et si dans 4-5 ans la peinture commence à fatiguer, tu peux remettre une couche sans tout refaire.
 
+
+## Sur le meme theme
+
+- [parasols de terrasse pour cafés et restaurants](/guides/exterieur/le-guide-ultime-des-parasols-de-terrasse-pour-cafes-hotels-et-restaurants/)
+
 ## Questions fréquentes
 
 **Combien de temps tient la peinture sur du carrelage de terrasse ?**

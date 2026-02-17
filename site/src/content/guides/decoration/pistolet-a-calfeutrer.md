@@ -201,6 +201,15 @@ Pour un usage ponctuel, un modèle à 15€ avec décompression automatique est 
 
 Si tu fais des travaux d'[enduit sur parpaing](https://www.cristallina.fr/guides/decoration/comment-enduir-un-mur-en-parpaing/) ou de [finition murale](https://www.cristallina.fr/guides/decoration/recouvrir-parpaings/), un pistolet à calfeutrer te servira aussi pour boucher les petits trous et les raccords entre matériaux avant la finition.
 
+
+## Sur le meme theme
+
+- [enduire un mur en parpaing](/guides/decoration/comment-enduir-un-mur-en-parpaing/)
+- [crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/)
+- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [comment recouvrir des parpaings](/guides/decoration/recouvrir-parpaings/)
+- [peindre du lino](/guides/decoration/peindre-lino/)
+
 ## Questions fréquentes
 
 **Un pistolet à calfeutrer, ça marche avec toutes les cartouches ?**

@@ -217,6 +217,12 @@ Le métal, ça s'entretient. Pas beaucoup, mais un minimum. Voici les gestes qui
 > [!TIP]
 > Mon astuce perso : je passe un tout petit peu d'huile de lin sur mes meubles en acier brut deux fois par an. Ça nourrit le métal, ça évite l'oxydation, et ça donne un fini légèrement satiné très agréable au toucher.
 
+
+## Sur le meme theme
+
+- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+- [déco avec galets](/guides/decoration/5-astuces-de-deco-massif-avec-galets/)
+
 ## FAQ
 
 ### Le mobilier métallique est-il adapté aux familles avec enfants ?

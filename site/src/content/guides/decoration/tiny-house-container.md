@@ -180,6 +180,11 @@ Le container se prête bien à l'autonomie énergétique : panneaux solaires sur
 
 **Négliger la hauteur sous plafond.** Prends toujours un container High Cube. Avec l'isolation au sol (5-8 cm) et au plafond (8-10 cm), un container standard ne laisse que 2,40 m de hauteur libre - c'est oppressant à la longue.
 
+
+## Sur le meme theme
+
+- [enduire un mur en parpaing](/guides/decoration/comment-enduir-un-mur-en-parpaing/)
+
 ## FAQ
 
 ### Combien coûte une tiny house container clé en main en France ?

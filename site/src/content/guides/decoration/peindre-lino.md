@@ -191,6 +191,15 @@ Toutes les pièces ne se valent pas quand on parle de peindre du lino. Voici mon
 
 **À éviter : garage, buanderie** - Trop de passages, produits chimiques, objets lourds. Le lino peint ne tiendra pas longtemps dans ces conditions.
 
+
+## Sur le meme theme
+
+- [peindre sans poncer](/guides/decoration/peindre-sans-poncer/)
+- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [enduire un mur en parpaing](/guides/decoration/comment-enduir-un-mur-en-parpaing/)
+- [comment recouvrir des parpaings](/guides/decoration/recouvrir-parpaings/)
+- [crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/)
+
 ## Questions fréquentes
 
 ### Combien de temps dure un lino peint ?

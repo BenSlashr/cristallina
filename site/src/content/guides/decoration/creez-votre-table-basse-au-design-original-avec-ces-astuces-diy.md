@@ -196,6 +196,13 @@ flowchart TD
     classDef secondaire fill:#F3F4F6,stroke:#8B5CF6,color:#581C87
 ```
 
+
+## Sur le meme theme
+
+- [artisanat recyclé pour la maison](/guides/decoration/artisanat-avec-des-materiaux-recycles-pour-la-maison/)
+- [fabriquer un four à pizza](/guides/decoration/fabriquer-four-a-pizza/)
+- [pneus recyclés pour la déco](/guides/decoration/pneus-recycles-pour-la-decoration/)
+
 ## FAQ
 
 ### Quel budget prévoir pour une table basse DIY ?

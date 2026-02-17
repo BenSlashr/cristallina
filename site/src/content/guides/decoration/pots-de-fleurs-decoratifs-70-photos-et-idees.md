@@ -192,6 +192,11 @@ Pour les grands espaces, les bacs à plantes en bois (pin autoclave ou acacia) s
 > [!TIP]
 > Sur un balcon exposé au vent, leste tes grands pots avec des billes d'argile au fond (plutôt que du terreau sur toute la hauteur). Ca alourdit le pot, améliore le drainage et consomme moins de terre. Un sac de 10 litres de billes d'argile coûte environ 5 euros.
 
+
+## Sur le meme theme
+
+- [plantes salle de bains](/guides/salle-de-bain/plantes-salle-de-bains/)
+
 ## FAQ
 
 **Quel pot choisir pour une plante d'intérieur qui a besoin de drainage ?**

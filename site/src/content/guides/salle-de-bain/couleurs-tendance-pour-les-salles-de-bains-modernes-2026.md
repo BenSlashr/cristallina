@@ -205,6 +205,11 @@ flowchart TD
     style E fill:#FFF0F5,stroke:#E879F9,color:#701A75
 ```
 
+
+## Sur le meme theme
+
+- [salle de bain rustique moderne](/guides/salle-de-bain/salles-de-bains-rustiques-decoration-et-design-modernes/)
+
 ## FAQ
 
 **Quelle est la couleur la plus tendance pour une salle de bain en 2026 ?**

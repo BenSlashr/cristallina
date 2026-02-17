@@ -152,6 +152,12 @@ graph LR
 > [!IMPORTANT]
 > Pense à l'aération de ta tour PC. Si tu utilises le plateau à roulettes, ne la coince pas contre un mur ou dans un meuble fermé. Laisse au moins 10 cm d'espace autour pour que l'air circule bien.
 
+
+## Sur le meme theme
+
+- [plateau multifonction ikea](/guides/shopping/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
+- [étagères murales ikea](/guides/shopping/cohue-chez-ikea-avec-letagere-murale-prisee-a-prix-imbattable/)
+
 ## FAQ - Accessoires gaming IKEA UPPSPEL
 
 ### Le support casque UPPSPEL est-il compatible avec tous les casques gaming ?

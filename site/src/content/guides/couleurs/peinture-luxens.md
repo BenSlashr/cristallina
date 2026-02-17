@@ -190,6 +190,15 @@ Avant de foncer en magasin, quelques conseils pratiques :
 > [!TIP]
 > Mon astuce gain de temps : utilise un bac à peinture avec grille intégrée plutôt qu'un seau classique. Tu charges et essores ton rouleau en un seul geste, et ça réduit les coulures. Le modèle Luxens "Confort" à environ 8 euros fait très bien le boulot.
 
+
+## Sur le meme theme
+
+- [avis peinture spectrum](/guides/couleurs/avis-peinture-spectrum/)
+- [couleurs ocres pour les murs et la décoration](/guides/couleurs/couleurs-ocres-pour-les-murs-et-la-decoration/)
+- [couleurs qui se marient avec le violet](/guides/couleurs/quelles-sont-les-couleurs-qui-se-marient-bien-avec-le-violet-en-decoration/)
+- [couleurs d'intérieur 2026](/guides/couleurs/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/)
+- [couleurs pour la salle à manger](/guides/couleurs/couleurs-pour-la-salle-a-manger-a-peindre-et-a-decorer/)
+
 ## FAQ sur la peinture Luxens
 
 ### Est-ce que la peinture Luxens est de bonne qualité ?

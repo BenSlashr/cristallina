@@ -189,6 +189,11 @@ Ce n'est pas nécessairement plus cher - un enduit à la chaux en kit autour de 
 > [!TIP]
 > Si tu veux l'effet texture sans prendre de risques techniques, commence par une peinture "effet velours" ou "effet craie" - des produits standards qui imitent la texture sans l'application complexe d'un vrai enduit. Ressource et Little Greene en proposent dans leur catalogue.
 
+
+## Sur le meme theme
+
+- [couleurs pour la salle à manger](/guides/couleurs/couleurs-pour-la-salle-a-manger-a-peindre-et-a-decorer/)
+
 ## FAQ
 
 **Quelle est la couleur de mur la plus tendance en 2026 ?**

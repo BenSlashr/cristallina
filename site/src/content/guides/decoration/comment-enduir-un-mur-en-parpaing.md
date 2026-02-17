@@ -187,6 +187,15 @@ Le DIY est vraiment rentable ici, surtout si tu as plusieurs murs à traiter.
 > [!IMPORTANT]
 > Pour un mur extérieur, pense à vérifier si tu as besoin d'un enduit hydraulique certifié (DTU 26.1). Pour une maison individuelle en auto-rénovation, ce n'est pas obligatoire, mais ça garantit une meilleure durabilité face aux intempéries.
 
+
+## Sur le meme theme
+
+- [crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/)
+- [pistolet à calfeutrer](/guides/decoration/pistolet-a-calfeutrer/)
+- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [comment recouvrir des parpaings](/guides/decoration/recouvrir-parpaings/)
+- [peindre du lino](/guides/decoration/peindre-lino/)
+
 ## Questions fréquentes
 
 **Peut-on enduire un mur en parpaing directement avec du plâtre ?**

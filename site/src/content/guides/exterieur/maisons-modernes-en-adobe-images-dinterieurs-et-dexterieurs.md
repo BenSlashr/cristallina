@@ -133,6 +133,11 @@ Même si tu n'as pas de projet de construction en adobe, tu peux tout à fait t'
 
 Pour aller plus loin côté extérieur, notre guide sur les [maisons modernes 2026 : images d'extérieur et d'intérieur](/guides/exterieur/maisons-modernes-2026-images-dexterieur-et-dinterieur/) regroupe d'autres sources d'inspiration pour des projets contemporains.
 
+
+## Sur le meme theme
+
+- [couleur porte d'entrée](/guides/exterieur/couleurs-des-portes-exterieures-comment-choisir-la-couleur/)
+
 ## Ce que disent les images : ce qu'il faut retenir
 
 La maison en adobe moderne, c'est une architecture qui ne ment pas. Pas de placage, pas de simulacre - juste la matière brute mise en forme avec soin. Les images les plus belles de maisons en adobe ne font pas rêver d'un luxe ostentatoire : elles donnent envie d'un confort ancré, d'une maison qui a du sens, qui tient chaud l'hiver et fraîche l'été sans dépenser une fortune en énergie.

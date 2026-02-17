@@ -217,6 +217,12 @@ Voici une estimation réaliste pour transformer une chambre standard en mode pop
 
 Tu vois : avec moins de 200 euros, tu peux déjà donner un sacré coup de pop à ta chambre. L'idée, c'est d'y aller progressivement - commence par la literie et l'art mural, puis ajoute au fil du temps.
 
+
+## Sur le meme theme
+
+- [chambre style jungle](/guides/chambre/decorer-une-chambre-dans-un-style-jungle/)
+- [déco terracotta chambre](/guides/chambre/deco-terracotta-chambre/)
+
 ## FAQ
 
 ### La déco pop, c'est adapté à une chambre d'adulte ?

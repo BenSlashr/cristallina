@@ -193,6 +193,11 @@ Deux fois par an, 30 minutes max : c'est tout ce qu'il faut pour prolonger la du
 
 Si tu aménages aussi un [patio moderne](/guides/exterieur/patio-moderne-de-maisons-simples-et-belles/), l'éclairage sans fil est le complément parfait pour habiller l'espace sans toucher aux revêtements.
 
+
+## Sur le meme theme
+
+- [poser des bordures de jardin sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/)
+
 ## FAQ
 
 ### Est-ce que l'éclairage solaire fonctionne en hiver ?

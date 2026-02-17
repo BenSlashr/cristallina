@@ -172,6 +172,15 @@ La pergola bioclimatique, c'est un investissement à long terme. Bien choisie, e
 
 ---
 
+
+## Sur le meme theme
+
+- [pergola ou tonnelle](/guides/exterieur/difference-pergola-tonnelle/)
+- [peinture carrelage extérieur terrasse](/guides/exterieur/peinture-pour-carrelage-exterieur-terrasse/)
+- [rénover votre terrasse pour la sécurité](/guides/exterieur/renovez-votre-terrasse-pour-la-securite/)
+- [parasols de terrasse pour cafés et restaurants](/guides/exterieur/le-guide-ultime-des-parasols-de-terrasse-pour-cafes-hotels-et-restaurants/)
+- [papier peint d'extérieur](/guides/exterieur/papier-peint-dexterieur/)
+
 ## FAQ
 
 **Quelle est la durée de vie d'une pergola bioclimatique en aluminium ?**

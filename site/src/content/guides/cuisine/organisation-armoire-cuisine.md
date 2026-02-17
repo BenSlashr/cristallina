@@ -215,6 +215,14 @@ flowchart TD
 > [!IMPORTANT]
 > Prends des photos avant et après. Ca parait bête, mais voir le contraste te motive à maintenir l'organisation sur la durée. Et honnêtement, c'est très satisfaisant à regarder.
 
+
+## Sur le meme theme
+
+- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
+- [couleurs de cuisine 2026](/guides/cuisine/couleurs-de-cuisine-2026/)
+- [cuisine haut de gamme en seine-et-marne](/guides/cuisine/cuisine-haut-gamme-77-ai-concept/)
+- [cuisine olive](/guides/cuisine/cuisine-olive/)
+
 ## FAQ
 
 **Combien de temps faut-il pour réorganiser ses placards de cuisine ?**

@@ -185,6 +185,12 @@ Si ton projet inclut aussi l'isolation des espaces attenants (cage d'escalier ve
 > [!IMPORTANT]
 > Pense aux ponts thermiques en périphérie de dalle. L'isolant doit remonter sur les murs de fondation (bandes de rive) pour éviter que le froid passe par les bords. C'est un détail souvent oublié en DIY, mais il peut annuler jusqu'à 30 % du bénéfice de ton isolation si tu le négliges.
 
+
+## Sur le meme theme
+
+- [peindre du lino](/guides/decoration/peindre-lino/)
+- [crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/)
+
 ## FAQ
 
 ### Est-ce que je peux isoler ma dalle béton moi-même ?

@@ -204,6 +204,11 @@ Il n'est pas nécessaire de tout rénover d'un coup pour obtenir un résultat pa
 
 La clé dans tous les cas : acheter moins mais mieux. Une belle lampe en laiton à 180 € aura plus d'impact que cinq accessoires décoratifs à 30 € chacun.
 
+
+## Sur le meme theme
+
+- [décoration dorée](/guides/decoration/decoration-doree-sur-les-murs-les-meubles-ou-les-accessoires/)
+
 ## Les erreurs à ne pas faire
 
 Pour finir, les pièges classiques quand on veut adopter ce style :

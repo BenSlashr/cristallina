@@ -169,6 +169,11 @@ Les murs très exposés au vent avec pluie battante (façade ouest en bord de me
 
 La pose sur bois (bardage, palissade) est possible mais demande un traitement préalable du bois et une colle spéciale. Ce n'est pas le support idéal - mieux vaut peindre ou lasurer directement le bois dans ce cas.
 
+
+## Sur le meme theme
+
+- [pergola ou tonnelle](/guides/exterieur/difference-pergola-tonnelle/)
+
 ## FAQ
 
 ### Le papier peint d'extérieur résiste-t-il vraiment à la pluie et au gel ?

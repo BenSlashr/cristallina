@@ -198,6 +198,11 @@ Le feng shui n'est pas une science exacte, et tu n'es pas obligée de suivre cha
 
 Pour continuer à transformer ta chambre, jette un oeil à mon article sur la [déco terracotta en chambre](/guides/chambre/deco-terracotta-chambre) - une palette de couleurs chaudes qui se marie très bien avec les principes feng shui.
 
+
+## Sur le meme theme
+
+- [décorer sa chambre en location](/guides/chambre/decorer-chambre-coucher-location/)
+
 ## FAQ
 
 ### Est-ce que le feng shui fonctionne vraiment pour mieux dormir ?

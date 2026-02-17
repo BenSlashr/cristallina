@@ -198,6 +198,11 @@ Un investissement qui se rentabilise vite : une famille de 4 personnes économis
 > [!TIP]
 > Guette les soldes de fin de saison (septembre-octobre) chez Leroy Merlin, Gamm Vert ou Truffaut. Les serres tunnel sont souvent bradées à -30 % voire -50 % quand les jardineries font de la place pour les articles d'automne.
 
+
+## Sur le meme theme
+
+- [jardinières suspendues diy](/guides/exterieur/6-idees-pour-fabriquer-des-jardinieres-suspendues-maison/)
+
 ## FAQ
 
 ### Faut-il un permis de construire pour une serre tunnel ?

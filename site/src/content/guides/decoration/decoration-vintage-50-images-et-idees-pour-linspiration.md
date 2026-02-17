@@ -188,6 +188,11 @@ L'upcycling, c'est l'art de transformer un objet abîmé en pièce déco. Et c'e
 > [!TIP]
 > Pour les débutants en upcycling, commence par les petits objets : repeindre un cadre, retapisser une chaise, transformer un pot en terre cuite en photophore. Tu progresseras vite et tu gagneras confiance pour les projets plus ambitieux.
 
+
+## Sur le meme theme
+
+- [décoration classique contemporaine](/guides/decoration/decoration-classique-20-images-et-idees-contemporaines/)
+
 ## FAQ
 
 **Quel budget prévoir pour un intérieur vintage ?**

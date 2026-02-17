@@ -194,6 +194,15 @@ Là, tu peux te faire plaisir avec des pièces fortes :
 
 5. **Ignorer les textiles** - Si tu aimes les [ambiances ultra cosy](/salon-cocooning-hiver-ambiance-ultra-cosy/), pense à superposer les textiles : plaid sur le lit, coussins de différentes tailles, rideaux en matière naturelle. C'est le moyen le plus rapide de réchauffer une chambre.
 
+
+## Sur le meme theme
+
+- [chambre adulte à deux teintes](/guides/chambre/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes/)
+- [feng shui chambre à coucher](/guides/chambre/le-feng-shui-dans-la-chambre-a-coucher/)
+- [décorer sa chambre en location](/guides/chambre/decorer-chambre-coucher-location/)
+- [déco pop chambre](/guides/chambre/guide-pour-une-deco-pop-dans-la-chambre-a-coucher/)
+- [chambre style jungle](/guides/chambre/decorer-une-chambre-dans-un-style-jungle/)
+
 ## Questions fréquentes
 
 ### Quelle est la couleur tendance pour une chambre en 2026 ?

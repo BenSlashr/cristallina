@@ -191,6 +191,11 @@ Les formes arrondies remplacent les angles droits stricts : une table basse oval
 
 Et si tu aimes le charme à la française, notre article sur la [décoration française avec idées et photos romantiques](/guides/decoration/decoration-francaise-idees-et-photos-romantiques/) peut t'inspirer pour un petit salon cosy et élégant.
 
+
+## Sur le meme theme
+
+- [salon chaleureux](/guides/decoration/salon-plus-chaleureux/)
+
 ## FAQ
 
 ### Quelle couleur choisir pour agrandir un petit salon ?

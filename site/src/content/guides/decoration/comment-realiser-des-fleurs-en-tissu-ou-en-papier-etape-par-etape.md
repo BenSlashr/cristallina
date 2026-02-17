@@ -158,6 +158,12 @@ Une fois tes fleurs faites, comment les valoriser ?
 > [!IMPORTANT]
 > Si tu prévois d'exposer tes fleurs en papier dans une pièce très lumineuse, opte pour des papiers crépons ou de soie résistants à la décoloration UV. Les gammes Canson ou Clairefontaine ont des versions "premium" qui durent beaucoup plus longtemps que les versions low-cost.
 
+
+## Sur le meme theme
+
+- [fabriquer un four à pizza](/guides/decoration/fabriquer-four-a-pizza/)
+- [artisanat recyclé pour la maison](/guides/decoration/artisanat-avec-des-materiaux-recycles-pour-la-maison/)
+
 ## Questions fréquentes
 
 **Quelle colle utiliser pour les fleurs en papier ?**

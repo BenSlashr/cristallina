@@ -178,6 +178,11 @@ En termes de temps : comptez 1h30 à 2h pour une première réparation, dont la 
 > [!IMPORTANT]
 > Si ta gouttière est très ancienne (plus de 30 ans) ou présente plusieurs fuites sur différentes zones, la réparation par soudure peut être une solution provisoire. À un certain stade, le remplacement complet est plus rentable. Un zingueur peut te donner un devis gratuit pour te permettre de comparer.
 
+
+## Sur le meme theme
+
+- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+
 ## Les précautions à ne jamais ignorer
 
 Le zinc et les produits chimiques liés (flux, décapants) demandent le respect de quelques règles simples :

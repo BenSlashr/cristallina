@@ -187,6 +187,11 @@ La salle de bain idéale en 2026, c'est celle qui te ressemble vraiment. Pas cel
 
 ---
 
+
+## Sur le meme theme
+
+- [plantes salle de bains](/guides/salle-de-bain/plantes-salle-de-bains/)
+
 ## FAQ
 
 **Quelle est la tendance couleur principale pour les salles de bains en 2026 ?**

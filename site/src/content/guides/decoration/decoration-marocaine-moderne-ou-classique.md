@@ -164,13 +164,21 @@ graph LR
 
 **Oublier la lumière** - La déco marocaine est intimement liée à la lumière tamisée, indirecte, mystérieuse. Si tu as un éclairage blanc froid au plafond, tes plus beaux objets marocains perdront 80% de leur charme. Investis dans des lampes d'appoint, des bougies, des luminaires avec ampoules à filament.
 
+
+## Sur le meme theme
+
+- [décoration classique contemporaine](/guides/decoration/decoration-classique-20-images-et-idees-contemporaines/)
+- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+- [décoration shabby chic](/guides/decoration/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/)
+- [décoration africaine](/guides/decoration/decoration-africaine-50-photos-et-idees/)
+
 ## L'ambiance que tu veux créer
 
 Au final, la vraie question n'est pas "moderne ou classique ?" mais plutôt "quelle ambiance tu veux dans ta maison ?"
 
 Tu veux un cocon chaud et sensoriel où tu te déconnectes du monde ? Va vers le classique, avec ses superpositions de textures et ses couleurs profondes. Tu veux un intérieur aéré et contemporain avec une touche d'ailleurs ? Le mix moderne est pour toi - quelques pièces marocaines fortes dans un cadre épuré.
 
-Et si tu cherches d'autres façons de travailler les couleurs dans ton intérieur, les conseils sur les [couleurs compatibles avec l'orange pour les murs et la décoration](/guides/decoration/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) peuvent t'aider à intégrer les tonalités chaudes du Maroc dans ta palette globale.
+Et si tu cherches d'autres façons de travailler les couleurs dans ton intérieur, les conseils sur les [couleurs compatibles avec l'orange pour les murs et la décoration](/guides/couleurs/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) peuvent t'aider à intégrer les tonalités chaudes du Maroc dans ta palette globale.
 
 La déco marocaine, qu'elle soit traditionnelle ou réinterprétée, a cet avantage rare : elle vieillit bien. Les matières artisanales, le zellige qui prend une patine, le tapis berbère qui raconte des années de passage... ce sont des objets qui gagnent du caractère avec le temps. Contrairement à beaucoup de tendances déco, ici tu investis dans des pièces qui durent.
 

@@ -207,6 +207,12 @@ La grande force du shabby chic, c'est qu'on peut le faire avec très peu. Voilà
 > [!TIP]
 > Le meilleur investissement en shabby chic ? Un pot de "Chalk Paint" et du temps libre un samedi. Tu peux transformer un meuble à 10 euros de brocante en pièce qui en vaut dix fois plus visuellement.
 
+
+## Sur le meme theme
+
+- [décoration vintage](/guides/decoration/decoration-vintage-50-images-et-idees-pour-linspiration/)
+- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+
 ## FAQ
 
 **Est-ce que le shabby chic est encore tendance en 2026 ?**

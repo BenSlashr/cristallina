@@ -252,9 +252,15 @@ Selon la taille et la profondeur de ta jardinière, les options varient :
 
 **Plus de 30 cm de profondeur :** tomates cerise, courgettes, haricots, carottes courtes, fraisiers, petites herbes vivaces.
 
-Si tu veux aller plus loin dans l'aménagement de ton extérieur, l'article sur la [pose de bordures de jardin sans béton](/guides/decoration/poser-bordure-jardin-sans-beton/) te donnera des idées pour délimiter tes massifs avec style et sans chantier.
+Si tu veux aller plus loin dans l'aménagement de ton extérieur, l'article sur la [pose de bordures de jardin sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/) te donnera des idées pour délimiter tes massifs avec style et sans chantier.
 
 ---
+
+
+## Sur le meme theme
+
+- [jardinières suspendues diy](/guides/exterieur/6-idees-pour-fabriquer-des-jardinieres-suspendues-maison/)
+- [serre tunnel](/guides/exterieur/installer-serre-tunnel/)
 
 ## Par où commencer ?
 

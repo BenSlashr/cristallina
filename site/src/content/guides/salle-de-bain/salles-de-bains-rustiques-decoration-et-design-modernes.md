@@ -215,6 +215,11 @@ flowchart LR
 
 5. **Ignorer le confort au sol** : le carrelage en pierre naturelle peut être froid sous les pieds. Prévois un tapis de bain en coton épais ou installe un plancher chauffant si ton budget le permet.
 
+
+## Sur le meme theme
+
+- [carrelage métro salle de bain](/guides/salle-de-bain/carrelage-metro-salle-de-bain/)
+
 ## FAQ
 
 ### Quel bois choisir pour une salle de bain rustique ?

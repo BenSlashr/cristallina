@@ -196,6 +196,11 @@ Si la cuisine fait partie de ton projet de rénovation globale, notre article su
 
 ---
 
+
+## Sur le meme theme
+
+- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
+
 ## Questions fréquentes
 
 **Quelles sont les couleurs tendance pour un salon en 2026 ?**

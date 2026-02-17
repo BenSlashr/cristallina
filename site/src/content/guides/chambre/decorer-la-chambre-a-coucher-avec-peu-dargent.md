@@ -206,6 +206,11 @@ pie title Répartition budget déco chambre
 
 Si tu veux explorer d'autres styles pour ta chambre, jette un oeil à mon article sur [la déco terracotta en chambre](/guides/chambre/deco-terracotta-chambre) - c'est un style chaleureux qui fonctionne très bien avec un budget serré. Et pour les tendances plus globales, le guide des [tendances chambre 2026](/guides/chambre/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos) t'aidera à repérer ce qui va durer.
 
+
+## Sur le meme theme
+
+- [décorer sa chambre en location](/guides/chambre/decorer-chambre-coucher-location/)
+
 ## FAQ
 
 ### Quel budget minimum pour décorer une chambre ?

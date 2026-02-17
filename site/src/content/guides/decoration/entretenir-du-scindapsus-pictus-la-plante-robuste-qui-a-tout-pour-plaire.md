@@ -169,6 +169,11 @@ Il est moins répandu que le pothos classique mais de plus en plus accessible. T
 
 La variété 'Argyraeus' est la plus facile à trouver. 'Silvery Ann' a des feuilles presque entièrement argentées et se vend un peu plus cher (15-20€ en pot de 12 cm).
 
+
+## Sur le meme theme
+
+- [pots de fleurs décoratifs](/guides/decoration/pots-de-fleurs-decoratifs-70-photos-et-idees/)
+
 ## Ce qu'il faut retenir
 
 Le Scindapsus pictus est une plante qui sait se faire aimer sans trop exiger. Une lumière indirecte lumineuse, un arrosage mesuré, un substrat drainant : c'est à peu près tout ce dont il a besoin pour prospérer des années. Ses feuilles mouchetées apportent une texture et un éclat qu'on ne trouve pas chez beaucoup d'autres plantes faciles, ce qui en fait un vrai atout décoratif.

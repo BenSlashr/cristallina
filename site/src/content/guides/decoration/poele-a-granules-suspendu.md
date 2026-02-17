@@ -239,6 +239,15 @@ La question revient souvent. Voici les différences clés :
 
 En résumé : si tu veux du pratique et du programmable, va vers les granulés. Si tu préfères le charme authentique de la flamme et le silence total, le poêle à bois suspendu sera plus adapté. Et si le design déco est ta priorité, les deux offrent des modèles qui en mettent plein la vue pour ton [salon](/decoration-salon-naturel-chic/).
 
+
+## Sur le meme theme
+
+- [table basse japonaise kotatsu](/guides/decoration/table-basse-japonaise-kotatsu/)
+- [peindre sans poncer](/guides/decoration/peindre-sans-poncer/)
+- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [facades de maisons modernes 2026](/guides/decoration/facades-de-maisons-modernes-2026/)
+- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
+
 ## FAQ - Poêle à granulés suspendu
 
 **Est-ce qu'un poêle à granulés suspendu peut chauffer toute la maison ?**

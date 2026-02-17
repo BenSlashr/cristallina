@@ -206,6 +206,12 @@ Pour que tu puisses comparer, voici des fourchettes de prix réelles (tout compr
 
 Avec MaPrimeAdapt' à 70 % pour les ménages modestes, une douche à l'italienne complète avec équipements de sécurité à 4 000 euros revient à 1 200 euros de ta poche. C'est loin du 1 euro symbolique d'avant, mais c'est quand même un gros coup de pouce.
 
+
+## Sur le meme theme
+
+- [douches italiennes](/guides/salle-de-bain/douches-italiennes-idees/)
+- [receveur pour douche italienne](/guides/salle-de-bain/quel-receveur-pour-douche-italienne/)
+
 ## Questions fréquentes sur la douche à 1 euro
 
 **La douche à 1 euro existe-t-elle encore en 2026 ?**

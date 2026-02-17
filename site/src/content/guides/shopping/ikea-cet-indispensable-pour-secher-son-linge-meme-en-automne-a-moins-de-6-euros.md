@@ -152,6 +152,15 @@ Si tu cherches à aller plus loin dans l'optimisation de ton espace et de tes ha
 
 ---
 
+
+## Sur le meme theme
+
+- [armoire d'angle ikea pax](/guides/shopping/ikea-cartonne-avec-son-armoire-dangle/)
+- [plateau multifonction ikea](/guides/shopping/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
+- [étagères murales ikea](/guides/shopping/cohue-chez-ikea-avec-letagere-murale-prisee-a-prix-imbattable/)
+- [étagère murale ikea](/guides/shopping/ikea-frappe-fort-avec-cette-etagere-design-et-tres-pratique-qui-saccroche-au-mur-tres-facilement/)
+- [tables de nuit ikea à petit prix](/guides/shopping/ikea-frappe-fort-sa-nouvelle-table-de-nuit-a-9-e-en-edition-limitee/)
+
 ## Questions fréquentes
 
 **Le séchoir à pinces IKEA est-il solide sur la durée ?**

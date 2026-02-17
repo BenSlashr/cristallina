@@ -203,6 +203,11 @@ Et si tu as une toiture avec des gouttières en zinc à entretenir en même temp
 
 ---
 
+
+## Sur le meme theme
+
+- [toiture shingle](/guides/decoration/toiture-shingle-les-caracteristiques-le-cout-et-le-devis/)
+
 ## Foire aux questions
 
 **Combien de tuiles transparentes pour éclairer une pièce de 15 m2 ?**

@@ -210,6 +210,11 @@ Un anniversaire Fort Boyard réussi repose sur trois piliers : une déco cohére
 
 ---
 
+
+## Sur le meme theme
+
+- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+
 ## Questions fréquentes
 
 **A quel âge peut-on organiser un anniversaire Fort Boyard ?**

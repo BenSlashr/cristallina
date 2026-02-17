@@ -223,6 +223,11 @@ Quelques pièges classiques quand on achète son premier tapis en fibre naturell
 - **Choisir trop petit** - Un tapis trop petit flotte dans la pièce et donne un effet mesquin. Mieux vaut un tapis plus grand dans une fibre moins chère.
 - **Ignorer les bordures** - Un tapis naturel sans bordure s'effiloche aux extrémités. Choisis un modèle avec une finition gansée ou surjetée.
 
+
+## Sur le meme theme
+
+- [tapis logo personnalisé](/guides/decoration/choisir-tapis-logo-personnalise/)
+
 ## FAQ
 
 ### Un tapis en jute convient-il si j'ai des animaux ?

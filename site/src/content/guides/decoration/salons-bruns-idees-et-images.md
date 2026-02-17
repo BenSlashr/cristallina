@@ -188,6 +188,11 @@ Tu n'as pas forcément besoin de racheter un canapé pour intégrer le brun dans
 > [!IMPORTANT]
 > Le brun au sol (tapis, parquet) et le brun en hauteur (rideaux, étagères) ne donnent pas du tout le même effet. Si ton salon est petit, concentre le brun foncé au niveau du sol et des assises, et garde le haut des murs et le plafond clairs.
 
+
+## Sur le meme theme
+
+- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
+
 ## FAQ
 
 ### Le brun est-il adapté à un petit salon ?

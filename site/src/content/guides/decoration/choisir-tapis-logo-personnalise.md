@@ -176,6 +176,15 @@ Tu peux aussi t'inspirer des principes de la [décoration feng shui](https://www
 
 Pour une entrée de bureau ou un couloir de réception, pense aussi à [l'éclairage](https://www.cristallina.fr/eclairage-ambiance-techniques-sublimer) : un spot LED orienté vers le tapis le met en valeur et rend les couleurs plus vives, surtout dans un hall sans lumière naturelle.
 
+
+## Sur le meme theme
+
+- [tapis imprimé](/guides/decoration/choisir-tapis-imprime/)
+- [tapis en fibre naturelle : guide pour bien choisir](/guides/decoration/choisir-tapis-fibre-naturelle/)
+- [tableau noir ardoise](/guides/decoration/choisir-tableau-noir-ardoise/)
+- [rotin et osier](/guides/decoration/rotin-osier/)
+- [coussins décoratifs](/guides/decoration/coussins-decoratifs-pour-les-salons-les-fauteuils-et-les-sols/)
+
 ## Synthèse pour choisir
 
 Avant de cliquer sur "commander", voici les questions à te poser :

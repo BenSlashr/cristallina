@@ -202,6 +202,15 @@ Le bon matériau dépend aussi de ce que tu veux délimiter :
 > [!IMPORTANT]
 > Pour un potager, vérifie que ton bois est certifié "contact alimentaire" ou utilise du bois non traité chimiquement (Douglas, châtaignier). Les traitements autoclave ancienne génération contenaient du CCA (cuivre-chrome-arsenic) - les normes actuelles utilisent des produits sans arsenic, mais le bois naturellement imputrescible reste le choix le plus sûr.
 
+
+## Sur le meme theme
+
+- [conteneur maritime au jardin](/guides/exterieur/comment-transformer-votre-jardin-avec-un-conteneur-maritime/)
+- [jardins verticaux](/guides/exterieur/jardins-verticaux-de-40-photos-dinspiration-verte/)
+- [serre tunnel](/guides/exterieur/installer-serre-tunnel/)
+- [jardin zen](/guides/exterieur/comment-creer-un-jardin-zen-en-7-etapes/)
+- [jardins intérieurs modernes](/guides/exterieur/jardins-interieurs-modernes-photos-et-conseils-de-conception/)
+
 ## FAQ
 
 ### Combien de temps durent les bordures posées sans béton ?

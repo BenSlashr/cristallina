@@ -208,6 +208,11 @@ Tu n'as pas besoin de tout faire d'un coup. Commence par les textiles et l'écla
 
 Et si ta chambre manque de lumière naturelle, mon guide sur les [chambres sans fenêtre](/guides/chambre/chambre-sans-fenetre/) regorge d'astuces pour compenser le manque de clarté. Pour trouver ta palette idéale, consulte aussi mon article sur [les couleurs pour une chambre adulte à deux teintes](/guides/chambre/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes/).
 
+
+## Sur le meme theme
+
+- [chambre style jungle](/guides/chambre/decorer-une-chambre-dans-un-style-jungle/)
+
 ## FAQ
 
 ### Est-ce que je peux vraiment décorer sans perdre ma caution ?

@@ -197,6 +197,11 @@ La [décoration marocaine](/guides/decoration/decoration-marocaine-moderne-ou-cl
 > [!IMPORTANT]
 > Si tu achètes des objets artisanaux africains, privilégie les circuits courts et le commerce équitable. Des plateformes comme Etsy permettent d'acheter directement aux artisans. Les boutiques physiques spécialisées dans les grandes villes françaises (Paris, Lyon, Marseille) sont aussi de bonnes sources pour s'assurer de la provenance.
 
+
+## Sur le meme theme
+
+- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+
 ## FAQ
 
 **Quelle est la différence entre déco africaine et déco ethnique ?**

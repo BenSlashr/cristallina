@@ -175,6 +175,11 @@ C'est une leçon de déco autant qu'une leçon de vie : la maison est au service
 
 Cette philosophie de l'espace pensé pour le corps et le confort se retrouve d'ailleurs dans d'autres éléments de la culture japonaise, comme la [baignoire japonaise](/guides/salle-de-bain/baignoire-japonaise/) - le bain rituel profond qui réchauffe de l'intérieur comme le kotatsu réchauffe de l'extérieur.
 
+
+## Sur le meme theme
+
+- [table basse diy](/guides/decoration/creez-votre-table-basse-au-design-original-avec-ces-astuces-diy/)
+
 ## FAQ sur le kotatsu
 
 **Le kotatsu consomme beaucoup d'électricité ?**

@@ -43,6 +43,15 @@ Creez votre premier article dans `src/content/blog/` en suivant le schema du fro
 > [!NOTE]
 > Les articles avec une date `pubDate` dans le futur ne seront pas generes au build. Ils apparaitront automatiquement au prochain rebuild apres leur date de publication.
 
+
+## Sur le meme theme
+
+- [enduire un mur en parpaing](/guides/decoration/comment-enduir-un-mur-en-parpaing/)
+- [comment nettoyer une table en céramique](/guides/decoration/comment-nettoyer-une-table-en-ceramique/)
+- [bien accrocher un tableau mural](/guides/decoration/bien-accrocher-tableau-mural/)
+- [tiny house container](/guides/decoration/tiny-house-container/)
+- [crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/)
+
 ## Questions frequentes
 
 ### Comment planifier un article ?

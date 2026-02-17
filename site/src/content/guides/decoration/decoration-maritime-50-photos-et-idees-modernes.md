@@ -213,6 +213,11 @@ Pour transformer un salon de 20m2 en ambiance bord de mer :
 > [!NOTE]
 > Le bon plan : les magasins de fournitures nautiques (Uship, Accastillage Diffusion) vendent corde, poulies et manilles à bon prix. Détournés en déco, ces objets de bateau apportent une authenticité introuvable chez un distributeur d'ameublement classique.
 
+
+## Sur le meme theme
+
+- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+
 ## FAQ
 
 ### La déco maritime convient-elle à un petit appartement ?

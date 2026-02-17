@@ -155,6 +155,12 @@ Pour un appartement parisien standard (6-9 m²), le sweet spot est autour de 8 0
 > [!IMPORTANT]
 > Quel que soit ton budget, prévois 15% de plus pour les imprévus (ajustements de plomberie, electricité décalée, petit mur à abattre ou renforcer). C'est presque systematique dans les renovations de cuisine.
 
+
+## Sur le meme theme
+
+- [cuisines modernes 2026](/guides/cuisine/cuisines-modernes-2026-designs-modeles/)
+- [cuisines avec îlot 2026](/guides/cuisine/cuisines-avec-ilot-2026-designs-et-tendances/)
+
 ## FAQ
 
 **Une petite cuisine peut-elle avoir un ilot ?**

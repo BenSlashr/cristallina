@@ -205,6 +205,11 @@ Pour les dimensions, mesure l'embrasure et retire 10 mm en largeur et hauteur po
 > [!IMPORTANT]
 > Avant de te lancer dans la fabrication, vérifie que le bois que tu achètes est bien traité autoclave classe 3 minimum (adapté à l'extérieur). Un bois non traité va pourrir en quelques années, même peint. Le traitement autoclave protège le bois en profondeur contre les champignons et les insectes.
 
+
+## Sur le meme theme
+
+- [portes coulissantes leroy merlin](/guides/decoration/les-portes-coulissantes-disponible-chez-leroy-merlin/)
+
 ## FAQ : les questions qu'on me pose le plus
 
 ### Quelle épaisseur choisir pour des volets en bois ?

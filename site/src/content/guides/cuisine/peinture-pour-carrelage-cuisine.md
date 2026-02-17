@@ -150,7 +150,7 @@ Le vert sauge est vraiment la couleur du moment pour les cuisines - ça se marie
 
 Le noir mat sur carrelage blanc crée un effet graphique fort - mais attention, le noir sur carrelage en finition mate montre beaucoup les traces de doigts. Le satiné est plus pratique au quotidien.
 
-Pour l'inspiration couleurs avec des marques accessibles, la gamme [Peinture Luxens de Leroy Merlin](/guides/decoration/peinture-luxens/) propose de belles teintes pour carrelage à prix raisonnables.
+Pour l'inspiration couleurs avec des marques accessibles, la gamme [Peinture Luxens de Leroy Merlin](/guides/couleurs/peinture-luxens/) propose de belles teintes pour carrelage à prix raisonnables.
 
 ## Budget et comparatif des produits
 
@@ -206,6 +206,12 @@ Si tu vois un début de décollement dans un coin (souvent autour des prises ou 
 La durée de vie dépend aussi beaucoup de ton usage - une cuisine de famille avec des enfants qui cuisinent tous les jours vieillira plus vite qu'une cuisine de célibataire. Mais dans tous les cas, c'est suffisamment durable pour que l'investissement vaille clairement le coup.
 
 ---
+
+
+## Sur le meme theme
+
+- [peinture carrelage extérieur terrasse](/guides/exterieur/peinture-pour-carrelage-exterieur-terrasse/)
+- [peinture pour carrelage de douche](/guides/salle-de-bain/peinture-pour-carrelage-douche/)
 
 ## FAQ - Peinture pour carrelage cuisine
 

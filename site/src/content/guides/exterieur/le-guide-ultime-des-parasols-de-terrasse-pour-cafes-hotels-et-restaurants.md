@@ -192,6 +192,12 @@ Pour compléter ta terrasse, une [pergola bioclimatique](/guides/exterieur/la-pe
 
 **Cuisine des Pros** - Grossiste CHR, prix compétitifs sur les lots (82 à 186 euros en gamme éco).
 
+
+## Sur le meme theme
+
+- [peinture carrelage extérieur terrasse](/guides/exterieur/peinture-pour-carrelage-exterieur-terrasse/)
+- [rénover votre terrasse pour la sécurité](/guides/exterieur/renovez-votre-terrasse-pour-la-securite/)
+
 ## FAQ
 
 ### Quelle taille de parasol choisir pour une terrasse de restaurant ?

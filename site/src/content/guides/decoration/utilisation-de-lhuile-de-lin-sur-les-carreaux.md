@@ -106,7 +106,7 @@ C'est la partie la plus importante. Une application bien faite donne un résulta
 
 Le carrelage doit être parfaitement propre et sec. Lave-le à l'eau claire avec un peu de savon noir, rince abondamment et laisse sécher 24 heures minimum. Toute trace de gras, de cire ancienne ou de produit de nettoyage va empêcher l'huile de pénétrer correctement.
 
-Si tes carreaux ont déjà été traités avec un autre produit (cire, vernis, hydrofuge), il faut d'abord décaper cette couche. Un décapant pour ciment ou un nettoyant alcalin fera le travail. Tu peux aussi te tourner vers la [peinture sur carrelage](/guides/decoration/la-peinture-sur-carrelage-une-methode-pour-renover-votre-interieur/) si tes carreaux sont en trop mauvais état pour être simplement huilés.
+Si tes carreaux ont déjà été traités avec un autre produit (cire, vernis, hydrofuge), il faut d'abord décaper cette couche. Un décapant pour ciment ou un nettoyant alcalin fera le travail. Tu peux aussi te tourner vers la [peinture sur carrelage](/guides/couleurs/la-peinture-sur-carrelage-une-methode-pour-renover-votre-interieur/) si tes carreaux sont en trop mauvais état pour être simplement huilés.
 
 ### Étape 2 : diluer et appliquer la première couche
 
@@ -166,7 +166,7 @@ Une fois le traitement à l'huile de lin terminé et bien sec, l'entretien est s
 
 Tous les 6 mois environ, tu peux passer une fine couche d'huile de lin diluée (70 % huile, 30 % térébenthine) pour rafraîchir la protection. Un entretien complet (deux couches comme à la pose initiale) est à prévoir tous les 2 à 3 ans selon l'usure et le passage.
 
-Pour une approche différente de la rénovation de carrelage, tu peux aussi explorer les techniques de [peinture pour carrelage de douche](/guides/salle-de-bain/peinture-pour-carrelage-de-douche/) ou découvrir comment [peindre sans poncer](/guides/decoration/peindre-sans-poncer/) pour d'autres surfaces.
+Pour une approche différente de la rénovation de carrelage, tu peux aussi explorer les techniques de [peinture pour carrelage de douche](/guides/salle-de-bain/peinture-pour-carrelage-douche/) ou découvrir comment [peindre sans poncer](/guides/decoration/peindre-sans-poncer/) pour d'autres surfaces.
 
 ## Les erreurs courantes à éviter
 
@@ -197,6 +197,12 @@ Comment l'huile de lin se positionne face aux alternatives ? Voici un aperçu :
 - **Huile de lin vs vernis** : le vernis crée un film plastique en surface - il protège bien mais modifie l'aspect naturel du carreau. L'huile garde le toucher et le look d'origine.
 
 Pour un usage en cuisine ou salle de bain, l'huile de lin cuite avec siccatif est le meilleur compromis. Pour un salon ou une entrée, l'huile crue donne le rendu le plus authentique.
+
+
+## Sur le meme theme
+
+- [maison container](/guides/decoration/maison-container/)
+- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
 
 ## FAQ
 

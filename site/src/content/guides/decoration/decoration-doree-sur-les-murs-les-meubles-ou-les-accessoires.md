@@ -216,6 +216,11 @@ Quelques pièges que je vois souvent :
 > [!IMPORTANT]
 > Si tu te lances dans une rénovation de salle de bain et que tu veux de la robinetterie dorée, investis dans du PVD certifié. La robinetterie dorée bon marché tient 2-3 ans au mieux avant que la finition parte en lambeaux. Une bonne robinetterie PVD, c'est 10-15 ans minimum.
 
+
+## Sur le meme theme
+
+- [décoration minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/)
+
 ## Inspiration : 3 ambiances dorées qui fonctionnent
 
 **Ambiance 1 - Bibliothèque chic** : mur d'accent vert bouteille, bibliothèque bois foncé avec détails dorés, fauteuil en velours ocre, lampe laiton. Budget estimé pour refaire le coin lecture : 400-800 €.

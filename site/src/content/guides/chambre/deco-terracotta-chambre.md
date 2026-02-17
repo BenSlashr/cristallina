@@ -149,6 +149,14 @@ Si tu décides de te lancer dans la peinture, voilà une sélection de nuances c
 > [!IMPORTANT]
 > Avant de choisir ta nuance, achète toujours un petit pot de test (2-5€) et peins une grande surface (au moins 40x40 cm) sur le mur. La couleur va changer selon ta luminosité - une même teinte peut sembler très différente dans une chambre nord et dans une chambre sud. Laisse sécher complètement avant de juger.
 
+
+## Sur le meme theme
+
+- [déco pop chambre](/guides/chambre/guide-pour-une-deco-pop-dans-la-chambre-a-coucher/)
+- [chambre style jungle](/guides/chambre/decorer-une-chambre-dans-un-style-jungle/)
+- [déco chambre harry potter](/guides/chambre/deco-chambre-harry-potter/)
+- [chambre adulte à deux teintes](/guides/chambre/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes/)
+
 ## Budget et priorités : par où commencer ?
 
 Tu n'as pas à tout faire d'un coup. Voilà une stratégie par budget.

@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 8
-image: "/images/guides/la-peperomia-hope.webp"
+image: "/images/guides/decoration/la-peperomia-hope.webp"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17
@@ -196,6 +196,11 @@ Le Peperomia Hope est versatile en déco. Voici les spots qui fonctionnent le mi
 
 > [!IMPORTANT]
 > Le Peperomia Hope est non toxique pour les chats et les chiens (confirmé par l'ASPCA). Si tu as des animaux curieux qui grignotent les plantes, c'est une des rares options vraiment safe. Ça vaut la peine d'en tenir compte quand tu choisis tes [plantes de décoration intérieure](/guides/decoration/).
+
+
+## Sur le meme theme
+
+- [scindapsus pictus](/guides/decoration/entretenir-du-scindapsus-pictus-la-plante-robuste-qui-a-tout-pour-plaire/)
 
 ## FAQ
 

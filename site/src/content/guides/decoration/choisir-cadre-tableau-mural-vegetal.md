@@ -205,6 +205,11 @@ Le DIY vivant comprend : cadre en bois brut (palette ou caisse), feutre horticol
 
 ---
 
+
+## Sur le meme theme
+
+- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
+
 ## FAQ
 
 **Un tableau végétal stabilisé peut-il durer en salle de bains ?**

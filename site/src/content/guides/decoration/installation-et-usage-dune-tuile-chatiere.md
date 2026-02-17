@@ -194,6 +194,15 @@ Si tu as des soucis d'[isolation au niveau de l'escalier ou de la montée vers l
 
 Pour les murs extérieurs en parpaing qui bordent ta toiture, un bon [enduit de protection](https://www.cristallina.fr/guides/decoration/comment-enduir-un-mur-en-parpaing/) complète la stratégie d'étanchéité globale de ta maison.
 
+
+## Sur le meme theme
+
+- [tuile transparente](/guides/decoration/tuile-transparente-cout-et-usage/)
+- [toiture shingle](/guides/decoration/toiture-shingle-les-caracteristiques-le-cout-et-le-devis/)
+- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [facades de maisons modernes 2026](/guides/decoration/facades-de-maisons-modernes-2026/)
+- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
+
 ## FAQ - Tuile chatière
 
 **Est-ce que je peux poser des tuiles chatières moi-même ?**

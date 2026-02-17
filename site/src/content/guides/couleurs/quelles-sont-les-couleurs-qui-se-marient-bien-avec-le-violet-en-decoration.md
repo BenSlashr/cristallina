@@ -183,6 +183,12 @@ Trust me : le violet, une fois qu'on sait le marier, c'est une couleur dont on n
 
 ---
 
+
+## Sur le meme theme
+
+- [couleurs ocres pour les murs et la décoration](/guides/couleurs/couleurs-ocres-pour-les-murs-et-la-decoration/)
+- [couleurs compatibles avec l'orange](/guides/couleurs/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/)
+
 ## Questions fréquentes
 
 **Quelle couleur mettre avec du violet dans un salon ?**

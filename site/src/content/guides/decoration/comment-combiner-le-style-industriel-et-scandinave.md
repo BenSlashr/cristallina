@@ -191,6 +191,11 @@ Quelques achats malins pour démarrer :
 - **Petit meuble d'appoint bois/métal** : 60 à 150 euros
 - **Tapis en jute ou laine** (160x230 cm) : 80 à 200 euros
 
+
+## Sur le meme theme
+
+- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+
 ## FAQ
 
 ### Est-ce que le style scandi-indus fonctionne dans un petit appartement ?

@@ -176,6 +176,12 @@ Honnêtement, oui. À budget équivalent, difficile de trouver mieux qu'IKEA pou
 
 Pour ceux qui veulent aller plus loin dans l'aménagement de petits espaces, nos guides sur l'[organisation et le rangement créatif](/guides/decoration/rangement-creatif-optimisation) donnent plein d'idées complémentaires pour maximiser chaque mètre carré.
 
+
+## Sur le meme theme
+
+- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
+- [plateau multifonction ikea](/guides/shopping/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
+
 ## Le mot de la fin
 
 L'étagère murale IKEA, c'est l'un de ces achats qu'on ne regrette jamais. Mon conseil : commence par une ou deux tablettes pour tester l'effet avant d'en commander dix, et prends le temps de choisir le bon emplacement - une étagère bien placée fait plus d'effet qu'un mur entier mal positionné.

@@ -207,6 +207,12 @@ L'objectif final n'est pas une salle de bains "parfaite" comme sur Pinterest. C'
 
 ---
 
+
+## Sur le meme theme
+
+- [salle de bain rustique moderne](/guides/salle-de-bain/salles-de-bains-rustiques-decoration-et-design-modernes/)
+- [carrelage métro salle de bain](/guides/salle-de-bain/carrelage-metro-salle-de-bain/)
+
 ## Questions fréquentes
 
 **Comment optimiser le rangement dans une toute petite salle de bains ?**

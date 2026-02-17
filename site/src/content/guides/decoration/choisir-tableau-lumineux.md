@@ -225,6 +225,12 @@ Voici les points a vérifier avant d'acheter.
 
 ---
 
+
+## Sur le meme theme
+
+- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
+- [choisir un tableau mural](/guides/decoration/choisir-tableau-mural/)
+
 ## FAQ
 
 **Est-ce qu'un tableau lumineux consomme beaucoup d'électricité ?**

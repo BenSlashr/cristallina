@@ -202,6 +202,15 @@ Et pour aménager le reste de ton extérieur après le ravalement, découvre nos
 > [!TIP]
 > Achète toujours 10 à 15% de peinture en plus par rapport au calcul théorique. Les surfaces extérieures sont souvent plus poreuses et irrégulières qu'on ne le pense. Mieux vaut un pot en trop qu'un raccord visible à l'oeil nu.
 
+
+## Sur le meme theme
+
+- [facades de maisons modernes 2026](/guides/decoration/facades-de-maisons-modernes-2026/)
+- [maisons modernes en adobe](/guides/exterieur/maisons-modernes-en-adobe-images-dinterieurs-et-dexterieurs/)
+- [maisons modernes 2026](/guides/exterieur/maisons-modernes-2026-images-dexterieur-et-dinterieur/)
+- [couleur porte d'entrée](/guides/exterieur/couleurs-des-portes-exterieures-comment-choisir-la-couleur/)
+- [construire un pool house](/guides/exterieur/construire-pool-house/)
+
 ## FAQ : les questions que tu te poses
 
 ### Les couleurs de façade sont-elles réglementées ?

@@ -173,6 +173,12 @@ Et si tu veux aller plus loin dans l'optimisation de ta cuisine et de ta déco, 
 
 ---
 
+
+## Sur le meme theme
+
+- [étagères murales ikea](/guides/shopping/cohue-chez-ikea-avec-letagere-murale-prisee-a-prix-imbattable/)
+- [séchoir ikea à moins de 6 euros](/guides/shopping/ikea-cet-indispensable-pour-secher-son-linge-meme-en-automne-a-moins-de-6-euros/)
+
 ## Questions fréquentes
 
 **Quel est le meilleur plateau multifonction IKEA en 2026 ?**

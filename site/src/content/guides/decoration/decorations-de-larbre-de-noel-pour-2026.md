@@ -172,6 +172,11 @@ Un thème assumé et cohérent du haut jusqu'en bas : tout en animaux de la for�
 
 Pas forcément un style visuel, mais une idée : intègre quelques mini-cadres photo ou des ornements qui contiennent une photo de famille à chaque décoration de Noël. Au bout de quelques années, ton sapin devient une archive vivante de ta famille, c'est une idée que beaucoup de gens adorent.
 
+
+## Sur le meme theme
+
+- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
+
 ## FAQ - Les questions les plus posées sur les décorations de sapin
 
 **Combien d'ornements faut-il pour un sapin de 180 cm ?**

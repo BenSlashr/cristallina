@@ -172,6 +172,11 @@ Le carrelage en terre cuite traditionnelle (non émaillée) demande un entretien
 
 Pour les peintures murales terracotta, une finition velouté ou satin est plus résistante qu'une finition mate dans les pièces à fort passage (couloir, cuisine). Le mat est plus beau mais moins pratique.
 
+
+## Sur le meme theme
+
+- [salon brun](/guides/decoration/salons-bruns-idees-et-images/)
+
 ## FAQ
 
 **Quelle couleur associer à la terracotta pour une ambiance moderne ?**

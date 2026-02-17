@@ -254,6 +254,13 @@ flowchart TD
     style I fill:#FFF0F5,stroke:#E879F9,color:#701A75
 ```
 
+
+## Sur le meme theme
+
+- [séchoir ikea à moins de 6 euros](/guides/shopping/ikea-cet-indispensable-pour-secher-son-linge-meme-en-automne-a-moins-de-6-euros/)
+- [plateau multifonction ikea](/guides/shopping/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
+- [étagères murales ikea](/guides/shopping/cohue-chez-ikea-avec-letagere-murale-prisee-a-prix-imbattable/)
+
 ## FAQ
 
 ### Quelle est la taille du module d'angle PAX IKEA ?

@@ -173,6 +173,12 @@ Ce qui fait une belle maison moderne cette année, c'est l'équilibre entre plus
 
 La maison moderne en 2026, c'est avant tout une maison qui vit bien et qui vieillit bien. Les tendances actuelles vont vers plus de durabilité et moins d'entretien - ce qui tombe bien, parce qu'une belle maison c'est surtout une maison qu'on habite vraiment.
 
+
+## Sur le meme theme
+
+- [maisons modernes en adobe](/guides/exterieur/maisons-modernes-en-adobe-images-dinterieurs-et-dexterieurs/)
+- [couleur porte d'entrée](/guides/exterieur/couleurs-des-portes-exterieures-comment-choisir-la-couleur/)
+
 ## Questions fréquentes sur les maisons modernes 2026
 
 **Quel budget pour construire une maison moderne en 2026 ?**

@@ -177,6 +177,12 @@ Si en revanche tu achètes pour louer et que ton locataire cible est plutôt pre
 
 ---
 
+
+## Sur le meme theme
+
+- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
+- [tapis en fibre naturelle : guide pour bien choisir](/guides/decoration/choisir-tapis-fibre-naturelle/)
+
 ## FAQ : appartement traversant
 
 **Peut-on transformer un appartement non-traversant en traversant ?**

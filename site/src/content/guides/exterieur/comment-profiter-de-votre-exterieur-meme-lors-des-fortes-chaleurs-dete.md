@@ -227,6 +227,11 @@ graph TD
     style G fill:#FFF0F5,stroke:#E879F9,color:#701A75
 ```
 
+
+## Sur le meme theme
+
+- [pergola ou tonnelle](/guides/exterieur/difference-pergola-tonnelle/)
+
 ## FAQ
 
 ### À quelle heure faut-il arroser son jardin en période de canicule ?

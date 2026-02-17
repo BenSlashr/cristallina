@@ -164,6 +164,11 @@ Le piège classique du jardin d'intérieur, c'est l'arrosage. Soit on noie les p
 
 **Engrais.** Une fois par mois de mars a septembre, un bouchon d'engrais liquide universel (Fertiligène, 8 EUR le litre) dans l'eau d'arrosage. Rien de plus.
 
+
+## Sur le meme theme
+
+- [conteneur maritime au jardin](/guides/exterieur/comment-transformer-votre-jardin-avec-un-conteneur-maritime/)
+
 ## FAQ - Jardins intérieurs modernes
 
 **Quel budget prévoir pour un jardin intérieur moderne ?**

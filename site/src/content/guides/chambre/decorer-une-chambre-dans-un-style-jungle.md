@@ -205,6 +205,11 @@ La chambre jungle est un style vivant, au sens propre. Elle évolue avec tes pla
 
 ---
 
+
+## Sur le meme theme
+
+- [déco pop chambre](/guides/chambre/guide-pour-une-deco-pop-dans-la-chambre-a-coucher/)
+
 ## Questions fréquentes
 
 **Quelles plantes pour une chambre jungle sans lumière ?**

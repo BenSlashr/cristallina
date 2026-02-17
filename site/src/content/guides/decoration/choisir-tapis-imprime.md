@@ -184,6 +184,11 @@ Mon conseil : mets le prix sur le tapis du salon (tu le vois tous les jours, tes
 > [!TIP]
 > Les soldes de janvier et les ventes privées de mi-saison (septembre) sont les meilleurs moments pour acheter un tapis de qualité avec 30 à 50 % de réduction. Westwing et Made.com font régulièrement des opérations sur les tapis.
 
+
+## Sur le meme theme
+
+- [tapis logo personnalisé](/guides/decoration/choisir-tapis-logo-personnalise/)
+
 ## FAQ
 
 ### Un tapis imprimé peut-il aller dans une pièce avec du parquet ?

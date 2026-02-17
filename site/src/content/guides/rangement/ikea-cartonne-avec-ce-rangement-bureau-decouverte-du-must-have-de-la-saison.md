@@ -214,6 +214,13 @@ Les cables, c'est souvent le gros point noir d'un bureau meme bien rangé. Quelq
 
 Pour d'autres idées de [rangement créatif](/rangement-creatif-optimisation/), j'ai un article dédié avec 20 astuces qui marchent dans toutes les pieces de la maison.
 
+
+## Sur le meme theme
+
+- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
+- [canapé ikea 2 places](/guides/decoration/ikea-frappe-fort-avec-son-nouveau-canape-2-places-parfait-pour-les-petits-salons/)
+- [plateau multifonction ikea](/guides/shopping/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
+
 ## FAQ
 
 ### Quel est le meilleur caisson de bureau IKEA ?

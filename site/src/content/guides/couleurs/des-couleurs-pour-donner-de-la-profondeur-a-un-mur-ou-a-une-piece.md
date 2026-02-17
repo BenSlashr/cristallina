@@ -195,6 +195,12 @@ Mon conseil si tu hésites encore : commence par un seul mur d'accentuation. Un 
 
 ---
 
+
+## Sur le meme theme
+
+- [couleurs ocres pour les murs et la décoration](/guides/couleurs/couleurs-ocres-pour-les-murs-et-la-decoration/)
+- [couleurs compatibles avec l'orange](/guides/couleurs/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/)
+
 ## Questions fréquentes
 
 **Quelle couleur choisir pour donner de la profondeur à un petit salon ?**

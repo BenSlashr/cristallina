@@ -185,6 +185,11 @@ Si tu me demandes un conseil direct : commence par définir ton budget et ta dur
 
 L'un n'empêche pas l'autre : beaucoup de gens commencent avec une tonnelle le temps de finaliser leur projet pergola. C'est malin, ça te laisse tester et réfléchir sans pression. Et le jour où la pergola est posée, la tonnelle part au fond du jardin pour couvrir le coin potager ou le barbecue. Tout le monde y gagne.
 
+
+## Sur le meme theme
+
+- [peinture carrelage extérieur terrasse](/guides/exterieur/peinture-pour-carrelage-exterieur-terrasse/)
+
 ## FAQ
 
 ### Une pergola nécessite-t-elle un permis de construire ?

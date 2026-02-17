@@ -197,6 +197,12 @@ Voici trois niveaux de setup pour t'aider à te positionner :
 - Système son 2.1 : 150-300€
 - Déco et ambiance soignée : 100-200€
 
+
+## Sur le meme theme
+
+- [peindre sans poncer](/guides/decoration/peindre-sans-poncer/)
+- [décoration petit salon](/guides/decoration/decoration-petit-salon/)
+
 ## FAQ
 
 **Quelle taille de bureau pour un setup gaming avec double écran ?**

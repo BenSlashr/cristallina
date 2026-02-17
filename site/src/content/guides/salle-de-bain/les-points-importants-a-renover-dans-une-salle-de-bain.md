@@ -168,6 +168,11 @@ Je ne vais pas te donner de fourchette vague type "ça dépend". Voici des chiff
 > [!TIP]
 > Prévois toujours une marge de 10 à 15 % pour les imprévus. Dans une rénovation de salle de bain, il y a presque toujours une surprise derrière les murs - un problème d'humidité caché, un tuyau non conforme, une prise à déplacer. C'est normal et ça fait partie du jeu.
 
+
+## Sur le meme theme
+
+- [salle de bain rustique moderne](/guides/salle-de-bain/salles-de-bains-rustiques-decoration-et-design-modernes/)
+
 ## Les erreurs les plus courantes
 
 Pour finir, voici les pièges que je vois le plus souvent et que tu peux facilement éviter :

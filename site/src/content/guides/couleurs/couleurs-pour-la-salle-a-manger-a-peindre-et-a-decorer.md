@@ -59,7 +59,7 @@ Ces couleurs sont ce qu'on appelle des "non-couleurs" - elles ont du caractère 
 
 Le vert sauge en particulier est partout. Sur les portes de cuisine, les boiseries, les murs des salles à manger. Si tu cherches quelque chose de la couleur du moment qui ne se démodera pas dans deux ans, c'est lui.
 
-Leroy Merlin propose une belle gamme dans ces tons naturels avec leur peinture Multi-Supports, autour de 30-40 euros le pot de 2,5L. Pour quelque chose de plus qualitatif, regarde du côté de [la peinture Luxens](/guides/decoration/peinture-luxens/) qui offre d'excellentes finitions mates dans ces teintes tendance.
+Leroy Merlin propose une belle gamme dans ces tons naturels avec leur peinture Multi-Supports, autour de 30-40 euros le pot de 2,5L. Pour quelque chose de plus qualitatif, regarde du côté de [la peinture Luxens](/guides/couleurs/peinture-luxens/) qui offre d'excellentes finitions mates dans ces teintes tendance.
 
 ## Quelle finition choisir : mat, satin ou brillant ?
 
@@ -180,6 +180,12 @@ La salle à manger que tu as envie d'avoir - celle où les gens s'attardent, où
 
 > [!IMPORTANT]
 > Un dernier conseil avant de te lancer : calcule bien la surface à peindre (longueur x hauteur des murs, moins les ouvertures) et ajoute 10% pour les retouches. Rien de plus frustrant que de se retrouver à court de peinture avec un mur à moitié fini - et souvent, le réassort exact n'est pas disponible en magasin.
+
+
+## Sur le meme theme
+
+- [couleurs ocres pour les murs et la décoration](/guides/couleurs/couleurs-ocres-pour-les-murs-et-la-decoration/)
+- [couleurs qui se marient avec le violet](/guides/couleurs/quelles-sont-les-couleurs-qui-se-marient-bien-avec-le-violet-en-decoration/)
 
 ## FAQ
 

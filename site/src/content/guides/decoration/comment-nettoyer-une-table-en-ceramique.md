@@ -168,6 +168,12 @@ Pour le parquet ou les sols bois par exemple, les taches peuvent être bien plus
 
 Côté salle de bain, les règles d'entretien du carrelage sont assez proches - si tu veux des conseils similaires pour ton [carrelage de douche italienne](/guides/salle-de-bain/carrelage-douche-italienne/), on a aussi un article dédié.
 
+
+## Sur le meme theme
+
+- [éclairage cave à vin](/guides/decoration/conseils-pour-leclairage-dune-cave-a-vin/)
+- [enduire un mur en parpaing](/guides/decoration/comment-enduir-un-mur-en-parpaing/)
+
 ## Questions fréquentes
 
 **Peut-on utiliser de l'eau de Javel sur une table en céramique ?**

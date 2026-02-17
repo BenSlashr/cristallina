@@ -124,6 +124,15 @@ flowchart LR
     classDef secondaire fill:#F3F4F6,stroke:#8B5CF6,color:#581C87
 ```
 
+
+## Sur le meme theme
+
+- [plateau multifonction ikea](/guides/shopping/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
+- [étagère murale ikea](/guides/shopping/ikea-frappe-fort-avec-cette-etagere-design-et-tres-pratique-qui-saccroche-au-mur-tres-facilement/)
+- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
+- [chambre adulte à deux teintes](/guides/chambre/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes/)
+- [canapé ikea 2 places](/guides/decoration/ikea-frappe-fort-avec-son-nouveau-canape-2-places-parfait-pour-les-petits-salons/)
+
 ## La question de la convivialité : ronde contre rectangulaire
 
 On revient souvent sur ce point dans les choix de salle à manger. Une table rectangulaire optimise la place assise sur un espace donné. Mais une table ronde, même avec un diamètre plus petit, crée une ambiance plus chaleureuse et plus égalitaire.

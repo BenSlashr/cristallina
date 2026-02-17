@@ -208,6 +208,12 @@ Le changement de façades peut être le point de départ d'une petite transforma
 > [!IMPORTANT]
 > Avant de toucher à un mur porteur pour ouvrir ta cuisine, fais toujours intervenir un bureau d'études structure. Un mur porteur mal géré, c'est un risque réel pour la sécurité de ton logement.
 
+
+## Sur le meme theme
+
+- [cuisine haut de gamme en seine-et-marne](/guides/cuisine/cuisine-haut-gamme-77-ai-concept/)
+- [cuisine olive](/guides/cuisine/cuisine-olive/)
+
 ## FAQ
 
 ### Est-ce que les portes IKEA Metod sont compatibles avec les caissons Faktum ?

@@ -190,6 +190,12 @@ Le choix entre mat, satiné et brillant n'est pas qu'une question de goût en sa
 
 Pour plus d'inspiration sur les styles de salles de bain modernes et les associations de couleurs, découvre notre sélection de [salles de bain design 2026](/guides/salle-de-bain/salles-de-bains-modernes-2026-modeles-designs-decoration/).
 
+
+## Sur le meme theme
+
+- [carrelage métro salle de bain](/guides/salle-de-bain/carrelage-metro-salle-de-bain/)
+- [peinture pour carrelage cuisine](/guides/cuisine/peinture-pour-carrelage-cuisine/)
+
 ## FAQ
 
 ### La peinture carrelage salle de bain tient combien de temps ?

@@ -195,6 +195,11 @@ Si tu veux explorer d'autres registres qui dialoguent bien avec le classique con
 
 ---
 
+
+## Sur le meme theme
+
+- [décoration africaine](/guides/decoration/decoration-africaine-50-photos-et-idees/)
+
 ## Questions fréquentes
 
 ### Le style classique contemporain convient-il aux petits espaces ?

@@ -242,6 +242,12 @@ Sur un mur de galerie, évite de placer un tableau très lourd (plus de 5 kg) av
 
 ---
 
+
+## Sur le meme theme
+
+- [choisir un tableau mural](/guides/decoration/choisir-tableau-mural/)
+- [cadre tableau mural végétal](/guides/decoration/choisir-cadre-tableau-mural-vegetal/)
+
 ## Questions fréquentes
 
 **Quelle hauteur pour accrocher un tableau ?**

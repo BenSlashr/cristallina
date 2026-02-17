@@ -238,6 +238,11 @@ Mon conseil : utilise les deux en complément. Les rendez-vous et rappels dans l
 
 ---
 
+
+## Sur le meme theme
+
+- [tableau pour enfant](/guides/decoration/choisir-tableau-enfant/)
+
 ## En résumé : quel format pour quel profil ?
 
 | Ton profil | Le format idéal | Budget |

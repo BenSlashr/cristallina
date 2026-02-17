@@ -191,6 +191,11 @@ Pour plus d'astuces, notre guide sur la [décoration petit salon](/guides/decora
 > [!NOTE]
 > Dans un petit salon, une seule "vraie" assise supplémentaire suffit en plus du canapé. Mieux vaut une pièce de qualité bien choisie que trois sièges encombrants qui gênent la circulation.
 
+
+## Sur le meme theme
+
+- [salon brun](/guides/decoration/salons-bruns-idees-et-images/)
+
 ## FAQ
 
 ### Quelle est la meilleure chaise de salon pour le mal de dos ?

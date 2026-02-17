@@ -198,6 +198,11 @@ pie title Repartition budget lustre baroque
 > [!IMPORTANT]
 > Avant d'acheter un lustre lourd, vérifie que ta dalle de plafond peut supporter le poids. Dans un immeuble ancien, les plafonds en platre sur lattis ne sont pas toujours solides. Fais percer un trou d'essai ou demande à un artisan de vérifier la structure.
 
+
+## Sur le meme theme
+
+- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
+
 ## FAQ - Lustre baroque
 
 ### Est-ce qu'un lustre baroque va dans un petit appartement ?

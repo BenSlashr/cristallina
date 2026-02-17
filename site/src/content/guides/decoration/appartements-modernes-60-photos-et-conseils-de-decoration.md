@@ -190,6 +190,12 @@ Le guide sur la [décoration de la chambre à coucher 2026](/guides/chambre/deco
 > [!IMPORTANT]
 > Dans un appartement de 60m2, le rangement de la chambre ne doit pas empiéter sur le salon ou l'entrée. Si tu manques de place pour les affaires de saison, les lits avec coffre de rangement intégré sont une option à étudier sérieusement. Le BRIMNES Ikea propose cette configuration à partir de 399€.
 
+
+## Sur le meme theme
+
+- [décoration petit salon](/guides/decoration/decoration-petit-salon/)
+- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+
 ## FAQ : appartements modernes de 60m2
 
 **Comment décorer un appartement de 60m2 avec un petit budget ?**

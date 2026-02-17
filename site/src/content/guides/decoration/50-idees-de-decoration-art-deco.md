@@ -204,6 +204,11 @@ flowchart TD
     style E fill:#F9FAFB,stroke:#6B7280,color:#374151
 ```
 
+
+## Sur le meme theme
+
+- [décoration classique contemporaine](/guides/decoration/decoration-classique-20-images-et-idees-contemporaines/)
+
 ## FAQ
 
 **Quelle est la différence entre Art Déco et Art Nouveau ?**

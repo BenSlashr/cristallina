@@ -182,6 +182,11 @@ Cette salle de bain que tu rénoves aujourd'hui, tu vivras avec pendant dix à q
 
 ---
 
+
+## Sur le meme theme
+
+- [couleurs tendance salle de bain 2026](/guides/salle-de-bain/couleurs-tendance-pour-les-salles-de-bains-modernes-2026/)
+
 ## FAQ
 
 **Quel est le style de salle de bain le plus tendance en 2026 ?**

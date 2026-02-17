@@ -183,6 +183,11 @@ graph TD
     classDef neutre fill:#F9FAFB,stroke:#6B7280,color:#374151
 ```
 
+
+## Sur le meme theme
+
+- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
+
 ## FAQ
 
 ### Quel budget prévoir pour une cuisine rustique chic complète ?

@@ -181,6 +181,11 @@ Au-delà de la salle de bain intérieure, il existe une autre interprétation du
 
 Le modèle "Njord Aegir" (bain froid) est disponible à partir de 1 990 €, le "Njord Borea" à partir de 2 390 €. C'est un investissement pour créer un espace de bien-être extérieur, mais l'expérience est vraiment à part. Et ça, c'est 100 % scandinave dans l'âme.
 
+
+## Sur le meme theme
+
+- [salle de bain rustique moderne](/guides/salle-de-bain/salles-de-bains-rustiques-decoration-et-design-modernes/)
+
 ## FAQ
 
 **Quelle forme de baignoire choisir pour un style scandinave ?**

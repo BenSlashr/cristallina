@@ -160,6 +160,12 @@ Commence par un test - une poignée de porte, un meuble relooké, un mur en pein
 
 ---
 
+
+## Sur le meme theme
+
+- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
+- [cuisine rustique chic](/guides/cuisine/le-charme-de-la-cuisine-rustique-un-look-retro-chic-incontournable/)
+
 ## FAQ
 
 **Peut-on associer vert et bois dans une petite cuisine ?**

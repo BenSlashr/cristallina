@@ -203,6 +203,12 @@ Si tu travailles sur le nettoyage de ta maison en général, j'ai aussi des guid
 
 ---
 
+
+## Sur le meme theme
+
+- [canapé ikea 2 places](/guides/decoration/ikea-frappe-fort-avec-son-nouveau-canape-2-places-parfait-pour-les-petits-salons/)
+- [semer du gazon sans rouleau](/guides/decoration/comment-peut-on-semer-du-gazon-sans-rouleau/)
+
 ## FAQ : vos questions les plus fréquentes
 
 **Est-ce que le bicarbonate peut décolorer le cuir blanc ?**

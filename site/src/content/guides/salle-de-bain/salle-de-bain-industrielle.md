@@ -194,6 +194,12 @@ La salle de bain industrielle est l'un des styles les plus durables en déco int
 
 ---
 
+
+## Sur le meme theme
+
+- [salle de bain rustique moderne](/guides/salle-de-bain/salles-de-bains-rustiques-decoration-et-design-modernes/)
+- [carrelage métro salle de bain](/guides/salle-de-bain/carrelage-metro-salle-de-bain/)
+
 ## Questions fréquentes
 
 **Le style industriel est-il adapté aux petites salles de bain ?**
