@@ -21,6 +21,11 @@ On va décortiquer ça ensemble.
 
 Le style marocain traditionnel, c'est d'abord une philosophie. Chaque élément raconte quelque chose - l'artisanat berbère, les influences andalouses, les échanges commerciaux avec toute la Méditerranée. C'est riche, dense, chaleureux.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236556302.jpg" alt="Decoration marocaine moderne ou classique - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Les piliers de la déco marocaine traditionnelle
 
 **Le zellige** - Ces carreaux en céramique émaillée disposés en mosaïque sont l'âme de l'intérieur marocain. Fabriqués à la main à Fès ou Marrakech, chaque pièce est unique. Tu les trouves sur les murs, les fontaines, les tables basses. Chez Maisons du Monde, une table zellige tournera autour de 200-350€. Pour un habillage mural DIY avec des carreaux achetés en ligne, compte 40-80€ le m².
@@ -43,6 +48,11 @@ La palette marocaine traditionnelle est chaude et affirmée. Les murs sont rarem
 ## Décoration marocaine moderne : l'art de l'épure
 
 La version contemporaine du style marocain, c'est garder l'âme, diluer l'intensité. On prend les meilleurs éléments - le zellige, le tapis berbère, les lanternes - et on les intègre dans un intérieur plus neutre, plus "d'aujourd'hui".
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237020613.jpg" alt="Decoration marocaine moderne ou classique - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Comment ça se traduit concrètement ?
 
@@ -84,6 +94,11 @@ flowchart TD
 ## Le mix moderne-classique : la vraie bonne idée
 
 Honnêtement, le mix des deux styles, c'est souvent ce qui marche le mieux dans un intérieur français contemporain. L'authenticité du classique tempérée par la légèreté du moderne.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237819977.jpg" alt="Decoration marocaine moderne ou classique - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### La stratégie des pièces-clés
 
@@ -131,6 +146,11 @@ graph LR
 
 ## Budget et où acheter : le guide pratique
 
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-marocaine-moderne-zellige-tapis-berb-re-1771232371615.jpg" alt="Decoration marocaine moderne ou classique - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Pour tous les budgets
 
 **Petit budget (moins de 200€ pour transformer une pièce)**
@@ -157,6 +177,11 @@ graph LR
 ## Les erreurs à éviter
 
 **Tout en même temps** - Le style marocain est généreux par nature, mais dans un intérieur français, il faut savoir retenir sa main. Si tu poses un tapis berbère, des coussins kilim, un meuble en bois sculpté, une suspension ciselée ET une fontaine d'intérieur dans la même pièce, ça va saturer. Choisis tes combats.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771234017397.jpg" alt="Decoration marocaine moderne ou classique - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Les faux zelliges brillants plastifiés** - Il en existe beaucoup dans les grandes surfaces déco. De loin ça ressemble, de près ça hurle "faux". Préfère de vrais carreaux de ciment ou du vrai zellige céramique, même en petite quantité.
 

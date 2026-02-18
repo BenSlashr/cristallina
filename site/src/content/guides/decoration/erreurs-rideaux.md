@@ -19,6 +19,11 @@ Bonne nouvelle : ces erreurs sont simples à corriger une fois qu'on les connaî
 
 C'est LA faute numéro un. Tu sais, ces rideaux qui s'arrêtent 10 ou 15 cm avant le sol, comme s'ils avaient rétréci au lavage ? Ça donne un effet "pantalon trop court" à toute la pièce. Le regard est immédiatement attiré vers cet espace vide entre le bas du rideau et le sol, et ça casse toute l'élégance.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236418031.jpg" alt="Erreurs rideaux - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### La bonne longueur
 
 Un rideau doit arriver à 1 cm du sol au minimum. C'est la règle de base. Pour un look plus décontracté et luxueux, tu peux le laisser "casser" légèrement au sol, avec 2 à 3 cm de tissu qui repose par terre. Et si tu veux le look dramatique à la parisienne, laisse 10 à 15 cm traîner au sol - mais attention, ça demande un entretien régulier.
@@ -31,6 +36,11 @@ Pour les rideaux prêt-à-porter, Ikea propose des longueurs standard de 250 cm 
 ## Erreur n'2 : la tringle posée trop bas
 
 C'est l'erreur sournoise qui va de pair avec la précédente. Tu accroches ta tringle juste au-dessus du cadre de la fenêtre, et hop - ta pièce paraît plus basse qu'elle ne l'est. Le plafond semble s'écraser sur toi.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236603638.jpg" alt="Erreurs rideaux - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### La bonne hauteur
 
@@ -58,6 +68,11 @@ graph TD
 
 Tu as acheté une paire de rideaux de 140 cm de large pour une fenêtre de 120 cm ? Mauvaise pioche. Le tissu va être tout plat, tendu, sans aucun mouvement. On dirait un drap suspendu. Pas exactement l'effet cocooning recherché.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237784552.jpg" alt="Erreurs rideaux - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le bon calcul
 
 Pour un plissé joli et naturel, il faut entre 1,5 et 2 fois la largeur de ta fenêtre en tissu. Une fenêtre de 120 cm demande donc entre 180 et 240 cm de tissu au total (soit 90 à 120 cm par panneau). Pour un effet vraiment généreux avec un tissu léger comme le voile ou le lin, tu peux monter à 2,5 fois.
@@ -68,6 +83,11 @@ Pour un plissé joli et naturel, il faut entre 1,5 et 2 fois la largeur de ta fe
 ## Erreur n'4 : choisir le mauvais tissu pour la mauvaise pièce
 
 Un rideau en velours épais dans une cuisine ouverte ? Un voilage transparent dans une chambre plein sud ? Chaque pièce a ses contraintes, et le tissu doit suivre.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771236105555.jpg" alt="Erreurs rideaux - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Quel tissu pour quelle pièce
 
@@ -82,6 +102,11 @@ Un rideau en velours épais dans une cuisine ouverte ? Un voilage transparent da
 ## Erreur n'5 : la couleur ou le motif qui jure avec le reste
 
 Tu as flashé sur ce rideau à motifs tropicaux en promo, mais ton salon est déjà plein de couleurs et de motifs sur les coussins, le tapis, les cadres... Résultat : une cacophonie visuelle. L'oeil ne sait plus où se poser.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235238242.jpg" alt="Erreurs rideaux - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### La règle simple
 

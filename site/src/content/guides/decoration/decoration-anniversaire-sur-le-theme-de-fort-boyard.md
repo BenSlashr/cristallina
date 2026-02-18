@@ -17,6 +17,11 @@ Fort Boyard, c'est LE thème d'anniversaire qui fait briller les yeux des enfant
 
 Avant de foncer acheter des ballons, prends une minute pour bien cerner l'univers. Fort Boyard, c'est avant tout :
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237305334.jpg" alt="Decoration anniversaire sur le theme de fort boyard - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 - Des couleurs précises : or, noir, orange, rouge bordeaux
 - Un style aventure/mystère mêlant pierres grises, torches, cellules et trésors
 - Des éléments iconiques : clés en or, tigres, araignées, bougies, roues de fortune
@@ -30,6 +35,11 @@ Garde ces codes en tête pour que chaque élément de ta déco parle le même la
 ## Les invitations : le premier contact avec l'aventure
 
 L'invitation donne le ton. Pour Fort Boyard, deux options s'offrent à toi :
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237047164.jpg" alt="Decoration anniversaire sur le theme de fort boyard - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **DIY imprimable (budget : 0 à 5 euros)**
 
@@ -47,6 +57,11 @@ Pour le texte de l'invitation, joue sur le registre de l'émission :
 > Pense à indiquer sur l'invitation si des épreuves physiques sont prévues (pour que les enfants viennent en baskets plutôt qu'en tenue habillée). Un petit détail qui évite les déceptions le jour J.
 
 ## La décoration de la salle : créer l'ambiance forteresse
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771238016946.jpg" alt="Decoration anniversaire sur le theme de fort boyard - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Les éléments muraux
 
@@ -105,6 +120,11 @@ Pour Fort Boyard, la combinaison gagnante : ballons latex noir mat + ballons lat
 
 Une déco parfaite sans les épreuves, c'est comme Fort Boyard sans Père Fouras. Voilà 5 épreuves simples à organiser chez toi :
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237846454.jpg" alt="Decoration anniversaire sur le theme de fort boyard - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart LR
     A["Épreuves\nFort Boyard"]:::main
@@ -145,6 +165,11 @@ Le coffre au trésor final (une grande boîte en bois peinte en noir et or, vend
 ## Festimini et les prestataires clés en main
 
 Si tu ne veux pas tout gérer seul(e), la société Festimini propose une animation "Festi Boyard" à domicile. L'équipe apporte le matériel, anime les épreuves et gère le timing. Prix : comptez à partir de 150 à 200 euros pour 10 enfants selon la région. C'est une option intéressante pour les anniversaires de 8 ans et plus où les enfants sont en groupe nombreux et où tu veux vraiment être présent(e) plutôt qu'à tout coordonner.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237862502.jpg" alt="Decoration anniversaire sur le theme de fort boyard - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ## Budget global : ce qu'il faut prévoir
 

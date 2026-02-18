@@ -17,6 +17,11 @@ Tu cherches un revêtement de toiture pas trop cher, simple à poser et qui offr
 
 Le shingle est un bardeau souple composé de plusieurs couches : une armature en fibre de verre, un enrobage de bitume et une finition en granulés minéraux colorés. Le résultat ? Une plaque légère, flexible, qu'on cloue directement sur un support en bois (volige ou panneau OSB).
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771238148487.jpg" alt="Toiture shingle les caracteristiques le cout et le devis - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Visuellement, le shingle imite très bien l'ardoise ou la tuile plate selon la découpe et la teinte choisies. Tu le trouves en noir, gris anthracite, rouge brique, vert, brun et même en jaune sable. Les fabricants comme IKO, Bardoline ou Onduline proposent des gammes variées qui s'adaptent à plein de styles architecturaux.
 
 Le format standard d'un bardeau : environ 100 cm x 34 cm, avec un poids de 8 à 15 kg/m2 selon l'épaisseur. C'est 5 à 6 fois plus léger qu'une tuile en terre cuite (environ 45 kg/m2), et ça change tout pour certaines structures.
@@ -25,6 +30,11 @@ Le format standard d'un bardeau : environ 100 cm x 34 cm, avec un poids de 8 à 
 > Le shingle est aussi appelé "bardeau bitumineux", "bardeau canadien" ou "shingle bitumé". Tous ces termes désignent le même produit. Ne te laisse pas embrouiller par les appellations commerciales !
 
 ## Les avantages du shingle
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237216279.jpg" alt="Toiture shingle les caracteristiques le cout et le devis - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Un prix très compétitif
 
@@ -46,6 +56,11 @@ Le shingle existe en découpes droites, arrondies, en écaille ou en losange. Co
 > Pour un rendu haut de gamme sans casser la tirelire, opte pour du shingle architectural (aussi appelé "dimensionnel"). C'est plus épais, plus texturé et plus résistant que le shingle standard, pour seulement 3 à 5 euros/m2 de plus. Le rendu visuel est bluffant.
 
 ## Les inconvénients - ce qu'on te dit moins souvent
+
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771236135084.jpg" alt="Toiture shingle les caracteristiques le cout et le devis - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Une durée de vie limitée
 
@@ -86,6 +101,11 @@ flowchart TD
 
 On va droit au but avec un tableau comparatif pour que tu saches exactement à quoi t'attendre.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237167375.jpg" alt="Toiture shingle les caracteristiques le cout et le devis - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le shingle seul (fourniture)
 
 | Type de shingle | Prix au m2 | Durée de vie |
@@ -114,6 +134,11 @@ Pour un projet complet (fourniture + pose + accessoires), voici les fourchettes 
 > N'oublie pas de compter le support. Le shingle se pose sur un voligeage plein (planches jointes) ou des panneaux OSB. Si ta charpente est en liteaux espacés (comme pour les tuiles), il faudra ajouter un support continu - compte 15 à 25 euros/m2 de plus pour les panneaux OSB de 18 mm et la pose.
 
 ## Comment se passe la pose du shingle ?
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238115161.jpg" alt="Toiture shingle les caracteristiques le cout et le devis - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Les conditions préalables
 

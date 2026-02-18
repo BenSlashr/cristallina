@@ -63,6 +63,16 @@ Plutôt que d'acheter un tableau, tu peins directement un pan de mur, une porte 
 
 La taille est le critère que tout le monde néglige. Trop petit, tu manques de place et tu finis par écrire minuscule. Trop grand, le tableau écrase la pièce. Voici les bons repères.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237786424.jpg" alt="Choisir tableau noir ardoise - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238143140.jpg" alt="Choisir tableau noir ardoise - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart TD
     A["Quel usage pour ton tableau ardoise ?"]
@@ -113,6 +123,11 @@ Pour les enfants qui veulent dessiner à la craie sans limite, ou pour un vrai m
 ---
 
 ## Où placer ton tableau ardoise ? Les meilleurs spots
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237895417.jpg" alt="Choisir tableau noir ardoise - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Dans la cuisine
 
@@ -174,6 +189,11 @@ flowchart LR
 
 Le poids est la variable clé. Un petit panneau mélaminé de 2 kg se fixe avec des languettes adhésives. Une ardoise naturelle de 7 kg demande des chevilles et des vis.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237884051.jpg" alt="Choisir tableau noir ardoise - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Pour les méthodes détaillées selon ton type de mur (placo, béton, brique), consulte notre guide complet pour [bien accrocher un tableau mural](/guides/decoration/bien-accrocher-tableau-mural/) - tu y trouveras les bonnes fixations pour chaque poids.
 
 **Quelques règles rapides** :
@@ -202,6 +222,11 @@ Si tu aimes les compositions murales mélangées (ardoise + cadres + plantes), t
 ## Double-face : un choix malin pour les enfants
 
 Les chevalets double-face combinent un côté ardoise noire et un côté tableau blanc (type Velleda). C'est l'option la plus polyvalente pour une chambre d'enfant ou une salle de jeux. Les enfants dessinent à la craie d'un côté et au feutre effaçable de l'autre.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238250150.jpg" alt="Choisir tableau noir ardoise - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Mes recommandations** : le chevalet Janod "Splash" (environ 50 euros, réglable en hauteur, bois massif) et le modèle Smoby (environ 35 euros, plastique résistant, avec rangement intégré pour les accessoires). Si tu cherches aussi un tableau blanc pour ton usage perso, jette un oeil à notre guide sur les [tableaux Velleda](/guides/decoration/choisir-tableau-velleda/) qui compare tous les formats et surfaces.
 

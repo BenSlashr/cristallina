@@ -19,6 +19,11 @@ Je m'intéresse au feng shui depuis plusieurs années - pas de manière mystique
 
 Le feng shui (littéralement "vent et eau") est un art chinois millénaire qui s'intéresse à la circulation de l'énergie dans un espace. L'idée de base : quand l'énergie circule bien dans une pièce, les gens qui y vivent se sentent mieux. Quand elle stagne ou file trop vite, c'est l'inconfort.
 
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771235467303.jpg" alt="Le feng shui dans la chambre a coucher - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 En pratique, le feng shui s'appuie sur quelques grands principes :
 
 - **L'équilibre Yin/Yang** : la chambre doit être plutôt Yin (calme, douce, reposante) par opposition aux pièces Yang (salon, cuisine) qui sont actives
@@ -30,6 +35,11 @@ Pas besoin d'y croire comme à une religion. Prends ce qui te parle, teste, et g
 ## Règle 1 : La position du lit, le point de départ de tout
 
 C'est LA règle numéro un. En feng shui, le lit se place en "position de commandement" : tu dois pouvoir voir la porte d'entrée de la chambre depuis ton lit, sans être directement face à elle ni alignée avec.
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771235402473.jpg" alt="Le feng shui dans la chambre a coucher - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Concrètement, ça veut dire :
 
@@ -64,6 +74,11 @@ L'orientation cardinale compte aussi : la tête de lit au nord ou à l'est est s
 
 Oui, même si tu dors seule. Deux tables de nuit symétriques de chaque côté du lit, c'est l'équilibre Yin/Yang en action. Ca crée une harmonie visuelle qui calme l'esprit et favorise le repos.
 
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771233161028.jpg" alt="Le feng shui dans la chambre a coucher - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Les tables n'ont pas besoin d'être identiques - elles peuvent simplement se répondre en taille et en hauteur. L'idée, c'est la symétrie douce, pas la copie carbone.
 
 En plus de l'aspect feng shui, c'est aussi très pratique. Un verre d'eau, un livre, une lampe : avoir un espace de chaque côté du lit, c'est du confort pur.
@@ -71,6 +86,11 @@ En plus de l'aspect feng shui, c'est aussi très pratique. Un verre d'eau, un li
 ## Règle 3 : Les couleurs apaisantes, pas de compromis
 
 La chambre feng shui appelle des couleurs Yin : douces, naturelles, enveloppantes. On parle de beige chaud, blanc cassé, rose poudré, vert sauge, bleu pâle, gris perle. Ce sont des teintes qui ralentissent le rythme cardiaque et facilitent l'endormissement.
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771234342745.jpg" alt="Le feng shui dans la chambre a coucher - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Si tu aimes les [combinaisons de couleurs en chambre](/guides/chambre/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes), voilà les associations feng shui qui fonctionnent :
 
@@ -87,6 +107,11 @@ Les couleurs à éviter : le rouge vif (trop stimulant, trop Yang), le noir en g
 ## Règle 4 : Débarrasse-toi du désordre sous le lit
 
 C'est la règle qui fait grincer des dents - parce que c'est l'endroit préféré de tout le monde pour cacher des trucs. Valises, cartons, vêtements hors saison : le dessous du lit devient souvent un dépotoir invisible.
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-coucher-2026-tendances-d-coration-moderne-1771232826928.jpg" alt="Le feng shui dans la chambre a coucher - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 En feng shui, l'énergie doit circuler autour de toi pendant que tu dors. Si le dessous du lit est encombré, le Qi stagne, et ça peut affecter la qualité de ton sommeil. Si tu as absolument besoin de cet espace de stockage, opte pour des articles liés au sommeil (draps de rechange, couvertures) plutôt que des dossiers de travail ou des objets chargés émotionnellement.
 

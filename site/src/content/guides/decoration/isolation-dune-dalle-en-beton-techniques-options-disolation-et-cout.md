@@ -21,6 +21,11 @@ La bonne nouvelle, c'est qu'il existe trois grandes techniques pour isoler une d
 
 Le sol représente entre 7 et 10 % des pertes de chaleur d'une maison, selon l'ADEME. Ça paraît peu comparé aux murs ou à la toiture, mais c'est un froid très désagréable parce qu'il touche directement tes pieds. Une dalle non isolée en contact avec la terre, c'est un pont thermique permanent.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237902878.jpg" alt="Isolation dune dalle en beton techniques options disolation et cout - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Les bénéfices concrets d'une isolation de dalle :
 
 - **Confort thermique** : fini le sol glacé, tu gagnes 3 à 5 degres de température de surface
@@ -34,6 +39,11 @@ Les bénéfices concrets d'une isolation de dalle :
 ## Technique 1 : isolation sous dalle (construction neuve ou rénovation lourde)
 
 C'est la méthode standard en construction neuve. On pose l'isolant directement sur le sol, avant de couler la dalle par-dessus. Si tu fais une extension ou que tu refais ton sol de zéro, c'est l'option à privilégier.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232890062.jpg" alt="Isolation dune dalle en beton techniques options disolation et cout - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Comment ça marche ?
 
@@ -79,6 +89,11 @@ Pour un dallage béton complet avec isolation, compte environ 121 EUR HT/m² (so
 
 Tu as déjà ta dalle béton et tu ne veux pas tout casser ? L'isolation par-dessus est la solution la plus accessible en rénovation. Tu poses des panneaux isolants rigides sur la dalle existante, puis un revêtement de sol par-dessus.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237872363.jpg" alt="Isolation dune dalle en beton techniques options disolation et cout - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Les deux approches possibles
 
 **Panneaux rigides + chape** : tu poses des panneaux de polystyrène extrudé ou de polyuréthane directement sur la dalle, tu coules une chape liquide ou sèche par-dessus, puis tu poses ton carrelage, parquet ou lino. C'est la méthode la plus solide.
@@ -113,6 +128,11 @@ Le liège expansé est un choix intéressant si tu veux une solution naturelle. 
 ## Technique 3 : isolation en sous-face (cave, garage, vide sanitaire)
 
 Si tu as accès au plafond d'une cave, d'un garage ou d'un vide sanitaire sous ta dalle, c'est la technique la moins invasive. Tu n'as pas besoin de toucher à ton sol, pas de hauteur perdue, pas de revêtement à refaire. L'isolant se fixe directement sous la dalle.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235265418.jpg" alt="Isolation dune dalle en beton techniques options disolation et cout - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Comment procéder ?
 
@@ -157,6 +177,11 @@ L'isolation en sous-face est souvent la plus rentable en rénovation : pas de tr
 ## Normes et DTU à respecter
 
 Que tu fasses les travaux toi-même ou que tu fasses appel à un pro, certaines règles techniques s'appliquent :
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237827519.jpg" alt="Isolation dune dalle en beton techniques options disolation et cout - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 - **DTU 26.2** : chapes et dalles à base de liants hydrauliques (concerne la chape sur isolant)
 - **DTU 52.10** : mise en oeuvre de sous-couches isolantes sous chape

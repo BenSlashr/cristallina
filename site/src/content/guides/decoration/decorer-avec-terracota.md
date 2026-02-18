@@ -17,6 +17,11 @@ La terracotta, c'est cette teinte ocre-orangée qui évoque la Toscane, les mais
 
 La terracotta n'est pas une tendance qui surgit de nulle part. C'est une couleur ancrée dans notre histoire, celle de la terre cuite, des amphores antiques, des toits méditerranéens. Ce qui change aujourd'hui, c'est la façon dont les designers l'interprètent : plus sophistiquée, moins saturée, souvent mélangée à des matières naturelles comme le lin, le rotin ou le béton.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771238012694.jpg" alt="Decorer avec terracota - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Ce qui la rend si facile à vivre, c'est sa chaleur intrinsèque. Elle capte la lumière naturelle et réchauffe les pièces sans les alourdir. Dans une salle de séjour orientée nord, elle compense la froideur de la lumière. Dans une chambre exposée plein sud, elle crée un cocon qui invite au repos.
 
 Le spectre de la terracotta est large : du brique rosé très clair chez Farrow & Ball (coloris "Red Earth" No.64) jusqu'au brun-orangé profond chez Little Greene ("Orange Aurora"). Entre les deux, une cinquantaine de nuances, et chacune raconte quelque chose de différent.
@@ -27,6 +32,11 @@ Le spectre de la terracotta est large : du brique rosé très clair chez Farrow 
 ## Les combinaisons de couleurs qui marchent
 
 Avant de te lancer dans la déco, il faut choisir ton "camp" : quelle ambiance veux-tu créer ? La terracotta accepte plusieurs partenaires, chacun donnant un résultat très différent.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237832450.jpg" alt="Decorer avec terracota - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Terracotta + blanc cassé = classique méditerranéen
 
@@ -70,6 +80,11 @@ graph TD
 ```
 
 ## Pièce par pièce : comment intégrer la terracotta
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236566429.jpg" alt="Decorer avec terracota - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le salon : la terracotta en mur d'accent
 
@@ -141,6 +156,11 @@ Si tu veux aller plus loin dans la déco chambre terracotta, consulte notre guid
 
 Tu n'es pas prêt(e) à peindre un mur ? Pas de problème. Les accessoires terracotta sont faciles à trouver, abordables et réversibles. C'est la meilleure façon de tester la couleur dans ton espace avant de s'engager davantage.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771238207140.jpg" alt="Decorer avec terracota - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Céramique et poterie** : le secteur le plus riche. IKEA propose des vases terracotta entre 5 et 25€. H&M Home a des collections de bols et mugs en grès terracotta à des prix accessibles (8-20€ pièce). Pour quelque chose de plus artisanal, La Trésorerie à Paris ou les marchés d'artisans locaux proposent des pièces uniques entre 20 et 80€.
 
 **Textiles** : un coussin terracotta change une pièce en 30 secondes. Cherche chez H&M Home, Zara Home, ou Maisons du Monde. Comptez 15 à 40€ selon la taille et la matière. En lin, c'est encore mieux - la matière naturelle renforce l'effet terracotta.
@@ -150,6 +170,11 @@ Tu n'es pas prêt(e) à peindre un mur ? Pas de problème. Les accessoires terra
 Les tons ocres et terracotta s'inscrivent dans une palette plus large que tu peux explorer dans notre guide sur les [couleurs ocres pour les murs et la décoration](/guides/couleurs/couleurs-ocres-pour-les-murs-et-la-decoration/), très utile pour coordonner l'ensemble de tes pièces.
 
 ## Les erreurs courantes à éviter
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237908599.jpg" alt="Decorer avec terracota - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Trop de terracotta partout
 

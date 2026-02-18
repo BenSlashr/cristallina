@@ -23,6 +23,11 @@ Je te donne ici mes palettes préférées, avec des références de peinture et 
 
 Avant de foncer en magasin, il faut savoir que "orange" recouvre une grande famille de nuances. Un orange vif type Hermès, un orange brûlé tirant vers le rouille, un pêche clair ou un terracotta profond - ce ne sont pas du tout les mêmes teintes, et elles ne s'associent pas aux mêmes couleurs.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-orange-mur-couleur-assortiment-design-1771232493962.jpg" alt="Couleurs compatibles avec lorange pour les murs et la decoration - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Voici les grandes catégories :
 
 - **Orange vif** : énergique, solaire, parfait en touche d'accent
@@ -34,6 +39,11 @@ Voici les grandes catégories :
 > Avant de peindre un mur entier, achète un pot d'essai (Dulux Valentine en propose à 6,90 euros le testeur). Applique deux couches sur un carton A3 et déplace-le dans la pièce à différentes heures. La lumière naturelle change complètement la perception d'une teinte orange.
 
 ## Les 6 meilleures combinaisons avec l'orange
+
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771236344575.jpg" alt="Couleurs compatibles avec lorange pour les murs et la decoration - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Orange + bleu canard : le duo star
 
@@ -138,6 +148,11 @@ graph TD
     F --> L["Contraste - audace graphique"]
     G --> M["Camaïeu - cocooning"]
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237309301.jpg" alt="Couleurs compatibles avec lorange pour les murs et la decoration - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
     style A fill:#FEF3F2,stroke:#F97316,color:#9A3412
     style B fill:#FFF0F5,stroke:#E879F9,color:#701A75
     style C fill:#F9FAFB,stroke:#6B7280,color:#374151
@@ -156,6 +171,11 @@ graph TD
 ## Comment doser l'orange selon la pièce
 
 L'orange ne se déploie pas de la même façon partout. Voici un guide rapide pour ne pas te planter :
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237023982.jpg" alt="Couleurs compatibles avec lorange pour les murs et la decoration - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 graph LR
@@ -189,6 +209,11 @@ Pour la cuisine, c'est le terrain de jeu idéal de l'orange. Cette couleur ouvre
 ## Accessoires et textiles : l'orange en touches stratégiques
 
 Pas envie de repeindre ? Les accessoires sont le moyen le plus simple (et le moins cher) d'intégrer l'orange dans ta déco.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771238294567.jpg" alt="Couleurs compatibles avec lorange pour les murs et la decoration - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Coussins et plaids :** c'est le point d'entrée classique. Deux ou trois coussins orange sur un canapé gris ou beige, ça suffit à transformer l'espace. Chez H&M Home, tu trouves des housses en lin orange brûlé à partir de 12,99 euros. Chez Zara Home, les plaids en coton gaufré orange pêche tournent autour de 39,99 euros.
 

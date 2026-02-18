@@ -19,6 +19,11 @@ Le shabby chic, c'est ne pas viser la perfection. C'est choisir une vieille comm
 
 Le terme vient de l'anglais : "shabby" signifie usé, abîmé, vieilli - et "chic", eh bien, c'est du chic. Cette alliance apparemment contradictoire, c'est Rachel Ashwell qui l'a popularisée dans les années 80-90 en Californie. L'idée : valoriser ce qui est passé, poudré, presque fragile, et en faire quelque chose d'élégant.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-shabby-chic-pastel-vintage-romantique-1771237856841.jpg" alt="Decoration shabby chic idees et photos de style et de decoration - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Ce n'est pas du tout la même chose que le vintage brut ou le campagnard classique. Le shabby chic est plus romantique, plus féminin, plus poétique. On pense à des chambres de château un peu oubliées, à des jardins anglais, aux fleurs de l'été dans un vase en faïence craquelé.
 
 > [!NOTE]
@@ -27,6 +32,11 @@ Ce n'est pas du tout la même chose que le vintage brut ou le campagnard classiq
 ## La palette de couleurs : douceur avant tout
 
 C'est la base du style. Les couleurs shabby chic sont comme des aquarelles : délavées, douces, jamais saturées.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238110709.jpg" alt="Decoration shabby chic idees et photos de style et de decoration - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 - **Blanc cassé et ivoire** : la colonne vertébrale de tout intérieur shabby chic. Sur les murs, les meubles, les textiles.
 - **Rose poudré et rose ancien** : chaud, romantique, jamais criard.
@@ -57,6 +67,11 @@ graph TD
 
 Le shabby chic, c'est le paradis des chineurs. Vide-greniers, Leboncoin, Emmaüs, brocantes de village - tous ces endroits sont tes terrains de jeu. L'idée n'est pas d'acheter cher, mais de repérer du potentiel.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237853442.jpg" alt="Decoration shabby chic idees et photos de style et de decoration - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Ce qu'on recherche :**
 
 Une commode ancienne avec ses poignées en laiton ? Parfait. Une chaise Louis XVI avec le velours un peu usé ? Encore mieux. Une table de chevet en bois massif avec de la patine naturelle ? Jackpot.
@@ -84,6 +99,11 @@ Si tu ne peux pas tout chiner, Made.com et La Redoute ont des lignes très satis
 
 Si tu dois investir quelque part, c'est là. Les tissus font 50% de l'ambiance shabby chic. Et la bonne nouvelle : on n'est pas obligé de se ruiner.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238288345.jpg" alt="Decoration shabby chic idees et photos de style et de decoration - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Les matières à privilégier :**
 
 Lin brut, coton épais, velours doux, dentelle, broderie anglaise. On évite le synthétique brillant à tout prix - ça casse l'ambiance en deux secondes.
@@ -106,6 +126,11 @@ Zara Home propose des couvre-lits en coton fleuri autour de 59-89 euros, vraimen
 ## La décoration et les accessoires : les petits détails qui tout changent
 
 C'est ici que la personnalité entre en jeu. Le shabby chic se construit détail par détail, et c'est ce qui le rend si attachant.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-shabby-chic-pastel-vintage-romantique-1771235961214.jpg" alt="Decoration shabby chic idees et photos de style et de decoration - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Les classiques du style :**
 

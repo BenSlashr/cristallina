@@ -19,6 +19,11 @@ Avec les bonnes astuces, tu peux transformer ton extérieur en zone de fraîcheu
 
 Le store banne est ta première ligne de défense sur une terrasse collée à la maison. Il bloque les rayons avant qu'ils frappent le sol et les murs, et réduit la température de 5 à 8 degrés.
 
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771231694386.jpg" alt="Comment profiter de votre exterieur meme lors des fortes chaleurs dete - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Un store manuel à manivelle démarre à 200 euros (3 mètres de large). Les versions motorisées avec capteur soleil et vent coûtent entre 800 et 2 000 euros.
 
 Son avantage sur le parasol : il libère l'espace au sol. Pas de pied encombrant, et il protège la façade ce qui limite la chaleur à l'intérieur.
@@ -32,6 +37,11 @@ Si tu cherches toutes les options d'ombrage possibles, j'ai déjà fait un [comp
 
 Les arbres sont les meilleurs climatiseurs naturels. Un arbre adulte fait baisser la température de 3 à 5 degrés sous sa canopée : les feuilles libèrent de l'eau qui, en s'évaporant, refroidit l'air ambiant.
 
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-moderne-2026-enduit-bardage-design-1771235282117.jpg" alt="Comment profiter de votre exterieur meme lors des fortes chaleurs dete - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Les meilleurs arbres pour créer de l'ombre rapidement dans un jardin :
 
 - **Mûrier platane stérile** : port en parasol naturel, croissance rapide (50-70 cm par an), pas de fruits qui tachent. L'arbre idéal pour ombrager un coin repas.
@@ -44,6 +54,11 @@ Un jeune arbre en pépinière coûte 30 à 80 euros. Plante-le à 3-4 mètres de
 
 La pergola transforme une zone de ton extérieur en pièce de vie. Et quand il fait chaud, c'est l'espace où tout le monde se retrouve.
 
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-moderne-2026-enduit-bardage-design-1771236784047.jpg" alt="Comment profiter de votre exterieur meme lors des fortes chaleurs dete - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Pergola classique** avec toile rétractable : à partir de 600 euros en kit. Tu gères l'ombre manuellement.
 
 **Pergola bioclimatique** à lames orientables : les lames pivotent pour laisser passer l'air tout en bloquant le soleil direct. Prix : de 3 000 à 10 000 euros pose comprise. J'ai écrit un [guide complet sur la pergola bioclimatique](/guides/exterieur/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) si tu veux creuser le sujet.
@@ -53,6 +68,11 @@ L'atout de la pergola, c'est la ventilation. L'air circule librement sous la str
 ## 4. Rafraîchir l'air avec des brumisateurs
 
 Le principe est simple : l'eau propulsée en micro-gouttelettes s'évapore au contact de l'air chaud et rafraîchit la zone de 5 à 10 degrés.
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771231654955.jpg" alt="Comment profiter de votre exterieur meme lors des fortes chaleurs dete - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Brumisateur sur pied** : entre 80 et 250 euros, il se branche sur un robinet standard et couvre 10 à 20 m2. Consommation : 1 à 3 litres par heure.
 
@@ -64,6 +84,11 @@ Le principe est simple : l'eau propulsée en micro-gouttelettes s'évapore au co
 ## 5. Jouer avec l'eau : bassin, fontaine et jeux aquatiques
 
 L'eau rafraîchit l'air par évaporation et crée une ambiance apaisante.
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771232910567.jpg" alt="Comment profiter de votre exterieur meme lors des fortes chaleurs dete - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Un bassin de 1 à 3 m2 (30-40 cm de profondeur) fait baisser la température de 2 à 3 degrés. Bâche EPDM : 50 à 150 euros, bassin préformé : à partir de 80 euros. Ajoute une pompe solaire (20-40 euros) pour faire circuler l'eau.
 

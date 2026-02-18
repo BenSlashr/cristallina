@@ -17,6 +17,11 @@ Tu as un couloir étroit, une chambre qui manque de lumière ou un placard qui b
 
 Quand tu arrives chez Leroy Merlin (en magasin ou en ligne), tu tombes sur quatre grandes familles. Chacune répond à un besoin différent, et le budget varie du simple au triple.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237986546.jpg" alt="Les portes coulissantes disponible chez leroy merlin - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### La porte coulissante en applique (avec rail apparent)
 
 C'est le modèle le plus populaire et le plus simple à installer. La porte glisse sur un rail fixé au-dessus de l'ouverture, côté pièce. Tu la vois, elle fait partie du décor - et ça tombe bien, parce que les modèles actuels sont vraiment beaux.
@@ -62,6 +67,11 @@ Que ce soit en applique ou en galandage, la version vitrée apporte un vrai plus
 ## Comment choisir la bonne porte coulissante
 
 Le choix dépend de trois critères : ton espace disponible, ton budget et le niveau de travaux que tu es prête à accepter.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238166818.jpg" alt="Les portes coulissantes disponible chez leroy merlin - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart TD
@@ -113,6 +123,11 @@ Mon conseil : si tu hésites, le MDF peint est un super point de départ. Tu peu
 
 C'est le type le plus accessible pour une pose DIY. Avec un bon kit et les bons outils, compte 2 à 3 heures max.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237192108.jpg" alt="Les portes coulissantes disponible chez leroy merlin - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Ce qu'il te faut
 
 - Le kit complet (porte + rail + visserie) : à partir de 89 euros chez Leroy Merlin
@@ -141,6 +156,11 @@ C'est le type le plus accessible pour une pose DIY. Avec un bon kit et les bons 
 ## Portes de placard coulissantes : les meilleures gammes Leroy Merlin
 
 Si ton projet, c'est de fermer un dressing ou un placard mural, Leroy Merlin a trois gammes principales qui couvrent tous les budgets.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237779857.jpg" alt="Les portes coulissantes disponible chez leroy merlin - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Gamme Optimum (entrée de gamme)
 
@@ -174,6 +194,11 @@ flowchart LR
 ## Entretien et astuces pour que ça dure
 
 Une porte coulissante bien entretenue dure 15 à 20 ans sans broncher. Voici les gestes qui font la différence :
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237905685.jpg" alt="Les portes coulissantes disponible chez leroy merlin - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 - **Nettoie le rail bas tous les 2-3 mois.** Un coup d'aspirateur avec la brosse fine, puis un chiffon humide. La poussière et les cheveux s'accumulent vite et finissent par bloquer les roulettes.
 - **Lubrifie les roulettes une fois par an.** Un spray silicone (5 euros en grande surface) sur les roulettes et le rail. Pas de WD-40 qui attire la poussière.

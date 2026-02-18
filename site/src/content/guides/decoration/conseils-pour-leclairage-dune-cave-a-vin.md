@@ -17,6 +17,11 @@ Tu as une cave à vin (ou tu comptes en aménager une), et tu te demandes commen
 
 Avant de parler ampoules et luminaires, il faut comprendre le problème de fond. Le vin est une matière vivante, sensible à trois facteurs principaux : la température, l'humidité et la lumière. Ce dernier point est souvent sous-estimé.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235303154.jpg" alt="Conseils pour leclairage dune cave a vin - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Les rayons ultraviolets (UV) déclenchent des réactions chimiques dans le vin. Ils cassent les molécules soufrées et provoquent une oxydation prématurée. Le résultat ? Un vin qui perd ses aromes fruités, développe des notes de chou ou de laine mouillée, et vieillit beaucoup trop vite. C'est le fameux "gout de lumière" - un terme technique utilisé par les oenologues pour décrire cette altération.
 
 **Tous les vins ne sont pas égaux face à ce risque.** Les bouteilles en verre clair (rosés, certains blancs, champagnes) sont les plus vulnérables. Le verre foncé filtre une partie des UV, mais pas la totalité. Même un Bordeaux en bouteille sombre peut souffrir d'une exposition prolongée.
@@ -29,6 +34,11 @@ Les chiffres à retenir : une ampoule incandescente classique émet des UV, chau
 ## LED : le meilleur allié de ta cave à vin
 
 La technologie LED s'est imposée comme la référence pour l'éclairage des caves à vin, et pour de bonnes raisons.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235329304.jpg" alt="Conseils pour leclairage dune cave a vin - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Pas d'émission d'UV** : c'est le critère numéro un. Les LED de qualité n'émettent aucun rayonnement ultraviolet, ce qui protège tes bouteilles même en cas d'exposition prolongée.
 
@@ -83,6 +93,11 @@ Pour une ambiance encore plus soignée, pense aux LED avec variateur (dimmer). C
 
 La ou tu places tes sources lumineuses est aussi important que le type de lumière que tu choisis. Deux principes à respecter absolument.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235285081.jpg" alt="Conseils pour leclairage dune cave a vin - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Règle 1 : jamais de lumière directe sur les bouteilles
 
 C'est la règle de base. Aucun spot, aucune ampoule ne doit éclairer directement les bouteilles. Même une LED sans UV finit par générer un léger réchauffement si elle pointe en continu sur une zone.
@@ -130,6 +145,11 @@ flowchart LR
 
 L'intensité lumineuse se mesure en lux. Pour te donner un repère, un bureau de travail c'est 300 à 500 lux, un salon c'est 150 à 300 lux. Pour une cave à vin, on vise beaucoup plus bas.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771233986759.jpg" alt="Conseils pour leclairage dune cave a vin - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **La recommandation : entre 50 et 100 lux maximum.** C'est suffisant pour circuler, lire les étiquettes et choisir une bouteille, sans agresser le contenu.
 
 Pour une cave de 10 m², ca correspond à environ :
@@ -145,6 +165,11 @@ Pour une cave de 10 m², ca correspond à environ :
 ## Les conditions idéales autour de l'éclairage
 
 L'éclairage ne fonctionne pas tout seul. Il s'inscrit dans un écosystème complet. Si la température ou l'humidité de ta cave posent problème, même le meilleur éclairage LED ne sauvera pas tes bouteilles.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235357111.jpg" alt="Conseils pour leclairage dune cave a vin - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Température :** entre 10 et 14°C, stable. Les variations sont pires que la température absolue. Vérifie que tes luminaires ne créent pas de points chauds localisés - c'est le cas avec les halogènes, rarement avec les LED.
 

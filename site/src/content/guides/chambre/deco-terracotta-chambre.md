@@ -19,6 +19,11 @@ Voilà ce qu'on va voir ensemble : comment choisir la bonne nuance, comment la m
 
 Avant d'aller plus loin, on va poser les bases. Le terracotta (qui veut dire "terre cuite" en italien) regroupe toute une famille de teintes chaudes allant du brun-orangé au rose saumon. C'est une couleur très ancienne - on la retrouve dans l'architecture méditerranéenne, dans la poterie traditionnelle, dans les fresques romaines.
 
+<div class="my-8">
+  <img src="/images/pinterest-chambre-adulte-deux-couleurs-peinture-bicolore-1771236628837.jpg" alt="Deco terracotta chambre - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Dans ta chambre, elle va créer quelque chose de précis : une sensation d'enveloppement. Les teintes chaudes rapprochent les murs visuellement, ce qui dans une chambre crée un effet "refuge" très recherché. C'est l'effet cocon par excellence.
 
 > [!TIP]
@@ -32,6 +37,11 @@ Les nuances du spectre terracotta :
 ## Les associations de couleurs qui marchent vraiment
 
 C'est là que beaucoup de gens se bloquent. Le terracotta est une couleur forte, et si tu la maries mal, tu vas finir avec une chambre qui ressemble à une orangeade. Voici les combinaisons qui fonctionnent.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237932508.jpg" alt="Deco terracotta chambre - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 graph TD
@@ -67,6 +77,11 @@ graph TD
 
 Tu n'es pas obligée de tout peindre. Le terracotta, ça s'intègre par touches - et parfois les touches suffisent largement.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237088819.jpg" alt="Deco terracotta chambre - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Un mur accent - la solution la plus simple
 
 Peins un seul mur en terracotta (généralement celui derrière la tête de lit). Résultat immédiat, impact fort, et tu peux facilement changer d'avis si ça ne te convient pas. Tu commences par là avant de te lancer dans quelque chose de plus ambitieux.
@@ -94,6 +109,11 @@ Des vases en céramique terracotta sur une étagère, un pot pour ta plante, un 
 
 Le terracotta n'est pas une couleur de style unique - elle s'adapte à plusieurs univers selon comment tu la travailles.
 
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771235492560.jpg" alt="Deco terracotta chambre - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 graph LR
     T["Terracotta"]
@@ -120,6 +140,11 @@ graph LR
 ## Les matières qui s'associent bien avec le terracotta
 
 La couleur c'est bien, mais c'est les matières qui font le volume et la richesse de la déco.
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771235539525.jpg" alt="Deco terracotta chambre - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Le lin et le coton naturel** : ils ont la même origine "brute" que le terracotta. Un ensemble de literie en lin dans un beige naturel avec un ou deux coussins terracotta - c'est direct, efficace, et jamais raté. Comptez 80-150€ chez AM.PM ou The Conran Shop pour un beau housse de couette en lin.
 

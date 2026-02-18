@@ -17,6 +17,11 @@ Ouvre un placard de cuisine au hasard. Qu'est-ce que tu vois ? Si la réponse c'
 
 Avant de tout réorganiser, il faut comprendre ce qui coince. Dans 90% des cas, le problème n'est pas le manque de place - c'est la façon dont l'espace est utilisé. Les armoires sont hautes, profondes, mal compartimentées. Tu empiles, tu enfonces des trucs au fond, tu oublies ce qui est là, tu rachètes en double.
 
+<div class="my-8">
+  <img src="/images/pinterest-petite-cuisine-moderne-2026-compact-optimis-e-1771238261808.jpg" alt="Organisation armoire cuisine - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Le vrai point de départ, c'est le tri. Sors tout. Mets-le sur la table et demande-toi pour chaque objet : est-ce que je l'ai utilisé ces 6 derniers mois ? Si non (et que c'est pas un plat à raclette - l'hiver revient toujours), c'est le moment de donner ou de ranger au garage.
 
 > [!TIP]
@@ -25,6 +30,11 @@ Le vrai point de départ, c'est le tri. Sors tout. Mets-le sur la table et deman
 ## La règle d'or : placer par fréquence d'utilisation
 
 C'est le principe le plus simple et le plus efficace. Tout ce que tu utilises chaque jour doit être accessible sans te mettre sur la pointe des pieds, sans te baisser, sans pousser trois trucs pour y accéder.
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-couleur-olive-vert-sauge-d-coration-moderne-1771231979265.jpg" alt="Organisation armoire cuisine - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart TD
@@ -55,6 +65,11 @@ flowchart TD
 
 Tous les organiseurs ne se valent pas. Certains finissent au fond du placard eux-mêmes, ce qui est quand même un comble. Voici ce qui marche vraiment.
 
+<div class="my-8">
+  <img src="/images/pinterest-petite-cuisine-moderne-2026-compact-optimis-e-1771237493618.jpg" alt="Organisation armoire cuisine - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Les demi-étagères (shelf risers)
 
 C'est le hack le plus sous-estimé. Une demi-étagère en métal ou en bambou double la capacité d'une étagère en créant deux niveaux : assiettes en dessous, bols au-dessus, tasses en bas, verres en haut.
@@ -83,6 +98,11 @@ Chez Leroy Merlin, les kits de paniers coulissants (avec glissières à fixer so
 ## L'organisation par catégories : le système qui tient dans le temps
 
 Ranger par zone de fréquence, c'est la base. Pour que ca tienne sur la durée, il faut aussi organiser par catégorie : chaque catégorie a SA place, et tout le monde dans la maison le sait.
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771235051040.jpg" alt="Organisation armoire cuisine - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart LR
@@ -116,6 +136,11 @@ flowchart LR
 ## Maximiser l'espace vertical : les astuces qui changent tout
 
 La plupart des gens n'utilisent que 60% de la hauteur disponible dans leurs placards. Il reste de l'espace libre en haut, entre les étagères, sur les portes. Voici comment récupérer ces centimètres perdus.
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771235216359.jpg" alt="Organisation armoire cuisine - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Empiler intelligemment
 

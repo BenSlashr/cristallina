@@ -21,6 +21,11 @@ Je t'explique tout, étape par étape.
 
 Avant de dépenser quoi que ce soit, commence par un tour d'horizon de ta terrasse. La plupart des accidents surviennent à cause de quatre problèmes récurrents.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232712130.jpg" alt="Renovez votre terrasse pour la securite - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Le sol glissant** est le risque numéro un. Les dalles en pierre naturelle, le béton lisse, certains carrelages extérieur... tous deviennent des patinoires dès qu'ils sont mouillés. En automne avec les feuilles mortes, c'est encore pire. Teste ton sol avec la méthode simple : mouille une zone et marche dessus avec des chaussettes. Si ça glisse, c'est qu'il faut agir.
 
 **Le garde-corps défaillant** est le danger silencieux. Avec le temps, les fixations se desserrent, la rouille fragilise les montants métalliques, le bois pourrit en profondeur. Un garde-corps qui semble tenu peut céder sous une pression soudaine. Pour une terrasse surélevée de plus de 1 mètre, c'est le point à vérifier en priorité absolue.
@@ -35,6 +40,11 @@ Avant de dépenser quoi que ce soit, commence par un tour d'horizon de ta terras
 ## Choisir le bon revêtement antidérapant
 
 C'est souvent la rénovation la plus impactante qu'on puisse faire. Et les options sont bien plus jolies qu'avant - fini les solutions laides qui font "sécurité renforcée hôpital".
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232558534.jpg" alt="Renovez votre terrasse pour la securite - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les revêtements à éviter (ou à traiter)
 
@@ -92,6 +102,11 @@ graph TD
 
 Si ta terrasse est en hauteur - même 60 cm au-dessus du sol - un garde-corps s'impose. En France, la réglementation est claire : toute terrasse accessible de plus de 1 mètre de hauteur doit être équipée d'un garde-corps d'au moins 1 mètre de haut (1,10 m recommandé en pratique).
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233577856.jpg" alt="Renovez votre terrasse pour la securite - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Vérifier ce que tu as déjà
 
 Commence par ces trois tests rapides :
@@ -119,6 +134,11 @@ Si ton garde-corps échoue à l'un de ces tests, la priorité c'est le renforcem
 
 Un bon drainage, ça fait une différence énorme sur la sécurité ET sur la durabilité de ta terrasse. L'eau stagnante, c'est la mousse en 3 semaines, le gel qui fracture les dalles en hiver, et les flaques glissantes après chaque averse.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233711678.jpg" alt="Renovez votre terrasse pour la securite - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 La pente minimale recommandée est de 1,5% à 2% pour évacuer l'eau efficacement. Si ta terrasse est parfaitement plate, c'est le premier problème à régler.
 
 ### Solutions selon la situation
@@ -135,6 +155,11 @@ La pente minimale recommandée est de 1,5% à 2% pour évacuer l'eau efficacemen
 ## L'éclairage : sécurité et ambiance
 
 On l'oublie souvent mais un éclairage adéquat fait partie de la sécurité de ta terrasse. Des marches mal éclairées, un escalier dans le noir, c'est l'accident garanti.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232699518.jpg" alt="Renovez votre terrasse pour la securite - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Les spots encastrés dans les marches d'escalier sont LA solution la plus efficace - ils signalent chaque degré clairement sans éblouir. Des marques comme Paulmann, OSRAM ou les gammes pro de Castorama proposent des spots extérieur IP65 à partir de 8 euros pièce. Pour un escalier de 6 marches, compte 100 euros de matériel et 2h de pose si tu es à l'aise avec l'électricité.
 

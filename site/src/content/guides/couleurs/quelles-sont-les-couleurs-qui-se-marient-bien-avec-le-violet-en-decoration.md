@@ -17,6 +17,11 @@ Le violet, c'est une de ces couleurs qui font peur au moment d'acheter le pot de
 
 Avant de parler de ses partenaires de couleur, parlons deux secondes de ce que le violet apporte à un intérieur. C'est une couleur à la fois apaisante et créatrice d'ambiance. Les études sur la psychologie des couleurs le montrent : le violet favorise le calme et stimule la créativité. C'est pour ça qu'on le retrouve souvent dans les chambres adultes, les bureaux à la maison et les salons où on veut une vraie identité visuelle.
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771236541247.jpg" alt="Quelles sont les couleurs qui se marient bien avec le violet en decoration - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Le secret avec le violet, c'est de ne pas avoir peur de lui. La règle d'or : maximum deux couleurs vives associées, et toujours une base neutre pour respirer. Tu choisis un mur violet, et tu construis tout le reste autour.
 
 > [!NOTE]
@@ -25,6 +30,11 @@ Le secret avec le violet, c'est de ne pas avoir peur de lui. La règle d'or : ma
 ## La couleur complémentaire du violet : le jaune
 
 Sur le cercle chromatique, la couleur directement opposée au violet, c'est le jaune. Résultat : les deux couleurs se "boostent" mutuellement et créent un contraste dynamique qui accroche l'oeil sans agresser.
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-ocre-terre-cuite-mur-d-coration-chaude-1771236323799.jpg" alt="Quelles sont les couleurs qui se marient bien avec le violet en decoration - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Mais attention, "le jaune" c'est large. Voici comment ça marche selon la nuance de violet :
 
@@ -54,6 +64,11 @@ flowchart TD
 
 Si tu veux jouer la carte élégante et moderne, le gris est ton allié numéro un avec le violet. Pourquoi ? Parce que le gris est neutre mais pas plat. Il laisse respirer le violet tout en lui donnant une base solide.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237185708.jpg" alt="Quelles sont les couleurs qui se marient bien avec le violet en decoration - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 La combinaison gris perle + violet lavande, c'est ce qu'on appelle un "safe bet" : ça marche dans un salon, une chambre, un couloir. Tu peux aller chercher ce genre de palette dans les collections Zara Home ou La Redoute, qui proposent souvent des ensembles coordonnés autour de ces teintes.
 
 Quelques variantes qui fonctionnent :
@@ -69,6 +84,11 @@ Quelques variantes qui fonctionnent :
 
 Le blanc est le partenaire le plus "facile" du violet. Il dilue l'intensité de la teinte et empêche la pièce de peser. C'est la combinaison classique qu'on voit souvent dans les décos provençales ou nordiques.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-orange-mur-couleur-assortiment-design-1771233106796.jpg" alt="Quelles sont les couleurs qui se marient bien avec le violet en decoration - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Mais attention au blanc pur avec les violets sombres : ça peut faire "chambre d'hôpital" si tu ne mets pas assez de textiles et de chaleur. Le crème ou le blanc cassé fonctionnent souvent mieux avec les violets intenses (prune, aubergine).
 
 Le blanc marche mieux comme couleur dominante avec le violet en accent, plutôt que l'inverse. Exemple : des murs blancs, un canapé violet, des coussins blancs et une couverture prune. La pièce reste légère mais le violet donne le ton.
@@ -76,6 +96,11 @@ Le blanc marche mieux comme couleur dominante avec le violet en accent, plutôt 
 ## L'orange : l'association qu'on n'ose pas assez
 
 L'orange, voisin du jaune sur le cercle chromatique, partage avec lui cette capacité à vibrer aux côtés du violet. Mais l'orange apporte en plus une chaleur et une énergie que le jaune n'a pas forcément.
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771236801889.jpg" alt="Quelles sont les couleurs qui se marient bien avec le violet en decoration - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 La palette violet + orange + matériaux naturels (rotin, bois clair), c'est une de mes combos préférées pour un salon chaleureux. Ikea a d'ailleurs des accessoires en rotin entre 20 et 80 euros qui se marient parfaitement avec cette gamme de couleurs.
 

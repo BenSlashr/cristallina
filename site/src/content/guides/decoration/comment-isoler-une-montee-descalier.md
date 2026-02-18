@@ -21,6 +21,11 @@ Bonne nouvelle : isoler une montée d'escalier, ce n'est pas un chantier titanes
 
 La physique est simple : l'air chaud est plus léger, donc il monte. Ta montée d'escalier fonctionne comme une cheminée ouverte. L'air chaud du rez-de-chaussée file vers l'étage, et l'air froid du haut (surtout si tes combles ou ta chambre sont moins chauffés) redescend. C'est ce qu'on appelle l'effet de tirage.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238203322.jpg" alt="Comment isoler une montee descalier - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Les conséquences sont directes :
 
 - **Inconfort au rez-de-chaussée** : courants d'air et sensation de froid près de l'escalier
@@ -34,6 +39,11 @@ Les conséquences sont directes :
 ## Solution 1 : installer une porte en haut ou en bas de l'escalier
 
 C'est la méthode la plus efficace pour couper la circulation d'air. Une porte pleine crée une vraie barrière thermique et phonique entre les deux niveaux.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235307326.jpg" alt="Comment isoler une montee descalier - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Où la placer ?
 
@@ -63,6 +73,11 @@ La pose d'une porte battante classique est accessible si tu as un peu de matéri
 
 Si tu ne peux pas ou ne veux pas installer une porte (escalier ouvert, budget serré, locataire), le rideau thermique est ton meilleur allié. C'est moins performant qu'une porte, mais ça coupe déjà bien les courants d'air et c'est réversible.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771236991507.jpg" alt="Comment isoler une montee descalier - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Comment bien le choisir ?
 
 Tous les rideaux ne se valent pas. Pour une isolation réelle, il te faut un modèle avec doublure thermique (plusieurs couches de tissu, parfois avec une face argentée). Les rideaux classiques en voilage ne servent à rien ici.
@@ -85,6 +100,11 @@ Pour les montées d'escalier très exposées (maison ancienne, courants d'air fo
 ## Solution 3 : isoler les parois et le plafond de la cage d'escalier
 
 Cette approche est plus technique mais aussi plus durable. L'idée est d'ajouter de l'isolant directement sur les murs, le plafond ou sous les marches pour réduire les échanges thermiques.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237902326.jpg" alt="Comment isoler une montee descalier - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 graph TD
@@ -128,6 +148,11 @@ Pour les escaliers en bois, tu peux aussi ajouter un isolant mince multicouche (
 ## Solution 4 : fermer la trémie avec un panneau ou une trappe
 
 Si ton escalier débouche sur des combles ou un grenier, la trémie (l'ouverture dans le plancher) est un gouffre thermique. Installer une trappe isolante ou un panneau amovible peut faire une différence énorme.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237033955.jpg" alt="Comment isoler une montee descalier - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Tu trouves des trappes isolantes prêtes à poser chez Leroy Merlin ou Brico Dépôt entre 80 et 200 EUR. Pour un modèle sur mesure, compte 200-400 EUR. L'avantage : ça se pose en une heure et ça coupe complètement le pont thermique.
 

@@ -19,6 +19,11 @@ Je vais te guider pas à pas pour identifier l'origine du problème et choisir l
 
 Avant de sortir la perceuse ou le pot de colle, il faut comprendre ce qui se passe. Un escalier craque quand deux pièces de bois bougent l'une contre l'autre. Avec le temps, le bois travaille - il se dilate en été, se rétracte en hiver - et les assemblages se desserrent.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237062972.jpg" alt="Escaliers silencieux - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Les coupables les plus fréquents :
 
 - **Les marches** : la planche horizontale sur laquelle tu poses le pied
@@ -34,6 +39,11 @@ Le bruit vient souvent du frottement entre la marche et la contremarche, ou entr
 ## Localiser précisément le problème
 
 La première étape, c'est le diagnostic. Monte et descends ton escalier lentement, en appuyant sur chaque marche à différents endroits : au milieu, vers le côté gauche, vers le côté droit. Note exactement quelle(s) marche(s) grince(nt) et à quel endroit.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238105758.jpg" alt="Escaliers silencieux - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Ensuite, regarde sous l'escalier si tu y as accès. C'est souvent là que tout se passe : tu peux voir si des cales sont tombées, si des vis ont lâché, si du bois est fendu.
 
@@ -58,6 +68,11 @@ flowchart TD
 
 ## Les solutions rapides (5 minutes chrono)
 
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237154406.jpg" alt="Escaliers silencieux - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le talc, le graphite ou le savon sec
 
 C'est la solution de dépannage par excellence. L'idée : glisser un lubrifiant en poudre dans les interstices entre les pièces de bois pour réduire le frottement.
@@ -79,6 +94,11 @@ Applique de l'huile de lin pure (Liberon, environ 12€ pour 500ml en GSB) sur l
 
 Si le talc n'a pas suffi, c'est que les pièces bougent trop. La colle à bois va fixer les assemblages.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238270403.jpg" alt="Escaliers silencieux - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Ce dont tu as besoin :**
 - Colle à bois Titebond III ou D3 Sader (7-12€ selon le format)
 - Une seringue à colle ou un pistolet à embout fin
@@ -98,6 +118,11 @@ Si le talc n'a pas suffi, c'est que les pièces bougent trop. La colle à bois v
 ## La solution durable : visser les marches
 
 C'est la méthode la plus efficace à long terme. Une vis bien placée empêche physiquement la marche de bouger.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238273639.jpg" alt="Escaliers silencieux - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Par dessous (si accessible)
 

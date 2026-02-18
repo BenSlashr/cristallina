@@ -17,6 +17,11 @@ Repeindre le carrelage de ta salle de bain, c'est la promesse d'un relooking rap
 
 C'est le piège le plus fréquent. Tu passes au rayon peinture de Leroy Merlin ou Castorama, tu tombes sur un pot à 18 euros qui affiche "multi-supports" et tu te dis que ça fera le travail. Mauvaise idée.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-cosy-chaleureuse-bois-naturel-spa-1771235088256.jpg" alt="Peinture pour carrelage salle de bain les choses a eviter - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Une peinture générique n'est pas formulée pour encaisser l'humidité permanente d'une salle de bain. Elle n'a ni les résines adaptées, ni les agents anti-moisissures, ni la souplesse nécessaire pour résister aux variations de température. Résultat : au bout de quelques semaines, des cloques, des écailles, et tu recommences à zéro.
 
 Ce qu'il te faut, c'est une peinture **spécifique carrelage salle de bain**. Trois références tiennent la route :
@@ -33,6 +38,11 @@ Oui, c'est plus cher qu'un pot basique. Mais un pot à 18 euros que tu dois refa
 ## Erreur 2 : peindre sur un carrelage mal préparé
 
 Tu ouvres ton pot et tu attaques direct ? C'est la recette d'un échec garanti. La préparation du support, c'est 80% du succès. Et quand je dis préparation, ce n'est pas un coup d'éponge rapide.
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771237528030.jpg" alt="Peinture pour carrelage salle de bain les choses a eviter - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le dégraissage en profondeur
 
@@ -78,6 +88,11 @@ flowchart TD
 
 Ça paraît évident, et pourtant. En salle de bain, l'humidité est partout : dans l'air, dans les joints, sous les carreaux. Et l'humidité, c'est l'ennemi numéro un de la peinture.
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771237391218.jpg" alt="Peinture pour carrelage salle de bain les choses a eviter - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 L'eau emprisonnée entre le carrelage et la couche de peinture crée des poches de vapeur. Ces poches poussent la peinture vers l'extérieur et forment des cloques. C'est irréversible - il faut tout gratter et recommencer.
 
 Les règles à suivre :
@@ -93,6 +108,11 @@ Et après la dernière couche, même discipline : attends 5 à 7 jours avant de 
 
 L'envie de couvrir en une seule passe est compréhensible. Mais en peinture carrelage, la patience paie. Une couche épaisse sèche en surface alors que l'intérieur reste mou. Résultat : des craquelures, un aspect poisseux au toucher, et une adhérence médiocre.
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771237250665.jpg" alt="Peinture pour carrelage salle de bain les choses a eviter - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 La bonne méthode :
 
 - Charge ton rouleau mousse (poils ras 4-5 mm) sans l'engorger
@@ -107,6 +127,11 @@ La bonne méthode :
 ## Erreur 5 : négliger l'entretien après la peinture
 
 Ta salle de bain est repeinte, le résultat est top. Maintenant, il faut le garder. Et là, beaucoup de gens sabotent leur travail sans le savoir.
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-industrielle-m-tal-carrelage-metro-noir-1771237137470.jpg" alt="Peinture pour carrelage salle de bain les choses a eviter - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les produits à bannir
 

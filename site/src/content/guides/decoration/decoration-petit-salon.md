@@ -21,6 +21,11 @@ Ici, je te donne toutes mes astuces testées et approuvées, avec des repères d
 
 Le choix des couleurs, c'est le premier levier pour transformer un petit espace. Et la règle de base est simple : les teintes claires et douces reculent visuellement les murs. Ton salon semble plus grand, plus lumineux, plus respirable.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235324969.jpg" alt="Decoration petit salon - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Les valeurs sûres
 
 Le blanc cassé, le beige lin, le gris perle, le grège (ce mélange gris-beige très tendance) - ces couleurs réfléchissent la lumière naturelle et donnent une sensation d'ouverture. Chez Tollens, la teinte "Lin Brut" (environ 35 euros le litre) fonctionne très bien. Côté Leroy Merlin, la gamme Luxens propose des blancs chauds à 25 euros les 2,5 litres - un bon rapport qualité-prix.
@@ -41,6 +46,11 @@ On n'y pense jamais, mais peindre le plafond en blanc pur (même si les murs son
 ## Meubles malins : choisir ce qui fait double emploi
 
 Dans un petit salon, chaque meuble doit justifier sa présence. Si un objet ne sert qu'à une seule chose, demande-toi si tu peux le remplacer par quelque chose de plus polyvalent.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232880243.jpg" alt="Decoration petit salon - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le canapé convertible, le roi du petit salon
 
@@ -81,6 +91,11 @@ Un meuble TV fixé au mur, des étagères murales, une console d'entrée suspend
 
 Si tu ne devais retenir qu'une seule astuce de ce guide, ce serait celle-ci : pose un grand miroir dans ton petit salon. L'effet est immédiat et bluffant.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238085194.jpg" alt="Decoration petit salon - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le miroir mural XXL
 
 Un miroir de grande taille (au moins 120 x 60 cm) posé face à une fenêtre double littéralement la lumière naturelle. Il reflète la pièce et crée une illusion de profondeur. Chez Zara Home, tu trouves des miroirs rectangulaires avec cadre en bois à partir de 130 euros. Chez Ikea, le miroir Stockholm (130 x 50 cm) est à environ 100 euros - un classique.
@@ -106,6 +121,11 @@ Chez H&M Home, les lampadaires en arc démarrent à 50 euros et apportent un loo
 
 Dans un petit salon, le minimalisme n'est pas juste une tendance esthétique. C'est une stratégie de survie. Plus tu accumules, plus la pièce étouffe. L'idée, c'est de garder le strict nécessaire et de soigner chaque détail.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771236795892.jpg" alt="Decoration petit salon - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Désencombre avant de décorer
 
 Avant d'acheter quoi que ce soit, fais un tri. Chaque objet qui reste dans ton salon doit répondre à au moins une de ces deux questions : est-ce que ça me sert ? est-ce que ça me rend heureux quand je le regarde ? Si la réponse est non aux deux, dehors.
@@ -124,6 +144,11 @@ En respectant ce ratio, tu obtiens un salon harmonieux qui ne paraît ni surchar
 ## Rangements invisibles : la clé d'un salon aéré
 
 Le rangement, c'est le vrai secret des petits salons réussis. Pas les gros meubles de rangement qui mangent la moitié de la pièce - les rangements malins, ceux qu'on ne voit pas.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237883558.jpg" alt="Decoration petit salon - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les paniers et boîtes décoratives
 

@@ -19,6 +19,11 @@ Je te présente 8 options testées et approuvées, avec les vrais prix, les vrai
 
 C'est le réflexe numéro un, et c'est normal. Un parasol, tu l'achètes le matin, tu l'installes l'après-midi. Zéro travaux, zéro prise de tête.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231834461.jpg" alt="Ombrager terrasse - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Le parasol droit** (mât central) coûte entre 25 et 150 euros selon la taille et la qualité de la toile. Un modèle 2,5 m de diamètre chez Gifi ou Action fait le job pour une petite table de 2-4 personnes. La limite : il prend de la place au centre de la table et il couvre une zone assez réduite.
 
 **Le parasol déporté** (mât excentré, aussi appelé "cantilever") change complètement la donne. Le mât est sur le côté, ce qui libère tout l'espace en dessous. Un modèle 3x3 m couvre 9 m2 d'ombre, assez pour un salon de jardin complet. Le prix grimpe : de 150 euros pour un entrée de gamme (Hespéride, Outsunny) à 500-800 euros pour un modèle rotatif à 360 degrés avec manivelle (Schneider, Doppler). Les meilleurs ont une toile en polyester 250 g/m2 avec traitement anti-UV.
@@ -29,6 +34,11 @@ C'est le réflexe numéro un, et c'est normal. Un parasol, tu l'achètes le mati
 ## La voile d'ombrage : design et prix doux
 
 La voile d'ombrage, c'est ce grand triangle ou rectangle de toile tendu entre plusieurs points d'ancrage. L'esthétique est moderne, aérienne, et ça donne un vrai style à une terrasse basique.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233459473.jpg" alt="Ombrager terrasse - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Le prix démarre à 20-30 euros pour une voile standard 3x3 m en polyester (Ikea, Amazon). Pour une voile en HDPE (polyéthylène haute densité) perméable à l'air et résistante aux UV, compte 50 à 120 euros (Coolaroo, Nesling). Les modèles haut de gamme en toile acrylique traitée Teflon montent à 200-400 euros, mais ils tiennent 10 ans facile.
 
@@ -41,6 +51,11 @@ L'installation est simple en théorie : tu fixes des pitons dans la façade et/o
 
 C'est la Rolls de l'ombrage terrasse. Une structure fixe, durable, qui transforme ta terrasse en vraie pièce à vivre. Et contrairement à ce qu'on pense, il y en a pour tous les budgets.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233509397.jpg" alt="Ombrager terrasse - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Pergola bois** : esthétique chaleureuse, prix accessible en kit (600 à 1 500 euros pour un 3x4 m en pin traité autoclave ou en douglas). Le bois demande un entretien régulier, une lasure tous les 2-3 ans, et il est lourd à manipuler. Mais le rendu est magnifique, surtout avec des plantes grimpantes.
 
 **Pergola aluminium** : légère, résistante, sans entretien. Un kit en alu thermolaqué 3x4 m démarre à 800-1 500 euros (Blooma chez Castorama, Kettler). Les modèles avec toile rétractable intégrée tournent autour de 2 000-3 500 euros. L'aluminium est le meilleur compromis poids/résistance/durabilité.
@@ -52,6 +67,11 @@ Pour bien choisir entre pergola et tonnelle, tu peux aussi consulter le [compara
 ## La tonnelle autoportée : zéro perçage, zéro stress
 
 La tonnelle, c'est la cousine démontable de la pergola. Structure en tubes d'acier ou d'aluminium, toile polyester tendue par-dessus, montage en 1 à 2 heures. Elle se pose directement sur la terrasse sans aucun perçage.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231806007.jpg" alt="Ombrager terrasse - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Budget : de 80 euros pour un modèle basique 3x3 m à 400-600 euros pour une tonnelle renforcée avec rideaux latéraux et moustiquaire (Hespéride, Outsunny). Les modèles à toit rigide en polycarbonate tiennent mieux dans le temps et coûtent entre 500 et 1 200 euros.
 
@@ -81,6 +101,11 @@ graph TD
 ## Le store banne : l'ombre intégrée à la façade
 
 Le store banne se fixe directement sur le mur de ta maison et se déroule au-dessus de la terrasse. C'est une solution très répandue dans le sud de la France et pour cause : ça fonctionne super bien.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231808792.jpg" alt="Ombrager terrasse - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Un store banne manuel (à manivelle) de 3 m de large coûte entre 200 et 500 euros en grande surface de bricolage. Les versions motorisées avec capteur vent et soleil grimpent à 800-2 000 euros. Les marques comme Franciaflex, Marquises et Storistes de France proposent du sur-mesure à partir de 1 200 euros.
 

@@ -17,6 +17,11 @@ Tu as un coin de chambre qui ne sert à rien, à part collecter la poussière et
 
 Le système PAX d'IKEA, c'est un peu le LEGO du dressing. Tu choisis tes caissons, tes portes, ton aménagement intérieur, et tu assembles le tout selon ta configuration. L'armoire d'angle, c'est la pièce maîtresse quand tu veux exploiter un coin de pièce que les meubles classiques ignorent complètement.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237037794.jpg" alt="Ikea cartonne avec son armoire dangle - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Ce qui fait la différence avec un dressing sur mesure à 3 000 EUR :
 
 - **Un prix accessible** : entre 400 et 800 EUR tout compris (caissons + portes + aménagement intérieur), contre 2 000 à 5 000 EUR pour du sur mesure
@@ -30,6 +35,11 @@ Ce qui fait la différence avec un dressing sur mesure à 3 000 EUR :
 ## Les dimensions à connaître avant d'acheter
 
 C'est la partie technique, mais elle est indispensable. Une erreur de mesure, et ton armoire ne rentre pas ou laisse un écart disgracieux contre le mur.
+
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771236340992.jpg" alt="Ikea cartonne avec son armoire dangle - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Hauteurs de caissons
 
@@ -72,6 +82,11 @@ flowchart TD
 ## Les 5 étapes pour configurer ton armoire d'angle
 
 IKEA a bien fait les choses avec un guide en 5 étapes. Je te les détaille avec mes retours d'expérience.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238281280.jpg" alt="Ikea cartonne avec son armoire dangle - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Étape 1 : mesurer ton espace
 
@@ -139,6 +154,11 @@ Quelques ajouts à petit prix qui font une grosse différence :
 
 Le module d'angle est profond, et c'est à la fois son atout et son piège. Si tu le remplis n'importe comment, les vêtements du fond deviennent invisibles et tu ne les portes plus jamais.
 
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771236067971.jpg" alt="Ikea cartonne avec son armoire dangle - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart LR
     A[Zone avant] --> B[Vêtements du quotidien]
@@ -172,6 +192,11 @@ Pour un système de rangement chambre encore plus poussé, tu peux aussi regarde
 ## Le budget complet : combien ça coûte vraiment
 
 Je te fais le calcul pour trois configurations types, du plus économique au plus complet.
+
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771235960472.jpg" alt="Ikea cartonne avec son armoire dangle - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Configuration mini (petit budget)
 

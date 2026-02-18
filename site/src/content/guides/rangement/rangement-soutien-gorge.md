@@ -17,6 +17,11 @@ Tu ouvres ton tiroir le matin, tu fouilles entre les bretelles emmêlées, tu re
 
 Le problème numéro un, c'est le pliage. Plier un soutien-gorge à coques en rabattant une coque sur l'autre, c'est le geste qui détruit la forme le plus vite. La mousse se compresse, la coque se déforme, et en quelques semaines tu te retrouves avec un bonnet gauche qui n'a plus du tout la même forme que le droit.
 
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771235960472.jpg" alt="Rangement soutien gorge - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 L'autre erreur classique : entasser les soutiens-gorge au fond d'un tiroir trop petit, coincés sous une pile de culottes. Les armatures se tordent, les bretelles s'emmêlent, et les fermetures s'accrochent aux tissus délicats. Résultat, la dentelle s'abîme et tu finis par jeter des pièces qui auraient pu durer trois ou quatre ans de plus.
 
 **Les trois ennemis de la lingerie :**
@@ -30,6 +35,11 @@ L'autre erreur classique : entasser les soutiens-gorge au fond d'un tiroir trop 
 ## La méthode du tiroir dédié : la base
 
 La solution la plus simple et la plus efficace, c'est de consacrer un tiroir entier (ou au minimum une grande moitié) à tes soutiens-gorge. Pas besoin d'un meuble spécial - un tiroir de commode classique suffit.
+
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771234962699.jpg" alt="Rangement soutien gorge - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Préparer le tiroir
 
@@ -63,6 +73,11 @@ Pour les bretelles, replie-les délicatement à l'intérieur des bonnets. Ca év
 ## Les séparateurs et boîtes : pour aller plus loin
 
 Si tu as une collection importante (disons plus de dix soutiens-gorge), les séparateurs de tiroir font une vraie différence. Ils créent des compartiments individuels et empêchent les pièces de s'empiler les unes sur les autres.
+
+<div class="my-8">
+  <img src="/images/pinterest-rangement-salle-bain-placard-organisation-optimis--1771237483218.jpg" alt="Rangement soutien gorge - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les meilleures options testées
 
@@ -112,6 +127,11 @@ graph TD
 
 Tout le monde n'a pas un tiroir disponible pour sa lingerie. Voici des alternatives qui marchent aussi bien.
 
+<div class="my-8">
+  <img src="/images/pinterest-rangement-salle-bain-placard-organisation-optimis--1771237633139.jpg" alt="Rangement soutien gorge - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le cintre multi-clips
 
 Un cintre avec 4 à 6 clips (environ 5€ chez Hema ou Gifi) permet de suspendre tes soutiens-gorge dans l'armoire. Tu accroches chaque pièce par la bande centrale, entre les bonnets. Ca les garde en forme et tu les vois tous d'un coup.
@@ -131,6 +151,11 @@ Si tu cherches d'autres idées pour mieux organiser ta chambre, mon guide sur le
 ## Les erreurs qui réduisent la durée de vie de ta lingerie
 
 Même avec un bon système de rangement, certaines habitudes ruinent tes soutiens-gorge plus vite que tu ne le penses.
+
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771236077245.jpg" alt="Rangement soutien gorge - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Porter le même deux jours de suite.** Les élastiques ont besoin de 24 à 48 heures de repos pour retrouver leur forme. Si tu alternes entre trois soutiens-gorge, chacun dure bien plus longtemps que si tu en portes un seul tous les jours.
 

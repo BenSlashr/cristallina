@@ -17,6 +17,11 @@ Tu viens d'emménager, tu dois fixer une étagère, resserrer une poignée de po
 
 Quand tu ouvres la boîte, voilà ce que tu trouves à l'intérieur :
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237171450.jpg" alt="Ikea frappe fort avec le produit indispensable pour le bricolage a moins de 13 euros - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 - **1 marteau** avec embout caoutchouc interchangeable (pour taper sans abîmer les surfaces fragiles)
 - **1 clé à molette** réglable (pour serrer écrous et boulons de tailles variées)
 - **1 pince universelle** (pour maintenir, tordre ou couper du fil fin)
@@ -31,6 +36,11 @@ La boîte elle-même mérite qu'on en parle. Son couvercle transparent te permet
 ## Prise en main : ça vaut quoi pour 12,99 euros ?
 
 Soyons clairs dès le départ : à ce prix, tu n'achètes pas de l'outillage professionnel. Le marteau ne rivalisera pas avec un Facom à 35 euros, et la clé à molette ne remplacera pas un coffret de clés Bahco. Mais ce n'est pas le but.
+
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771233574505.jpg" alt="Ikea frappe fort avec le produit indispensable pour le bricolage a moins de 13 euros - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le marteau
 
@@ -70,6 +80,11 @@ flowchart TD
     D --> G[Coffret pro recommandé]
     E --> F
 
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771235955518.jpg" alt="Ikea frappe fort avec le produit indispensable pour le bricolage a moins de 13 euros - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
     style A fill:#FFF0F5,stroke:#E879F9,color:#701A75
     style B fill:#F3F4F6,stroke:#8B5CF6,color:#581C87
     style C fill:#FFF0F5,stroke:#E879F9,color:#701A75
@@ -97,6 +112,11 @@ flowchart TD
 
 Le créneau du "kit outils premier prix" est assez disputé. Voici comment le TRIXIG se positionne face à ses principaux rivaux.
 
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771234852091.jpg" alt="Ikea frappe fort avec le produit indispensable pour le bricolage a moins de 13 euros - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 | Critère | **IKEA TRIXIG** | **Lidl Parkside** | **Amazon Basics** | **Leroy Merlin Dexter** |
 |---|---|---|---|---|
 | Prix | 12,99 EUR | 9,99 - 14,99 EUR | 15 - 20 EUR | 19,99 EUR |
@@ -114,6 +134,11 @@ Le gros avantage des kits Lidl ou Dexter, c'est le nombre de pièces. Mais la di
 ## Les autres outils IKEA à connaître
 
 IKEA ne se limite pas au TRIXIG. Le géant suédois a développé toute une gamme d'outils et d'accessoires pour la maison qui mérite le détour.
+
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771235927346.jpg" alt="Ikea frappe fort avec le produit indispensable pour le bricolage a moins de 13 euros - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### TRIXIG patins protège-sol
 

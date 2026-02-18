@@ -19,6 +19,11 @@ Dans cet article, je te guide pas à pas, de la préparation du support jusqu'au
 
 Le crépi intérieur, c'est un enduit décoratif qu'on applique sur les murs pour créer une texture, masquer des défauts ou simplement apporter du caractère à une pièce. Contrairement au crépi extérieur, formulé pour résister aux intempéries, le crépi intérieur est conçu pour les conditions stables d'une pièce de vie.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238423817.jpg" alt="Crepir un mur interieur - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Il se décline en plusieurs composants selon ce que tu veux obtenir :
 - **Crépi à base de plâtre** : léger, facile à travailler, idéal pour les pièces à faible humidité (salon, chambre)
 - **Crépi à base de chaux** : plus respirant, parfait pour les pièces humides ou les maisons anciennes
@@ -32,6 +37,11 @@ La texture varie aussi beaucoup : crépi fin (grain discret), crépi moyen, cré
 ## Le matériel dont tu as besoin
 
 Avant de te lancer, réunis tout le matériel. Rien de plus frustrant que de commencer et de réaliser qu'il te manque un outil clé.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238286410.jpg" alt="Crepir un mur interieur - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Outils indispensables :**
 - Une taloche (la plaque rectangulaire en plastique ou en bois pour tenir le crépi)
@@ -54,6 +64,11 @@ Pour 10 m² de mur, compte environ 30 à 60€ de matériaux (crépi + apprêt).
 
 C'est l'étape que beaucoup bâclent - et c'est exactement là que tout se joue. Un crépi appliqué sur un mur mal préparé va claquer, se fissurer ou se décoller dans les mois qui suivent. Prends le temps de faire les choses bien, et tu n'auras pas à recommencer.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238275586.jpg" alt="Crepir un mur interieur - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Nettoie le mur :** enlève toute trace de poussière, graisse ou ancienne peinture qui se décolle. Un coup de brosse métallique sur les zones fragiles, puis un passage à l'eau savonneuse. Laisse sécher complètement - au moins 24 heures.
 
 **Rebouche les fissures :** utilise un enduit de rebouchage pour les fissures fines. Pour les fissures larges (plus de 2 mm), passe d'abord un enduit de rebouchage fibre. Laisse sécher selon les indications du fabricant.
@@ -69,6 +84,11 @@ C'est l'étape que beaucoup bâclent - et c'est exactement là que tout se joue.
 
 Si tu utilises un crépi en poudre (à mélanger), respecte bien les proportions eau/poudre indiquées sur le sac. En général : 1 volume d'eau pour 3 volumes de poudre.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237061596.jpg" alt="Crepir un mur interieur - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Mélange dans un grand seau avec un malaxeur (ou une perceuse équipée d'un fouet) jusqu'à obtenir une consistance homogène, sans grumeaux. La texture idéale ressemble à une pâte épaisse qui ne coule pas de la taloche quand tu la renverses légèrement.
 
 Pour les crépis prêts à l'emploi en seau (Parexlangro, Weber, Knauf), c'est encore plus simple : tu mélangez juste légèrement si la matière s'est décantée, et c'est parti.
@@ -79,6 +99,11 @@ Pour les crépis prêts à l'emploi en seau (Parexlangro, Weber, Knauf), c'est e
 ## Étape 3 : appliquer le crépi
 
 C'est là que la technique entre en jeu. Voici la méthode qui marche :
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237187044.jpg" alt="Crepir un mur interieur - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **1. Commence par le haut du mur.** Dépose une quantité de crépi sur ta taloche avec le couteau à enduire. Applique par zones de 50 cm x 50 cm environ, en appuyant fermement sur la taloche tout en faisant des mouvements circulaires ou verticaux selon la texture que tu veux.
 

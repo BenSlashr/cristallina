@@ -19,6 +19,11 @@ Ce petit élément de toiture qu'on oublie souvent fait un boulot énorme : il l
 
 Une tuile chatière, c'est une tuile dotée d'ouvertures qui permettent à l'air de circuler entre la couverture et la charpente. Elle remplace une tuile classique sur le toit, sans modifier la structure ni l'esthétique globale de la toiture.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237183039.jpg" alt="Installation et usage dune tuile chatiere - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Son rôle est double. D'abord, elle évacue l'humidité qui s'accumule naturellement sous les tuiles (pluie, condensation, remontées d'humidité depuis l'intérieur). Sans évacuation, cette humidité stagne, favorise les moisissures et peut finir par détériorer la charpente en bois. Le deuxième rôle, c'est la régulation thermique : en été, l'air chaud accumulé sous la couverture s'échappe par les chatières, et en hiver, la circulation d'air évite la formation de condensation liée à la différence de température entre l'intérieur chauffé et l'extérieur froid.
 
 > [!NOTE]
@@ -62,6 +67,11 @@ flowchart TD
 
 C'est LA question que tout le monde se pose, et la réponse est encadrée par les normes DTU. La règle de base : la surface de ventilation doit représenter au minimum 1/3000e de la surface projetée de la couverture à plat.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237999270.jpg" alt="Installation et usage dune tuile chatiere - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 En pratique, ça donne quoi ? Pour une toiture de 90 m2, tu as besoin de 300 cm2 de ventilation au total. Une tuile chatière standard offre entre 15 et 30 cm2 de surface de ventilation selon le modèle. Avec des chatières de 20 cm2, il te faut donc 15 chatières pour couvrir les 300 cm2 requis.
 
 La règle du pouce souvent utilisée par les couvreurs : une tuile chatière tous les 20 m2 de surface de toiture pour les tuiles en terre cuite. Ça donne 4 à 5 chatières pour un toit de 90 m2, mais attention - cette règle simplifiée fonctionne uniquement avec des chatières à fort débit. Avec des modèles standards, il en faut plus.
@@ -80,6 +90,11 @@ Si ta toiture a déjà un closoir ventilé au faîtage, tu peux concentrer tes c
 ## L'installation étape par étape
 
 Tu peux poser des tuiles chatières toi-même si tu es à l'aise sur un toit et que tu as l'équipement de sécurité adapté. Sinon, fais appel à un couvreur - on parle de prix juste après.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238092527.jpg" alt="Installation et usage dune tuile chatiere - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le matériel nécessaire
 
@@ -126,6 +141,11 @@ flowchart LR
 
 Le budget dépend du type de chatière, du matériau et de la marque. Voici les fourchettes de prix actuels.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238177691.jpg" alt="Installation et usage dune tuile chatiere - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Le prix de la tuile seule** varie de 3 à 15 euros pièce. Une chatière basique en terre cuite coûte entre 3 et 8 euros. Les modèles en béton sont un peu moins chers (2 à 5 euros). Les chatières en zinc ou en plomb, utilisées sur des couvertures en ardoise, montent entre 10 et 25 euros pièce.
 
 Chez les grandes enseignes, tu trouves facilement :
@@ -143,6 +163,11 @@ Chez les grandes enseignes, tu trouves facilement :
 ## Les erreurs à éviter
 
 Après avoir lu des dizaines de retours de propriétaires et discuté avec des couvreurs, voici les pièges les plus fréquents.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237936603.jpg" alt="Installation et usage dune tuile chatiere - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Poser trop peu de chatières.** C'est l'erreur numéro un. Beaucoup de constructeurs posent le strict minimum réglementaire, et certains ne posent même pas de chatières du tout sur des toitures neuves. Si tu constates de la condensation dans tes combles, il te faut probablement en ajouter.
 

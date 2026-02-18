@@ -17,10 +17,20 @@ En quelques vis, un mur vide se transforme en un coin de vie organisé et décor
 
 Une étagère murale, c'est du rangement qui ne prend pas de place au sol - dans un studio ou une petite chambre, ça change vraiment la vie. C'est aussi un élément décoratif à part entière : une belle tablette en bois clair avec quelques objets bien choisis donne du caractère à un mur vide. Et l'aspect pratique joue à fond : épices au-dessus du plan de travail en cuisine, produits de soin en salle de bain, tablette dans l'entrée pour poser les affaires. IKEA a pensé à tous ces usages.
 
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771233633057.jpg" alt="Ikea frappe fort avec cette etagere design et tres pratique qui saccroche au mur tres facilement - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 > [!TIP]
 > Avant d'acheter, mesure bien l'espace disponible - largeur ET hauteur sous le plafond si tu empiles plusieurs tablettes. Laisse au moins 25 à 30 cm entre deux tablettes pour que ce soit pratique à utiliser.
 
 ## Les modèles phares à connaître
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238105567.jpg" alt="Ikea frappe fort avec cette etagere design et tres pratique qui saccroche au mur tres facilement - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### BERGSHULT + PERSHULT : le duo gagnant
 
@@ -66,6 +76,11 @@ La SANDSHULT est plus récente et légèrement plus travaillée, avec un chant b
 
 C'est souvent là que les gens bloquent. La pose en elle-même n'est pas difficile, mais il y a quelques points à ne pas rater.
 
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771236690717.jpg" alt="Ikea frappe fort avec cette etagere design et tres pratique qui saccroche au mur tres facilement - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart TD
     A["Identifier le type de mur"]:::principal --> B{"Béton / Parpaing ?"}
@@ -105,6 +120,11 @@ flowchart TD
 ## L'étagère adaptée à chaque pièce
 
 Chaque pièce a ses besoins spécifiques. Voici comment choisir selon l'espace.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237370372.jpg" alt="Ikea frappe fort avec cette etagere design et tres pratique qui saccroche au mur tres facilement - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart LR
@@ -146,6 +166,11 @@ Pour la déco d'une [cuisine avec style](/guides/decoration/cuisine-moderne), ce
 ## Customiser et personnaliser ses étagères IKEA
 
 Une des choses que j'aime dans les étagères IKEA, c'est leur potentiel de customisation. La base est simple et bien faite, ce qui laisse plein de place pour les adapter à son style.
+
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771233713754.jpg" alt="Ikea frappe fort avec cette etagere design et tres pratique qui saccroche au mur tres facilement - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Peindre les tablettes** : les modèles en blanc ou en finition claire se peignent bien avec une peinture acrylique satinée. Tu peux matcher avec une couleur de mur existante ou créer un contraste. Il faut juste poncer légèrement et dégraisser avant.
 

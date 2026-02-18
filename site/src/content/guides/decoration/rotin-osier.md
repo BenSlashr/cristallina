@@ -19,6 +19,11 @@ On va démeler tout ca : les vraies différences entre rotin, osier, bambou et r
 
 Commençons par la base, parce que c'est la ou la confusion nait. Le rotin et l'osier ne sont pas du tout la meme chose, meme si on les utilise souvent ensemble.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232901915.jpg" alt="Rotin osier - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le rotin, c'est quoi ?
 
 Le rotin est une liane tropicale qui pousse en Asie du Sud-Est (Indonésie, Philippines, Malaisie). C'est une plante grimpante qui peut atteindre 200 metres de long. Son coeur est plein et solide, ce qui le rend idéal pour fabriquer des structures de meubles : fauteuils, chaises, tables, cadres de lit.
@@ -72,6 +77,11 @@ flowchart TD
 
 Le rotin a connu un vrai retour en grace ces dernieres années. Exit le fauteuil de grand-mere : les designers ont modernisé les formes, allégé les structures, et proposé des pieces qui s'integrent dans n'importe quel intérieur.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237979775.jpg" alt="Rotin osier - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le fauteuil en rotin - la piece star
 
 C'est l'achat le plus courant, et souvent le premier. Le fauteuil "Emmanuelle" (celui en forme de trone avec un grand dossier évasé) est devenu un classique vintage recherché. Mais il existe plein d'autres formes plus discretes et plus faciles a placer.
@@ -108,6 +118,11 @@ Le buffet en cannage est devenu la star des intérieurs d'inspiration [scandinav
 ## Les accessoires en osier qui changent tout
 
 L'osier est le roi des petits objets qui font la différence. Voici les pieces les plus efficaces pour donner une touche naturelle a ton intérieur.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235435284.jpg" alt="Rotin osier - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Paniers et corbeilles
 
@@ -147,6 +162,11 @@ flowchart LR
 
 C'est souvent la que les gens hésitent. Le rotin et l'osier, ca s'entretient comment ? Bonne nouvelle : c'est assez simple si tu connais les bases.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238412147.jpg" alt="Rotin osier - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Dépoussiérage régulier
 
 Passe un chiffon sec ou un plumeau une fois par semaine sur tes meubles en rotin. Pour les tressages serrés, un aspirateur avec embout brosse fonctionne tres bien. L'ennemi numéro un du rotin, c'est la poussiere accumulée dans les interstices du tressage, qui finit par ternir la matière.
@@ -173,6 +193,11 @@ Un brin cassé ? Pas de panique. Tu peux le remplacer en achetant du rotin de re
 ## Idées déco rotin et osier a reproduire chez toi
 
 **Le coin lecture** - Un fauteuil en rotin pres d'une fenetre, un coussin moelleux, une petite table d'appoint. C'est simple, mais ca crée un espace a part dans le salon. Le rotin, avec sa légèreté, ne bouche pas la lumiere.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237299118.jpg" alt="Rotin osier - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **La chambre "hôtel boutique"** - Tete de lit en cannage, tables de nuit en rotin, suspension en osier tressé. Ajoute du linge de lit en lin blanc et un tapis en jute au sol. Style garanti sans surcharge.
 

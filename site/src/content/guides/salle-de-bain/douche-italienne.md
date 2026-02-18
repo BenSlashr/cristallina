@@ -17,6 +17,11 @@ Tu rêves d'une salle de bain qui ressemble à un spa, sans baignoire encombrant
 
 Une douche italienne (qu'on appelle aussi douche à l'italienne ou douche de plain-pied), c'est une douche sans receveur surélevé, sans cabine fermée. Le sol de la douche est au même niveau que le reste de la salle de bain. L'eau s'évacue via une grille ou une bonde encastrée, et l'espace peut être délimité par une paroi de verre, un muret, ou complètement ouvert.
 
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771236283454.jpg" alt="Douche italienne - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Ce qui la distingue d'une douche classique ? L'absence de "marche" à enjamber. Tu entres directement dedans, point. C'est cette continuité du sol qui donne cette sensation d'espace et cet aspect minimaliste qu'on adore.
 
 > [!NOTE]
@@ -25,6 +30,11 @@ Ce qui la distingue d'une douche classique ? L'absence de "marche" à enjamber. 
 ## Pourquoi c'est aussi populaire en ce moment ?
 
 Honnêtement ? Parce que ça coche beaucoup de cases à la fois.
+
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771234223737.jpg" alt="Douche italienne - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **L'esthétique d'abord.** Une douche italienne bien faite, avec un beau carrelage, une niche murale et une robinetterie soignée, c'est visuellement imbattable. Ça donne immédiatement un air "rénovation haut de gamme" à une salle de bain. Et puisqu'on parle de carrelage, tu peux faire des choses magnifiques - découvres les possibilités dans notre guide sur le [carrelage pour douche italienne](/guides/salle-de-bain/carrelage-douche-italienne/) pour vraiment te faire une idée.
 
@@ -38,6 +48,11 @@ Honnêtement ? Parce que ça coche beaucoup de cases à la fois.
 ## Le côté technique à ne pas négliger
 
 C'est là où beaucoup de gens se plantent. Une douche italienne, ça ne s'improvise pas. Le point le plus délicat ? L'évacuation.
+
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771235497510.jpg" alt="Douche italienne - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart TD
@@ -87,6 +102,11 @@ Si ton plancher actuel est en béton et que tu dois baisser l'évacuation, ça i
 
 Oui, même pour une douche "de plain-pied", il existe des receveurs spéciaux. Ce sont des receveurs ultra-plats (entre 2,5 cm et 6 cm de hauteur) conçus pour être carrelés par-dessus ou utilisés tels quels.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771236698387.jpg" alt="Douche italienne - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Les receveurs à carreler en Wedi ou en mousse expansée sont très pratiques : ils ont la pente déjà intégrée, l'étanchéité est traitée, tu n'as qu'à coller ton carrelage dessus. Comptez 150 à 500€ selon la taille et la marque.
 
 Les receveurs en résine ultra-plats (type Villeroy & Boch Squaro Infinity ou Kaldewei Superplan Zero) sont une autre option - finition béton ou pierre, très esthétiques, dès 300€ et jusqu'à 1200€. Pour t'aider à choisir la meilleure option pour ton projet, le guide sur [quel receveur pour une douche italienne](/guides/salle-de-bain/quel-receveur-pour-douche-italienne/) détaille tout ça en profondeur.
@@ -94,6 +114,11 @@ Les receveurs en résine ultra-plats (type Villeroy & Boch Squaro Infinity ou Ka
 ## Combien ça coûte vraiment ?
 
 Soyons honnêtes sur les prix, parce que c'est souvent là où les gens ont des surprises.
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237420046.jpg" alt="Douche italienne - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart LR

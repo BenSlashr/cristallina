@@ -19,6 +19,11 @@ Dans cet article, on plonge dans les codes du style rustique moderne : matériau
 
 Le rustique moderne, c'est pas juste poser une planche de bois au mur et appeler ça du "décor". C'est un équilibre entre deux univers qui se complètent mieux qu'on ne le pense.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232711888.jpg" alt="Maisons rustiques modernes idees et photos de decoration - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 D'un côté, tu gardes les codes du rustique : les matières brutes (bois, pierre, lin, laine), les couleurs de la nature (ocre, terre, vert mousse, blanc cassé), les imperfections assumées. De l'autre, tu apportes la modernité : des lignes épurées, des meubles fonctionnels, des luminaires design, et une organisation pensée.
 
 Le style "farmhouse" américain ou le style "farm life" européen sont deux déclinaisons populaires de cette tendance. Ce qui les caractérise : un intérieur vivant, presque "imparfait", où un parquet légèrement usé ou un mur irrégulier deviennent des atouts plutôt que des défauts.
@@ -27,6 +32,11 @@ Le style "farmhouse" américain ou le style "farm life" européen sont deux déc
 > Le rustique moderne n'est pas réservé aux maisons de campagne. Un appartement en ville peut tout à fait adopter ce style avec quelques éléments bien choisis - une poutre apparente peinte, un carrelage pierre, du mobilier en chêne massif.
 
 ## Les matériaux stars du rustique moderne
+
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232910804.jpg" alt="Maisons rustiques modernes idees et photos de decoration - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le bois - toujours lui, mais autrement
 
@@ -55,6 +65,11 @@ Les textiles naturels sont aussi importants que les matières dures. Un jeté en
 
 Le rustique moderne fonctionne avec des couleurs que la nature a déjà validées. Pas de couleurs vives, pas de contrastes agressifs. On reste dans les tons qui apaisent.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771238002214.jpg" alt="Maisons rustiques modernes idees et photos de decoration - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart LR
     A["Base neutre\nBlanc cassé / Beige lin"] --> B["Accent chaud\nTerre cuite / Ocre / Rouille"]
@@ -73,6 +88,11 @@ Les murs en blanc légèrement cassé (pense au **Dulux Valentine "Lin Blanchi"*
 Les teintes terracotta, caramel, et vert sauge sont les grandes tendances actuelles pour ce style. Un seul mur en couleur d'accent suffit souvent.
 
 ## Pièce par pièce : comment appliquer le style rustique moderne
+
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235223054.jpg" alt="Maisons rustiques modernes idees et photos de decoration - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le salon : chaleur et sobriété
 
@@ -132,6 +152,11 @@ Pour l'esprit rustique sans trop de budget, un simple miroir en bois brut ou en 
 ## Les erreurs à éviter
 
 Le style rustique moderne peut vite partir dans le mauvais sens. Les pièges les plus fréquents :
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236982521.jpg" alt="Maisons rustiques modernes idees et photos de decoration - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **1. Tout assortir** : Le charme de ce style vient des mélanges imparfaits. Une table ancienne avec des chaises neuves, un luminaire design dans un espace en pierre - c'est ça qui crée l'intérêt visuel.
 

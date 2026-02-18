@@ -19,6 +19,11 @@ J'ai passé des semaines a analyser les tendances chez Houzz, Pinterest et dans 
 
 Un jardin intérieur moderne repose sur trois piliers : la simplicité des lignes, le contraste des matériaux et l'intégration fluide avec le reste de la pièce. On ne cherche pas a recréer une jungle - on veut un espace végétal qui dialogue avec l'architecture.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771235293727.jpg" alt="Jardins interieurs modernes photos et conseils de conception - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Lignes épurées et design minimaliste
 
 Le mot d'ordre, c'est "moins mais mieux". Un grand pot en béton fibré avec un seul olivier nain a plus d'impact visuel que dix petits pots dispersés sur une étagère. Les formes géométriques dominent : cylindres, cubes, cônes. Les cache-pots en métal brossé, en terrazzo ou en résine colorée remplacent les traditionnelles jardinières en terre cuite.
@@ -63,6 +68,11 @@ flowchart TD
 
 Toutes les plantes ne rentrent pas dans un décor moderne. Il faut des silhouettes graphiques, un feuillage qui a du caractère et une bonne tolérance a la culture en intérieur. Voici ma sélection, testée dans mon propre appartement.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771235201729.jpg" alt="Jardins interieurs modernes photos et conseils de conception - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Les grandes sculpturales (plus de 1 m)
 
 - **Ficus lyrata** (figuier lyre) : Grandes feuilles en forme de violon, port dressé. C'est LA plante du moment pour les intérieurs design. Compte 50 a 80 EUR pour un sujet de 1,20 m chez Botanic ou Jardiland. Il aime la lumière vive mais pas le soleil direct.
@@ -85,6 +95,11 @@ Toutes les plantes ne rentrent pas dans un décor moderne. Il faut des silhouett
 > Toutes ces plantes se trouvent facilement en jardinerie (Truffaut, Botanic, Jardiland) mais aussi en ligne. Les sites comme Bergamotte ou Begreen livrent des plantes de bonne qualité avec le pot assorti, souvent moins cher qu'en magasin pour les gros sujets.
 
 ## 5 compositions modernes a reproduire chez toi
+
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237858051.jpg" alt="Jardins interieurs modernes photos et conseils de conception - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### 1. Le coin jungle minimaliste
 
@@ -115,6 +130,11 @@ Un bac rectangulaire en métal ou en bois composite de 120 x 30 cm, posé sur pi
 
 La lumière fait ou défait un jardin d'intérieur. Et en appartement, c'est souvent le facteur limitant. Quelques règles concrètes.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231840627.jpg" alt="Jardins interieurs modernes photos et conseils de conception - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Distance a la fenêtre.** Au-dela de 2 mètres d'une fenêtre, la luminosité chute de 75 %. Tes plantes tropicales (monstera, ficus) doivent rester dans cette zone de 2 mètres. Au-dela, il te faut un éclairage d'appoint.
 
 **Les LED horticoles.** Les barres LED full spectrum imitent la lumière du soleil. La marque Sansi propose des ampoules horticoles a culot E27 (15 W, spectre complet) pour 12 a 18 EUR sur Amazon. Une seule ampoule suffit pour éclairer 4 a 6 plantes dans un rayon de 50 cm.
@@ -138,6 +158,11 @@ flowchart LR
 ## Espaces fonctionnels : adapter le jardin intérieur a chaque pièce
 
 Le jardin intérieur moderne n'est pas qu'un objet décoratif. Il s'intègre dans tes habitudes de vie.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771237075250.jpg" alt="Jardins interieurs modernes photos et conseils de conception - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Salon.** C'est la pièce la plus adaptée aux grandes compositions. Un ficus lyrata dans un pot surdimensionné près du canapé, un terrarium sur la table basse, et quelques trailing plants sur une étagère haute. Les perspectives courtes vers un élément végétal fort, c'est exactement ce que les paysagistes recommandent pour donner de la profondeur a un espace.
 

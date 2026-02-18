@@ -21,6 +21,11 @@ Mais avant de te lancer, il y a des choses à savoir : les démarches administra
 
 La réponse courte : parce que c'est plus rapide, souvent moins cher, et infiniment plus original.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771234548314.jpg" alt="Comment transformer votre jardin avec un conteneur maritime - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Un conteneur standard fait 20 pieds (environ 6 m de long pour 2,4 m de large) ou 40 pieds (12 m). Un 20 pieds donne environ 14 m2 utiles - ce qui correspond à un beau bureau de jardin, un atelier ou un espace détente confortable. La structure en acier corten est conçue pour résister aux conditions maritimes extrêmes, donc dans ton jardin, elle tiendra des décennies avec très peu d'entretien.
 
 Autre avantage : la livraison et la pose se font en quelques heures. Une grue dépose ton conteneur exactement où tu le veux, et tu peux commencer l'aménagement le lendemain. Compare ça aux mois de travaux d'une construction traditionnelle.
@@ -29,6 +34,11 @@ Autre avantage : la livraison et la pose se font en quelques heures. Une grue d�
 > Un conteneur maritime d'occasion en bon état coûte entre 1 500 et 3 500 euros selon la taille et l'état. Un conteneur neuf ou "one way" (utilisé une seule fois) est autour de 3 000 à 5 000 euros. Ajoute 200 à 500 euros pour la livraison selon ta région.
 
 ## Les 7 usages les plus malins pour ton jardin
+
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232672294.jpg" alt="Comment transformer votre jardin avec un conteneur maritime - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### 1. L'abri de jardin nouvelle génération
 
@@ -83,6 +93,11 @@ C'est le genre d'espace qui fait de ton jardin un lieu de vie quatre saisons - m
 
 C'est LE point que beaucoup de gens ignorent et qui peut créer de vrais problèmes. En France, la réglementation varie selon la surface et la durée d'installation.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231838636.jpg" alt="Comment transformer votre jardin avec un conteneur maritime - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart TD
     A["Tu veux installer un conteneur"] --> B{"Surface du conteneur"}
@@ -125,6 +140,11 @@ flowchart LR
     E --> F["6. Isolation et électricité"]
     F --> G["7. Finitions et déco"]
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231853378.jpg" alt="Comment transformer votre jardin avec un conteneur maritime - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
     style A fill:#FFF0F5,stroke:#E879F9,color:#701A75
     style B fill:#FFF0F5,stroke:#E879F9,color:#701A75
     style C fill:#FEF3F2,stroke:#F97316,color:#9A3412
@@ -143,6 +163,11 @@ flowchart LR
 ## Les finitions qui font vraiment la différence
 
 Peindre ton conteneur change complètement son look. Les conteneurs en acier corten rouillent naturellement - et c'est beau sur certains projets industriels - mais pour un jardin résidentiel, une peinture mate en teinte terre ou anthracite s'intègre beaucoup mieux.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771236602215.jpg" alt="Comment transformer votre jardin avec un conteneur maritime - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Les marques de peinture métal extérieure que je recommande : Rust-Oleum (disponible chez Leroy Merlin, autour de 40 euros le litre) ou les gammes pro de Sikkens. Prépare bien la surface avec un primaire antirouille avant d'appliquer la couche de finition.
 

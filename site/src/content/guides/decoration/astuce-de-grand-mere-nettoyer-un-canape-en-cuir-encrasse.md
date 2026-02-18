@@ -36,6 +36,11 @@ Pas tous les canapés en cuir ne se nettoient de la même façon. Il y a trois g
 
 C'est le duo de départ, celui que grand-mère utilisait sans se poser de questions.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771238180141.jpg" alt="Astuce de grand mere nettoyer un canape en cuir encrasse - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Option 1 : le savon de Marseille liquide
 
 Prends une cuvette d'eau tiède (pas chaude - la chaleur crispe le cuir) et ajoute une petite dose de savon de Marseille liquide. Marque accessible : **La Corvette** en grande surface, environ 3-4 € le litre. Mélange jusqu'à obtenir une légère mousse.
@@ -69,6 +74,11 @@ L'acide du vinaigre décolle la saleté sans agresser le cuir pigmenté. En reva
 
 Tache de beurre, de crème solaire, de fond de teint sur le cuir ? Le bicarbonate est ton ami.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237080100.jpg" alt="Astuce de grand mere nettoyer un canape en cuir encrasse - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Mode opératoire :**
 1. Saupoudre une petite quantité de bicarbonate directement sur la tache fraiche (ou pas trop ancienne).
 2. Laisse agir 2 à 3 heures, voire toute une nuit pour les taches incrustées.
@@ -96,6 +106,11 @@ Fonctionne particulièrement bien sur les traces de mains grasses et les légers
 ## La terre de Sommières : pour les taches tenaces
 
 Si le bicarbonate ne suffit pas sur une tache de gras ancienne, la terre de Sommières est l'étape suivante. C'est une argile naturelle absorbante, utilisée depuis des siècles pour détacher les tissus et les cuirs.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237269353.jpg" alt="Astuce de grand mere nettoyer un canape en cuir encrasse - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Comment l'utiliser :**
 - Saupoudre généreusement sur la tache.
@@ -133,6 +148,11 @@ flowchart TD
 ## Nourrir le cuir après le nettoyage
 
 Nettoyer, c'est bien. Nourrir, c'est mieux. Le cuir est une peau - il se dessèche, se craquelle et vieillit mal si on ne lui donne pas un peu d'hydratation régulièrement.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771238224875.jpg" alt="Astuce de grand mere nettoyer un canape en cuir encrasse - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Après le nettoyage, une fois le canapé bien sec, applique un baume ou une crème spécifique cuir. Quelques options selon le budget :
 
@@ -177,6 +197,11 @@ flowchart LR
     style G fill:#F9FAFB,stroke:#6B7280,color:#374151
     style H fill:#F9FAFB,stroke:#6B7280,color:#374151
 ```
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232887159.jpg" alt="Astuce de grand mere nettoyer un canape en cuir encrasse - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ---
 

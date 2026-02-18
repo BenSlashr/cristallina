@@ -17,6 +17,11 @@ Tu as vu cette annonce : "appartement traversant, double exposition, calme". Et 
 
 Un appartement traversant, c'est un logement qui dispose d'ouvertures sur au moins deux façades d'orientations différentes. En gros, tu as des fenêtres devant et derrière (ou sur deux côtés), ce qui veut dire que la lumière entre de deux directions et que l'air circule d'un bout à l'autre.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-traversant-lumi-re-am-nagement-design-1771234376492.jpg" alt="Appartement traversant - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Le cas idéal, c'est une orientation nord-sud : les pièces de vie côté sud profitent du soleil toute la journée, les chambres côté nord restent fraîches l'été. Mais une orientation est-ouest fonctionne très bien aussi - tu as le soleil du matin dans ta chambre et celui du soir dans ton salon.
 
 La différence avec un appartement "en couloir" ou "borgne" ? Dans un logement qui n'ouvre que sur une façade, toutes les fenêtres pointent dans la même direction. La lumière ne traverse pas l'appartement, et l'air chaud reste coincé à l'intérieur. C'est le type de configuration à fuir si tu peux.
@@ -25,6 +30,11 @@ La différence avec un appartement "en couloir" ou "borgne" ? Dans un logement q
 > Un logement traversant peut aussi s'ouvrir sur une cour intérieure d'un côté et sur la rue de l'autre. Ce n'est pas le profil le plus lumineux, mais le gain acoustique est réel : le côté cour est souvent nettement plus calme.
 
 ## Les vrais avantages au quotidien
+
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236402414.jpg" alt="Appartement traversant - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### La lumière naturelle change tout
 
@@ -47,6 +57,11 @@ Si un côté donne sur une cour intérieure, c'est souvent beaucoup plus calme q
 Les appartements traversants se vendent plus facilement et à meilleur prix. Les acheteurs le cherchent, les locataires aussi. Si tu hésites entre deux biens similaires, la double exposition justifie souvent une différence de prix de 5 à 10%.
 
 ## Les inconvénients à ne pas ignorer
+
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771238012244.jpg" alt="Appartement traversant - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le plan peut être contraint
 
@@ -121,6 +136,11 @@ C'est aussi un appartement où les odeurs de cuisine se dissipent vite - un dét
 flowchart TD
     T([Type de traversant]):::main
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237801254.jpg" alt="Appartement traversant - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
     T --> A([Nord-Sud]):::secondary
     T --> B([Est-Ouest]):::secondary
     T --> C([Rue / Cour]):::secondary
@@ -170,6 +190,11 @@ La montée d'escalier mérite aussi une vérification si tu es au dernier étage
 ## Ce que révèle le marché immobilier
 
 Sur les grandes villes françaises, un appartement traversant se loue en moyenne 8 à 12% plus cher qu'un équivalent non-traversant, selon les données des agences spécialisées. À l'achat, la prime est du même ordre.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-traversant-lumi-re-am-nagement-design-1771232891308.jpg" alt="Appartement traversant - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Ce n'est pas anodin dans un budget. Sur un appartement à 300 000 euros, ça représente 24 000 à 36 000 euros. La question est de savoir si le confort quotidien - lumière, ventilation, calme relatif - vaut cet écart pour toi. Pour beaucoup de gens qui passent beaucoup de temps chez eux, la réponse est oui.
 

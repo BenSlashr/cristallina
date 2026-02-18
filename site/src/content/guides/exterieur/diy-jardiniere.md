@@ -34,6 +34,11 @@ Il y a aussi la question de la durabilité. Une jardinière bien construite, en 
 
 C'est le grand classique. Simple à assembler, durable et esthétique, ce modèle convient parfaitement aux débutants.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231864246.jpg" alt="Diy jardiniere - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Matériaux :**
 - 4 planches de pin traité autoclave (classe 4 minimum pour un usage extérieur), section 200 x 25 mm, longueur 1 m : environ 18 € les 4 (Leroy Merlin, rayon bois)
 - 2 tasseaux 40 x 40 mm pour les montants de coin : 4 € (chute en magasin ou planche de récup)
@@ -97,6 +102,11 @@ Les palettes Europe sont partout et souvent gratuites. Récupérées en bon éta
 ## Modèle 3 - La jardinière en béton moulé (style industriel)
 
 Le béton, c'est le matériau tendance de ces dernières années pour la déco extérieure. Beaucoup pensent que c'est compliqué à travailler. En réalité, couler du béton dans un moule en carton ou en plastique, c'est accessible à n'importe qui.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232744966.jpg" alt="Diy jardiniere - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart LR
@@ -185,6 +195,11 @@ C'est le modèle qui demande le plus d'investissement, mais c'est aussi celui qu
 
 L'upcycling consiste à transformer un objet destiné à la poubelle en quelque chose d'utile et de beau. Pour les jardinières, les possibilités sont infinies.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233828761.jpg" alt="Diy jardiniere - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Voici trois idées concrètes que j'aime particulièrement :
 
 **Vieille baignoire en fonte**
@@ -234,6 +249,11 @@ En résumé :
 
 **Oublier le drainage.** C'est la cause principale de mort des plantes en jardinière. Chaque contenant doit avoir des trous au fond et une couche de billes d'argile (type Seramis ou Lechuza-Pon) avant le terreau. Pas de drainage = racines qui pourrissent en 2 semaines de pluie.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771234592938.jpg" alt="Diy jardiniere - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Utiliser du terreau de mauvaise qualité.** Le terreau universel premier prix se compacte rapidement et asphyxie les racines. Investis dans un bon terreau (Floragard Pot & Balcon, Clasmann, ou le mélange maison : 1/3 terreau, 1/3 compost, 1/3 perlite). La différence sur la pousse des plantes est immédiate.
 
 **Sous-estimer le poids.** Une jardinière en bois de 80 x 30 cm remplie de terreau humide pèse facilement 20 à 30 kg. Pour un balcon, vérifie la charge admissible (généralement 150 à 300 kg/m² selon les constructions). En cas de doute, utilise un terreau allégé à base de pouzzolane.
@@ -261,6 +281,11 @@ Si tu veux aller plus loin dans l'aménagement de ton extérieur, l'article sur 
 
 - [jardinières suspendues diy](/guides/exterieur/6-idees-pour-fabriquer-des-jardinieres-suspendues-maison/)
 - [serre tunnel](/guides/exterieur/installer-serre-tunnel/)
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771236781339.jpg" alt="Diy jardiniere - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ## Par où commencer ?
 

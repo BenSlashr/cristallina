@@ -19,6 +19,11 @@ Je t'explique tout le processus, du diagnostic au remplacement, avec les bons ge
 
 Avant de démonter quoi que ce soit, fais un rapide diagnostic. Ouvre et ferme ta porte lentement, en observant le comportement du vantail.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237529235.jpg" alt="Remplacer roulette veranda - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Les signes qui ne trompent pas :**
 
 - La porte frotte sur le rail ou sur le seuil
@@ -35,6 +40,11 @@ Si tu coches au moins deux de ces points, tes roulettes ont rendu l'âme. C'est 
 ## Quel type de roulette pour ta véranda ?
 
 Toutes les roulettes ne se valent pas, et surtout, elles ne sont pas interchangeables. Tu dois identifier le bon modèle pour ta porte.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237892662.jpg" alt="Remplacer roulette veranda - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les roulettes à galet simple
 
@@ -74,6 +84,11 @@ flowchart TD
 
 Rassemble tout avant de commencer. Tu n'as besoin de rien d'exotique :
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236884534.jpg" alt="Remplacer roulette veranda - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 - **Les roulettes neuves** (la paire, identiques à l'ancien modèle)
 - **Un tournevis cruciforme** ou une visseuse
 - **Un tournevis plat** large (pour faire levier si besoin)
@@ -84,6 +99,11 @@ Rassemble tout avant de commencer. Tu n'as besoin de rien d'exotique :
 - **Un ami ou une amie** pour t'aider à soulever le vantail (les portes de véranda pèsent entre 30 et 80 kg selon le vitrage)
 
 ## Tuto pas à pas : remplacer les roulettes
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771236831211.jpg" alt="Remplacer roulette veranda - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Étape 1 : dégager le rail et sécuriser la zone
 
@@ -157,6 +177,11 @@ flowchart LR
 ## Penser aux joints : le détail qui change tout
 
 Tant que la porte est démontée, c'est le moment idéal pour vérifier les joints d'étanchéité. Sur les vérandas, on utilise des joints EPDM (aussi appelés joints à moustache). Ils assurent l'étanchéité à l'air, à l'eau et protègent contre les UV.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238107521.jpg" alt="Remplacer roulette veranda - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Comment savoir s'ils sont à changer ?**
 

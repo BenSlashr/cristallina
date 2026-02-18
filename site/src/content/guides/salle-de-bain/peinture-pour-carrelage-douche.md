@@ -17,6 +17,11 @@ Tu en as marre de ton carrelage de douche qui date des années 2000 mais tu n'as
 
 Remplacer un carrelage de douche, c'est un chantier : démolition, évacuation des gravats, pose d'un nouveau revêtement, étanchéité à refaire... On parle facilement de 1500 à 3000 euros pour une douche standard, et plusieurs jours de travaux. La peinture, elle, coûte entre 30 et 80 euros en produits, et tu peux finir en un week-end.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237740363.jpg" alt="Peinture pour carrelage douche - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Mais attention, peindre du carrelage dans une douche n'est pas la même chose que peindre un mur de cuisine. L'eau ruisselle directement dessus, la vapeur sature l'air, les champignons guettent le moindre défaut. C'est pour ça qu'il existe des peintures spécifiques, formulées pour résister à ces conditions extrêmes.
 
 Le vrai avantage, au-delà du prix : tu peux changer de couleur tous les 3 à 5 ans si tu en as envie. C'est une approche déco flexible que je recommande pour les logements locatifs ou quand tu hésites encore sur ton style long terme.
@@ -27,6 +32,11 @@ Le vrai avantage, au-delà du prix : tu peux changer de couleur tous les 3 à 5 
 ## Les types de peinture adaptées à la douche
 
 Toutes les peintures carrelage ne se valent pas, et certaines n'ont rien à faire dans une douche. Voici les trois grandes familles qui tiennent la route en milieu humide.
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771233134836.jpg" alt="Peinture pour carrelage douche - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### La peinture acrylique spéciale salle de bain
 
@@ -73,6 +83,11 @@ flowchart TD
 
 Je te le dis tout net : 80% des échecs de peinture sur carrelage viennent d'une mauvaise préparation. La peinture, même la meilleure, ne colle pas sur une surface grasse, humide ou poussiéreuse. Voici la méthode complète.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237666669.jpg" alt="Peinture pour carrelage douche - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Étape 1 : Nettoyage en profondeur
 
 Commence par un nettoyage à la lessive Saint-Marc ou au savon noir dilué. L'objectif est d'éliminer toute trace de savon, de calcaire et de graisse. Frotte chaque carreau et chaque joint avec une brosse rigide. Rince abondamment à l'eau claire et laisse sécher au moins 24 heures - ventilateur d'appoint si besoin.
@@ -95,6 +110,11 @@ Sauf si tu utilises une résine époxy ou une peinture "direct carrelage" qui in
 ## Application : le bon geste pour un rendu pro
 
 Tu as bien préparé ta surface ? Parfait, c'est le moment de peindre. Et là, la technique compte autant que le produit.
+
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771234153264.jpg" alt="Peinture pour carrelage douche - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le matériel qu'il te faut
 
@@ -133,6 +153,11 @@ flowchart LR
 ## Les couleurs qui marchent (et celles à éviter)
 
 Le choix de la couleur, c'est le côté fun du projet. Mais dans une douche, certaines teintes sont plus malines que d'autres.
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771231644536.jpg" alt="Peinture pour carrelage douche - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Le blanc et le gris clair** restent les valeurs sûres. Ils agrandissent visuellement la douche, s'accordent avec tous les styles et masquent bien les traces de calcaire. Le blanc cassé ou le greige (gris beige) évitent l'effet clinique du blanc pur.
 

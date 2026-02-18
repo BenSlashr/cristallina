@@ -19,6 +19,11 @@ Je l'adore parce qu'elle s'adapte à presque toutes les ambiances déco - que tu
 
 Le Peperomia Hope est un hybride entre deux espèces - le Peperomia deppeana et le Peperomia quadrifolia. Originaire des forêts tropicales d'Amérique centrale et du Sud, il pousse naturellement dans les sous-bois humides, accroché aux troncs d'arbres ou installé dans la mousse. Ça te donne déjà un indice important sur ce qu'il aime : lumière filtrée, humidité modérée, pas de soleil direct qui crame.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235276181.jpg" alt="La peperomia hope - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Ses feuilles rondes, un peu succulentes, poussent par paires ou par groupes de quatre le long de tiges fines. Quand la plante est bien installée, ces tiges retombent joliment sur 30 à 40 cm. C'est pour ça qu'on l'aime autant en suspension macramé ou posée en hauteur sur une étagère.
 
 > [!NOTE]
@@ -34,6 +39,11 @@ Mon conseil : évite les spécimens qui ont déjà des tiges très longues et d�
 
 C'est LE point qui fait toute la différence. Le Peperomia Hope aime la lumière vive mais indirecte. Concrètement, ça veut dire :
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232919769.jpg" alt="La peperomia hope - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 - **L'idéal** : près d'une fenêtre orientée est ou ouest, à 50 cm du vitrage, ou derrière un voilage côté sud
 - **Ça passe** : une pièce bien éclairée naturellement, même sans soleil direct sur la plante
 - **À éviter** : le soleil direct d'été (derrière une baie vitrée plein sud sans filtre = feuilles brûlées) et les coins sombres (la plante s'étiole, les tiges s'allongent, les feuilles rapetissent)
@@ -46,6 +56,11 @@ En hiver, quand la lumière naturelle diminue, rapproche ta plante de la fenêtr
 ## Arrosage : la règle d'or pour ne pas le tuer
 
 L'arrosage, c'est là où 90% des gens se plantent (sans mauvais jeu de mots). Le Peperomia Hope stocke de l'eau dans ses feuilles charnues - un peu comme une succulente. Résultat : il craint bien plus l'excès d'eau que la sécheresse.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238093802.jpg" alt="La peperomia hope - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### La méthode qui marche
 
@@ -84,6 +99,11 @@ flowchart TD
 
 Oublie le terreau classique "spécial plantes vertes" acheté en supermarché - trop compact, il retient trop d'eau et les racines du Peperomia détestent ça. Ce qu'il faut, c'est un mélange léger et drainant.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232930118.jpg" alt="La peperomia hope - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Ma recette maison
 
 - 50% terreau plantes vertes (Compo ou Fertiligène, 5-8€ les 20L)
@@ -101,6 +121,11 @@ Un pot en terre cuite de 12-14 cm chez Ikea coûte entre 1,50€ et 3€. Chez D
 ## Température et humidité : les zones de confort
 
 Le Peperomia Hope est une plante tropicale, mais pas capricieuse. Voici ses préférences :
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237827508.jpg" alt="La peperomia hope - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Température** : entre 18 et 26°C. Autrement dit, la température de ton appartement ou de ta maison lui convient parfaitement toute l'année. Ne descends pas en dessous de 13-14°C (pas de balcon en hiver, pas près d'une fenêtre qui laisse passer les courants froids).
 

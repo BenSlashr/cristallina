@@ -19,6 +19,11 @@ Je t'explique comment choisir la bonne peinture, préparer correctement ta terra
 
 La première raison, c'est le budget. Remplacer un carrelage extérieur, c'est dépose + évacuation + repose + joint : facilement 80 à 150 euros le m2 avec un pro. Peindre, c'est 8 à 25 euros le m2 en fournitures selon le produit. Pour une terrasse de 20 m2, on passe de 2000-3000 euros à 200-500 euros. Le calcul est vite fait.
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771236146341.jpg" alt="Peinture pour carrelage exterieur terrasse - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 La deuxième raison, c'est la rapidité. Un week-end suffit pour changer complètement le look de ta terrasse. Pas besoin de faire appel à un carreleur, pas de poussière de dépose, pas de délai de livraison. Tu choisis ton produit, tu prépares, tu peins.
 
 Et puis il y a les cas où le carrelage est en bon état structurellement mais juste moche. Des dalles beiges des années 90, un grès cérame terne, un ancien carrelage rouge devenu rose sous le soleil - la peinture redonne un coup de neuf sans gaspiller un matériau qui fait encore le job techniquement.
@@ -29,6 +34,11 @@ Et puis il y a les cas où le carrelage est en bon état structurellement mais j
 ## Quelle peinture choisir : le point important
 
 C'est LA question qui fait la différence entre un résultat durable et une catastrophe. En extérieur, tu ne peux pas utiliser n'importe quel produit.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232696682.jpg" alt="Peinture pour carrelage exterieur terrasse - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les peintures à éviter absolument
 
@@ -77,6 +87,11 @@ graph TD
 
 Peindre sans préparer, c'est jeter ton argent par la fenêtre. La préparation du carrelage extérieur demande plus de soin qu'en intérieur - il y a de la mousse, de la poussière incrustée, parfois du salpêtre. Voici les étapes dans l'ordre.
 
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771233100266.jpg" alt="Peinture pour carrelage exterieur terrasse - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Étape 1 : nettoyage en profondeur
 
 Commence par un balayage grossier pour virer les feuilles et débris. Ensuite, passe un nettoyeur haute pression à 80-100 bars. L'objectif c'est d'enlever toute la mousse, les algues, les taches de graisse et la crasse accumulée. Insiste bien sur les joints.
@@ -101,6 +116,11 @@ Certains produits comme V33 n'exigent pas de primaire si le support est propre e
 ## Application : les gestes qui font la différence
 
 Le matériel nécessaire est simple : un rouleau à poils courts (type laqueur, 10 mm maximum), un pinceau à réchampir pour les bords et les joints, du ruban de masquage pour protéger les murs et les seuils, et un bac à peinture.
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-moderne-2026-enduit-bardage-design-1771236788252.jpg" alt="Peinture pour carrelage exterieur terrasse - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Première couche
 
@@ -138,6 +158,11 @@ graph LR
 ## Entretien : comment faire durer le résultat
 
 Un carrelage peint en extérieur tient entre 3 et 7 ans selon le produit, l'exposition et l'entretien. Pour maximiser la durée de vie, quelques réflexes simples.
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771237255722.jpg" alt="Peinture pour carrelage exterieur terrasse - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Nettoyage doux.** Oublie le kärcher à fond sur la peinture - la haute pression peut arracher le film. Utilise un balai-brosse avec de l'eau tiède et un savon doux (savon noir, produit vaisselle dilué). Nettoie une à deux fois par mois en saison.
 

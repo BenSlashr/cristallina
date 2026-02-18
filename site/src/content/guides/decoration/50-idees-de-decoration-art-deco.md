@@ -17,6 +17,11 @@ Tu craques pour les lignes géométriques, les matières précieuses et cette am
 
 L'Art Déco est né à Paris lors de l'Exposition internationale des arts décoratifs de 1925. Son ADN tient en quelques mots : géométrie, symétrie, matériaux nobles et couleurs contrastées. On est loin du [style shabby chic tout en patine douce](/guides/decoration/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/). Ici, on assume le luxe, la précision et l'audace.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237900937.jpg" alt="50 idees de decoration art deco - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Les formes clés : chevrons, éventails, arches, zigzags, motifs sunburst. Les matériaux stars : laiton, marbre, velours, bois laqué, verre fumé. Et les couleurs ? Du sombre, du profond : vert émeraude, bleu nuit, bordeaux, noir et or.
 
 > [!NOTE]
@@ -43,6 +48,11 @@ flowchart TD
 
 ## Les murs : papier peint, peinture et moulures
 
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238118247.jpg" alt="50 idees de decoration art deco - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Idées 1-5 : Papier peint géométrique
 
 Le papier peint, c'est LE raccourci pour un effet Art Déco immédiat.
@@ -65,6 +75,11 @@ Le papier peint, c'est LE raccourci pour un effet Art Déco immédiat.
 > Mon astuce pour les moulures : achète des baguettes en polystyrène haute densité chez Castorama (entre 3 et 8 euros le mètre). Colle-les au mur avec de la colle néoprène, puis peins par-dessus. Résultat : des boiseries pour un dixième du prix.
 
 ## Le mobilier : pièces maîtresses Art Déco
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238112242.jpg" alt="50 idees de decoration art deco - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Idées 11-20 : Canapés, fauteuils et tables
 
@@ -91,6 +106,11 @@ Le mobilier Art Déco se reconnaît à ses formes arrondies mais structurées, s
 
 ## Éclairage : créer l'ambiance années folles
 
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238112448.jpg" alt="50 idees de decoration art deco - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Idées 26-33 : Luminaires
 
 - **Idée 26** : Lustre géométrique en laiton avec globes en verre opalin. House Doctor entre 200 et 400 euros.
@@ -106,6 +126,11 @@ Le mobilier Art Déco se reconnaît à ses formes arrondies mais structurées, s
 > Un lustre Art Déco demande au minimum 2m50 de hauteur sous plafond pour ne pas écraser l'espace. En dessous, opte pour des appliques murales ou une suspension basse au-dessus d'une table.
 
 ## Les textiles : velours, satin et motifs graphiques
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237784552.jpg" alt="50 idees de decoration art deco - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Idées 34-40 : Rideaux, coussins et tapis
 

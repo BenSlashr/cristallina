@@ -19,6 +19,11 @@ Je t'ai préparé un tour complet de toutes les options qui existent, des plus c
 
 Avant de te lancer, il faut comprendre qu'il existe plusieurs familles de systèmes de verrouillage. Chaque type répond à un besoin différent - et surtout, tous ne demandent pas le même niveau de bricolage.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237892055.jpg" alt="Comment verouiller porte interieur - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le verrou à bouton (targette)
 
 C'est le plus répandu dans les maisons françaises. Tu le connais : un petit bouton rotatif sur la poignée, ou une targette coulissante sur le montant de la porte. Un tour et c'est verrouillé de l'intérieur.
@@ -63,6 +68,11 @@ C'est la solution la plus propre visuellement : la serrure est encastrée dans l
 
 Le choix dépend de trois critères simples : ton besoin de sécurité, ton budget et ton niveau en bricolage.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232920113.jpg" alt="Comment verouiller porte interieur - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 graph TD
     A["Quel est ton besoin ?"] --> B["Intimité simple"]
@@ -100,6 +110,11 @@ graph TD
 
 Bonne nouvelle : poser un verrou à bouton ou à clé, c'est un projet de 20 à 30 minutes. Tu n'as pas besoin d'être bricoleuse aguerrie. Voici les étapes.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771233973804.jpg" alt="Comment verouiller porte interieur - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le matériel nécessaire
 
 - Un verrou (évidemment)
@@ -136,6 +151,11 @@ Ouvre, ferme, verrouille, déverrouille. Tout doit coulisser sans forcer. Si ça
 
 Si tu es locataire ou si tu ne veux pas abîmer ta porte, il existe des solutions malignes qui ne laissent aucune trace.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236409684.jpg" alt="Comment verouiller porte interieur - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### La cale de porte anti-intrusion
 
 Pas la petite cale en bois de mamie. Je parle des cales de sécurité en acier ou en caoutchouc renforcé, conçues pour bloquer une porte par le bas. Tu la glisses sous la porte, et personne ne peut l'ouvrir de l'extérieur.
@@ -160,6 +180,11 @@ Si ta porte a une poignée en levier (et non un bouton rond), tu peux utiliser u
 ## Cas particulier : verrouiller une porte coulissante
 
 Les portes coulissantes, c'est génial pour [optimiser l'espace dans un petit intérieur](/agrandir-petit-espace-astuces/), mais les verrouiller, c'est une autre histoire. Les verrous classiques ne fonctionnent pas puisque la porte ne pivote pas - elle glisse.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235390850.jpg" alt="Comment verouiller porte interieur - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les solutions adaptées
 

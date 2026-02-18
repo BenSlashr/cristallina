@@ -17,6 +17,11 @@ Tu rêves d'une salle de bain qui sort du lot, avec ce côté loft new-yorkais d
 
 Le style industriel puise son inspiration dans les anciens entrepôts, ateliers et usines reconvertis. L'idée centrale : montrer ce qu'on cache d'habitude. Les tuyaux restent visibles, les briques s'affichent sans enduit, le métal ne cherche pas à se faire passer pour autre chose.
 
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771235604547.jpg" alt="Salle de bain industrielle - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Ce qui rend ce style particulièrement bien adapté à la salle de bain, c'est sa compatibilité naturelle avec l'humidité. Le métal, le béton, la céramique brute - autant de matières qui vivent bien dans une pièce d'eau quand elles sont bien finies.
 
 Les quatre piliers du style industriel en salle de bain :
@@ -30,6 +35,11 @@ Les quatre piliers du style industriel en salle de bain :
 > Pour tester le style avant de se lancer, commence par les robinetteries et les accessoires en métal noir mat. C'est le changement avec le plus d'impact visuel pour le moins d'investissement - compte 50 à 150€ pour un ensemble robinetterie industrielle chez Leroy Merlin ou Brico Dépôt.
 
 ## Les matières à adopter (et comment les combiner)
+
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237537899.jpg" alt="Salle de bain industrielle - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le béton ciré : star incontestée
 
@@ -61,6 +71,11 @@ Le bois joue le rôle de contrepoint chaleureux dans un univers qui peut sinon p
 Un meuble vasque avec un plateau en chêne massif brut, c'est autour de 300-600€ chez Made.com ou La Redoute. Pour moins cher, un plateau de chêne brut sur des tréteaux en métal noir fait parfaitement l'affaire (entre 150 et 250€ pour le plateau seul chez Ikea ou chez un scieur local).
 
 ## Le plan vasque et la douche : les pièces centrales
+
+
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771233188895.jpg" alt="Salle de bain industrielle - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Vasque à poser ou semi-encastrée ?
 
@@ -107,6 +122,11 @@ graph TD
 
 Dans une salle de bain industrielle, l'éclairage est un élément décoratif à part entière. On est loin des spots encastrés anonymes.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-industrielle-m-tal-carrelage-metro-noir-1771237614325.jpg" alt="Salle de bain industrielle - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Les options à explorer :**
 
 - **Appliques à cage métal** : le classique industriel, entre 40 et 120€ sur Amazon ou Maisons du Monde
@@ -122,6 +142,11 @@ La règle d'or : une lumière principale d'ambiance + un éclairage dédié au m
 ## Les accessoires et le rangement : l'upcycling à l'honneur
 
 L'esprit industriel se prête à merveille au détournement d'objets. C'est d'ailleurs là que le style devient vraiment fun à décliner.
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-industrielle-m-tal-carrelage-metro-noir-1771237233507.jpg" alt="Salle de bain industrielle - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Quelques idées concrètes :**
 

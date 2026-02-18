@@ -19,6 +19,11 @@ Le minimalisme en déco, c'est une philosophie qui dit : garde ce qui compte, en
 
 Avant d'aller plus loin, clarifions un truc : le style minimaliste ne veut pas dire austère. Beaucoup de gens confondent "minimaliste" avec "dépouillé comme une salle d'attente". C'est une erreur classique.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238432219.jpg" alt="Decoration minimaliste idees et photos faciles - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Un intérieur minimaliste peut être chaleureux. Il peut avoir des textures, de la couleur (dans des tons neutres, oui, mais de la couleur quand même), des plantes, des livres, des objets qui ont une vraie valeur sentimentale. Ce qui change, c'est la quantité et l'intention derrière chaque choix.
 
 Le minimalisme, c'est l'inverse de l'accumulation. Tu n'achètes pas un objet parce qu'il est en promo ou parce qu'il te semblait joli en magasin. Tu le choisis parce qu'il a sa place, parce qu'il apporte quelque chose à l'espace.
@@ -29,6 +34,11 @@ Le minimalisme, c'est l'inverse de l'accumulation. Tu n'achètes pas un objet pa
 ## La palette de couleurs : la base de tout
 
 Si tu ne devais changer qu'une chose pour donner à ton intérieur un look minimaliste, ce serait la palette. Les intérieurs épurés fonctionnent presque toujours sur des tonalités neutres et harmonieuses.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237167375.jpg" alt="Decoration minimaliste idees et photos faciles - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Les bases classiques : blanc cassé, beige, gris clair, crème, taupe, greige (ce mélange beige-gris ultra versatile). Ces couleurs agrandissent visuellement les pièces, réfléchissent la lumière et créent cet effet de calme qu'on associe au minimalisme.
 
@@ -59,6 +69,11 @@ flowchart TD
 
 Le meuble minimaliste, c'est celui qui fait ce pour quoi il est fait, et qui le fait bien. Pas de fioritures, pas de détails inutiles, des lignes propres.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238090940.jpg" alt="Decoration minimaliste idees et photos faciles - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 En pratique, ça veut dire privilégier les meubles aux formes géométriques simples - rectangles, carrés, cylindres. Les pieds fins et hauts (comme les scandinaves des années 60) donnent une impression de légèreté visuelle. Les rangements fermés cachent le désordre. Les surfaces sans poignées apparentes créent une continuité visuelle agréable.
 
 Chez Ikea, la gamme KALLAX (25-80€) pour les rangements et les tables LACK sont des références abordables. Pour un peu plus de budget, la table LISABO en frêne (99€) a des lignes vraiment épurées. Si tu veux investir dans quelque chose de plus qualitatif, Made.com propose des canapés et tables avec des formes minimalistes autour de 300-800€.
@@ -71,6 +86,11 @@ Un point important : le mobilier multifonctions est ton ami. Un ottoman qui sert
 ## Désencombrer : le vrai travail de la déco minimaliste
 
 On peut parler de couleurs et de meubles tant qu'on veut, mais la vraie transformation d'un intérieur vers le minimalisme, c'est le désencombrement. C'est l'étape la plus difficile - et la plus libératrice.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238075449.jpg" alt="Decoration minimaliste idees et photos faciles - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 La méthode la plus simple : pièce par pièce, objet par objet. Pour chaque chose, tu te poses une question : est-ce que je l'utilise régulièrement, ou est-ce qu'il me rend vraiment heureux/heureuse quand je le regarde ? Si la réponse est non aux deux, il peut partir.
 
@@ -85,6 +105,11 @@ Le résultat quand tu désencombres bien ? Les pièces semblent instantanément 
 ## Les matériaux naturels : la chaleur du minimalisme
 
 C'est le secret pour ne pas tomber dans l'intérieur froid et stérile. Les matériaux naturels apportent texture, chaleur et humanité à un espace épuré.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238216482.jpg" alt="Decoration minimaliste idees et photos faciles - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Le bois** est le matériau roi du minimalisme. Parquet en chêne clair, table en noyer, étagères en frêne - le bois apporte instantanément de la vie et de la chaleur. Et il vieillit bien, ce qui compte quand on veut acheter moins mais mieux.
 

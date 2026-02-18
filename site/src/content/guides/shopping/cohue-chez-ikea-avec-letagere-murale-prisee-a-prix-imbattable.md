@@ -17,6 +17,11 @@ J'ai passé en revue les sept références les plus populaires du moment. Je te 
 
 ## Les étagères stars : les 7 modèles qui partent le plus vite
 
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238436554.jpg" alt="Cohue chez ikea avec letagere murale prisee a prix imbattable - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### LACK - la classique indémodable
 
 La LACK, c'est l'étagère murale IKEA par excellence. Simple, efficace et ridiculement bon marché - si elle dure depuis aussi longtemps au catalogue, c'est mérité.
@@ -79,6 +84,11 @@ graph TD
     E --> I[EKET - 60 euros]:::secondaire
     F --> J[FRYKSAS rotin - 15 euros]:::principal
 
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771234856150.jpg" alt="Cohue chez ikea avec letagere murale prisee a prix imbattable - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
     classDef principal fill:#FFF0F5,stroke:#E879F9,color:#701A75
     classDef secondaire fill:#F3F4F6,stroke:#8B5CF6,color:#581C87
 ```
@@ -96,6 +106,11 @@ graph TD
 ## Idées déco pièce par pièce
 
 Les étagères murales IKEA fonctionnent partout, mais chaque pièce demande un choix adapté. Voici mes recommandations testées chez moi et chez des amies.
+
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771234775605.jpg" alt="Cohue chez ikea avec letagere murale prisee a prix imbattable - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Dans le salon
 
@@ -119,6 +134,11 @@ La LACK en 30 cm, fixée à environ 120 cm du sol, sert de vide-poche mural pour
 ## Poser une étagère murale : les étapes pour un résultat propre
 
 La pose, c'est le moment de vérité. Une étagère bien fixée reste droite pendant des années. Une étagère mal posée, tu la vois penchée à chaque fois que tu passes devant et ça te rend dingue.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237036306.jpg" alt="Cohue chez ikea avec letagere murale prisee a prix imbattable - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart LR
@@ -154,6 +174,11 @@ Mon guide sur [l'accrochage de tableaux muraux](/guides/decoration/bien-accroche
 ## Les erreurs qui gâchent le résultat
 
 Quelques pièges classiques que je vois souvent chez les gens qui posent leurs étagères pour la première fois :
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238434363.jpg" alt="Cohue chez ikea avec letagere murale prisee a prix imbattable - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Étagère trop haute ou trop basse.** À 2 mètres du sol, personne ne la regarde. À 1 mètre, les enfants y touchent. La zone idéale : 140-170 cm pour un salon.
 

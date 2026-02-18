@@ -21,6 +21,11 @@ La bonne nouvelle : on peut poser des bordures de jardin solides et esthétiques
 
 Le béton a longtemps été le réflexe numéro un pour les bordures de jardin. Mais quand on y regarde de plus près, les alternatives sans béton ont de vrais avantages :
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771234478389.jpg" alt="Poser bordure jardin sans beton - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 - **Budget réduit** : pas besoin de ciment, de sable à mélanger, ni de matériel de maçonnerie. Tu économises facilement 30 à 50 % sur le coût total.
 - **Pose rapide** : la plupart des bordures sans béton se posent en une après-midi. Pas de temps de séchage, pas de coffrage.
 - **Flexibilité** : tu peux déplacer, ajuster ou remplacer une section sans tout détruire. Si tu es du genre à réarranager ton jardin chaque printemps (comme moi), c'est un vrai plus.
@@ -30,6 +35,11 @@ Le béton a longtemps été le réflexe numéro un pour les bordures de jardin. 
 > Avant de choisir ton matériau, observe bien ton jardin pendant une grosse pluie. Les zones où l'eau stagne te disent où le drainage est mauvais - et c'est là qu'une bordure sans béton sera bien plus adaptée qu'un mur de béton qui bloque encore plus l'écoulement.
 
 ## Les matériaux : comparatif honnête
+
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233600216.jpg" alt="Poser bordure jardin sans beton - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Bordures en bois
 
@@ -98,6 +108,11 @@ graph TD
 
 Quel que soit le matériau que tu choisis, la préparation du terrain suit toujours le même schéma. C'est vraiment la partie la plus importante - une bordure bien préparée, c'est une bordure qui tient des années.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232684972.jpg" alt="Poser bordure jardin sans beton - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Étape 1 : Tracer le parcours
 
 Plante des piquets aux extrémités et tends un cordeau (ou un simple fil de maçonnerie) pour marquer ta ligne. Pour les courbes, utilise un tuyau d'arrosage souple posé au sol : c'est le truc le plus pratique pour visualiser une forme arrondie.
@@ -148,6 +163,11 @@ graph LR
 
 Parce que les chiffres au mètre linéaire c'est bien, mais ce qu'on veut savoir c'est le total au final. Voici une estimation pour 10 mètres linéaires, pose comprise (en le faisant toi-même) :
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232724219.jpg" alt="Poser bordure jardin sans beton - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 | Matériau | Coût bordure | Fournitures (gravier, piquets) | Total estimé |
 |----------|-------------|-------------------------------|--------------|
 | Rondins bois pin | 40-60 euros | 15-20 euros | **55-80 euros** |
@@ -164,6 +184,11 @@ Le plastique recyclé reste l'option la plus économique. Mais si tu vises un re
 ## Les erreurs à éviter absolument
 
 J'ai vu (et fait) pas mal de ratages en matière de bordures. Voici les pièges classiques :
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232753932.jpg" alt="Poser bordure jardin sans beton - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Ne pas creuser assez profond.** Une bordure qui dépasse de 10 cm mais qui n'est enfoncée que de 5 cm dans le sol, ça bougera au premier coup de vent ou passage de tondeuse. Règle simple : enfonce au moins autant que ce qui dépasse.
 

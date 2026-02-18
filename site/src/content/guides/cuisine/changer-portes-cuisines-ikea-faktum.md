@@ -19,6 +19,11 @@ Le hic, c'est qu'IKEA a arrêté la gamme Faktum en 2013. Depuis, c'est Metod qu
 
 Avant de commander quoi que ce soit, il faut être sure de ce que tu as chez toi. C'est la première étape, et aussi la plus importante - se tromper ici, c'est recevoir des portes inutilisables.
 
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771234799073.jpg" alt="Changer portes cuisines ikea faktum - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Comment savoir si tu as une cuisine Faktum ?**
 
 - Ta cuisine IKEA a été achetée avant 2014
@@ -59,6 +64,11 @@ flowchart LR
 
 Depuis l'arrêt du Faktum chez IKEA, un petit écosystème de fabricants s'est développé pour proposer des façades compatibles. Voici les acteurs que j'ai repérés, avec leurs particularités et leurs gammes de prix.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238088155.jpg" alt="Changer portes cuisines ikea faktum - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### RYK Home
 
 C'est le fournisseur que je recommande en premier. RYK Home propose des façades sur mesure, pensées pour les caissons Faktum. Leur gros avantage : tu conserves tes caissons ET tes charnières d'origine. Les portes arrivent pré-percées, prêtes à poser. Ils proposent aussi des échantillons gratuits ou à petit prix pour que tu puisses vérifier la couleur et la texture avant de passer commande.
@@ -98,6 +108,11 @@ Basé au Royaume-Uni, The Kitchen Door Company propose aussi des façades pour F
 
 Le budget dépend évidemment de la taille de ta cuisine et du fournisseur choisi. Voici un récapitulatif pour une cuisine classique en L avec 12 à 15 façades (portes + tiroirs).
 
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771233855334.jpg" alt="Changer portes cuisines ikea faktum - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 | Poste | Budget bas | Budget moyen | Budget haut |
 |-------|-----------|-------------|------------|
 | Façades seules (12-15 pièces) | 500 euros | 900 euros | 1 500 euros |
@@ -114,6 +129,11 @@ Compare ca avec le prix d'une cuisine neuve complète (caissons + façades + pla
 ## Comment remplacer les façades : les étapes
 
 Le remplacement est à la portée de toute personne capable de tenir un tournevis. Pas besoin de plombier, pas besoin de retirer le plan de travail, pas besoin de toucher à l'électroménager. Voici le processus, étape par étape.
+
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771234796649.jpg" alt="Changer portes cuisines ikea faktum - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### 1. Mesurer et identifier tes façades
 
@@ -170,6 +190,11 @@ Prends le temps de régler chaque porte pour que les espaces entre les façades 
 ## Quel style choisir pour tes nouvelles façades ?
 
 Puisque tu changes les portes, autant en profiter pour donner un vrai coup de frais à l'ambiance de ta cuisine. Voici les tendances qui marchent bien en 2026 et qui s'adaptent aux caissons Faktum.
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-couleur-olive-vert-sauge-d-coration-moderne-1771232832003.jpg" alt="Changer portes cuisines ikea faktum - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le mat texturé
 

@@ -17,6 +17,11 @@ Le brun, c'est la couleur qu'on oublie souvent quand on pense déco. On fonce su
 
 Le brun a longtemps souffert d'une mauvaise réputation. On l'associait aux salons des années 80, aux canapés en skaï marron et aux lambris défraîchis. Mais la tendance s'est complètement inversée. En 2026, les intérieurs qui misent sur les tons bruns - du chocolat profond au camel doux - sont partout sur les réseaux et dans les magazines.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771232471248.jpg" alt="Salons bruns idees et images - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Plusieurs raisons à ce retour :
 
 - Les matériaux naturels sont au coeur des tendances actuelles : bois, cuir, lin brut, jute. Et ces matières sont naturellement brunes.
@@ -29,6 +34,11 @@ Plusieurs raisons à ce retour :
 ## Les nuances de brun à connaître (et comment choisir la tienne)
 
 Avant de te lancer, il faut comprendre que tous les bruns ne se valent pas. Le choix de la nuance dépend de la taille de ton salon, de sa luminosité et de l'ambiance que tu veux créer.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231982087.jpg" alt="Salons bruns idees et images - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 graph TD
@@ -66,6 +76,11 @@ Les bruns dorés apportent de la lumière. Si ton salon manque de luminosité na
 
 Le canapé, c'est le point de départ logique quand on veut intégrer du brun dans son salon. C'est le meuble le plus imposant visuellement, et c'est lui qui donne le ton à toute la pièce.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231430986.jpg" alt="Salons bruns idees et images - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Cuir ou tissu ?
 
 Le cuir brun, c'est le grand classique. Un canapé en cuir pleine fleur couleur cognac ou chocolat, ça traverse les décennies sans broncher. Le cuir vieillit bien, il se patine - et cette patine fait partie du charme. Budget : entre 800 euros (Ikea KIVIK cuir) et 3500 euros (canapés artisanaux type BoConcept ou Roche Bobois).
@@ -87,6 +102,11 @@ Si tu cherches aussi des idées pour [moderniser ton appartement dans un style p
 
 Peindre un mur en brun, ça fait peur à beaucoup de monde. Et c'est normal - mal dosé, ça peut vite assombrir une pièce. Mais bien fait, c'est spectaculaire.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771228632798.jpg" alt="Salons bruns idees et images - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### La règle du mur unique
 
 Ne peins jamais les quatre murs en brun foncé. La bonne stratégie, c'est un seul mur d'accent dans un brun profond (chocolat, moka, terre brûlée), et les trois autres en blanc chaud, crème ou beige très clair. Ça crée de la profondeur sans étouffer l'espace. Pour aller plus loin sur le sujet des couleurs qui créent de la profondeur, jette un oeil à notre article sur les [couleurs pour donner de la profondeur à un mur ou à une pièce](/guides/couleurs/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece/).
@@ -100,6 +120,11 @@ Le papier peint est une autre option géniale. Les papiers peints à motifs bota
 ## Les combinaisons de couleurs qui marchent avec le brun
 
 Le brun est une base géniale parce qu'il se marie avec une quantité énorme de couleurs. Voici les combinaisons les plus réussies pour un salon.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231954334.jpg" alt="Salons bruns idees et images - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 graph LR

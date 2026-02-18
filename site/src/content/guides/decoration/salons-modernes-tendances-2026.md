@@ -17,6 +17,11 @@ Tu as envie de redonner du caractère à ton salon sans tomber dans le total loo
 
 Oublie les salons tout blancs et tout vides des années 2010. Le minimalisme version 2026 garde l'idée d'un espace aéré, mais y ajoute de la chaleur, de la personnalité, des objets qui ont du sens. Les designers parlent de "minimalisme vivant", et franchement c'est l'approche la plus maline pour un salon moderne.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771232433736.jpg" alt="Salons modernes tendances 2026 - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Le principe est simple : tu gardes peu de meubles, mais chaque pièce est choisie avec soin. Un canapé avec du vrai caractère (en velours texturé ou en cuir patiné), une table basse en bois brut aux formes organiques, un ou deux objets déco qui te plaisent vraiment - et c'est tout. L'espace respire, mais il n'est jamais froid.
 
 > [!TIP]
@@ -27,6 +32,11 @@ Ce qui change par rapport au minimalisme classique, c'est le rapport aux matièr
 ## Les couleurs qui définissent les salons modernes en 2026
 
 La palette de cette année joue sur des teintes à la fois douces et affirmées. Fini le tout-gris qui a dominé pendant des années. Place aux couleurs qui réchauffent et qui racontent quelque chose.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232942487.jpg" alt="Salons modernes tendances 2026 - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le beige chaud et ses déclinaisons
 
@@ -64,6 +74,11 @@ Moins orangée qu'il y a deux ans, la terracotta version 2026 tire vers la briqu
 
 C'est peut-être la partie la plus intéressante des tendances 2026 : le toucher reprend ses droits. Un salon moderne ne se regarde plus seulement, il se vit avec les mains, les pieds, le corps entier. Les matières sont choisies autant pour leur esthétique que pour la sensation qu'elles procurent.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231939974.jpg" alt="Salons modernes tendances 2026 - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le bois brut et le bois récupéré
 
 Le bois reste le pilier de la déco salon. Mais en 2026, on le préfère brut, avec ses noeuds, ses veines visibles, ses imperfections. Le chêne naturel, le noyer fumé, le frêne blanchi dominent. Et le bois récupéré ou de seconde main gagne du terrain : une vieille table de ferme retapée, un tabouret vintage en orme, un plateau en bois flotté.
@@ -84,6 +99,11 @@ Pour les textiles, deux matières s'imposent. Le velours côtelé ou lisse appor
 ## Mobilier : les formes qui comptent en 2026
 
 Le mobilier salon 2026 se reconnaît à ses formes. La ligne droite et anguleuse laisse la place aux courbes douces, aux formes organiques, aux volumes généreux. C'est un virage qui s'est amorcé il y a deux ans, mais qui arrive maintenant à maturité dans des pièces vraiment abouties.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771234916934.jpg" alt="Salons modernes tendances 2026 - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le canapé aux lignes arrondies
 
@@ -118,6 +138,11 @@ flowchart TD
 ## Accessoires et déco murale : les détails qui changent tout
 
 Un salon moderne se joue aussi dans les détails. Les accessoires et la décoration murale permettent de personnaliser l'espace sans engagement lourd. Tu peux changer de tapis, de coussins ou d'objets déco tous les six mois sans refaire toute la pièce.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232743340.jpg" alt="Salons modernes tendances 2026 - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le tapis comme pièce maîtresse
 

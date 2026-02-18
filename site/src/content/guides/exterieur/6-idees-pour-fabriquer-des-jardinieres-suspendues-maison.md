@@ -35,6 +35,11 @@ Suspendre ses plantes, c'est une solution pratique pour les petits espaces, les 
 
 Le macramé, c'est l'option qui revient partout sur Pinterest - et pour cause. C'est beau, c'est simple, et tu n'as besoin que d'un seul matériau : de la corde.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231839101.jpg" alt="6 idees pour fabriquer des jardinieres suspendues maison - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Matériaux :**
 - 8 brins de corde de coton tressé 4 mm, de 2 m chacun : 6 euros le rouleau de 50 m (Amazon, Action)
 - 1 anneau en bois ou en métal de 5 cm de diamètre : 1 euro (rayon mercerie)
@@ -103,6 +108,11 @@ Ce modèle est parfait pour les plantes à port retombant - pothos, lierre, cha�
 
 Tu as une vieille échelle en bois au garage ? C'est une base parfaite pour un jardin suspendu linéaire.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771235327265.jpg" alt="6 idees pour fabriquer des jardinieres suspendues maison - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Matériaux :**
 - 1 échelle en bois (1 à 1,50 m) : récup ou 10 à 20 euros en brocante
 - 4 pitons à vis fermés + 4 mousquetons : 6 euros
@@ -155,6 +165,11 @@ Pour enrichir ce genre de projet créatif, tu peux aussi jeter un oeil au guide 
 ## Idée 5 - Les bulles de verre recyclé
 
 Les terrariums en verre coûtent 15 à 30 euros pièce en boutique. Avec des bocaux récupérés et du fil de fer, tu obtiens le même effet pour presque rien.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771237075250.jpg" alt="6 idees pour fabriquer des jardinieres suspendues maison - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Matériaux :**
 - 2 à 3 bocaux en verre (type Le Parfait ou bocaux à confiture large) : récup, 0 euro
@@ -212,6 +227,11 @@ Tu le déplaces selon la saison, tu le rentres en hiver, tu l'emmènes si tu dé
 | Bulles de verre | 8-14 euros | Facile | 15-20 min | Terrarium, minimaliste |
 | Portant fleuri | 15-30 euros | Très facile | 15 min | Locataires, mobile |
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233529555.jpg" alt="6 idees pour fabriquer des jardinieres suspendues maison - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 quadrantChart
     title Jardinières suspendues - Coût vs Difficulté
@@ -246,6 +266,11 @@ Si tu veux intégrer tes suspensions dans un aménagement plus large, le guide p
 ## Les erreurs à éviter
 
 **Oublier le drainage.** Chaque pot doit avoir un trou au fond. Pour les pots déco sans trou, utilise-les comme cache-pot avec un pot percé à l'intérieur.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233481565.jpg" alt="6 idees pour fabriquer des jardinieres suspendues maison - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Sous-estimer l'arrosage.** En hauteur, les plantes sèchent plus vite. Prévois 2 à 3 arrosages par semaine en été, un par semaine en hiver.
 

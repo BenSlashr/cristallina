@@ -19,6 +19,11 @@ Le vintage, ce n'est pas une mode passagère. C'est une approche durable de la d
 
 Avant de se lancer, mettons les mots au clair. Le vintage désigne des objets fabriqués entre les années 1920 et 1980 - des pièces d'époque, pas des reproductions. Le rétro, c'est du neuf qui s'inspire des codes esthétiques du passé. Et la brocante, c'est l'endroit où tu trouves les deux.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236983097.jpg" alt="Decoration vintage 50 images et idees pour linspiration - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 En déco, on mélange souvent vintage et rétro dans un même intérieur, et c'est très bien comme ça. L'idée n'est pas de recréer un décor d'époque au centimètre près, mais de picorer des inspirations dans différentes décennies pour composer quelque chose de personnel.
 
 > [!NOTE]
@@ -27,6 +32,11 @@ En déco, on mélange souvent vintage et rétro dans un même intérieur, et c'e
 ## Les grandes périodes vintage à connaître
 
 Chaque décennie a ses codes, ses matériaux et ses couleurs. Voici un panorama rapide pour t'aider à identifier ce qui te plaît et ce qui ira chez toi.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237180986.jpg" alt="Decoration vintage 50 images et idees pour linspiration - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les années 50 : formica, couleurs vives et électroménager pop
 
@@ -80,6 +90,11 @@ Le mouvement Memphis (lancé par Ettore Sottsass à Milan) casse tous les codes 
 
 Le salon, c'est la pièce où le vintage prend tout son sens. L'espace de vie, la vitrine de tes trouvailles. Voici comment l'aborder.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771238261331.jpg" alt="Decoration vintage 50 images et idees pour linspiration - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Le canapé arrondi.** La pièce star du salon vintage. Les formes boudinées, les accoudoirs roulés et les pieds en bois des années 60-70 reviennent en force. Chez Made.com, le modèle "Tubby" tourne autour de 700-900 euros et capte bien l'esprit. En brocante, un canapé d'époque coûte entre 200 et 600 euros - mais pense au coût du retapissage si le tissu est fatigué.
 
 **La table basse pieds compas.** C'est l'objet mid-century par excellence. En teck, en chêne ou en palissandre, avec son plateau ovale ou rectangulaire et ses pieds obliques. Compter 150-400 euros en brocante. La Redoute propose aussi des reproductions très réussies autour de 200 euros.
@@ -99,6 +114,11 @@ Pour un mix réussi entre ancien et actuel, tu peux aussi t'inspirer du [style A
 
 La cuisine est un terrain de jeu formidable pour le vintage. C'est souvent là que le style prend le plus de caractère, parce que les objets du quotidien deviennent de la déco.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236629899.jpg" alt="Decoration vintage 50 images et idees pour linspiration - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Les chaises dépareillées.** Quatre chaises de couleurs différentes autour d'une table en bois brut - c'est un classique qui fonctionne toujours. Cherche des chaises en bois coloré des années 70 (15-40 euros pièce en brocante), ou adopte les chaises Tolix en métal (90 euros neuves, 40-60 euros d'occasion) dans des tons pastel.
 
 **L'électroménager rétro.** Un grille-pain Smeg (160 euros), une bouilloire Russell Hobbs Retro (50 euros), un robot KitchenAid coloré (450-600 euros) - ces objets transforment un plan de travail banal en cuisine des sixties. Pas besoin de tout changer : deux ou trois pièces suffisent.
@@ -111,6 +131,11 @@ La cuisine est un terrain de jeu formidable pour le vintage. C'est souvent là q
 ## La chambre et les autres pièces : inspiration par espace
 
 **La chambre.** Un lit en laiton ou en fer forgé avec une tête de lit travaillée (200-500 euros en brocante), une table de chevet qui était autrefois un tabouret d'atelier, une commode scandinave des années 60. Côté textiles, joue sur les motifs floraux et les couleurs moutarde ou terracotta pour une ambiance 70s cosy. Si tu cherches aussi un style déco avec du caractère pour ta chambre, le [style shabby chic](/guides/decoration/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/) se marie très bien avec le vintage.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237262325.jpg" alt="Decoration vintage 50 images et idees pour linspiration - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **La salle de bain.** Un miroir barbier rond en laiton (40-100 euros), un meuble sous-vasque chiné et repeint, des paniers en osier pour le rangement, une affiche publicitaire rétro encadrée au mur.
 

@@ -19,6 +19,11 @@ Je t'explique tout : les 3 grandes technologies (solaire, LED à piles, connect�
 
 Avant de foncer en magasin, il faut comprendre ce qui existe. L'éclairage extérieur sans fil se divise en trois familles, chacune avec ses forces et ses limites.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771234050445.jpg" alt="Installer eclairage exterieur sans fil - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le solaire : autonome et gratuit à l'usage
 
 Un panneau photovoltaïque intégré (ou déporté) capte la lumière du jour, stocke l'énergie dans une batterie interne, et alimente la LED une fois la nuit tombée. Zéro fil, zéro électricité, zéro coût de fonctionnement. La pose se résume à planter ou poser.
@@ -49,6 +54,11 @@ Les lampes connectées se pilotent depuis une application sur ton téléphone. T
 ## Quel éclairage pour quel usage ?
 
 Le piège classique : vouloir tout éclairer de la même manière. Un chemin et une table de dîner n'ont pas les mêmes besoins. Voici comment répartir tes sources lumineuses.
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771231634079.jpg" alt="Installer eclairage exterieur sans fil - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Éclairer une allée ou un chemin
 
@@ -111,6 +121,11 @@ graph TD
 
 Le gros avantage du sans fil, c'est la simplicité de pose. Pas besoin d'être électricien ni de creuser. Quelques règles à respecter quand même pour que ça fonctionne.
 
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771233081175.jpg" alt="Installer eclairage exterieur sans fil - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Repérer les zones d'ensoleillement.** Observe ton jardin pendant une journée entière. Les bornes et spots solaires doivent recevoir au minimum 6 heures de soleil direct pour se recharger. Un emplacement à l'ombre d'un mur ou sous un arbre dense ne donnera rien.
 
 **Tester le positionnement de nuit.** Pose tes lampes au sol sans les fixer, et observe le résultat une fois la nuit tombée. Tu déplaceras probablement la moitié des luminaires après ce test - c'est normal.
@@ -125,6 +140,11 @@ Le gros avantage du sans fil, c'est la simplicité de pose. Pas besoin d'être �
 ## Le connecté : transformer ton éclairage existant
 
 Tu as déjà des luminaires extérieurs sur secteur et tu veux les rendre "intelligents" sans tout changer ? Les interrupteurs et prises connectés sont une bonne option.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235365714.jpg" alt="Installer eclairage exterieur sans fil - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Un interrupteur connecté Legrand Celiane with Netatmo (70 euros) ou Schneider Wiser (50 euros) remplace ton interrupteur classique et te permet de piloter tes lampes depuis une app. Tu programmes l'allumage au coucher du soleil, l'extinction à minuit, et tu oublies.
 
@@ -153,6 +173,11 @@ graph LR
 ## Les 5 erreurs les plus courantes (et comment les éviter)
 
 Voici les pièges les plus fréquents et comment les éviter.
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-moderne-2026-enduit-bardage-design-1771235678649.jpg" alt="Installer eclairage exterieur sans fil - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Erreur 1 : acheter du solaire pour un jardin ombragé.** Si ta terrasse est sous une [pergola bioclimatique](/guides/exterieur/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) ou un grand arbre, le panneau solaire ne recevra pas assez de lumière. Résultat : 2 heures d'éclairage faiblard au lieu de 8. Passe au rechargeable USB ou au connecté sur secteur dans ces zones.
 

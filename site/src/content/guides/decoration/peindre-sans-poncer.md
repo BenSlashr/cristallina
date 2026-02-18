@@ -19,6 +19,11 @@ Dans cet article, je te donne toute la méthode : les produits qui permettent de
 
 Avant d'aller plus loin, comprendre pourquoi on ponce, ça aide à savoir quand on peut vraiment l'éviter. L'idée derrière le ponçage, c'est de créer de la rugosité sur la surface pour que la nouvelle couche de peinture accroche mieux. Sur un meuble très lisse, une peinture acrylique standard va avoir du mal à adhérer - elle risque de s'écailler au premier choc.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236664865.jpg" alt="Peindre sans poncer - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Mais voilà : il existe aujourd'hui des produits qui remplacent cette étape en nettoyant, dégraissant et "mordançant" la surface chimiquement. Résultat - ta surface est prête à recevoir la peinture sans avoir été abrasée. C'est la clé de tout.
 
 > [!NOTE]
@@ -27,6 +32,11 @@ Mais voilà : il existe aujourd'hui des produits qui remplacent cette étape en 
 ## Les surfaces où tu peux peindre sans poncer
 
 Tout ne réagit pas de la même façon, voici un tour d'horizon des cas les plus fréquents en rénovation intérieure.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237881076.jpg" alt="Peindre sans poncer - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Meubles en bois peints ou laqués
 
@@ -64,6 +74,11 @@ flowchart TD
     F --> I[Peinture\nmultisupport]:::violet
     G --> I
     H --> G
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235385821.jpg" alt="Peindre sans poncer - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
     style A fill:#FFF0F5,stroke:#E879F9,color:#701A75
     style B fill:#F3F4F6,stroke:#8B5CF6,color:#581C87
@@ -106,6 +121,11 @@ C'est la troisième option : certaines peintures sont formulées directement pou
 ## La méthode étape par étape
 
 Voici le protocole que je suis quand je veux rénover un meuble ou une surface sans passer par le ponçage.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236999541.jpg" alt="Peindre sans poncer - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart LR
@@ -165,6 +185,11 @@ Pour les meubles qui vont subir des frottements quotidiens - une table, des port
 ## Les erreurs à ne pas faire
 
 Le plus grand risque quand on saute le ponçage, c'est de négliger le nettoyage. Si ta surface n'est pas parfaitement propre et sèche avant de peindre, même la meilleure peinture multisupport du monde s'écaillera.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238075449.jpg" alt="Peindre sans poncer - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Autre piège classique : peindre dans une pièce trop froide ou trop humide. En dessous de 10°C, la plupart des peintures acryliques n'adhèrent pas correctement. Attends une journée plus clémente ou chauffe légèrement la pièce.
 

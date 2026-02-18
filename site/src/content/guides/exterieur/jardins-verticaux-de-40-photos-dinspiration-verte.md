@@ -21,6 +21,11 @@ Je t'ai sélectionné 40 photos qui couvrent tous les styles - du mur végétal 
 
 Avant de te lancer, il faut comprendre qu'il existe plusieurs familles de murs végétaux. Le choix dépend de ton budget, de ton espace et du temps que tu veux y consacrer.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771235199582.jpg" alt="Jardins verticaux de 40 photos dinspiration verte - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### 1. Le mur végétal en poches de feutre
 
 C'est le système le plus répandu pour débuter. Des poches en feutre géotextile sont fixées sur un support (plaque de PVC, palette, grillage). Chaque poche accueille une plante avec son substrat. L'arrosage est manuel ou par goutte-à-goutte.
@@ -75,6 +80,11 @@ flowchart TD
 
 Toutes les plantes ne supportent pas la culture verticale. Il leur faut des racines peu profondes, une tolérance à l'enracinement réduit et une bonne capacité d'adaptation à l'ombre partielle. Voici ma sélection testée et approuvée.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771235314197.jpg" alt="Jardins verticaux de 40 photos dinspiration verte - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Pour l'extérieur
 
 - **Heuchère** : Feuillage coloré (pourpre, vert lime, caramel), résiste au gel, pousse bien en situation verticale. 4 à 6 EUR le godet chez Jardiland.
@@ -98,6 +108,11 @@ Toutes les plantes ne supportent pas la culture verticale. Il leur faut des raci
 
 Le mur végétal intérieur, c'est le truc qui transforme un salon banal en showroom Pinterest. Et la bonne nouvelle, c'est que ça fonctionne dans des pièces de tailles très différentes.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232721343.jpg" alt="Jardins verticaux de 40 photos dinspiration verte - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Style minimaliste** : Un panneau de 1 m2 avec 3 variétés maximum (pothos, fougère, chlorophytum) sur un mur blanc. L'effet est net, contemporain, pas surchargé. Ça se marie bien avec un [intérieur aux couleurs tendance 2026](/guides/couleurs/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/).
 
 **Style jungle tropicale** : Tout un mur recouvert, du sol au plafond, avec une vingtaine d'espèces mélangées. Monstera, philodendron, calathéa, fougères... C'est généreux, vivant, un peu sauvage. Budget conséquent (500 à 1 500 EUR selon la surface) mais l'impact visuel est maximum.
@@ -109,6 +124,11 @@ Le mur végétal intérieur, c'est le truc qui transforme un salon banal en show
 ## Jardin vertical extérieur : 15 idées pour terrasses et balcons
 
 Dehors, les possibilités explosent. Ton jardin vertical peut jouer plusieurs rôles à la fois : décoratif, nourricier, intimité, isolation phonique.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771235301672.jpg" alt="Jardins verticaux de 40 photos dinspiration verte - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Mur de clôture végétal** : Tu fixes des panneaux de treillis contre ta clôture et tu plantes des grimpantes (jasmin étoilé, chèvrefeuille, clématite). En 2 saisons, ta clôture devient un mur vert odorant. Budget : 30 à 50 EUR de treillis + 20 à 40 EUR de plantes grimpantes.
 
@@ -122,6 +142,11 @@ Dehors, les possibilités explosent. Ton jardin vertical peut jouer plusieurs r�
 **Façade végétalisée** : Le niveau au-dessus. La Cité du chocolat Valrhona à Valence (182 m2 de façade végétale par Valente) ou les cours intérieures parisiennes réalisées par Envert (227 m2) sont des exemples concrets de ce que peut donner un mur végétal à grande échelle. En résidentiel, des entreprises comme Jardins de Gally proposent des solutions adaptées aux particuliers.
 
 ## Comment installer ton jardin vertical : guide pas à pas
+
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771236530452.jpg" alt="Jardins verticaux de 40 photos dinspiration verte - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Matériel de base pour un mur en poches de feutre (2 m2)
 

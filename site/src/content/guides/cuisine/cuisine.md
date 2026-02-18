@@ -17,6 +17,11 @@ Ma première cuisine était "fonctionnelle" : meubles blancs standard, plan de t
 
 ## Les grandes tendances cuisine de 2026
 
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771232709510.jpg" alt="Cuisine - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### La cuisine ouverte - toujours, mais autrement
 
 La cuisine ouverte sur le salon n'est pas nouvelle, mais la façon de traiter cette ouverture a changé. On ne se contente plus d'abattre un mur et de poser un bar. La tendance 2026, c'est de créer des transitions douces : une verrière en verre cannelé, un îlot qui fait office de séparation, ou un changement de revêtement au sol qui dessine naturellement les deux zones.
@@ -41,6 +46,11 @@ Chez Cuisinella, la collection "Orbita" propose des façades arrondies à partir
 ## Choisir le bon agencement selon ton espace
 
 L'agencement dépend de la surface, de la forme de la pièce et de ta façon de cuisiner. Voici les quatre configurations principales et les espaces pour lesquels elles sont pensées.
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771235081884.jpg" alt="Cuisine - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart TD
@@ -82,6 +92,11 @@ L'îlot n'est pas un luxe réservé aux grandes surfaces. A partir de 10-12 m2, 
 
 ## Les styles qui dominent en 2026
 
+
+<div class="my-8">
+  <img src="/images/pinterest-petite-cuisine-moderne-2026-compact-optimis-e-1771237373821.jpg" alt="Cuisine - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le contemporain épuré
 
 Façades lisses sans poignée, tons neutres (blanc laine, gris perle, sable), hotte intégrée dans le plan de travail. Ce style mise sur l'absence de fioritures et fonctionne très bien dans les appartements modernes.
@@ -104,6 +119,11 @@ Pour aller plus loin sur les palettes, consulte le guide [couleurs de cuisine 20
 > Le zellige artisanal (crédence très tendance) est magnifique mais fragile. Compte entre 80 et 150 euros le m2 posé. Si tu cuisines beaucoup, protège-le avec un vernis alimentaire transparent (Julien, 25 euros les 500 ml). Sans protection, les taches de graisse s'incrustent dans les irrégularités de la surface.
 
 ## Les matériaux qui changent la donne
+
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-couleur-olive-vert-sauge-d-coration-moderne-1771232885102.jpg" alt="Cuisine - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Plans de travail : les options qui tiennent la route
 
@@ -145,6 +165,11 @@ Le choix du matériau de façade définit 80% de l'ambiance visuelle. Les grande
 ## Organisation et rangement : les bases qui changent tout
 
 Une belle cuisine mal organisée, c'est une cuisine frustrante. L'organisation passe par trois principes simples.
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771232749759.jpg" alt="Cuisine - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Le triangle d'activité.** Froid (réfrigérateur), lavage (évier) et cuisson (plaques) doivent former un triangle dont la somme des côtés ne dépasse pas 6-7 mètres. Plus c'est compact, moins tu fais de pas inutiles.
 

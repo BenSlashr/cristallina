@@ -17,6 +17,11 @@ Tu as sûrement vu passer des publicités promettant une "douche à 1 euro" et t
 
 Le dispositif "douche à 1 euro" était une aide gouvernementale qui permettait aux ménages modestes et aux personnes âgées de plus de 70 ans de remplacer leur baignoire par une douche à l'italienne pour 1 euro symbolique. Le reste des travaux - qui pouvait représenter entre 3 000 et 8 000 euros - était pris en charge par une combinaison d'aides publiques et de crédits d'impôt.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237604450.jpg" alt="Douche 1 euro - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Le principe était simple : tu faisais appel à une entreprise certifiée RGE (Reconnu Garant de l'Environnement), elle réalisait les travaux, et elle se faisait rembourser directement par les organismes financeurs. Toi, tu ne payais que 1 euro.
 
 Ce dispositif ciblait surtout :
@@ -31,6 +36,11 @@ Ce dispositif ciblait surtout :
 
 Soyons honnêtes : la douche à 1 euro a aussi généré beaucoup d'arnaques. Des entreprises peu sérieuses démarchaient à domicile des personnes âgées vulnérables, leur faisaient signer des devis en blanc, et facturaient des prestations de mauvaise qualité à des prix gonflés. L'aide publique couvrait tout, donc personne ne vérifiait vraiment la qualité des travaux.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237933681.jpg" alt="Douche 1 euro - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Résultat : des milliers de plaintes, des procédures judiciaires, et une mauvaise réputation pour l'ensemble du secteur. Le gouvernement a donc stoppé le dispositif tel quel et reorganisé les aides.
 
 > [!WARNING]
@@ -39,6 +49,11 @@ Résultat : des milliers de plaintes, des procédures judiciaires, et une mauvai
 ## Ce qui remplace la douche à 1 euro en 2026
 
 Bonne nouvelle : les aides existent encore, elles sont juste mieux encadrées. Voici les dispositifs actifs en 2026.
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237505281.jpg" alt="Douche 1 euro - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### MaPrimeAdapt'
 
@@ -109,6 +124,11 @@ Sur des travaux à 5 000 euros HT, la TVA réduite te fait économiser environ 6
 
 Le système des aides est complexe, c'est vrai. Mais il existe des solutions pour t'y retrouver sans passer des semaines à éplucher des formulaires.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237427342.jpg" alt="Douche 1 euro - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### France Rénov' : ton point d'entrée unique
 
 Le site france-renov.gouv.fr et le numéro 0 808 800 700 (gratuit) te permettent d'être orienté vers les aides auxquelles tu as droit. Des conseillers humains peuvent faire un diagnostic de ta situation et t'accompagner dans les démarches.
@@ -155,6 +175,11 @@ sequenceDiagram
 ## Quel type de douche choisir pour ta rénovation ?
 
 Une fois que tu as bouclé le financement, vient le moment choisi la douche. Et là, les options sont nombreuses.
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237675556.jpg" alt="Douche 1 euro - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### La douche à l'italienne : le grand classique
 

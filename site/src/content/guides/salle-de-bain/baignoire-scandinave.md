@@ -19,6 +19,11 @@ Dans cet article, je t'explique tout ce qu'il faut savoir pour choisir ta baigno
 
 Le design nordique, c'est bien plus qu'une tendance Instagram. C'est une philosophie de vie qui s'appelle le "hygge" en danois - ce sentiment de confort douillet, de sécurité et de bien-être qu'on cherche à créer chez soi. Et la salle de bain est l'endroit idéal pour l'appliquer.
 
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771234663988.jpg" alt="Baignoire scandinave - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Dans une salle de bain scandinave, rien n'est superflu. Chaque élément a sa raison d'être. Les lignes sont propres, les couleurs restent dans des tonalités douces (blanc, gris perle, beige sable, bois naturel), et la lumière - qu'elle soit naturelle ou artificielle - joue un rôle central dans l'ambiance.
 
 La baignoire, dans cette philosophie, n'est pas juste un équipement sanitaire. C'est la pièce maîtresse de la pièce, le point focal autour duquel tout s'organise.
@@ -27,6 +32,11 @@ La baignoire, dans cette philosophie, n'est pas juste un équipement sanitaire. 
 > Le style scandinave en déco n'est pas synonyme d'une salle de bain froide ou austère. L'idée, c'est de créer de la chaleur avec peu d'éléments bien choisis : un accessoire en bois, une plante, une bougie.
 
 ## Les caractéristiques d'une baignoire de style scandinave
+
+
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771236327836.jpg" alt="Baignoire scandinave - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### La forme : épurée et sculpturale
 
@@ -72,6 +82,11 @@ flowchart TD
     D --> J["Sur socle en bois clair"]
     D --> K["Sur pieds de type 'tulipe'"]
 
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771234226707.jpg" alt="Baignoire scandinave - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
     style A fill:#FFF0F5,stroke:#E879F9,color:#701A75
     style B fill:#FFF0F5,stroke:#E879F9,color:#701A75
     style C fill:#F3F4F6,stroke:#8B5CF6,color:#581C87
@@ -86,6 +101,11 @@ flowchart TD
 ```
 
 ## Quelles marques pour une baignoire scandinave ?
+
+
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771233428319.jpg" alt="Baignoire scandinave - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Les marques nordiques authentiques
 
@@ -105,6 +125,11 @@ flowchart TD
 > Quand tu achètes une baignoire "de style nordique" chez une grande enseigne, vérifie toujours l'épaisseur de l'acrylique (minimum 3 mm), la rigidité du fond, et que la robinetterie que tu as en tête est compatible. Ces détails font beaucoup sur la durabilité.
 
 ## Comment intégrer une baignoire scandinave dans ta salle de bain
+
+
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771235623340.jpg" alt="Baignoire scandinave - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### L'environnement idéal
 

@@ -19,6 +19,11 @@ Le secret, ce n'est pas un truc magique. C'est une combinaison de choix précis 
 
 On va parler déco, promis. Mais d'abord, il faut régler le sujet santé. Une chambre sans fenêtre n'a pas d'aération naturelle. Sans système mécanique, l'humidité s'accumule, les odeurs stagnent, et tu respires un air de moins en moins bon pendant la nuit.
 
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771234368354.jpg" alt="Chambre sans fenetre - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Ce qu'il te faut au minimum :**
 - Une **VMC simple flux** raccordée à la pièce (si ton logement en a une, vérifie que la chambre a bien une bouche d'extraction)
 - Ou un **extracteur d'air mural** type Vent-Axia Silhouette (entre 45 et 80 euros selon le modèle) branché sur une gaine vers l'extérieur
@@ -52,6 +57,11 @@ flowchart TD
 
 C'est le levier le plus puissant dans une pièce sans lumière naturelle. L'erreur classique ? Un seul plafonnier central. Résultat : une lumière plate qui rappelle un bureau administratif. L'objectif, c'est de reproduire les variations de la lumière naturelle.
 
+<div class="my-8">
+  <img src="/images/pinterest-chambre-adulte-deux-couleurs-peinture-bicolore-1771236764304.jpg" alt="Chambre sans fenetre - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Les couches à combiner :**
 
 1. **Éclairage général** : plafonnier diffus ou spots encastrés. Le plafonnier NYMANE d'IKEA (39 euros) ou des spots LED encastrables (8-15 euros pièce chez Leroy Merlin).
@@ -67,6 +77,11 @@ C'est le levier le plus puissant dans une pièce sans lumière naturelle. L'erre
 
 Le miroir, c'est la fausse fenêtre du pauvre - et ça marche. Un grand miroir placé face à ta source lumineuse principale va refléter et redistribuer la lumière dans toute la pièce. L'effet d'agrandissement visuel est réel : le mur semble reculer.
 
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771233107733.jpg" alt="Chambre sans fenetre - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Où le placer :** en face du mur où se concentrent tes luminaires, ou sur le mur adjacent à la porte si elle laisse entrer de la lumière depuis le couloir.
 
 **Budget :** le miroir HOVET d'IKEA (199 euros, 78 x 196 cm) fait le job. En plus économique, le miroir LOTS (4 miroirs carrés pour 10 euros) crée un effet graphique intéressant en les assemblant.
@@ -74,6 +89,11 @@ Le miroir, c'est la fausse fenêtre du pauvre - et ça marche. Un grand miroir p
 ## Idée 3 : peindre en couleurs claires, mais pas que du blanc
 
 Le blanc total dans une chambre sans fenêtre donne un effet "hôpital" assez froid. Les couleurs claires fonctionnent mieux : elles réfléchissent la lumière artificielle sans créer une ambiance clinique.
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771234278613.jpg" alt="Chambre sans fenetre - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Les teintes gagnantes :**
 - **Blanc cassé tirant sur le crème** : Farrow & Ball "Pointing" ou Tollens "Blanc lin" (35-45 euros le pot de 2,5 L)
@@ -85,6 +105,11 @@ Si tu veux creuser les combinaisons de teintes pour ta chambre, mon guide sur [l
 ## Idée 4 : la fausse fenêtre lumineuse
 
 Oui, ça existe. Ce sont des panneaux LED qui reproduisent la forme et la luminosité d'une fenêtre. Sur Amazon, les panneaux LED type "fenêtre" coûtent entre 80 et 200 euros (60 x 120 cm en moyenne).
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-coucher-2026-tendances-d-coration-moderne-1771232266942.jpg" alt="Chambre sans fenetre - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Version DIY** : un cadre photo grand format IKEA RIBBA (15 euros), un panneau LED plat (40-60 euros) et un film diffuseur imprimé ciel bleu (10-15 euros). Total : environ 70 euros. Place-la en hauteur avec un voilage devant pour renforcer l'illusion.
 

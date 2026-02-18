@@ -21,6 +21,11 @@ Allez, je t'aide à trouver LA bonne teinte.
 
 ## Les couleurs tendance pour les portes d'entrée en 2026
 
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771237351336.jpg" alt="Couleurs des portes exterieures comment choisir la couleur - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Les verts nature : le grand favori
 
 Le vert est la couleur star de 2026 pour les portes extérieures. Vert sauge, vert olive, vert anglais, vert forêt - chaque nuance a son ambiance. Le vert sauge, doux et grisé, fonctionne sur à peu près tous les styles de maison. Le vert anglais (plus soutenu, presque bouteille) donne un côté chic et intemporel.
@@ -58,6 +63,11 @@ Le rouge vif sur une porte d'entrée, c'est un grand classique anglo-saxon qui f
 ## Choisir selon le matériau de ta porte
 
 Le matériau de ta porte influence directement le rendu de la couleur et le type de peinture à utiliser. Voici un tour d'horizon pour t'y retrouver.
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-ocre-terre-cuite-mur-d-coration-chaude-1771238029016.jpg" alt="Couleurs des portes exterieures comment choisir la couleur - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 graph TD
@@ -104,6 +114,11 @@ Le PVC offre moins de latitude couleur que l'alu, mais les gammes s'élargissent
 
 La porte d'entrée ne vit pas en solo. Elle fait partie d'un ensemble avec la façade, les volets, les fenêtres, le toit et même la boîte aux lettres. Voici comment créer une harmonie qui fonctionne.
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771238061389.jpg" alt="Couleurs des portes exterieures comment choisir la couleur - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le contraste maîtrisé
 
 La règle la plus simple : ta porte doit se démarquer de ta façade, mais sans hurler. Si ta façade est claire (blanche, beige, sable), une porte foncée (bleu marine, vert forêt, noir) crée un point focal élégant. À l'inverse, sur une façade sombre (gris anthracite, brique foncée), une porte dans un ton plus clair ou plus chaud attire le regard sans créer de conflit visuel.
@@ -142,6 +157,11 @@ flowchart LR
 
 Si tu décides de repeindre ta porte toi-même, voici la marche à suivre. C'est un projet accessible, même pour une débutante en bricolage.
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771236823256.jpg" alt="Couleurs des portes exterieures comment choisir la couleur - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le matériel nécessaire
 
 - Papier de verre grain 120 puis 240
@@ -173,6 +193,11 @@ Une porte d'entrée exposée aux éléments a besoin d'un petit coup de pouce r�
 Si ta couleur commence à se ternir avant l'heure, c'est souvent un problème de qualité de peinture ou de préparation du support. Investir dans une bonne peinture extérieure dès le départ, ça fait une vraie différence sur la durée.
 
 ## Les erreurs à éviter absolument
+
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-ocre-terre-cuite-mur-d-coration-chaude-1771236636412.jpg" alt="Couleurs des portes exterieures comment choisir la couleur - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Ignorer la réglementation
 

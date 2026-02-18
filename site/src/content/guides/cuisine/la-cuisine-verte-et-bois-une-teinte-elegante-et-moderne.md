@@ -17,6 +17,11 @@ Si tu cherches une combinaison qui a de la personnalité sans basculer dans le c
 
 Dans la nature, cette combinaison existe partout - les arbres, les forêts, les jardins. Notre cerveau y est tellement habitué qu'il la perçoit comme quelque chose de logique et d'apaisant. En cuisine, ça se traduit par un espace qui ne fatigue pas les yeux, même après des années.
 
+<div class="my-8">
+  <img src="/images/pinterest-petite-cuisine-moderne-2026-compact-optimis-e-1771237551327.jpg" alt="La cuisine verte et bois une teinte elegante et moderne - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Mais il y a une raison plus concrète aussi. Le vert est une couleur qui a une vraie présence visuelle sans être agressive. Il ne crie pas comme le rouge, ne refroidit pas comme le bleu. Le bois, lui, vient adoucir et ancrer. Il ajoute une dimension tactile et chaleureuse que les cuisines tout laqué ou tout béton n'ont pas.
 
 Le résultat : une pièce qui semble à la fois pensée et naturelle, sans effort apparent.
@@ -46,6 +51,11 @@ graph TD
 
 C'est là que beaucoup de gens butent. "Vert", ça couvre un spectre énorme - du vert fluo au vert bouteille en passant par le vert d'eau. Voici les nuances qui ont fait leurs preuves en cuisine.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237833105.jpg" alt="La cuisine verte et bois une teinte elegante et moderne - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Le vert sauge** est probablement le plus facile à vivre. Il est un peu grisé, un peu poussiéreux, et cette discrétion lui permet de s'entendre avec presque tous les tons de bois. Farrow & Ball proposent le "Mizzle" qui est exactement dans cet esprit, autour de 180 euros les 5 litres. IKEA a aussi sa version avec les facades "BODARP" (gris vert), bien plus accessible.
 
 **Le vert forêt ou vert anglais** est plus intense, plus courageux. Il faut une cuisine assez lumineuse et un bois assez clair pour l'équilibrer - du chêne blanchi ou du frêne naturel, par exemple. Résultat très élégant, un peu british, qu'on voit beaucoup en ce moment. La marque Devol, référence britannique du genre, a popularisé ce look, mais il existe des versions accessibles chez Schmidt ou Mobalpa.
@@ -61,6 +71,11 @@ C'est là que beaucoup de gens butent. "Vert", ça couvre un spectre énorme - d
 
 La règle de base : plus ton vert est foncé, plus ton bois doit être clair. Et inversement - un vert pâle supporte bien un bois plus foncé sans que l'ensemble paraisse lourd.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237888458.jpg" alt="La cuisine verte et bois une teinte elegante et moderne - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Le chêne** est le grand classique. Sa texture grainée et son ton miel sont un fond parfait pour tous les verts. On le trouve partout, de IKEA (plateau KARLBY en chêne, environ 150 euros) à des ébénistes locaux pour du sur-mesure. Le chêne blanchi ou huilé blanc est particulièrement populaire en ce moment.
 
 **Le noyer** apporte une dimension plus luxueuse. Ses reflets brun-chocolat avec le vert forêt ou le vert anglais, c'est un combo qui a l'air très coûteux même quand ça ne l'est pas forcément. L'effet est plus adulte, plus sophistiqué.
@@ -75,6 +90,11 @@ La règle de base : plus ton vert est foncé, plus ton bois doit être clair. Et
 ## Comment répartir le vert et le bois
 
 La vraie question est : où va quoi ? Il y a plusieurs façons d'aborder ça.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771233942849.jpg" alt="La cuisine verte et bois une teinte elegante et moderne - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Facades vertes, plan de travail bois** : c'est la version la plus classique et elle fonctionne bien car le plan de travail est la surface la plus utilisée, donc l'usure du bois devient presque une patine. IKEA fait exactement ça avec ses combinaisons BODARP + plans KARLBY.
 
@@ -97,6 +117,11 @@ flowchart LR
 ## Les matériaux qui complètent le duo
 
 Le vert et le bois fonctionnent très bien à deux, mais ils s'enrichissent encore avec les bons complements.
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771233691170.jpg" alt="La cuisine verte et bois une teinte elegante et moderne - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Le marbre ou l'imitation marbre** est le grand ami de ce duo. Un plan de travail en marbre blanc veiné de gris sur des facades vertes et un ilot en chêne - là, c'est la photo de magazine. Dekton et Silestone proposent des versions résistantes et moins chères que le vrai marbre.
 

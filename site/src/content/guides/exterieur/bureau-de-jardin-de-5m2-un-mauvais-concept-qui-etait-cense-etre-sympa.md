@@ -19,6 +19,11 @@ Puis j'ai commencé à creuser le sujet pour de vrai. Et là, les doutes se sont
 
 Le seuil des 5m2 n'est pas anodin. En France, toute construction de moins de 5m2 est exonérée de permis de construire. Tu n'as même pas besoin de faire une déclaration préalable de travaux (sauf dans certaines zones protégées). C'est ce qui fait tout l'attrait du concept : tu commandes ta cabane en kit, tu la montes en un week-end, et voilà - tu as un bureau chez toi sans paperasse.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771234626333.jpg" alt="Bureau de jardin de 5m2 un mauvais concept qui etait cense etre sympa - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Du côté budget, les modèles d'entrée de gamme démarrent vers 2 500 - 3 500 euros pour un abri basique avec isolation légère. Les modèles sérieux avec double vitrage et isolation correcte, comme l'Avalon chez Chalet en Bois, se situent entre 4 000 et 7 000 euros. Chez des marques comme Greenkub ou Abri de Jardin Pro, les studios premium montent facilement à 10 000 - 15 000 euros mais là on s'éloigne du "simple bureau".
 
 > [!NOTE]
@@ -27,6 +32,11 @@ Du côté budget, les modèles d'entrée de gamme démarrent vers 2 500 - 3 500 
 ## La réalité du quotidien dans 5m2
 
 Voilà où ça se complique. Sur les photos marketing, tout semble fluide et élégant. Dans la réalité, 5m2 c'est petit. Très petit.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771234565174.jpg" alt="Bureau de jardin de 5m2 un mauvais concept qui etait cense etre sympa - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### L'espace de travail, c'est OK - mais rien d'autre
 
@@ -68,6 +78,11 @@ graph TD
 
 ## Ce que personne ne dit avant d'acheter
 
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771235351647.jpg" alt="Bureau de jardin de 5m2 un mauvais concept qui etait cense etre sympa - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### La dalle ou le plancher, ça s'oublie souvent
 
 La plupart des fabricants livrent la structure sans fondations. Tu dois prévoir soit une dalle béton (la solution la plus stable mais la plus chère, entre 500 et 1 500 euros selon la surface), soit des plots réglables ou une terrasse en composite. Sans une base solide et de niveau, la cabane se déforme avec le temps, les portes se bloquent, l'humidité s'infiltre par le bas.
@@ -89,6 +104,11 @@ Les agences immobilières confirment qu'un bureau de jardin bien intégré peut 
 
 Soyons directs : un bureau de jardin de 5m2 est une bonne idée pour des profils très spécifiques.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233570356.jpg" alt="Bureau de jardin de 5m2 un mauvais concept qui etait cense etre sympa - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **C'est fait pour toi si :**
 - Tu travailles seul.e, principalement sur ordinateur
 - Tu as besoin d'un espace calme, séparé physiquement de ta maison
@@ -107,6 +127,11 @@ Soyons directs : un bureau de jardin de 5m2 est une bonne idée pour des profils
 ## Les alternatives selon ton budget
 
 Si le 5m2 te semble trop juste ou trop cher à bien faire, voici d'autres options à envisager.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233669172.jpg" alt="Bureau de jardin de 5m2 un mauvais concept qui etait cense etre sympa - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart LR

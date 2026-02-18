@@ -19,6 +19,11 @@ Avant de plonger dans la technique, petit point de vocabulaire : ce qu'on appell
 
 Pas besoin d'investir une fortune. Voici ce que j'utilise, avec des références concrètes :
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237486434.jpg" alt="Instructions pour souder une gouttiere en zinc - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **L'outil chauffant** - Deux options :
 - Un **fer à souder à panne large** type Weller WHP 3000 (environ 45-60€ en bricolage). C'est l'outil préféré des zingueurs pour les réparations de gouttières : il chauffe progressivement et tu contrôles mieux la température.
 - Un **chalumeau à gaz propane** (type Rothenberger Superfire 2, autour de 35€). Plus rapide mais moins précis - à réserver si tu as de l'expérience avec le chalumeau.
@@ -58,6 +63,11 @@ flowchart TD
 
 La réussite d'une brasure dépend à 70% de la préparation. Une surface sale, grasse ou oxydée = étain qui ne colle pas. J'insiste là-dessus parce que c'est l'erreur classique du débutant.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237018757.jpg" alt="Instructions pour souder une gouttiere en zinc - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **1. Gratter et brosser**
 
 Commence par éliminer toute trace de rouille, de peinture ancienne, de vieille soudure décollée ou de dépôt calcaire. Utilise une brosse métallique à main en frottant bien dans tous les sens. Pour les zones plus récalcitrantes, le papier abrasif grain 80 est plus efficace.
@@ -78,6 +88,11 @@ Avec un pinceau ou le bout du doigt (gants !), étale le flux décapant sur tout
 ## La technique de brasure étape par étape
 
 C'est là que beaucoup de gens se découragent, mais si tu as bien préparé ta surface, le reste est logique.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237095696.jpg" alt="Instructions pour souder une gouttiere en zinc - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Pour une réparation de fissure ou de joint décollé :**
 
@@ -114,6 +129,11 @@ graph LR
 
 **Laisser refroidir naturellement.** Ne refroidis jamais une soudure en zinc avec de l'eau froide - le choc thermique peut créer des microfissures dans le joint. Laisse revenir à température ambiante (5-10 minutes).
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232894695.jpg" alt="Instructions pour souder une gouttiere en zinc - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Nettoyer le flux résiduel.** Même avec un flux neutre, il reste souvent une substance collante ou légèrement corrosive une fois refroidi. Frotte avec un chiffon humide ou une brosse douce, puis rince à l'eau propre. Pour un flux acide (si tu en as utilisé un), ce rinçage est obligatoire sous peine de corrosion accélérée.
 
 **Inspecter visuellement.** Un bon joint a une surface lisse, légèrement brillante, sans trous ni bulles. Si tu vois des cavités, tu peux facilement les combler : réchauffe doucement la zone et ajoute un peu d'étain.
@@ -126,6 +146,11 @@ graph LR
 ## Erreurs fréquentes et comment les éviter
 
 **Trop de chaleur** - Le zinc se bombe, se déforme ou se perce. Réduis la puissance ou éloigne l'outil et reprends plus doucement.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237953629.jpg" alt="Instructions pour souder une gouttiere en zinc - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Pas assez de chaleur** - L'étain fait des boules ou des "perles" qui ne s'étalent pas. Chauffe un peu plus longtemps avant de déposer l'étain.
 

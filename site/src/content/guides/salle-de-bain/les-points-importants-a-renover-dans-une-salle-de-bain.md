@@ -19,6 +19,11 @@ J'ai vu passer des dizaines de projets de rénovation autour de moi, et les regr
 
 C'est le point numéro un, et pourtant c'est celui qu'on traite en dernier. La ventilation, c'est ce qui empêche la moisissure, les mauvaises odeurs et la dégradation prématurée de tes matériaux. Sans une bonne aération, même le plus beau carrelage du monde finira par souffrir.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-industrielle-m-tal-carrelage-metro-noir-1771237464077.jpg" alt="Les points importants a renover dans une salle de bain - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Dans une salle de bain, tu produis entre 1 et 2 litres de vapeur d'eau par douche. Si cette humidité n'est pas évacuée correctement, elle se condense sur les murs, le plafond, derrière les meubles. Résultat : des joints qui noircissent, de la peinture qui cloque, et parfois des problèmes de santé.
 
 ### Ce qu'il te faut concrètement
@@ -33,6 +38,11 @@ Dans une salle de bain, tu produis entre 1 et 2 litres de vapeur d'eau par douch
 ## La plomberie : anticiper plutôt que réparer
 
 Quand tu ouvres les murs pour rénover, c'est LE moment de vérifier et upgrader ta plomberie. Parce que toucher à la tuyauterie une fois que tout est refermé, c'est le genre de galère que personne ne veut vivre.
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-cosy-chaleureuse-bois-naturel-spa-1771232519512.jpg" alt="Les points importants a renover dans une salle de bain - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les points à vérifier
 
@@ -69,6 +79,11 @@ flowchart TD
 
 L'éclairage est souvent traité comme un détail, un plafonnier central et basta. C'est une erreur. Une salle de bain bien éclairée est plus agréable, plus fonctionnelle, et paraît plus grande.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-cosy-chaleureuse-bois-naturel-spa-1771234975965.jpg" alt="Les points importants a renover dans une salle de bain - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Les trois niveaux d'éclairage
 
 **Éclairage général** : un plafonnier ou des spots encastrés en LED. Prévois environ 300 lumens par m2 pour une salle de bain. Pour une pièce de 5 m2, ça fait 1500 lumens - soit 2 à 3 spots LED de 7W. Budget : 15 à 40 euros le spot encastré chez Leroy Merlin.
@@ -87,6 +102,11 @@ Ne néglige pas ce point. Un éclairage trop froid (5000K et plus) donne un effe
 ## Le revêtement de sol : entre esthétique et sécurité
 
 Le sol de la salle de bain, c'est un choix technique autant qu'esthétique. Il doit résister à l'eau, être facile à nettoyer, et surtout ne pas glisser.
+
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771233194565.jpg" alt="Les points importants a renover dans une salle de bain - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les options et leurs prix
 
@@ -108,6 +128,11 @@ Les joints de carrelage dans une salle de bain, c'est le point faible. Ils absor
 ## Le rangement : prévoir avant de construire
 
 Combien de fois j'ai vu des salles de bain rénovées à grands frais mais sans rangement suffisant. Tu finis avec des produits qui s'accumulent sur le rebord de la baignoire et des serviettes en pile sur un tabouret.
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-cosy-chaleureuse-bois-naturel-spa-1771232434808.jpg" alt="Les points importants a renover dans une salle de bain - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Intégrer le rangement dès le départ
 

@@ -19,6 +19,11 @@ Jouer avec les teintes pour modifier la perception d'un espace, c'est un princip
 
 Avant de te donner les recettes, parlons vite du mécanisme. Notre cerveau interprète la profondeur en se basant sur des indices visuels : la taille des objets, la lumière, et... la couleur. Les teintes sombres absorbent la lumière et "reculent" visuellement, tandis que les claires réfléchissent et "avancent".
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771235526768.jpg" alt="Des couleurs pour donner de la profondeur a un mur ou a une piece - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 C'est pour ça qu'un mur peint en bleu marine paraît plus loin qu'il ne l'est vraiment. Et qu'un mur blanc semble tout près de toi. En jouant avec ce principe, tu peux littéralement remodeler ta pièce sans toucher à un seul mur porteur.
 
 > [!NOTE]
@@ -27,6 +32,11 @@ C'est pour ça qu'un mur peint en bleu marine paraît plus loin qu'il ne l'est v
 ## Teintes sombres : l'effet enveloppant
 
 Le mur du fond peint en couleur sombre, c'est l'astuce numéro un pour donner de la profondeur. Le regard se projette vers l'arrière, la pièce semble plus longue qu'elle ne l'est.
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771237788704.jpg" alt="Des couleurs pour donner de la profondeur a un mur ou a une piece - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Ça marche particulièrement bien dans :
 - Un salon court ou carré (peindre le mur en face de l'entrée)
@@ -51,6 +61,11 @@ Pour les associations, tu peux regarder du côté des [palettes tendance 2026 po
 ## Couleurs claires : élargir et faire respirer
 
 À l'opposé du spectre, les couleurs claires font "avancer" les surfaces. Elles agrandissent visuellement l'espace et maximisent la luminosité.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-orange-mur-couleur-assortiment-design-1771233436598.jpg" alt="Des couleurs pour donner de la profondeur a un mur ou a une piece - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Le blanc et ses déclinaisons (blanc cassé, beige très clair, ivoire, lin pâle) sont les champions de l'espace. Mais attention : le blanc pur peut vite être froid et clinique. Je te conseille plutôt des blancs cassés ou des beiges très lumineux qui gardent la chaleur.
 
@@ -87,6 +102,11 @@ graph TD
 
 ## Les techniques visuelles par type de pièce
 
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237095436.jpg" alt="Des couleurs pour donner de la profondeur a un mur ou a une piece - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Pièce trop carrée
 
 Le problème des pièces carrées, c'est qu'elles manquent de dynamisme. Le regard ne sait pas où aller.
@@ -111,6 +131,11 @@ Un beau bleu canard (Benjamin Moore "Teal Ocean" ou Ressource "Bleu Céladon pro
 Pour la salle à manger, les approches sont similaires - si tu veux creuser la question, regarde aussi nos conseils sur les [couleurs pour la salle à manger](/guides/couleurs/couleurs-pour-la-salle-a-manger-a-peindre-et-a-decorer/) où les palettes sont déjà sélectionnées pour l'effet profondeur.
 
 ## Jouer avec les bandes et les aplats
+
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771237917864.jpg" alt="Des couleurs pour donner de la profondeur a un mur ou a une piece - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Les bandes verticales
 

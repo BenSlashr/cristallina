@@ -21,6 +21,11 @@ Voila comment créer le tien, étape par étape.
 
 Avant d'acheter la moindre pierre, prends le temps de regarder des jardins japonais. Pinterest, les livres de paysagisme, les documentaires sur les jardins de Kyoto... Cette phase d'inspiration n'est pas un luxe.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232699463.jpg" alt="Comment creer un jardin zen en 7 etapes - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Les trois principes fondamentaux du jardin zen japonais sont simples : l'asymétrie (la nature ne fait jamais deux fois la meme chose), la suggestion (représenter la mer sans une goutte d'eau), et le vide (l'espace libre est aussi important que les éléments). Garde ces idées en tete quand tu feras tes choix.
 
 La règle d'or pour les pierres : toujours les grouper en nombre impair. Trois pierres, cinq pierres, sept pierres. Un groupe de trois suit souvent la triade bouddhiste : une grande pierre verticale au centre, deux plus petites de chaque côté. Ca crée un équilibre dynamique, visuellement bien plus interessant que deux pierres identiques face a face.
@@ -31,6 +36,11 @@ La règle d'or pour les pierres : toujours les grouper en nombre impair. Trois p
 ## Etape 2 : Choisis l'emplacement ideal
 
 L'emplacement conditionne tout le reste. Un jardin zen n'a pas besoin d'etre grand - certains des plus beaux jardins japonais font moins de 20 m2. Ce qui compte, c'est l'orientation et la lisibilité de l'espace.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231834872.jpg" alt="Comment creer un jardin zen en 7 etapes - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Quelques critères a évaluer :
 
@@ -61,6 +71,11 @@ flowchart TD
 
 C'est l'étape qu'on bacle souvent, et c'est une erreur. Un bon sol, c'est la base d'un jardin qui reste beau sur le long terme.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771235291338.jpg" alt="Comment creer un jardin zen en 7 etapes - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Commence par délimiter ta zone avec des bordures. Des bordures propres en acier Corten, en pierre naturelle ou en bambou donnent une finition nette qui est vraiment le truc qui fait la différence entre un jardin amateur et un jardin soigné. Pour tout ce qui concerne la pose et les options disponibles, jette un oeil a notre guide sur [comment poser une bordure de jardin sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/) - c'est exactement le type d'installation qui convient ici.
 
 Ensuite, pose un géotextile (feutre anti-mauvaises herbes) sur toute la surface du jardin sec. Ce tissu laisse passer l'eau mais bloque la végétation. Sans lui, dans 6 mois, tu passes la moitié de ton temps a désherber entre les cailloux.
@@ -73,6 +88,11 @@ Si tu as des zones plantées, améliore le sol avec du compost et vérifie le dr
 ## Etape 4 : Choisis tes végétaux
 
 La sélection des plantes pour un jardin zen obéit a des règles précises. On privilégie le feuillage sur les fleurs - ou alors des fleurs discrètes, pas les hortensias géants flashy. L'objectif : des végétaux qui apportent du mouvement sans trop de couleur.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233713506.jpg" alt="Comment creer un jardin zen en 7 etapes - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Les arbustes à planter en priorité :**
 
@@ -95,6 +115,11 @@ La sélection des plantes pour un jardin zen obéit a des règles précises. On 
 ## Etape 5 : Installe les éléments minéraux
 
 C'est la phase la plus fun et la plus technique a la fois. Les éléments minéraux - gravier, sable, pierres - forment la structure visible du jardin.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232684840.jpg" alt="Comment creer un jardin zen en 7 etapes - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Le gravier et le sable.** Le gravier blanc ou gris clair est le matériau classique du karesansui. Compte 6-8 cm d'épaisseur pour un bon résultat. Le sable fin peut compléter certaines zones. Tu vas tracer des motifs dedans avec un râteau spécial zen - des lignes droites ou circulaires qui représentent l'eau. Ce geste du ratissage est lui-meme une forme de méditation.
 

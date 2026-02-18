@@ -19,6 +19,11 @@ Que tu partes sur une rénovation complète avec isolation thermique par l'exté
 
 ## Les grandes tendances couleurs façades 2026
 
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771237637674.jpg" alt="Couleurs pour les exterieurs et les facades de maisons 2026 - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le retour des teintes nature
 
 La tendance numéro un cette année ? Les couleurs inspirées de la nature. On parle de verts doux (vert sauge, vert olive, vert amande), de beiges chauds, de teintes sable et de tons terre. L'idée, c'est une façade qui s'intègre dans son environnement au lieu de jurer avec le paysage.
@@ -48,6 +53,11 @@ Le terracotta reste une valeur sûre en 2026, et il se décline maintenant en ve
 Le blanc classique ne disparaît pas, mais il se réinvente. En 2026, on privilégie les blancs cassés, les blancs teintés (lin, coquille d'oeuf, pierre claire) qui apportent plus de profondeur visuelle qu'un blanc pur. Un blanc légèrement chaud en façade principale avec des menuiseries dans un ton plus soutenu - voilà la formule qui marche.
 
 ## Choisir la bonne couleur selon ta façade
+
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771231656788.jpg" alt="Couleurs pour les exterieurs et les facades de maisons 2026 - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le type de revêtement change tout
 
@@ -108,6 +118,11 @@ Si tu cherches de l'inspiration pour tes espaces extérieurs au-delà de la faç
 
 ## Matériaux et finitions : le détail qui fait la différence
 
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771237686085.jpg" alt="Couleurs pour les exterieurs et les facades de maisons 2026 - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Peinture, enduit ou lasure ?
 
 Le choix du produit de finition est aussi important que la couleur elle-même :
@@ -129,6 +144,11 @@ Si la question des couleurs t'intéresse aussi pour l'intérieur, découvre notr
 ## 5 palettes tendance 2026 pour t'inspirer
 
 Voici mes 5 palettes préférées pour cette année. Chacune fonctionne pour un style de maison différent.
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-moderne-2026-enduit-bardage-design-1771235833862.jpg" alt="Couleurs pour les exterieurs et les facades de maisons 2026 - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### 1. Nature zen
 Enduit vert sauge + menuiseries blanc lin + bardage bois clair. Pour les maisons contemporaines ou les constructions neuves qui veulent se fondre dans la végétation.
@@ -177,6 +197,11 @@ graph LR
 ## Le confort thermique : quand la couleur fait la température
 
 Ce n'est pas juste une question d'esthétique. La couleur de ta façade joue un rôle direct sur le confort thermique de ta maison. Les teintes claires réfléchissent jusqu'à 80% des rayons solaires, alors que les couleurs sombres peuvent en absorber 90%.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771237068488.jpg" alt="Couleurs pour les exterieurs et les facades de maisons 2026 - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 En 2026, avec les étés de plus en plus chauds, c'est un critère à prendre au sérieux. Si tu fais une rénovation avec ITE (isolation thermique par l'extérieur), l'isolant limite déjà les transferts de chaleur. Mais sur une maison non isolée, une façade sombre plein sud peut transformer ton salon en four.
 

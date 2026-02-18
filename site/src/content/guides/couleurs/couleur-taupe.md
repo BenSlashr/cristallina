@@ -17,6 +17,11 @@ Le taupe, c'est cette couleur que tu ne sais jamais trop comment décrire. "C'es
 
 Le mot vient directement du français - "la taupe", l'animal. On a nommé la couleur d'après la fourrure gris-brun de ce petit mammifère souterrain. En code hex, le taupe de référence c'est le #483C32 : un brun moyen tirant sur le gris, ni chaud ni froid, pile entre les deux.
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771235567684.jpg" alt="Couleur taupe - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Ce qui rend le taupe si intéressant en déco, c'est cette ambiguité. Le cerveau perçoit à la fois la chaleur du brun et la neutralité du gris. Résultat : une couleur qui réchauffe une pièce froide mais qui n'écrase jamais un espace lumineux. Le taupe joue les deux camps, et il le fait bien.
 
 En pratique, le taupe pur est assez rare. Ce qu'on appelle "taupe" dans les nuanciers des magasins couvre en réalité un spectre large de teintes. Chez Leroy Merlin, Castorama ou les marques comme Seigneurie, Tollens ou Dulux Valentine, tu trouveras des dizaines de variantes classées sous cette appellation.
@@ -27,6 +32,11 @@ En pratique, le taupe pur est assez rare. Ce qu'on appelle "taupe" dans les nuan
 ## Les grandes nuances de taupe
 
 Avant de te lancer, il faut comprendre que tous les taupes ne se valent pas. Voici les cinq grandes familles que tu vas croiser.
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771236474746.jpg" alt="Couleur taupe - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Le taupe clair** - C'est la version la plus douce, presque beige avec un soupçon de gris. Idéal pour les murs d'une pièce entière sans risquer l'effet caverne. Il agrandit visuellement l'espace et laisse passer la lumière. Chez Tollens, cherche la teinte "Poudre de riz" ; chez Dulux Valentine, "Brun cachemire clair".
 
@@ -56,6 +66,11 @@ graph TD
 ## Les meilleures associations avec le taupe
 
 Le taupe est un caméléon. Selon ce que tu mets à côté, il peut paraître chaud ou froid, moderne ou classique, cosy ou épuré. Voici les combinaisons qui marchent à tous les coups.
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771236876410.jpg" alt="Couleur taupe - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Taupe + blanc cassé : l'élégance tranquille
 
@@ -106,6 +121,11 @@ graph LR
 
 ## Le taupe pièce par pièce
 
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-ocre-terre-cuite-mur-d-coration-chaude-1771237633499.jpg" alt="Couleur taupe - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le salon : la pièce idéale pour le taupe
 
 Le salon est l'endroit où le taupe donne le meilleur de lui-même. Un mur taupe derrière le canapé, les autres en blanc cassé ou lin - c'est une valeur sûre. Si tu veux aller plus loin, tu peux peindre l'ensemble des murs en taupe clair et jouer avec des textiles plus soutenu pour la profondeur.
@@ -136,6 +156,11 @@ Le taupe adoucit l'atmosphère souvent froide du carrelage blanc. Un mur en taup
 ## Les 3 erreurs classiques avec le taupe
 
 **Confondre taupe et gris.** Un gris froid à la place d'un taupe donne un résultat austère au lieu de chaleureux. Teste toujours un échantillon en lumière naturelle.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-orange-mur-couleur-assortiment-design-1771233547085.jpg" alt="Couleur taupe - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Tout peindre en taupe foncé.** Quatre murs en taupe soutenu dans 12m2, ça fait cage. Garde un plafond blanc et au moins deux murs plus clairs.
 

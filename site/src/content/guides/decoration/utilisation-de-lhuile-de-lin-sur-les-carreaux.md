@@ -19,6 +19,11 @@ Mais attention : mal appliquée, l'huile de lin peut laisser une surface collant
 
 L'huile de lin est un produit 100 % naturel, extrait des graines de la plante du même nom. Son gros atout : elle pénètre dans les pores du matériau au lieu de rester en surface comme un vernis. Ça signifie qu'elle protège de l'intérieur, sans créer de film plastique qui pourrait s'écailler ou jaunir avec le temps.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237070539.jpg" alt="Utilisation de lhuile de lin sur les carreaux - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Concrètement, voici ce qu'elle apporte à tes carreaux :
 
 - **Protection contre les taches** : l'huile comble les micro-pores du carreau, ce qui empêche les liquides (café, vin, sauce) de s'infiltrer en profondeur
@@ -45,6 +50,11 @@ En revanche, l'huile de lin est inutile (et même contre-productive) sur le grè
 ## Les différents types d'huile de lin
 
 Toutes les huiles de lin ne se valent pas. Le choix de la bonne version conditionne directement le résultat final et le temps de séchage. Voici les trois options principales.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235265987.jpg" alt="Utilisation de lhuile de lin sur les carreaux - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Huile de lin crue
 
@@ -89,6 +99,11 @@ flowchart TD
 
 Pas besoin d'un équipement sophistiqué. Voici ce qu'il te faut :
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237292665.jpg" alt="Utilisation de lhuile de lin sur les carreaux - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 - **Pinceau large ou spalter** (10-15 cm) : pour appliquer l'huile de façon régulière
 - **Chiffon en coton non pelucheux** : pour essuyer les surplus après application
 - **Seau** : pour diluer l'huile si nécessaire (avec de l'essence de térébenthine)
@@ -101,6 +116,11 @@ Budget total matériel : entre 15 et 25 euros si tu n'as rien. L'huile elle-mêm
 ## Application étape par étape
 
 C'est la partie la plus importante. Une application bien faite donne un résultat magnifique. Une application bâclée donne un sol collant et taché. Suis bien chaque étape.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771238105671.jpg" alt="Utilisation de lhuile de lin sur les carreaux - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Étape 1 : préparer le carrelage
 
@@ -149,6 +169,11 @@ flowchart TD
 ## Séchage et premières précautions
 
 Le séchage est une phase où tu ne dois pas tricher. Même si la surface semble sèche au toucher, l'huile continue de polymériser en profondeur pendant plusieurs jours. Voici les règles à respecter :
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237063761.jpg" alt="Utilisation de lhuile de lin sur les carreaux - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 - **Ne marche pas sur le sol** pendant au moins 24 heures après la dernière couche (48 heures pour l'huile crue)
 - **Aère la pièce** au maximum pour accélérer le séchage et évacuer les odeurs

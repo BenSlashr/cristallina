@@ -19,6 +19,11 @@ Et le meilleur dans tout ça ? Tu vas dépenser entre 30 et 200 euros pour un me
 
 Le marché des tables basses, c'est souvent deux extrêmes : les modèles à 49 euros chez Ikea (corrects mais tout le monde a les mêmes) ou les pièces design à 600-1200 euros chez Made.com ou AM.PM. Entre les deux ? Pas grand-chose.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771235287431.jpg" alt="Creez votre table basse au design original avec ces astuces diy - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Fabriquer ta propre table basse te permet de créer un meuble pile à tes dimensions, dans le style exact que tu veux, et surtout avec un budget maîtrisé. Tu choisis le bois, la forme, les pieds, la finition - chaque détail est personnalisé.
 
 L'autre avantage que je trouve génial : tu peux changer de plateau ou de pieds quand tu te lasses. J'ai vu des copines garder les mêmes pieds en métal pendant cinq ans et simplement changer le plateau au gré de leurs envies. C'est un meuble évolutif, et ça, aucun magasin ne te le proposera.
@@ -29,6 +34,11 @@ L'autre avantage que je trouve génial : tu peux changer de plateau ou de pieds 
 ## Choisir le bon plateau : le coeur de ta table basse
 
 Le plateau, c'est ce que tout le monde voit en premier. C'est lui qui donne le style à ta table. Voici les options les plus populaires, avec les prix réels que tu trouveras en 2026.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771235204372.jpg" alt="Creez votre table basse au design original avec ces astuces diy - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le plateau en bois massif
 
@@ -58,6 +68,11 @@ C'est là que ta créativité entre en jeu. J'ai vu des tables basses fabriquée
 ## Les pieds : ce petit détail qui change tout
 
 Une fois ton plateau choisi, les pieds vont définir l'allure finale de ta table basse. Et contrairement à ce qu'on pense, tu n'as pas besoin de les fabriquer toi-même.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-shabby-chic-pastel-vintage-romantique-1771237304185.jpg" alt="Creez votre table basse au design original avec ces astuces diy - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart TD
@@ -100,6 +115,11 @@ Pour un look plus classique ou bohème, des pieds de table en bois tourné se tr
 ## 6 projets concrets pour te lancer ce week-end
 
 Assez de théorie, place à la pratique ! Voici 6 idées de tables basses originales, classées de la plus simple à la plus élaborée.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771234742595.jpg" alt="Creez votre table basse au design original avec ces astuces diy - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### 1. La table palette express (budget : 15-30 euros)
 
@@ -144,6 +164,11 @@ flowchart LR
 ## Les outils dont tu as vraiment besoin
 
 Pas la peine d'investir dans un atelier complet. Pour la plupart de ces projets, tu auras besoin de :
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771236568998.jpg" alt="Creez votre table basse au design original avec ces astuces diy - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 - **Une ponceuse orbitale** : la Bosch PEX 300 AE (environ 60 euros) ou la Black+Decker KA280K (40 euros) font parfaitement l'affaire. Tu peux aussi en louer une chez Kiloutou pour 15 euros la journée.
 - **Une visseuse-perceuse** : la Bosch EasyDrill 18V (50 euros) ou un modèle équivalent. C'est l'outil le plus utile que tu puisses avoir chez toi.

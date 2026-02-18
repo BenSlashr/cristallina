@@ -19,6 +19,11 @@ Le parquet taché, c'est le cauchemar de tous ceux qui ont un beau sol en bois. 
 
 C'est la première chose a faire, et c'est ce qui va déterminer toute ta stratégie. Utiliser le mauvais produit sur le mauvais type de parquet peut aggraver la situation - voire abimer définitivement ton sol.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771238247737.jpg" alt="Parquet tache - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Parquet vitrifié (ou verni)
 
 Le plus facile a entretenir. Il est recouvert d'une couche de vernis qui protège le bois des infiltrations. Les taches restent en surface la plupart du temps. Un chiffon humide suffit souvent a régler le problème. Si tu viens de renverser quelque chose, éponge vite et tu n'auras meme pas besoin de lire la suite.
@@ -39,6 +44,11 @@ Techniquement, ce n'est pas du vrai bois. La couche supérieure est un décor pr
 > Tu ne sais pas quel type de parquet tu as ? Verse une goutte d'eau dans un coin discret. Si elle perle en surface, c'est du vitrifié. Si elle s'absorbe lentement, c'est du huilé. Si elle fait une marque blanche, c'est du ciré.
 
 ## Les taches les plus courantes et comment les traiter
+
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771234052948.jpg" alt="Parquet tache - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Taches d'eau et auréoles blanches
 
@@ -112,6 +122,11 @@ Si tu fais des travaux chez toi (ou si tu as suivi notre guide pour [crépir un 
 
 Tu n'as pas besoin de 15 produits. Voici le kit de base qui couvre 90% des situations :
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236873015.jpg" alt="Parquet tache - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 | Produit | Prix moyen | Ou l'acheter | Usage principal |
 |---------|-----------|--------------|-----------------|
 | Bicarbonate de soude | 3 euros | Supermarché | Taches organiques, odeurs |
@@ -127,6 +142,11 @@ Tu n'as pas besoin de 15 produits. Voici le kit de base qui couvre 90% des situa
 ## Protéger ton parquet pour éviter les futures taches
 
 Rattraper une tache c'est bien, mais empecher la prochaine c'est mieux. Quelques habitudes simples vont garder ton parquet beau plus longtemps.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237912415.jpg" alt="Parquet tache - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le réflexe anti-tache au quotidien
 
@@ -158,6 +178,11 @@ graph LR
 ## Quand appeler un pro ?
 
 Parfois, la tache est trop profonde ou trop étendue pour un traitement maison. Si tu te retrouves dans l'une de ces situations, contacte un professionnel :
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238148818.jpg" alt="Parquet tache - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 - **Tache noire qui couvre plus de 30 cm de large** : elle a probablement pénétré en profondeur et nécessite un ponçage mécanique.
 - **Parquet gondolé ou soulevé** : c'est un dégat des eaux, pas juste une tache. Il faut intervenir sur la structure.

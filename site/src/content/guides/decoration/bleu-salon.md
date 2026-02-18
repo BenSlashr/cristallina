@@ -17,6 +17,11 @@ Le bleu, c'est la couleur qu'on adore en théorie mais qu'on hésite toujours à
 
 Tous les bleus ne racontent pas la même histoire. Avant de foncer chez Leroy Merlin, prends deux minutes pour comprendre ce que chaque nuance apporte comme ambiance.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231976565.jpg" alt="Bleu salon - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le bleu canard - l'élégant polyvalent
 
 C'est le bleu qui tire vers le vert, profond et velouté. Il fonctionne dans presque tous les styles et c'est celui qui pardonne le plus. Posé sur un mur d'accent ou sur un canapé en velours, il donne immédiatement du caractère sans écraser la pièce. C'est mon préféré pour les salons qui manquent de personnalité.
@@ -56,6 +61,11 @@ graph TD
 
 Le bleu seul ne fait pas tout. C'est dans la combinaison que la magie opère. Voici les duos et trios qui marchent à chaque fois.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232895616.jpg" alt="Bleu salon - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Bleu + blanc : le duo indémodable
 
 On commence par la valeur sure. Bleu et blanc, c'est frais, lumineux, facile à réussir. Ça fonctionne avec n'importe quelle nuance de bleu. Un mur bleu canard avec un canapé blanc cassé et des coussins à rayures ? Tu obtiens un salon qui respire, entre élégance et décontraction. Pour un rendu plus chaleureux, préfère le blanc cassé ou le blanc crème au blanc pur, qui peut rendre l'ensemble un peu clinique.
@@ -92,6 +102,11 @@ graph LR
 
 Tu n'es pas obligée de peindre tous tes murs en bleu pour profiter de cette couleur. Voici les différentes façons de l'intégrer, de la plus engagée à la plus subtile.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771234023638.jpg" alt="Bleu salon - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Un mur d'accent bleu
 
 C'est le grand classique et c'est efficace. Choisis le mur le plus visible quand tu entres dans la pièce - souvent celui derrière le canapé ou celui face à l'entrée. Un seul mur bleu foncé (canard, marine, nuit) avec les trois autres en blanc chaud transforme radicalement l'ambiance. C'est aussi la solution la plus facile à corriger si tu changes d'avis : un seul mur à repeindre.
@@ -114,6 +129,11 @@ C'est l'option "zéro risque". Tu gardes tes murs neutres, ton canapé classique
 ## Quel style de déco avec du bleu ?
 
 Le bleu n'est pas réservé à un seul style. Voici les trois qui s'en emparent le mieux.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235341299.jpg" alt="Bleu salon - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Style scandinave
 
@@ -143,6 +163,11 @@ graph TD
 ```
 
 ## Les 5 erreurs à éviter avec le bleu dans le salon
+
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231095800.jpg" alt="Bleu salon - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### 1. Trop de bleu partout
 

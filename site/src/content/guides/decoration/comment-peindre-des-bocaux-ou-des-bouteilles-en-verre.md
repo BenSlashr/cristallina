@@ -19,6 +19,11 @@ Je t'explique tout ce qu'il faut savoir pour que ta peinture tienne dans le temp
 
 Les bocaux et bouteilles en verre recyclés sont gratuits ou presque, et ils ont une silhouette naturellement sympa. Quelques couches de peinture suffisent à les faire ressembler à des achats de boutique déco. Et avec les bonnes techniques, la peinture tient parfaitement, même si l'objet est manipulé régulièrement.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237874331.jpg" alt="Comment peindre des bocaux ou des bouteilles en verre - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 C'est aussi un excellent moyen de personnaliser ta déco à moindre coût. Plutôt que d'acheter un vase à 25 euros, tu récupères une bouteille d'huile d'olive et tu la peins dans la couleur exacte qui va avec tes rideaux.
 
 > [!TIP]
@@ -27,6 +32,11 @@ C'est aussi un excellent moyen de personnaliser ta déco à moindre coût. Plut�
 ## Quelle peinture choisir pour peindre du verre ?
 
 C'est la question qui change tout. Le verre est une surface lisse et non poreuse, donc la peinture n'accroche pas naturellement. Il existe plusieurs options selon l'usage que tu vas faire de ton objet.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237021284.jpg" alt="Comment peindre des bocaux ou des bouteilles en verre - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Peinture acrylique pour verre (la plus polyvalente)
 
@@ -53,6 +63,11 @@ Si tu veux un effet translucide qui laisse passer la lumière - parfait pour des
 
 Une bonne préparation, c'est 80 % du résultat. Même les meilleures peintures ne tiennent pas sur une surface grasse ou humide.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238126846.jpg" alt="Comment peindre des bocaux ou des bouteilles en verre - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart LR
     A([Laver à l'eau chaude]):::principal --> B([Dégraisser à l'alcool]):::secondaire
@@ -78,6 +93,11 @@ flowchart LR
 > Si tu sautes l'étape de dégraissage, ta peinture risque de se décoller en quelques jours, surtout si le bocal est manipulé régulièrement ou exposé à l'humidité.
 
 ## Techniques d'application selon l'effet voulu
+
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235299185.jpg" alt="Comment peindre des bocaux ou des bouteilles en verre - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Au pinceau : pour les motifs et les effets texturés
 
@@ -112,6 +132,11 @@ flowchart TD
 ## Fixer et protéger la peinture : l'étape qui change tout
 
 Une peinture non fixée sur du verre s'écaille rapidement, surtout si l'objet est manipulé. Il y a deux méthodes principales.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236423238.jpg" alt="Comment peindre des bocaux ou des bouteilles en verre - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### La cuisson au four (pour les peintures spécial verre)
 

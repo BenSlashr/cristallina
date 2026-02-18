@@ -19,6 +19,11 @@ Ce guide, je l'ai écrit pour toi si tu veux te lancer dans la peinture bicolore
 
 Une chambre monochrome, c'est propre. Mais deux couleurs bien choisies, ça donne de la profondeur. Tu peux définir des zones, créer un mur accent derrière le lit, séparer la partie nuit de la partie lecture ou habillage.
 
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771233063983.jpg" alt="Les meilleures options de couleurs pour une chambre dadulte a deux teintes - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 L'autre avantage, c'est le dynamisme. Une seule couleur peut vite paraître plate, surtout dans les petits espaces. Deux teintes permettent de jouer avec les volumes : une couleur sombre sur un mur plafond habille une chambre en hauteur, tandis qu'une teinte claire sur les autres murs l'ouvre.
 
 Et puis soyons honnêtes : une chambre entièrement repeinte en bleu pétrole, c'est beau sur Pinterest mais ça peut virer au cauchemar dans la vraie vie. Combiner avec du blanc cassé ou du lin, c'est plus facile à vivre sur la durée.
@@ -27,6 +32,11 @@ Et puis soyons honnêtes : une chambre entièrement repeinte en bleu pétrole, c
 > La règle du 60/30 est ton amie : 60 % de la couleur dominante (souvent la plus claire), 30 % de la couleur secondaire, 10 % pour les accents déco. Ça évite l'effet trop chargé.
 
 ## Les grandes familles de combinaisons bicolores
+
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771234234428.jpg" alt="Les meilleures options de couleurs pour une chambre dadulte a deux teintes - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Couleur froide + neutre clair : l'indétrônable
 
@@ -85,6 +95,11 @@ L'avantage du camaïeu, c'est qu'il n'y a presque pas de risque de "clash". Les 
 
 C'est là que beaucoup de gens se perdent. Avoir deux belles couleurs ne suffit pas - encore faut-il savoir où les mettre.
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-ocre-terre-cuite-mur-d-coration-chaude-1771236367485.jpg" alt="Les meilleures options de couleurs pour une chambre dadulte a deux teintes - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart LR
     A["Le mur accent\n(derrière le lit)"]
@@ -115,6 +130,11 @@ flowchart LR
 
 ## Les marques et gammes de peinture à connaître
 
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-ocre-terre-cuite-mur-d-coration-chaude-1771236336046.jpg" alt="Les meilleures options de couleurs pour une chambre dadulte a deux teintes - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Pour un budget serré (sous 30 euros le 2,5 L)
 
 **Dulux Valentine Crème de Couleur** : l'une des meilleures entrées de gamme du marché. Bonne couvrante, nuancier large, on la trouve chez Leroy Merlin et Castorama. Prévoir 25-28 euros le pot de 2,5 L.
@@ -139,6 +159,11 @@ flowchart LR
 > Avant d'acheter, commande toujours des échantillons (souvent 5-10 euros les petits pots). Applique-les sur un carton blanc et observe la couleur à différentes heures - matin, midi, soir. La même peinture peut sembler bleue le matin et virer au vert en soirée selon l'exposition de ta chambre.
 
 ## Les associations à tester selon ton style
+
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-adulte-deux-couleurs-peinture-bicolore-1771237283177.jpg" alt="Les meilleures options de couleurs pour une chambre dadulte a deux teintes - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Style scandinave
 

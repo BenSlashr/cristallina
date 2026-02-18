@@ -19,6 +19,11 @@ Dans cet article, je te guide pas à pas, avec les prix réels que j'ai payés e
 
 Un bureau acheté tout fait, ça a ses limites. La largeur ne correspond jamais exactement à ton mur, les tiroirs sont trop petits ou mal placés, et le prix pour quelque chose de qualité monte vite.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-scandinave-1771183533662.jpg" alt="Fabriquer un bureau avec des caissons - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Avec des caissons comme support, tu contrôles tout : la largeur du plateau, la hauteur de travail, le nombre de tiroirs. Et côté budget, on parle d'un projet entre 80 € et 250 € selon les matériaux choisis, contre 300 € à 800 € pour un bureau de bureau en L chez un fabricant.
 
 L'autre avantage ? Tu peux démonter et reconfigurer si tu déménages ou si tes besoins changent. J'ai déplacé mon bureau trois fois dans le même appartement sans perdre un seul élément.
@@ -29,6 +34,11 @@ L'autre avantage ? Tu peux démonter et reconfigurer si tu déménages ou si tes
 ## Les différents types de caissons à utiliser
 
 Avant de foncer acheter des matériaux, il faut choisir ton type de caissons. Les options ne manquent pas.
+
+<div class="my-8">
+  <img src="/images/unsplash-modern-office-workspace-productive-design-1771177402.jpg" alt="Fabriquer un bureau avec des caissons - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les caissons Kallax d'Ikea (le choix le plus populaire)
 
@@ -56,6 +66,11 @@ Une cuisine Metod ou Sektion d'occasion sur le Bon Coin, c'est une mine d'or pou
 ## Le plateau : le choix qui change tout
 
 Le plateau, c'est l'élément visible de ton bureau. Il doit être à la fois solide et esthétique.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-scandinave-1771183529554.jpg" alt="Fabriquer un bureau avec des caissons - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Plateau LINNMON Ikea
 

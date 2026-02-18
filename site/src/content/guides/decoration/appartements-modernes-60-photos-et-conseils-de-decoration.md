@@ -19,6 +19,11 @@ Voilà pourquoi j'ai compilé des dizaines de photos d'appartements modernes - d
 
 Le style moderne en décoration intérieure, c'est souvent mal compris. Beaucoup pensent que ça veut dire froid, blanc cassé et vide comme un loft de magazine. Pas du tout.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237133905.jpg" alt="Appartements modernes 60 photos et conseils de decoration - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 La déco contemporaine, c'est surtout une question de proportion et d'intemporalité. On ne suit pas la tendance du moment pour la suivre - on sélectionne des pièces qui vieillissent bien, qui fonctionnent ensemble et qui laissent respirer l'espace. Le minimalisme en est le moteur, pas le but final.
 
 Dans un appartement moderne réussi, tu vas trouver :
@@ -37,6 +42,11 @@ Contrairement à ce qu'on croit, la transformation d'un intérieur banal en appa
 ## Agencement : la base de tout dans un 60m2
 
 Dans un appartement de 60m2, chaque mètre carré compte. L'agencement n'est pas une question d'esthétique en premier - c'est une question de flux. Comment tu te déplaces dans l'espace ? Est-ce que les pièces s'enchaînent logiquement ? Est-ce que la lumière circule ?
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236636782.jpg" alt="Appartements modernes 60 photos et conseils de decoration - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart TD
@@ -83,6 +93,11 @@ Si tu cherches de l'inspiration pour ton salon en particulier, les [salons moder
 
 La modernisation d'un intérieur passe souvent par les meubles. Mais attention - "moderne" ne veut pas dire "cher". Ca veut dire cohérent, proportionné et fonctionnel.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237219490.jpg" alt="Appartements modernes 60 photos et conseils de decoration - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Les pièces clés d'un appartement moderne réussi
 
 **Le canapé** : c'est le meuble roi du salon. Dans la déco contemporaine, on aime les canapés aux lignes droites, sans accoudoirs trop épais ni pieds trop massifs. La banquette type "sofa 3 places compact" est très populaire dans les 60m2. Budget : 500-900€ chez La Redoute, 800-1500€ chez AM.PM, 1500€+ chez des marques plus premium comme Ligne Roset.
@@ -124,6 +139,11 @@ Dans les appartements de 60m2 modernes, le mobilier multifonction est ton meille
 
 ## Matériaux et couleurs : les vrais choix qui font la différence
 
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235258307.jpg" alt="Appartements modernes 60 photos et conseils de decoration - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le bois et la pierre : le duo gagnant
 
 Dans les appartements modernes qui fonctionnent vraiment, on retrouve presque toujours une combinaison de bois et de pierre (ou leurs imitations). Ces deux matériaux apportent de la chaleur et de la texture sans alourdir l'espace.
@@ -153,6 +173,11 @@ Ce ratio 70-20-10 est la règle d'or des décorateurs d'intérieur pour les appa
 > Evite de peindre TOUTES tes pièces dans des couleurs différentes dans un 60m2. Ca fragmente visuellement l'espace et le rend plus petit qu'il n'est. Mieux vaut une palette de deux ou trois couleurs qui circulent d'une pièce à l'autre avec des variations de ton.
 
 ## Transformation avant/après : ce qui change vraiment
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237963832.jpg" alt="Appartements modernes 60 photos et conseils de decoration - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Cas 1 : le salon réinventé
 

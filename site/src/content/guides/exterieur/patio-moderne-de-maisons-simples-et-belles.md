@@ -21,6 +21,11 @@ Je te montre comment créer le tien.
 
 Un patio moderne se reconnaît à trois choses : la simplicité des lignes, la qualité des matériaux et l'absence de superflu. Loin du patio provençal croulé sous les jarres, ici chaque élément a une fonction précise.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236556500.jpg" alt="Patio moderne de maisons simples et belles - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Le design minimaliste domine : formes géométriques nettes, couleurs sobres (gris anthracite, blanc, bois naturel, beige pierre), surfaces lisses. L'oeil se repose, tout est harmonieux.
 
 > [!TIP]
@@ -29,6 +34,11 @@ Le design minimaliste domine : formes géométriques nettes, couleurs sobres (gr
 L'éclairage joue aussi un rôle central. Spots encastrés dans le sol, appliques murales ou ruban LED sous un banc maçonné - la lumière doit être douce, indirecte, jamais agressive.
 
 ## Les matériaux qui changent tout
+
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233669172.jpg" alt="Patio moderne de maisons simples et belles - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le béton ciré ou lissé
 
@@ -74,6 +84,11 @@ graph TD
 
 Un bon patio, c'est un espace où chaque zone a son usage sans que les espaces se marchent dessus. Même sur 12 m2, tu peux créer un agencement réel.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771184762569.jpg" alt="Patio moderne de maisons simples et belles - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### La zone repas
 
 Table et chaises en aluminium laqué, banquettes maçonnées avec coussins déperlants, ou table en bois massif avec tabourets hauts - le coin repas donne le ton. Pour un look moderne, les tables avec plateau céramique et pieds métal noir fonctionnent très bien. Fermob, Hay ou Manutti proposent du mobilier outdoor minimaliste durable.
@@ -91,6 +106,11 @@ Pour aller plus loin sur les solutions de verdure verticale, jette un oeil aux [
 ## Les structures : pergola, auvent ou voile ?
 
 Un patio moderne a besoin d'une couverture, même partielle. Sans protection, c'est juste une cour. Avec, tu restes dehors quelle que soit la météo.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235276637.jpg" alt="Patio moderne de maisons simples et belles - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### La pergola minimaliste
 
@@ -134,6 +154,11 @@ graph LR
 ## Éclairage : l'élément qui fait passer de "bien" à "magnifique"
 
 L'éclairage extérieur, c'est là où la plupart des gens se plantent. Un spot de chantier au plafond, ça ne suffit pas. Un patio moderne mérite mieux.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236645880.jpg" alt="Patio moderne de maisons simples et belles - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Les spots encastrés dans le sol** (IP67 minimum pour résister à l'eau) créent des lignes de lumière au ras du sol le long des murs ou des bordures. Effet garanti pour 15 à 30 euros le spot LED encastrable (Philips Hue Outdoor, Ledvance).
 

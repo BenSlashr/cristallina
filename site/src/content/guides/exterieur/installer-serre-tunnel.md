@@ -21,6 +21,11 @@ Je te dis tout : comment choisir l'emplacement, quel modèle prendre selon ton b
 
 La serre tunnel, c'est une structure en arceaux métalliques recouverte d'une bâche plastique (polyéthylène). Son avantage principal ? Le rapport qualité-prix. Pour le même budget qu'une petite serre en verre de 6 m2, tu obtiens une serre tunnel de 12 à 18 m2.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235054440.jpg" alt="Installer serre tunnel - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Quelques chiffres concrets :
 
 - **Serre tunnel 9 m2 (3x3 m)** : de 80 à 200 euros (Outsunny, Vounot, Gardebruk)
@@ -35,6 +40,11 @@ L'autre avantage : la serre tunnel est démontable. Si tu es locataire ou si tu 
 ## Bien choisir l'emplacement : la clé de tout
 
 L'emplacement, c'est 80 % de la réussite de ta serre. Un mauvais choix et tu vas galérer avec la condensation, le vent, ou le manque de lumière. Voici les critères à cocher :
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237204915.jpg" alt="Installer serre tunnel - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Orientation
 
@@ -72,6 +82,11 @@ flowchart TD
 
 Avant d'ouvrir le carton, prépare tout le matériel complémentaire. Rien de pire que de s'arrêter en plein montage parce qu'il te manque un maillet.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237066192.jpg" alt="Installer serre tunnel - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Outils :** maillet en caoutchouc, clé à pipe (10 ou 13 mm), mètre ruban 5 m, niveau à bulle, cordeau et piquets, échelle stable.
 
 **Matériel complémentaire (pas toujours inclus) :**
@@ -85,6 +100,11 @@ Avant d'ouvrir le carton, prépare tout le matériel complémentaire. Rien de pi
 ## Montage étape par étape
 
 Le montage d'une serre tunnel prend entre 3 et 6 heures à deux personnes. Seul, c'est faisable mais beaucoup plus pénible - surtout pour la mise en place de la bâche. Mon conseil : mobilise un pote, prévois des bières fraîches pour la fin du chantier.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236937714.jpg" alt="Installer serre tunnel - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Étape 1 : Tracer au sol
 
@@ -139,6 +159,11 @@ flowchart LR
 ## Ancrage : ne saute pas cette étape
 
 L'ancrage, c'est ce qui sépare une serre qui tient 10 ans d'une serre qui s'envole au premier orage. Et pourtant, c'est la partie que tout le monde bâcle.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236513133.jpg" alt="Installer serre tunnel - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 - **Piquets en T enfoncés à 40 cm** : la solution standard, incluse dans la plupart des kits. Correct pour les zones peu ventées. Environ 3 euros la pièce.
 - **Vis de sol (hélicoïdales)** : s'enfoncent dans le sol comme une grosse vis. Plus résistant que les piquets droits, surtout en sol meuble. Entre 8 et 15 euros la pièce (Ground Anchor, Krinner).

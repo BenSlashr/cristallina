@@ -17,6 +17,11 @@ Tu habites en Seine-et-Marne et tu rêves d'une cuisine qui ne ressemble pas à 
 
 Avant de parler d'AI Concept 77 spécifiquement, je veux qu'on aborde un point qui fait toute la différence : travailler avec un cuisiniste local haut de gamme plutôt qu'une grande enseigne nationale.
 
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771235034497.jpg" alt="Cuisine haut gamme 77 ai concept - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Les grandes surfaces spécialisées (Ikea, Conforama, Schmidt en franchise standardisée) ont leur place, surtout pour les petits budgets. Mais quand ton projet dépasse 10 000 - 15 000 euros, que tu as une configuration atypique, ou que tu veux quelque chose de vraiment personnel, le cuisiniste indépendant local prend tout son sens.
 
 Un cuisiniste local comme AI Concept 77 :
@@ -31,6 +36,11 @@ Un cuisiniste local comme AI Concept 77 :
 ## Ce que propose AI Concept 77
 
 AI Concept 77 se positionne sur la conception et l'installation de cuisines haut de gamme en Seine-et-Marne. L'offre tourne autour de plusieurs axes principaux.
+
+<div class="my-8">
+  <img src="/images/pinterest-petite-cuisine-moderne-2026-compact-optimis-e-1771238206656.jpg" alt="Cuisine haut gamme 77 ai concept - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### La conception sur mesure
 
@@ -56,6 +66,11 @@ Sans parler spécifiquement d'un catalogue figé, les cuisinistes haut de gamme 
 ## Les matériaux haut de gamme : ce qui fait vraiment la différence
 
 C'est là que le haut de gamme justifie son prix. Voici ce que tu trouveras dans une cuisine de qualité supérieure.
+
+<div class="my-8">
+  <img src="/images/pinterest-petite-cuisine-moderne-2026-compact-optimis-e-1771238263002.jpg" alt="Cuisine haut gamme 77 ai concept - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les plans de travail
 
@@ -121,6 +136,11 @@ Une cuisine haut de gamme, c'est aussi l'électroménager. Les marques souvent p
 
 Voici comment se déroule typiquement un projet de cuisine haut de gamme avec un cuisiniste local.
 
+<div class="my-8">
+  <img src="/images/pinterest-petite-cuisine-moderne-2026-compact-optimis-e-1771237448476.jpg" alt="Cuisine haut gamme 77 ai concept - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart LR
     A[Premier contact]:::neutre --> B[Visite à domicile]:::principal
@@ -157,6 +177,11 @@ flowchart LR
 ## Budget : à quoi s'attendre en Seine-et-Marne
 
 Les prix d'une cuisine haut de gamme varient énormément selon la surface, les matériaux et l'électroménager. Voici une grille approximative.
+
+<div class="my-8">
+  <img src="/images/pinterest-petite-cuisine-moderne-2026-compact-optimis-e-1771238247378.jpg" alt="Cuisine haut gamme 77 ai concept - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Cuisine haut de gamme accessible** (10 à 18 m², façades stratifié premium, plan de travail quartz, électroménager Bosch Serie 8) : entre 12 000 et 22 000 euros pose comprise.
 

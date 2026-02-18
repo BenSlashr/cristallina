@@ -19,6 +19,11 @@ Je vais te montrer comment faire ça proprement, étape par étape.
 
 Avant de chercher des alternatives, comprends bien le rôle du rouleau dans le semis. Son objectif n'est pas mystérieux : il sert à tasser légèrement le sol après avoir épandu les graines de gazon. Ce tassage fait deux choses. D'abord, il assure un bon contact entre les graines et la terre - et c'est ce contact qui permet aux semences d'absorber l'humidité du sol et de germer. Ensuite, il évite que le vent ou l'arrosage ne déplace les graines avant qu'elles aient eu le temps de s'ancrer.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237755542.jpg" alt="Comment peut on semer du gazon sans rouleau - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Donc quand on cherche à se passer de rouleau, c'est exactement ces deux effets qu'on cherche à reproduire par d'autres moyens.
 
 Un sol trop meuble empêche les graines de germer correctement car elles restent "en l'air" sans contact avec l'humidité de la terre. C'est pourquoi le tassage, qu'il soit fait avec un rouleau ou autrement, fait vraiment la différence.
@@ -26,6 +31,11 @@ Un sol trop meuble empêche les graines de germer correctement car elles restent
 ## Prépare bien ton sol avant de commencer
 
 Le succès du semis sans rouleau dépend beaucoup de la qualité de la préparation du sol. Un sol bien travaillé en amont réduira beaucoup l'effort nécessaire pour compenser l'absence de rouleau.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237185708.jpg" alt="Comment peut on semer du gazon sans rouleau - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Ameublir, niveler, éliminer les indésirables
 
@@ -43,6 +53,11 @@ La période idéale pour semer du gazon en France se situe entre mi-août et mi-
 ## Les alternatives concrètes au rouleau
 
 Voici maintenant le coeur de la question. Tu as plusieurs options selon ce que tu as sous la main.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236443899.jpg" alt="Comment peut on semer du gazon sans rouleau - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Technique 1 : Le tassage à pied
 
@@ -101,6 +116,11 @@ flowchart TD
 
 Après le tassage (quel que soit l'outil utilisé), ajoute une fine couche de terreau sur les graines. Une épaisseur de 3 à 5 mm suffit largement. Cette couverture légère fait plusieurs choses utiles : elle fixe les graines pour qu'elles ne bougent pas au premier coup de vent ou d'arrosage, elle maintient l'humidité autour des semences, et elle améliore le contact terre-graine.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237067124.jpg" alt="Comment peut on semer du gazon sans rouleau - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 N'enterre pas les graines trop profondément - elles ont besoin de lumière pour germer. 5 mm, c'est vraiment le maximum.
 
 Certains jardiniers utilisent à la place du tourbe, de la vermiculite ou de la fibre de coco. Ces matières retiennent bien l'humidité, ce qui peut être utile si tu vis dans une région sèche ou si tu sembles pendant une période chaude du printemps.
@@ -108,6 +128,11 @@ Certains jardiniers utilisent à la place du tourbe, de la vermiculite ou de la 
 ## L'arrosage : l'élément qui compense tout le reste
 
 Sans rouleau, ton arrosage devient encore plus stratégique. Des graines mal tassées qui reçoivent un arrosage trop puissant vont se déplacer et créer des zones chauve là où tu n'en veux pas. Voici comment faire :
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232819965.jpg" alt="Comment peut on semer du gazon sans rouleau - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Les 2 premières semaines** : arrose deux fois par jour en pluie très fine, matin et soir, en évitant les heures chaudes. Le sol doit rester constamment humide sans être détrempé. Une pomme d'arrosoir ou un tuyau avec une buse "pluie" fonctionnent très bien.
 

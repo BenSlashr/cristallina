@@ -21,6 +21,11 @@ La bonne nouvelle ? Pas besoin d'investir 2000 euros dans une clim' réversible.
 
 ## 1. Gère ta ventilation comme une pro
 
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237727827.jpg" alt="Piece trop chaude - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### La technique du courant d'air croisé
 
 La ventilation ne sert à rien si tu ouvres les fenêtres en plein après-midi à 35 °C. Le principe : ouvrir le soir, la nuit et tôt le matin (quand l'air extérieur est plus frais), puis tout fermer dès que le soleil tape.
@@ -37,6 +42,11 @@ Un bon ventilateur sur pied (Rowenta Turbo Silence à 60-80 euros, ou Dyson Pure
 ## 2. Bloque le soleil AVANT qu'il n'entre
 
 C'est la règle numéro un. 80 % de la chaleur qui rentre chez toi passe par les fenêtres. Bloque le rayonnement avant qu'il ne touche le verre, et tu as déjà fait la moitié du travail.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237731138.jpg" alt="Piece trop chaude - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les protections extérieures - le top du top
 
@@ -73,6 +83,11 @@ Si tu es en appartement sans volets, le film anti-chaleur à coller sur les vitr
 
 Ta déco joue un rôle direct sur la température ressentie. En été, tout ce qui est polyester, velours, flanelle, ça piège la chaleur. Et ton beau canapé en simili cuir noir ? Un sauna personnel dès que le mercure dépasse 25 °C.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238213320.jpg" alt="Piece trop chaude - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Les tissus qui rafraîchissent
 
 Le lin est le roi des fibres d'été. Il absorbe l'humidité, sèche vite et procure une sensation de frais au toucher. Pour ta literie, passe aux draps en lin lavé (La Redoute Intérieurs à 50 euros, ou Zara Home vers 60-80 euros). Le coton percale est aussi un bon choix : gamme NATTJASMIN chez Ikea à 20-35 euros.
@@ -86,6 +101,11 @@ Pour le canapé, jette un plaid en lin ou en coton léger sur l'assise. C'est ra
 
 Ce n'est pas un mythe. Les plantes d'intérieur rafraîchissent l'air par évapotranspiration : elles rejettent de l'eau par leurs feuilles, ce qui humidifie et refroidit l'air ambiant.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232841408.jpg" alt="Piece trop chaude - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Les championnes de la fraîcheur
 
 - **Ficus elastica (caoutchouc)** : grandes feuilles, forte évapotranspiration. 15-25 euros en jardinerie.
@@ -98,6 +118,11 @@ Regroupe 3 à 5 plantes dans la pièce la plus chaude. L'effet combiné peut fai
 ## 5. Réduis les sources de chaleur internes
 
 On n'y pense pas assez, mais ton intérieur fabrique sa propre chaleur. Et pas qu'un peu.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237817795.jpg" alt="Piece trop chaude - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les appareils qui chauffent en silence
 

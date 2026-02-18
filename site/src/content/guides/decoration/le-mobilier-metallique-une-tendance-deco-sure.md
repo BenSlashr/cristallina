@@ -19,6 +19,11 @@ Dans cet article, je te guide pour choisir les bons métaux, les bons meubles, e
 
 Le métal a toujours eu une place dans nos intérieurs - poignées de porte, pieds de chaise, luminaires. Ce qui change, c'est qu'il passe du simple détail fonctionnel à un vrai élément de style. Plusieurs raisons expliquent ce retour en force.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237936641.jpg" alt="Le mobilier metallique une tendance deco sure - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 D'abord, la tendance aux matières brutes et authentiques pousse vers des matériaux qui montrent leur texture. Le métal, qu'il soit brossé, martelé ou poli, raconte quelque chose. Il vieillit bien, il prend une patine avec le temps, il a une présence visuelle forte.
 
 Le métal répond aussi à un besoin de durabilité. Un meuble en acier ou en fer forgé, ça traverse les décennies. Dans un contexte où la consommation raisonnée gagne du terrain, investir dans du mobilier métallique de qualité fait sens.
@@ -31,6 +36,11 @@ Et puis il y a l'esthétique pure. Le métal apporte des reflets, joue avec la l
 ## Les différents métaux et leurs ambiances
 
 Tous les métaux ne donnent pas la même ambiance. Connaître leurs spécificités, c'est la clé pour réussir ta déco.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238201755.jpg" alt="Le mobilier metallique une tendance deco sure - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### L'acier noir mat
 
@@ -79,6 +89,11 @@ graph TD
 
 ## Pièce par pièce : où placer le mobilier métallique
 
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237998456.jpg" alt="Le mobilier metallique une tendance deco sure - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le salon
 
 Le salon, c'est LA pièce où le métal fait le plus d'effet. Une table basse avec une structure en métal et un plateau en bois ou en marbre devient le point central de la pièce. Les étagères métalliques ouvertes remplacent les bibliothèques massives et allègent visuellement l'espace.
@@ -107,6 +122,11 @@ La cuisine, c'est le terrain naturel du métal. Les étagères ouvertes en acier
 ## Comment mixer le métal avec d'autres matières
 
 C'est là le vrai secret d'une déco métallique réussie : le contraste. Le métal seul, c'est froid. Le métal combiné avec les bonnes matières, c'est spectaculaire.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238185329.jpg" alt="Le mobilier metallique une tendance deco sure - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Métal + bois
 
@@ -151,6 +171,11 @@ flowchart LR
 ```
 
 ## Les erreurs à éviter avec le mobilier métallique
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237019049.jpg" alt="Le mobilier metallique une tendance deco sure - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Trop de métal tue le métal
 

@@ -21,6 +21,11 @@ Je t'ai sélectionné 15 idées concrètes, classées par matériau, avec à cha
 
 Le bois de palette reste le chouchou des bricoleurs récup. Il est gratuit (ou presque), facile à travailler, et donne un rendu rustique très tendance. Tu en trouves sur Leboncoin, devant les zones commerciales ou chez les artisans qui s'en débarrassent.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231882398.jpg" alt="Artisanat avec des materiaux recycles pour la maison - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Etagères murales en palette
 
 Découpe deux ou trois planches d'une palette standard (120 x 80 cm). Ponce-les au papier de verre grain 120, puis applique une couche de cire ou de vernis mat. Fixe-les au mur avec des équerres invisibles. Budget total : moins de 10 euros si tu as déjà du papier de verre.
@@ -41,6 +46,11 @@ Empile deux ou trois caisses en bois de récup, fixe-les entre elles avec de la 
 ## Le verre : bocaux et bouteilles transformés
 
 Le verre est un matériau génial pour la récup déco. Il est beau, solide, et se recycle à l'infini. Mais plutôt que de le mettre dans le bac vert, transforme-le.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232705504.jpg" alt="Artisanat avec des materiaux recycles pour la maison - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Vases colorés avec des bouteilles
 
@@ -74,6 +84,11 @@ flowchart LR
 
 Les bouchons de liège s'accumulent vite si tu bois du vin de temps en temps. Il en faut entre 50 et 200 selon le projet, mais en quelques mois de collecte (ou via les sites de dons), tu as largement assez.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771236323317.jpg" alt="Artisanat avec des materiaux recycles pour la maison - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Panneau mural en bouchons
 
 Colle des bouchons coupés en deux (dans le sens de la longueur) sur un cadre en bois ou directement sur un panneau de contreplaqué. La colle chaude au pistolet fonctionne bien pour ça. Tu obtiens un panneau d'affichage naturel où tu peux épingler des photos, des cartes postales ou des mémos. Budget : 5-10 euros pour le panneau de support.
@@ -92,6 +107,11 @@ Un bouchon de liège fendu sur un côté (avec un cutter) devient un marque-plac
 ## Le plastique et les contenants du quotidien
 
 On jette des kilos de plastique chaque mois. Certains contenants ont des formes parfaites pour la déco ou le rangement, si tu prends le temps de les transformer.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771235164050.jpg" alt="Artisanat avec des materiaux recycles pour la maison - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Pots de fleurs avec des bouteilles en plastique
 
@@ -126,6 +146,11 @@ Les petites bobines de ruban adhésif ou de masking tape, une fois vides, font d
 ## Le tissu et le papier : les oubliés de la récup
 
 Les vieux draps, les chutes de tissu, le papier journal et le carton sont aussi des matériaux de récup qui se transforment facilement.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237865841.jpg" alt="Artisanat avec des materiaux recycles pour la maison - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Fleurs en tissu ou en papier
 

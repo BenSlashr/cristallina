@@ -19,6 +19,11 @@ Depuis, j'ai décoré cinq chambres en location. Chaque fois, j'ai récupéré m
 
 Le marché de la déco réversible a explosé ces dernières années. Les marques ont compris que 40 % des Français sont locataires et veulent quand même un intérieur qui leur ressemble. Résultat : des solutions sans perçage, sans colle forte, sans dégât - à des prix accessibles.
 
+<div class="my-8">
+  <img src="/images/pinterest-chambre-adulte-deux-couleurs-peinture-bicolore-1771237397688.jpg" alt="Decorer chambre coucher location - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 D'après les données de SeLoger, une transformation de chambre en location revient en moyenne à moins de 1 000 euros tout compris. Et avec mes astuces, tu peux descendre largement sous les 500 euros.
 
 ```mermaid
@@ -49,6 +54,11 @@ flowchart TD
 
 Le washi tape, c'est ce ruban adhésif décoratif venu du Japon qui se colle et se décolle sans laisser de trace. Tu peux créer des motifs géométriques, encadrer un mur accent, dessiner une fausse tête de lit ou souligner une ligne de meubles.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237269957.jpg" alt="Decorer chambre coucher location - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Mes préférés : les rouleaux chez Sostrene Grene (2-4 euros pièce) et les versions larges chez Amazon (lot de 12 rouleaux pour 10-15 euros). Le doré et le noir rendent très bien sur un mur blanc.
 
 **Idée concrète** : trace un grand losange ou un rectangle au-dessus de ton lit avec du washi tape doré. Ca crée un faux cadre mural en cinq minutes, et ça se retire en dix secondes le jour du départ.
@@ -56,6 +66,11 @@ Mes préférés : les rouleaux chez Sostrene Grene (2-4 euros pièce) et les ver
 ## 2. Les cimaises Command pour accrocher sans percer
 
 Les languettes adhésives Command de 3M sont la meilleure invention pour les locataires. Elles tiennent jusqu'à 7 kg selon le modèle, se retirent sans abîmer le mur, et coûtent entre 5 et 12 euros le lot.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238104326.jpg" alt="Decorer chambre coucher location - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Tu peux accrocher des cadres, des miroirs légers, des petites étagères, des patères. J'utilise les "Command Strips" grandes tailles depuis des années et je n'ai jamais eu un seul accident.
 
@@ -66,6 +81,11 @@ Tu peux accrocher des cadres, des miroirs légers, des petites étagères, des p
 
 La tête de lit, c'est la pièce centrale de ta chambre. En location, tu ne peux pas en visser une au mur - mais tu as plein d'alternatives.
 
+<div class="my-8">
+  <img src="/images/pinterest-chambre-coucher-2026-tendances-d-coration-moderne-1771232849293.jpg" alt="Decorer chambre coucher location - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Option tissu suspendu** : une tringle à rideau posée en haut du mur (avec des supports adhésifs Command) et un beau tissu en lin ou en velours qui tombe derrière le lit. Budget : 15-30 euros chez IKEA ou Mondial Tissus.
 
 **Option panneau posé** : un grand panneau de bois MDF recouvert de mousse et de tissu, simplement calé entre le lit et le mur. C'est la méthode que j'utilise chez moi - pas un seul trou, et le résultat fait pro. Budget : 25-50 euros en fournitures.
@@ -75,6 +95,11 @@ La tête de lit, c'est la pièce centrale de ta chambre. En location, tu ne peux
 ## 4. Les textiles : ton levier déco le plus puissant
 
 Les textiles sont le moyen le plus rapide de personnaliser une chambre. Aucun trou, aucun dégât, un effet immédiat. En location, c'est ton meilleur allié.
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771233120142.jpg" alt="Decorer chambre coucher location - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Le linge de lit** donne le ton de la pièce. Un ensemble en lin lavé couleur naturelle ou en percale de coton blanc cassé transforme l'ambiance. IKEA propose la gamme DYTAG en lin mélangé à partir de 30 euros. La Redoute Interieurs vend des parures en percale à 35-45 euros en soldes.
 

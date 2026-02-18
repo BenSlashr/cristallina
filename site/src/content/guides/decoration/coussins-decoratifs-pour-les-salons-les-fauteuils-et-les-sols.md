@@ -19,6 +19,11 @@ Que tu veuilles relooker ton canapé, rendre ton fauteuil accueillant ou créer 
 
 Tu as peut-être remarqué : dans les magazines déco et les photos Pinterest qui te font rêver, il y a toujours des coussins. Ce n'est pas un hasard. Ils apportent trois choses en un seul accessoire.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237860122.jpg" alt="Coussins decoratifs pour les salons les fauteuils et les sols - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 D'abord, **la couleur**. Même avec un canapé gris ou beige, deux ou trois coussins dans des tons de sauge, de terracotta ou de moutarde suffisent à donner du caractère. Et quand tu te lasses, tu changes les housses plutôt que le canapé - ça coûte 15 euros au lieu de 800.
 
 Ensuite, **la texture**. Un coussin en lin froissé à côté d'un velours lisse, avec un troisième en tricot grossier : tu crées de la richesse visuelle sans rien ajouter d'autre.
@@ -31,6 +36,11 @@ Et puis, **le confort**. Un canapé rigide devient moelleux, un fauteuil ferme s
 ## Les matières à connaître (et celles à éviter)
 
 Tous les coussins ne se valent pas. Le garnissage et la housse changent complètement le rendu et le confort. Voici un tour des matières les plus courantes avec leurs avantages et leurs limites.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771234017248.jpg" alt="Coussins decoratifs pour les salons les fauteuils et les sols - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le lin : le chouchou des intérieurs naturels
 
@@ -85,6 +95,11 @@ graph TD
 
 La question que tout le monde se pose : combien de coussins mettre sur un canapé ? Trop peu, c'est plat. Trop, c'est encombrant et tu ne sais plus où t'asseoir.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235315613.jpg" alt="Coussins decoratifs pour les salons les fauteuils et les sols - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### La règle des nombres impairs
 
 Les designers utilisent presque toujours un nombre impair : 3, 5 ou 7 selon la taille du canapé. L'oeil humain trouve les groupes impairs plus dynamiques. Un 2 places supporte bien 3 coussins, un 3 places sera parfait avec 5, et un grand angle peut monter à 7.
@@ -107,6 +122,11 @@ Si tu cherches l'inspiration pour la palette couleur de tout ton salon, notre gu
 
 Un fauteuil avec un coussin bien choisi, c'est un fauteuil dans lequel tu as immédiatement envie de t'installer. Mais attention, l'espace est plus réduit que sur un canapé - il faut être précis.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237922397.jpg" alt="Coussins decoratifs pour les salons les fauteuils et les sols - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le bon format pour chaque fauteuil
 
 Pour un fauteuil classique (bergère ou club), un coussin carré de 40x40 ou 45x45 cm suffit. Pour un fauteuil large type papasan, un coussin de 50x50 cm ou deux petits de 30x30 cm placés en biais.
@@ -122,6 +142,11 @@ La règle de base : le coussin contraste avec le fauteuil. Fauteuil coloré (ble
 ## Les coussins de sol : un coin détente à petit prix
 
 Les coussins de sol font un retour en force. Ils créent un espace informel, parfait pour bouquiner, jouer avec les enfants ou accueillir des invités quand le canapé est plein.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771236146792.jpg" alt="Coussins decoratifs pour les salons les fauteuils et les sols - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Quel type de coussin de sol choisir ?
 

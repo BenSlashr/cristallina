@@ -21,6 +21,11 @@ Je vais te guider à travers les projets les plus accessibles, avec des conseils
 
 Avant de se lancer, une petite mise en contexte. Un pneu usagé met environ 1000 ans à se décomposer naturellement. En France, des millions de pneus sont collectés chaque année via des filières de recyclage, mais une bonne partie finit quand même dans des circuits peu vertueux.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237367758.jpg" alt="Pneus recycles pour la decoration - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Transformer un pneu en objet décoratif, c'est donc un geste concret. Et contrairement à ce qu'on pourrait croire, le résultat peut être vraiment joli - même à l'intérieur. La clé, c'est la préparation.
 
 > [!NOTE]
@@ -29,6 +34,11 @@ Transformer un pneu en objet décoratif, c'est donc un geste concret. Et contrai
 ## Préparer un pneu pour la déco : les étapes à ne pas sauter
 
 La préparation, c'est 80% du résultat. Si tu bâcles cette étape, ta déco tiendra moins longtemps et aura moins de cachet.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237890273.jpg" alt="Pneus recycles pour la decoration - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Nettoyage en profondeur**
 
@@ -48,6 +58,11 @@ Pour l'extérieur, utilise une peinture caoutchouc ou une peinture multi-support
 ## Les tables basses : le projet le plus populaire
 
 La table basse en pneu, c'est LE projet DIY pneu par excellence. Et pour cause : le résultat est vraiment beau et fonctionnel.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237088203.jpg" alt="Pneus recycles pour la decoration - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Version simple : pneu + plateau**
 
@@ -80,6 +95,11 @@ flowchart TD
 
 Un pneu de voiture rembourré fait un pouf parfait. Solide, bas, et clairement original.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237428506.jpg" alt="Pneus recycles pour la decoration - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Ce qu'il te faut**
 
 - 1 pneu (de voiture ou de moto selon la taille voulue)
@@ -100,6 +120,11 @@ Pour le tissu, jette un oeil à la gamme Tissu Papi en ligne : leur velours côt
 ## Les jardinières et bacs de plantes
 
 Pour le jardin ou la terrasse, les pneus recyclés font d'excellentes jardinières. Résistants à la pluie, au gel (dans une certaine mesure), et très faciles à customiser.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238149079.jpg" alt="Pneus recycles pour la decoration - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Jardinière au sol**
 

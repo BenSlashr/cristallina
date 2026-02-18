@@ -17,6 +17,11 @@ Tu envisages de construire ou de rénover l'extérieur de ta maison et tu veux s
 
 L'année 2026 marque un vrai tournant dans la façon dont on pense l'extérieur d'une maison. On ne cherche plus à faire "propre et minimal" comme dans les années 2010 - on veut de la profondeur, du caractère, quelque chose qui raconte une histoire.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233743360.jpg" alt="Facades de maisons modernes 2026 - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 La grande tendance ? Le mix de matériaux. Verre, métal, pierre et bois se combinent sur une même facade pour créer du contraste et du relief. Tu vois une maison avec un bardage bois chaud sur la partie haute, du béton lisse en bas et une structure métallique sombre autour des fenêtres ? C'est exactement ça, et c'est très 2026.
 
 Ce mélange n'est pas aléatoire - chaque matériau a son rôle. Le bois apporte la chaleur, le métal donne la précision, la pierre ou le béton ajoute la solidité visuelle. Résultat : une facade qui a l'air fabriquée avec soin, pas sortie d'un moule.
@@ -25,6 +30,11 @@ Ce mélange n'est pas aléatoire - chaque matériau a son rôle. Le bois apporte
 > Pour un mix de matières réussi, limite-toi à 2-3 matériaux maximum. Trop de textures différentes, ça devient confus. Choisis un matériau dominant (60%), un secondaire (30%) et un accent (10%).
 
 ## Les matériaux stars de 2026
+
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771235314361.jpg" alt="Facades de maisons modernes 2026 - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le bardage bois - chaud et durable
 
@@ -66,6 +76,11 @@ graph TD
     D --> I["Terracotta / rouille"]
     D --> J["Ocre doré"]
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771235323555.jpg" alt="Facades de maisons modernes 2026 - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
     style A fill:#FFF0F5,stroke:#E879F9,color:#701A75
     style B fill:#F3F4F6,stroke:#8B5CF6,color:#581C87
     style C fill:#F3F4F6,stroke:#8B5CF6,color:#581C87
@@ -88,6 +103,11 @@ Si tu veux aller plus loin sur la question des couleurs pour tes extérieurs, j'
 
 ## Les styles architecturaux qui dominent
 
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237183039.jpg" alt="Facades de maisons modernes 2026 - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le minimalisme contextuel
 
 Ce n'est pas du minimalisme froid et déshumanisé - c'est un minimalisme qui s'adapte au terrain et au paysage. Une maison en zone forestière va utiliser le bois et des teintes forestières. En bordure de mer, le blanc et le zinc. En zone urbaine, le béton et le métal.
@@ -108,6 +128,11 @@ De plus en plus de maisons affichent leur performance énergétique depuis leur 
 ## Budget : ce que ça coûte vraiment
 
 Un des aspects les plus importants quand on parle de facade, c'est le budget. Voici un repère concret :
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232700187.jpg" alt="Facades de maisons modernes 2026 - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 graph LR

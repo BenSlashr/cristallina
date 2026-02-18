@@ -19,6 +19,11 @@ La pergola bioclimatique, c'est le produit outdoor qui a explosé ces dernières
 
 Le mot "bioclimatique" est partout, mais ça veut dire quoi concrètement ? C'est une pergola dont le toit est composé de lames orientables en aluminium. Ces lames pivotent sur leur axe, ce qui te permet de contrôler ce qui entre : la lumière, l'air, la chaleur ou la pluie.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771238241274.jpg" alt="La pergola bioclimatique lalliance parfaite entre esthetique et confort - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Quand les lames sont complètement fermées, elles forment un toit étanche. L'eau de pluie s'écoule dans les gouttières intégrées aux montants, discrètes et efficaces. Quand tu les ouvres progressivement, tu gères le flux d'air et la luminosité selon tes envies du moment.
 
 > [!TIP]
@@ -29,6 +34,11 @@ Ce qui la distingue d'une véranda, c'est l'aspect ouvert sur l'extérieur. Tu r
 ## Les matériaux : aluminium ou bois ?
 
 La structure en aluminium domine le marché, et c'est logique. L'aluminium thermolaqué ne rouille pas, résiste aux UV et demande zéro entretien. Tu choisis ta teinte (blanc, anthracite, gris pâle, sable, vert mousse) et tu n'y touches plus pendant des années.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236546574.jpg" alt="La pergola bioclimatique lalliance parfaite entre esthetique et confort - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Le bois existe aussi, notamment en version pergola bioclimatique hybride avec structure bois et lames alu. Ça donne un rendu plus chaud, plus organique, qui colle bien avec un jardin nature ou une maison ancienne. Mais ça demande un entretien régulier - lasure tous les deux ou trois ans minimum.
 
@@ -61,6 +71,11 @@ graph TD
 
 C'est la partie qui change tout. Les lames ont généralement une largeur entre 150 et 250 mm et une épaisseur entre 50 et 80 mm. Elles pivotent de 0° (complètement fermées) à 150° environ, ce qui laisse passer l'air tout en gardant un léger effet pare-soleil.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237046569.jpg" alt="La pergola bioclimatique lalliance parfaite entre esthetique et confort - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 En été, tu orientes les lames de façon à bloquer le rayonnement solaire direct mais à laisser circuler la brise. Ça fait une vraie différence sur la sensation de chaleur sous la pergola - l'ombre portée des lames + la circulation d'air, et tu passes de 38°C au soleil à quelque chose de tout à fait supportable.
 
 En hiver ou en demi-saison, tu ouvres les lames au maximum pour profiter de l'apport thermique du soleil. Un déjeuner en plein soleil de février sous ta pergola ouverte, avec une petite brise contrôlée, c'est largement possible.
@@ -73,6 +88,11 @@ Les gouttières intégrées dans les montants sont un détail qu'on voit peu mai
 ## Dimensions, quel budget prévoir ?
 
 Les dimensions standard vont de 3x3 m pour les petites terrasses à 6x4 m ou plus pour les grands espaces. La plupart des fabricants proposent des structures modulables que tu assembles selon ta configuration.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236831246.jpg" alt="La pergola bioclimatique lalliance parfaite entre esthetique et confort - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Niveau budget, soyons honnêtes :
 
@@ -90,6 +110,11 @@ Si tu as déjà une terrasse bien équipée ou si tu réfléchis à [d'autres am
 ## Options et accessoires qui font la différence
 
 Une pergola bioclimatique de base, c'est bien. Mais les options permettent de vraiment personnaliser l'espace.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237828038.jpg" alt="La pergola bioclimatique lalliance parfaite entre esthetique et confort - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart LR

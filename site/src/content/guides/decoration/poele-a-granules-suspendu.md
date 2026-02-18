@@ -21,6 +21,11 @@ Je t'explique tout : comment ça marche, combien ça coûte, quelles marques val
 
 ## Pourquoi le poêle à granulés suspendu cartonne en déco
 
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771238033717.jpg" alt="Poele a granules suspendu - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Un objet design à part entière
 
 Le premier atout du poêle suspendu, c'est son impact visuel. Contrairement à un poêle classique posé au sol, le modèle suspendu ou mural libère l'espace et crée un vrai point focal dans la pièce. C'est un peu comme accrocher une oeuvre d'art au mur, sauf que celle-là te chauffe aussi.
@@ -37,6 +42,11 @@ Avec les granulés (aussi appelés pellets), tu évites la corvée du bois à st
 C'est le combo parfait : l'ambiance feu de cheminée, le côté pratique en plus.
 
 ## Comment fonctionne un poêle à granulés suspendu
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238025038.jpg" alt="Poele a granules suspendu - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le principe de fixation
 
@@ -79,6 +89,11 @@ graph TD
 
 Soyons cash sur les prix, parce que c'est souvent le nerf de la guerre.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235235154.jpg" alt="Poele a granules suspendu - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le poêle seul
 
 Le tarif dépend de la puissance, de la marque et du design :
@@ -115,6 +130,11 @@ Bonne nouvelle : le poêle à granulés est éligible à plusieurs aides en 2026
 En cumulant, tu peux couvrir 30 à 50 % du coût total. Ça vaut le coup de monter un dossier.
 
 ## Les meilleures marques de poêles à granulés muraux et suspendus
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236634694.jpg" alt="Poele a granules suspendu - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Stûv (Belgique) - Le roi du design
 
@@ -160,6 +180,11 @@ graph LR
 ```
 
 ## Comment bien intégrer ton poêle suspendu dans ta déco
+
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232891355.jpg" alt="Poele a granules suspendu - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le mur support comme écrin
 

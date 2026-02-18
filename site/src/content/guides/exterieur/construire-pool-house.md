@@ -19,6 +19,11 @@ Que tu partes sur une petite structure de 10 m2 ou un vrai pavillon avec cuisine
 
 On pourrait se dire "c'est un luxe". Mais en réalité, une fois que tu l'as, tu te demandes comment tu faisais avant. Le pool house résout plusieurs problèmes du quotidien estival.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237370372.jpg" alt="Construire pool house - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Fini les allers-retours dans la maison.** Les serviettes mouillées qui traversent le salon, les pieds trempés sur le parquet, les invités qui cherchent les toilettes... Avec un pool house, tout reste dehors. L'intérieur de ta maison reste propre et sec.
 
 **Un vrai espace de rangement dédié.** Les produits de traitement, le robot de piscine, les bouées, les matelas gonflables - tout ça a besoin d'un toit. Plutôt que d'encombrer ton garage, tu stockes à deux pas du bassin.
@@ -31,6 +36,11 @@ On pourrait se dire "c'est un luxe". Mais en réalité, une fois que tu l'as, tu
 ## Les démarches administratives : ce qu'il faut savoir
 
 C'est le sujet le moins glamour, mais c'est par là qu'il faut commencer. Selon la taille de ta construction, les obligations changent.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237766268.jpg" alt="Construire pool house - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Moins de 5 m2 au sol** : aucune formalité en général (sauf zone protégée, ABF, etc.). Tu construis librement.
 
@@ -68,6 +78,11 @@ Petit point souvent oublié : la taxe d'aménagement. Elle est calculée sur la 
 
 Il n'y a pas un seul modèle. Ton choix dépend de ton budget, de ton terrain et de ce que tu veux en faire.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237774815.jpg" alt="Construire pool house - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le pool house ouvert (pergola aménagée)
 
 C'est la version la plus légère : une structure avec un toit, mais sans murs ou avec un seul côté fermé. Le reste est ouvert sur le jardin et la piscine. C'est idéal si tu veux surtout un coin ombragé avec une cuisine d'été, sans investir dans un vrai bâtiment clos.
@@ -96,6 +111,11 @@ Budget : 8 000 à 25 000 euros selon le niveau de transformation.
 
 L'environnement piscine est agressif pour les matériaux. L'humidité permanente, les éclaboussures chlorées, les UV... Tout s'abîme plus vite qu'ailleurs. Voici ce qui tient la route.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236626744.jpg" alt="Construire pool house - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Pour la structure
 
 - **Bois traité autoclave classe 4** : résiste à l'humidité permanente et au contact avec le sol. Pin sylvestre traité, douglas ou mélèze naturellement imputrescible sont de bons choix. Lasure tous les 2-3 ans pour garder l'aspect.
@@ -120,6 +140,11 @@ Un toit plat (avec légère pente de 2 à 5 % pour l'écoulement) donne un look 
 ## Aménager l'intérieur : les indispensables
 
 Un pool house vide, ça ne sert pas à grand-chose. Voici les aménagements qui font la différence au quotidien.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236998000.jpg" alt="Construire pool house - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le vestiaire et la douche
 

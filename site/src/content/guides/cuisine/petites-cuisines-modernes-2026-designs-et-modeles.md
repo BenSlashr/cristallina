@@ -17,6 +17,11 @@ Je vais te montrer ce qui marche, ce qui est beau, et surtout ce qui est accessi
 
 ## Les 4 grandes tendances pour petites cuisines en 2026
 
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-couleur-olive-vert-sauge-d-coration-moderne-1771234078483.jpg" alt="Petites cuisines modernes 2026 designs et modeles - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### La monochromie texturée
 
 Fini le blanc laqué brillant des années 2010. En 2026, le mono blanc existe encore, mais il s'enrichit de textures : façades striées (fluted), finitions béton mat, touches bois clair. L'idée ? Tout dans la même teinte de base, mais avec des matières différentes pour créer du relief.
@@ -58,6 +63,11 @@ flowchart TD
     A --> D{Cuisine en U}
     A --> E{Cuisine ouverte / linéaire}
 
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771235233064.jpg" alt="Petites cuisines modernes 2026 designs et modeles - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
     B --> F[Plan de travail filant\nHotte intégrée dans meuble haut\nColonnes en bout]
     C --> G[Angle optimisé avec\nmeuble carrousel ou\ndrawer-pack profond]
     D --> H[Ilot ou table adossée\nConvient dès 8 m²]
@@ -95,6 +105,11 @@ Pour une cuisine en U, il faut compter au minimum 8 m² pour que ce soit confort
 
 ## Les innovations 2026 qui changent vraiment le quotidien
 
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235066721.jpg" alt="Petites cuisines modernes 2026 designs et modeles - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le robinet Quooker ou équivalent
 
 Ca parait anecdotique mais le robinet eau bouillante instantanée est en train de changer les petites cuisines. Plus besoin de bouilloire encombrante, plus besoin d'attendre. Le Quooker (1200-1700€ pose comprise) est le leader, mais des alternatives existent : InSinkErator (900-1200€) ou les modèles de marque Franke et Grohe.
@@ -129,6 +144,11 @@ graph LR
 
 La couleur est souvent ce qui bloque le plus. On veut du caractère mais on a peur que ca rétrécisse. La règle est simple : une couleur forte, oui, mais sur les façades basses uniquement. Les hauts en ton neutre ou en bois clair.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232695877.jpg" alt="Petites cuisines modernes 2026 designs et modeles - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Vert sauge** : c'est la valeur sure de 2026. Apaisante, naturelle, elle va avec le bois clair et le plan de travail quartz blanc. Chez Cuisines IKEA, les teintes proches (Axstad vert grisé) démarrent à 100€ la façade. Chez Mobalpa ou SoCoo'c, il faudra choisir dans leurs catalogues colorimétriques.
 
 **Vert olive** : plus profond, plus affirmé. Si tu veux voir ce que ca donne avec le bois, jette un oeil à [cet article sur la cuisine olive](/guides/cuisine/cuisine-olive/) qui détaille tout le style.
@@ -149,6 +169,11 @@ Pour les amoureux des teintes végétales, [la cuisine verte et bois](/guides/cu
 | Ikea optimisé | 3 000 - 6 000€ | Pose par pro, électroménager Bosch, plan bois |
 | Mid-range | 8 000 - 15 000€ | Cuisiniste SoCoo'c ou Schmidt, finitions soignées |
 | Premium | 20 000 - 40 000€ | Cuisiniste haut de gamme, matériaux nobles |
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771233780621.jpg" alt="Petites cuisines modernes 2026 designs et modeles - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Pour un appartement parisien standard (6-9 m²), le sweet spot est autour de 8 000-12 000€ avec pose comprise. En dessous, tu vas devoir faire des concessions sur la qualité des charnières et les glissières de tiroirs - et dans 3 ans tu regretteras.
 

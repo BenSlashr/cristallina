@@ -19,6 +19,11 @@ J'ai testé pas mal de configurations (et ramassé beaucoup de Lego avec les pie
 
 Avant d'acheter quoi que ce soit, pose-toi la question : qu'est-ce que tu veux que cette pièce apporte à tes enfants ? Parce qu'une salle 100% défoulement et une salle qui mélange jeu et éveil, ca ne s'organise pas pareil.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235214984.jpg" alt="Salle de jeux pour enfants - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Les trois profils classiques :**
 
 - **La salle récréative** : priorité au mouvement, à la musique, aux jeux libres. Peu de mobilier, beaucoup d'espace au sol.
@@ -33,6 +38,11 @@ Pour les petits espaces, la logique de [décorer un petit salon](/guides/decorat
 ## La sécurité : le socle de tout l'aménagement
 
 On ne va pas se mentir, les enfants courent, grimpent, tombent et lancent des objets. La sécurité, ca se pense avant la déco - pas après.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232805531.jpg" alt="Salle de jeux pour enfants - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le sol
 
@@ -83,6 +93,11 @@ flowchart TD
 
 L'erreur classique, c'est de tout mettre en vrac au milieu de la pièce. Les enfants ont besoin de repères visuels pour savoir où faire quoi. Pas besoin de murs ni de cloisons - un tapis différent, un changement de couleur au sol ou une petite étagère basse suffisent à délimiter les espaces.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237043979.jpg" alt="Salle de jeux pour enfants - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le coin lecture
 
 Un petit coin douillet avec des coussins de sol, un pouf ou un tipi, et des étagères à portée de mains. Les étagères à livres Flisat d'Ikea (15 euros pièce) montrent les couvertures de face - les enfants choisissent bien mieux leurs livres quand ils voient les images.
@@ -105,6 +120,11 @@ Si tu as la hauteur sous plafond et le budget, un petit toboggan d'intérieur (S
 
 C'est LE sujet. Une salle de jeux sans système de rangement solide, ca se transforme en zone sinistrée en 24 heures.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238506108.jpg" alt="Salle de jeux pour enfants - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Le système Trofast d'Ikea** est la référence et pour cause : les bacs de couleur sont légers, empilables, et les enfants peuvent les sortir et les remettre seuls. Un meuble Trofast en pin (60 euros) avec 6 bacs (3 euros pièce) donne une base de rangement efficace pour moins de 80 euros au total.
 
 **Les autres options qui fonctionnent :**
@@ -122,6 +142,11 @@ Pour aller plus loin sur les astuces de [rangement créatif et optimisation](/ra
 ## Thèmes et déco murale : donner une identité à la pièce
 
 C'est le moment fun. Le thème, ca transforme une pièce banale en univers magique pour un enfant. Et pas besoin de repeindre tous les murs ou de poser du papier peint partout - quelques touches bien placées suffisent.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237802092.jpg" alt="Salle de jeux pour enfants - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les thèmes qui marchent en 2026
 

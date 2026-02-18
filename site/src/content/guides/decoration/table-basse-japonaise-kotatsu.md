@@ -19,6 +19,11 @@ J'ai découvert le kotatsu il y a quelques années via une amie qui revenait du 
 
 Le kotatsu (こたつ) est une table basse japonaise avec un élément chauffant fixé sous le plateau, recouverte d'une couverture épaisse - le "kake-futon" - qui emprisonne la chaleur. On s'assoit autour sur des coussins ou un tatami, on glisse les jambes dessous, et on est enveloppé d'une douce chaleur localisée.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232904746.jpg" alt="Table basse japonaise kotatsu - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 L'idée est brillante dans sa simplicité : plutôt que de chauffer toute une pièce, tu crées une bulle de chaleur exactement là où tu en as besoin. C'est une approche "low-tech" typiquement japonaise, dans la même veine que d'autres inventions ingénieuses du pays du soleil levant.
 
 Un kotatsu complet se compose de 4 éléments :
@@ -52,6 +57,11 @@ flowchart TD
 
 Au Japon, les maisons sont souvent mal isolées et le chauffage central n'est pas la norme. Chauffer une pièce entière serait coûteux et peu efficace. Le kotatsu répond à ce problème avec une logique de chaleur localisée : tu chauffes ton corps, pas l'espace vide autour de toi.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237876210.jpg" alt="Table basse japonaise kotatsu - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Résultat ? Une consommation électrique dérisoire. Un kotatsu consomme entre 50 et 200 watts selon le réglage, là où un radiateur électrique classique démarre à 1000 watts. Sur une soirée de 4 heures au réglage moyen (100W), tu dépenses environ 0,06 à 0,08 euro d'électricité. C'est rien.
 
 Mais au-delà de l'économie, il y a quelque chose d'autre. Le kotatsu crée une dynamique sociale particulière : on se retrouve autour de la table, on partage un espace chaleureux, on a du mal à partir. Au Japon, il y a même une expression - "kotatsu muri" - pour désigner l'incapacité de se lever du kotatsu tellement on est bien.
@@ -60,6 +70,11 @@ Mais au-delà de l'économie, il y a quelque chose d'autre. Le kotatsu crée une
 > En hiver, remplace ta table basse habituelle par un kotatsu pour créer un vrai coin lecture ou soirée jeux. Quelques coussins au sol, une tasse de thé chaud, et tu es en mode week-end zen en 10 minutes chrono.
 
 ## Quelle taille et quel modèle choisir
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238045410.jpg" alt="Table basse japonaise kotatsu - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Les formats disponibles
 
@@ -109,6 +124,11 @@ Pour les petits budgets, la solution DIY avec une table IKEA (type LACK ou HEMNE
 
 ## Intégrer un kotatsu dans ta déco
 
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237047349.jpg" alt="Table basse japonaise kotatsu - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### L'ambiance japonaise minimaliste
 
 Le kotatsu s'intègre naturellement dans une déco inspirée du Japon ou du scandinave. Les deux esthétiques partagent le même goût pour les lignes épurées, le bois naturel et les tons neutres.
@@ -145,6 +165,11 @@ Le kotatsu n'est pas réservé aux intérieurs zen épurés. Il s'adapte à plus
 Pour une déco à l'ambiance marocaine, tu peux même jouer la carte du métissage comme on le montre dans notre article sur la [décoration marocaine moderne](/guides/decoration/decoration-marocaine-moderne-ou-classique/) - un kotatsu avec des coussins en kilim et une lanterne en métal ajouré, c'est surprenant mais ça fonctionne vraiment.
 
 ## Utilisation au quotidien
+
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771234012702.jpg" alt="Table basse japonaise kotatsu - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### S'installer autour d'un kotatsu
 

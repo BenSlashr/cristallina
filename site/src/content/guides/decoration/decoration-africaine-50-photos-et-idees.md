@@ -19,6 +19,11 @@ Le truc, c'est de comprendre ce qui fait la force de cette esthétique pour l'in
 
 La palette africaine s'inspire directement de la nature du continent. C'est sa force : ces couleurs fonctionnent ensemble parce qu'elles existent ensemble dans les paysages d'Afrique de l'Ouest, d'Afrique australe ou de la Corne de l'Afrique.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237309301.jpg" alt="Decoration africaine 50 photos et idees - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### La base chaude
 
 **Le terracotta et l'ocre** - Ce sont les couleurs reines. Pas le terracotta pastel qu'on voit partout dans les intérieurs scandinaves, non. Ici, on parle d'un ocre profond, terreux, brut. Sur un mur, ça crée une ambiance enveloppante immédiate. Chez Dulux Valentine, la teinte "Terre d'Afrique" (environ 35EUR les 2,5L) donne exactement ce ton. Tollens propose aussi la gamme "Savane" avec trois nuances d'ocre magnifiques autour de 42EUR le pot.
@@ -61,6 +66,11 @@ flowchart TD
 
 Si je devais résumer la déco africaine en un mot, ce serait "matière". Tout est texture, tout est organique, tout est tangible. Pas de plastique, pas de surfaces ultra-lisses - on est dans le brut, le fait-main, le vivant.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237520455.jpg" alt="Decoration africaine 50 photos et idees - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le bois sculpté
 
 Le bois est le pilier de l'artisanat africain. Tables basses en bois de manguier, tabourets Senufo (originaires de Côte d'Ivoire, ces tabourets sculptés dans une seule pièce de bois sont devenus des icônes déco), étagères en bois recyclé... Le bois africain, c'est rarement du bois lisse et vernis. C'est du bois brut, parfois taillé à la hache, avec des marques d'outils visibles.
@@ -89,6 +99,11 @@ Le cuir travaillé à la main - poufs marocains-sahéliens, tapis en peau de vac
 ## Les objets déco : masques, paniers et textiles
 
 C'est là qu'on entre dans le vif du sujet. Les objets décoratifs africains sont à la fois beaux et chargés de sens - chaque pièce a une histoire, une fonction, un territoire d'origine.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238090940.jpg" alt="Decoration africaine 50 photos et idees - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les masques africains
 
@@ -139,9 +154,19 @@ flowchart LR
 
 Au-delà des masques, la sculpture africaine offre une variété énorme : statuettes en bois (couples, danseurs, animaux de la savane), girafes sculptées, personnages Ashanti, poupées de fertilité... Posées sur une console, une étagère ou à même le sol pour les grandes pièces, elles donnent du caractère instantanément.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237059273.jpg" alt="Decoration africaine 50 photos et idees - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Mon conseil** : choisis une ou deux pièces fortes plutôt que dix petites figurines. Un grand personnage en bois sombre de 60-80 cm de haut posé au sol à côté d'un canapé, ça vaut mieux qu'une armée de petits éléphants sur une étagère.
 
 ## Pièce par pièce : où et comment intégrer la déco africaine
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237496102.jpg" alt="Decoration africaine 50 photos et idees - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le salon africain
 

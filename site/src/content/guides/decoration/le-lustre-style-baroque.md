@@ -19,6 +19,11 @@ Je te guide pour choisir, installer et accorder un lustre baroque dans un intér
 
 Le lustre baroque nait au 17e siècle, en pleine explosion de l'art baroque en Europe - l'époque de Louis XIV, de Versailles, de tout ce qui brille. Les premiers lustres étaient en cristal de roche taillé à la main, suspendus dans les galeries des palais pour amplifier la lumière des bougies.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232877136.jpg" alt="Le lustre style baroque - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Le modèle emblématique reste la Galerie des Glaces à Versailles : 20 000 bougies, des centaines de lustres en cristal, une mise en scène pour impressionner. Le V&A Museum de Londres décrit le style baroque comme "orné, élaboré, et concu pour provoquer l'émerveillement". Le lustre en est la pièce centrale.
 
 > [!NOTE]
@@ -29,6 +34,11 @@ Pourquoi ce retour en 2026 ? On sort d'une longue période minimaliste. Après d
 ## Les différents types de lustres baroques
 
 Tous les lustres baroques ne se ressemblent pas. Voici les grandes familles pour choisir celui qui colle à ton intérieur.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236586387.jpg" alt="Le lustre style baroque - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le lustre à pampilles en cristal
 
@@ -78,6 +88,11 @@ graph TD
 ## Comment intégrer un lustre baroque dans un intérieur contemporain
 
 C'est là que ca se joue. Un lustre baroque dans le mauvais contexte donne un effet décalé. Voici les règles que j'applique.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238092216.jpg" alt="Le lustre style baroque - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Règle 1 : le contraste est ton ami
 
@@ -129,6 +144,11 @@ flowchart LR
 
 Le salon est le choix évident, mais pas le seul emplacement possible.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235438432.jpg" alt="Le lustre style baroque - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Au-dessus de la table à manger
 
 C'est peut-etre le meilleur emplacement. Le lustre crée un centre de gravité visuel au-dessus de la table, la lumière des pampilles habille les repas d'une ambiance chaleureuse. Dans un salon [moderne et épuré](/guides/decoration/salons-modernes-et-elegants-2026/), il devient LE point focal de la pièce.
@@ -151,6 +171,11 @@ Pour une salle de bain spacieuse avec baignoire ilot, un petit lustre baroque re
 ## Entretien : garder l'éclat du cristal
 
 Un lustre baroque, ca s'entretient. Les pampilles accumulent la poussière et perdent leur brillance en quelques mois.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235315502.jpg" alt="Le lustre style baroque - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Nettoyage rapide (toutes les 2 semaines)** : un coup de plumeau microfibre sur les pampilles. Ca suffit pour retirer la poussière de surface.
 

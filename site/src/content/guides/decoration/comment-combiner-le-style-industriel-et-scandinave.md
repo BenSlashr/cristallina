@@ -19,6 +19,11 @@ Le mix scandinave-industriel, c'est l'un des duos déco les plus efficaces du mo
 
 Si tu y regardes de près, le style scandinave et le style industriel partagent un ADN commun : la fonctionnalité, les lignes simples et l'absence de fioritures. Les deux refusent le superflu. Un fauteuil scandinave est beau parce qu'il est utile, pas parce qu'il est décoré. Une étagère industrielle en métal est pensée pour ranger, pas pour paraître.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-industrielle-m-tal-carrelage-metro-noir-1771237013054.jpg" alt="Comment combiner le style industriel et scandinave - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Cette base commune, c'est ce qui rend le mariage naturel. Le scandinave apporte la douceur, la luminosité et la rondeur. L'industriel apporte la structure, le contraste et le caractère. L'un sans l'autre peut vite devenir soit trop froid (full indus), soit trop lisse (full scandi). Ensemble, ils s'équilibrent.
 
 > [!NOTE]
@@ -27,6 +32,11 @@ Cette base commune, c'est ce qui rend le mariage naturel. Le scandinave apporte 
 ## La palette de couleurs : le socle du mix
 
 C'est par les couleurs que tout commence. Et la bonne nouvelle, c'est que les deux styles partagent une préférence pour les tons neutres. Ça simplifie tout.
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-industrielle-m-tal-carrelage-metro-noir-1771237145265.jpg" alt="Comment combiner le style industriel et scandinave - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les bases à poser
 
@@ -62,6 +72,11 @@ graph TD
 
 Le choix des matériaux est l'élément qui fait ou défait ton mix scandi-indus. Ici, la règle est simple : le bois et le métal doivent se retrouver dans chaque pièce.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-industrielle-m-tal-carrelage-metro-noir-1771237678848.jpg" alt="Comment combiner le style industriel et scandinave - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le bois clair, pilier scandinave
 
 Chêne clair, bouleau, pin naturel - ce sont les essences phares du style nordique. Tu les retrouves dans le parquet, les étagères, les plateaux de table, les pieds de chaise. Le bois clair illumine un espace et lui donne cette douceur typiquement scandinave.
@@ -95,6 +110,11 @@ Au-delà du bois et du métal, d'autres matières complètent le tableau :
 
 La lumière est un élément central dans les deux styles. Les intérieurs scandinaves sont pensés pour maximiser la clarté naturelle (jours courts en hiver oblige). L'industriel mise sur des luminaires à forte personnalité.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-industrielle-m-tal-carrelage-metro-noir-1771237090720.jpg" alt="Comment combiner le style industriel et scandinave - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Maximiser la lumière naturelle
 
 Pas de rideaux lourds ni de voilages épais. Opte pour des stores en lin léger ou des rideaux en coton fin, de couleur claire. Si tu as la possibilité de poser une verrière intérieure entre deux pièces, fonce - c'est l'élément déco parfait du mix scandi-indus. La verrière en métal noir laisse circuler la lumière tout en structurant l'espace.
@@ -127,6 +147,11 @@ flowchart LR
 ```
 
 ## Pièce par pièce : comment appliquer le mix
+
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-industrielle-m-tal-carrelage-metro-noir-1771237269666.jpg" alt="Comment combiner le style industriel et scandinave - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le salon
 

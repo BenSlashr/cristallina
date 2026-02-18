@@ -19,6 +19,11 @@ C'est pas un truc de preppers ou d'écolo extrême. C'est juste du bon sens, un 
 
 La première raison, c'est le prix. L'eau du robinet coûte en moyenne 4 à 5 euros le m3 (eau + assainissement). Pour une piscine de 50 m3, ça fait déjà 200 à 250 euros rien que pour le remplissage initial, sans compter les appoints tout au long de la saison dus à l'évaporation, aux éclaboussures, et aux purges régulières.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237037535.jpg" alt="Recuperation eau piscine - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 La deuxième raison, c'est que l'eau de pluie est douce par nature. Elle contient peu de calcaire, ce qui réduit les dépôts sur tes parois et ta filtration. Concrètement, tu consommes moins de produits d'entretien et ton filtre tient plus longtemps. C'est du bonus.
 
 Et la troisième raison : ton jardin te remercie aussi. Si tu installes un système bien dimensionné, tu peux utiliser le trop-plein de cuve pour arroser. Si tu fais partie de ceux qui aménagent leurs espaces avec soin - comme quand on pense à [un jardin zen bien conçu](/guides/exterieur/comment-creer-un-jardin-zen-en-7-etapes/) - autant que tout soit cohérent et durable.
@@ -30,11 +35,21 @@ Et la troisième raison : ton jardin te remercie aussi. Si tu installes un syst�
 
 L'eau de pluie n'est pas de l'eau potable et elle n'est pas non plus immédiatement prête pour ta piscine. Elle est acide (pH souvent entre 5,5 et 6,5), elle peut contenir des particules en suspension, des feuilles, des matières organiques, et selon ton environnement, des traces de pollution atmosphérique.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237827131.jpg" alt="Recuperation eau piscine - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Bonne nouvelle : ça se traite facilement. Le process est en deux temps : filtration physique avant le stockage, puis remontée du pH et désinfection avant et après l'entrée dans le bassin.
 
 Tu n'as pas besoin d'un labo. Tu as besoin d'un bon système installé correctement.
 
 ## Le matériel de base pour un système efficace
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237323576.jpg" alt="Recuperation eau piscine - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### La cuve de récupération
 
@@ -62,6 +77,11 @@ Si ta cuve est enterrée, tu as besoin d'une pompe pour remonter l'eau vers la p
 ## Le traitement de l'eau : la partie pas optionnelle
 
 C'est là où certains font des erreurs. Décharger directement l'eau de pluie dans ta piscine sans traitement, ça peut fonctionner... pendant une semaine. Ensuite, tu te retrouves avec une eau verte et un pH hors norme.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236578957.jpg" alt="Recuperation eau piscine - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart TD
@@ -104,6 +124,11 @@ Une fois le pH corrigé, tu traites comme n'importe quelle eau de piscine : chlo
 ## Peut-on aussi recycler l'eau de la piscine elle-même ?
 
 Oui, c'est une autre approche complètement différente. Plutôt que de la vider et remplir chaque année, tu gardes l'eau d'une saison sur l'autre.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237064180.jpg" alt="Recuperation eau piscine - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Ça marche pour les piscines enterrées et hors-sol. La clé : une hivernation soignée et un système de filtration bien entretenu pendant la période de fermeture (en mode ralenti mais actif).
 

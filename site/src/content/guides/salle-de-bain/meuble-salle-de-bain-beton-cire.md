@@ -19,6 +19,11 @@ Je te dis tout : comment choisir ton meuble en béton ciré, combien ça coûte,
 
 Le béton ciré n'est pas un matériau nouveau, mais son utilisation sur le mobilier de salle de bain a vraiment explosé ces deux dernières années. Et pour de bonnes raisons.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235214984.jpg" alt="Meuble salle de bain beton cire - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 D'abord, le rendu est unique. Chaque meuble en béton ciré a sa propre texture, ses nuances, ses imperfections. C'est le contraire du mobilier industriel identique chez tout le monde. Et cette matière se marie avec à peu près tout : le bois, le métal noir, le laiton, la céramique.
 
 Ensuite, c'est un matériau résistant à l'humidité quand il est bien traité. Une fois protégé avec un vernis ou une cire adaptée, ton meuble supporte les éclaboussures, la vapeur et les variations de température. C'est aussi simple à nettoyer qu'un plan de travail de cuisine.
@@ -29,6 +34,11 @@ Et le gros plus ? Le béton ciré s'applique sur des supports existants. Tu peux
 > Le béton ciré n'est pas du béton massif. C'est un enduit décoratif de 2 à 3 mm d'épaisseur que tu appliques sur un support existant. Il est donc bien plus léger qu'il n'y paraît !
 
 ## Les différents styles de meubles en béton ciré
+
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-cosy-chaleureuse-bois-naturel-spa-1771234924938.jpg" alt="Meuble salle de bain beton cire - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le style minéral pur
 
@@ -71,6 +81,11 @@ graph TD
 
 C'est LA question, et je vais être transparente. Le budget varie énormément selon que tu achètes un meuble fini, que tu le fais fabriquer sur mesure, ou que tu le réalises toi-même.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-cosy-chaleureuse-bois-naturel-spa-1771232429876.jpg" alt="Meuble salle de bain beton cire - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Meuble prêt à poser
 
 - **Leroy Merlin** : meubles sous-vasque effet béton à partir de 199 euros (gamme Neo). Ce n'est pas du vrai béton ciré, mais un revêtement mélaminé imitation. Correct pour un petit budget.
@@ -94,6 +109,11 @@ C'est LA question, et je vais être transparente. Le budget varie énormément s
 ## Fabriquer son meuble en béton ciré : le tuto pas à pas
 
 C'est le moment fun ! Transformer un meuble basique en pièce designer, c'est totalement faisable, même si tu débutes. Le blog Déconome a documenté ce projet avec des modules ENHET d'IKEA et le résultat est bluffant.
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-cosy-chaleureuse-bois-naturel-spa-1771232465633.jpg" alt="Meuble salle de bain beton cire - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le matériel nécessaire
 
@@ -144,6 +164,11 @@ graph LR
 ## Entretien au quotidien : c'est plus simple que tu crois
 
 Un des gros avantages du béton ciré, c'est son entretien minimaliste. Une fois bien protégé, ton meuble demande très peu d'attention.
+
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771234008511.jpg" alt="Meuble salle de bain beton cire - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le nettoyage courant
 

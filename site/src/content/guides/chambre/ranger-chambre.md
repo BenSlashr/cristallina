@@ -17,6 +17,11 @@ Ta chambre ressemble à un champ de bataille dès le lundi matin, alors que tu a
 
 Avant de sortir les boîtes de rangement, il faut comprendre ce qui se passe vraiment. La chambre accumule le désordre pour des raisons précises : trop d'affaires par rapport à l'espace disponible, des rangements mal placés par rapport à tes gestes quotidiens, ou des objets sans "maison" attitrée.
 
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771233161028.jpg" alt="Ranger chambre - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 La chaise sur laquelle tu empiles des vêtements en rentrant du travail ? C'est une question de flux, pas de paresse. Tu poses là parce qu'il n'y a pas d'endroit pratique entre la porte et l'armoire. On va régler ça.
 
 ```mermaid
@@ -43,6 +48,11 @@ flowchart TD
 
 C'est l'étape que tout le monde saute, et c'est l'erreur numéro un. Si tu ranges des choses dont tu n'as pas besoin, tu crées juste une version plus organisée du chaos.
 
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771235451688.jpg" alt="Ranger chambre - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **La règle des 12 mois** : si tu n'as pas touché à un vêtement ou un objet depuis un an, il part. Pas de "peut-être un jour" - cette pensée remplit les armoires pour rien.
 
 Prévois une bonne heure et vide vraiment ton armoire, tes tiroirs, les dessous de lit. Sépare en trois tas :
@@ -56,6 +66,11 @@ Prévois une bonne heure et vide vraiment ton armoire, tes tiroirs, les dessous 
 ## Etape 2 : cartographier ton espace
 
 Maintenant que tu as moins d'affaires, tu vas réfléchir à la logique de placement. Pas besoin de dessiner un plan, juste de penser à tes trajets habituels dans la chambre.
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-coucher-2026-tendances-d-coration-moderne-1771231572274.jpg" alt="Ranger chambre - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Les zones à identifier :**
 
@@ -72,6 +87,11 @@ Chaque zone doit avoir ses propres rangements à portée de main. Si tu dois tra
 ## Etape 3 : choisir les bons rangements
 
 Là on entre dans le concret. Voici les solutions qui fonctionnent vraiment, avec des prix réels.
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-coucher-2026-tendances-d-coration-moderne-1771231582542.jpg" alt="Ranger chambre - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Pour l'armoire et les vêtements
 
@@ -113,6 +133,11 @@ graph LR
 ## Etape 4 : les habitudes qui maintiennent l'ordre
 
 C'est la partie la plus sous-estimée. Tu peux avoir le meilleur système de rangement du monde, sans habitudes il sera désorganisé en une semaine.
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-adulte-deux-couleurs-peinture-bicolore-1771234748132.jpg" alt="Ranger chambre - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Le reset du soir (5 minutes)** : chaque soir avant de dormir, tu remets chaque objet à sa place. Pas de grande session de ménage, juste 5 minutes de mise à zéro. Ce geste petit mais régulier empêche l'accumulation.
 

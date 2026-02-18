@@ -19,6 +19,11 @@ Je vais te montrer comment créer une chambre pop qui a du caractère sans tombe
 
 Le Pop Art, c'est Andy Warhol, Roy Lichtenstein, les boites de soupe Campbell's en couleurs flashy et les portraits de Marilyn Monroe en sérigraphie. Ce mouvement artistique des années 1960 a transformé la culture populaire en art. En déco, ça se traduit par des couleurs vives, des motifs graphiques, des contrastes forts et un côté joyeux qui refuse de se prendre au sérieux.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238094415.jpg" alt="Guide pour une deco pop dans la chambre a coucher - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Mais attention : une chambre pop en 2026, ce n'est pas un musée rétro. C'est un mélange entre l'énergie du Pop Art et un côté contemporain, avec des matières actuelles et une vraie réflexion sur l'équilibre des teintes. L'idée, c'est de doser l'intensité pour que ta chambre reste un endroit où tu dors bien, pas une boite de nuit.
 
 > [!NOTE]
@@ -27,6 +32,11 @@ Mais attention : une chambre pop en 2026, ce n'est pas un musée rétro. C'est u
 ## La palette de couleurs : le coeur de ta chambre pop
 
 C'est LA question centrale. En déco pop, la couleur n'est pas un détail - c'est le sujet principal.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237092033.jpg" alt="Guide pour une deco pop dans la chambre a coucher - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les couleurs stars du style pop
 
@@ -70,6 +80,11 @@ Concrètement, ça donne quoi ? Imaginons une chambre pop rose et bleu :
 
 ## Les murs : la toile de fond de ta déco pop
 
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771235576960.jpg" alt="Guide pour une deco pop dans la chambre a coucher - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Option 1 : le mur accent en couleur franche
 
 Un seul mur peint dans une couleur pop franche, de préférence le mur derrière le lit. Chez Leroy Merlin, un pot de 2,5L en rose fuchsia (gamme Luxens) coûte environ 28 euros. Pour un mur de 8 m², tu en as assez en deux couches. Le reste de la pièce reste en blanc ou gris clair pour créer le contraste.
@@ -88,6 +103,11 @@ Pas envie de toucher aux murs ? Crée un mur galerie avec des affiches et toiles
 ## Le mobilier : entre vintage et contemporain
 
 Le style pop adore le mélange des époques. Meubles vintage des années 60-70 et pièces design actuelles cohabitent très bien.
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771233143210.jpg" alt="Guide pour une deco pop dans la chambre a coucher - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### La tête de lit : la pièce star
 
@@ -124,6 +144,11 @@ graph LR
 ## Les textiles : où la couleur prend vie
 
 C'est dans les textiles que ta chambre pop va vraiment s'exprimer. Et c'est aussi le poste le plus facile à modifier si tu veux évoluer.
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771235496807.jpg" alt="Guide pour une deco pop dans la chambre a coucher - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### La literie
 

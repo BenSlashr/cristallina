@@ -19,6 +19,11 @@ Je te donne ici tout ce qu'il faut savoir pour choisir un tapis imprimé qui fon
 
 Un tapis uni, c'est discret. Ça fait le job, mais ça n'apporte rien de plus qu'une surface douce sous les pieds. Un tapis imprimé, lui, joue un rôle de décoration à part entière. Il structure l'espace, attire le regard et donne le ton de toute la pièce.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771233996580.jpg" alt="Choisir tapis imprime - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 C'est un peu comme un tableau au sol : il raconte quelque chose. Un motif géométrique crée un rythme régulier qui apaise. Un imprimé floral adoucit une pièce trop anguleuse. Un motif abstrait ajoute une touche d'art contemporain sans accrocher quoi que ce soit au mur.
 
 Et puis, avantage pratique non négligeable : un tapis à motifs cache bien mieux les taches et l'usure qu'un tapis uni. Avec un chien, un chat ou des enfants, c'est un vrai plus.
@@ -29,6 +34,11 @@ Et puis, avantage pratique non négligeable : un tapis à motifs cache bien mieu
 ## Les grandes familles de motifs et leur effet
 
 Tous les imprimés ne créent pas la même ambiance. Avant de craquer sur un modèle en ligne, comprends ce que chaque famille de motifs apporte visuellement.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771236168366.jpg" alt="Choisir tapis imprime - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Géométrique : structure et modernité
 
@@ -75,6 +85,11 @@ graph TD
 
 La taille, c'est le critère que les gens négligent le plus. Un motif magnifique sur un tapis trop petit, c'est gâché. Et un immense tapis imprimé dans un espace minuscule, ça déborde visuellement.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771234072940.jpg" alt="Choisir tapis imprime - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Salon
 
 La règle de base : le tapis doit être assez grand pour que les pieds avant du canapé et des fauteuils reposent dessus. En pratique, ça donne un 160x230 cm minimum pour un salon standard, 200x290 cm si la pièce est spacieuse.
@@ -99,6 +114,11 @@ Le tapis doit dépasser de la table d'au moins 60 cm de chaque côté pour que l
 ## Choisir la bonne matière selon l'usage
 
 Le motif, c'est ce qui attire l'oeil. La matière, c'est ce qui décide si ton tapis tiendra 6 mois ou 10 ans.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236512772.jpg" alt="Choisir tapis imprime - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Laine : le classique qui vieillit bien
 
@@ -136,6 +156,11 @@ flowchart LR
 ## Comment associer un tapis imprimé au reste de la déco
 
 C'est là où beaucoup de gens paniquent. "Mon canapé est gris, mes murs sont blancs, est-ce que je peux mettre un tapis à motifs colorés ?" Oui, et c'est même le meilleur scénario. Un intérieur neutre est la toile idéale pour un tapis imprimé qui va devenir la pièce maîtresse du décor.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237981826.jpg" alt="Choisir tapis imprime - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### La règle du 60-30-10
 

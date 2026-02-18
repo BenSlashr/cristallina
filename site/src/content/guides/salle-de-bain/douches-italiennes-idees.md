@@ -19,6 +19,11 @@ J'ai compilé 15 idées concrètes, avec des prix réels et des marques accessib
 
 Une douche italienne (ou "walk-in shower") se distingue par son absence de bac surélevé et, souvent, de porte. L'eau s'évacue par une bonde intégrée au sol - soit un caniveau linéaire sur le côté, soit une bonde centrale. Le résultat : un sol de salle de bain continu, sans obstacle visuel, qui donne une impression d'espace.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771236044718.jpg" alt="Douches italiennes idees - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Ce qui change vraiment par rapport à une douche classique :
 - Le sol s'incline légèrement vers la bonde (pente de 1 à 2%)
 - L'étanchéité est gérée par une membrane sous le carrelage
@@ -30,6 +35,11 @@ Le budget varie énormément : de 1 500 € pour une installation basique à 8 0
 > Si tu rénoves depuis une baignoire ou une douche avec bac, prévois une mise à niveau du sol. C'est souvent ce poste qui fait grimper la facture - compte 300 à 800 € selon la surface et la complexité.
 
 ## 15 idées pour ta douche italienne
+
+
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771235163917.jpg" alt="Douches italiennes idees - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### 1. Le grand format minimaliste
 
@@ -169,9 +179,19 @@ Pour comprendre comment ça marche niveau accessibilité et aides financières, 
 
 - [salle de bain rustique moderne](/guides/salle-de-bain/salles-de-bains-rustiques-decoration-et-design-modernes/)
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771235964216.jpg" alt="Douches italiennes idees - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ## Les questions à se poser avant de choisir
 
 Avant de te lancer dans une direction, quelques points pratiques à clarifier :
+
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771234030929.jpg" alt="Douches italiennes idees - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Quelle surface ?** Une douche italienne confortable commence à 80x80 cm, mais 90x90 cm ou 90x120 cm c'est vraiment mieux au quotidien. Si tu as la place, une douche de 120x90 cm change tout.
 
@@ -197,6 +217,11 @@ flowchart TD
 ## Les erreurs à eviter
 
 **Sous-estimer l'etancheite** : C'est le point technique le plus critique. Une étanchéité mal faite provoque des dégâts des eaux dans le sol ou les murs en quelques mois. Insiste pour que ton artisan utilise une membrane d'étanchéité sous le carrelage, pas juste du joint de silicone.
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237680089.jpg" alt="Douches italiennes idees - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Carrelage trop glissant** : Un beau carrelage poli en 60x120 cm est magnifique... et dangereux mouillé. Vérife la classication R (résistance au glissement) : R10 minimum pour une douche, R11 pour un usage intensif.
 

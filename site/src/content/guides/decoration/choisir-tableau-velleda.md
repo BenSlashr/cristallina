@@ -56,6 +56,11 @@ Parfait pour les locataires qui ne veulent pas percer, ou pour créer un grand e
 
 La taille, c'est vraiment le critère que tout le monde sous-estime. Un tableau trop petit, tu manques de place au bout de deux jours. Un tableau trop grand, il écrase ta pièce et fait "salle de classe".
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238118152.jpg" alt="Choisir tableau velleda - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart TD
     A["Quel usage pour ton tableau ?"]
@@ -130,6 +135,11 @@ flowchart LR
 
 C'est LE point qui bloque la plupart des gens. Un tableau blanc, ça fait penser à la salle de réunion du boulot, pas à un intérieur cosy. Pourtant, avec les bons réflexes, tu peux l'intégrer de façon naturelle dans n'importe quelle pièce.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237436032.jpg" alt="Choisir tableau velleda - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Choisis la bonne couleur de surface
 
 Le blanc classique, c'est pratique mais pas toujours joli. Les modèles en verre existent en noir mat, gris clair, vert olive, rose poudré ou même terracotta. Un tableau noir mat dans une cuisine blanche, c'est super graphique. Un tableau vert sauge dans un bureau scandinave, ça s'intègre sans effort.
@@ -172,6 +182,11 @@ Si ton tableau est magnétique, profites-en pour remplacer les magnets moches pa
 ## Les erreurs classiques à éviter
 
 J'ai vu (et fait) pas mal d'erreurs avec les tableaux blancs. Voici celles que tu dois absolument contourner.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771234070133.jpg" alt="Choisir tableau velleda - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Acheter trop petit** - C'est l'erreur numéro 1. Un tableau de 30x40 cm pour un planning familial, ça ne marche pas. Tu manques de place au bout d'une semaine et tu finis par écrire de plus en plus petit jusqu'à ne plus rien lire. Prends toujours une taille au-dessus de ce que tu penses avoir besoin.
 
@@ -224,10 +239,20 @@ flowchart TD
 - [tableau pour enfant](/guides/decoration/choisir-tableau-enfant/)
 - [cadre tableau mural végétal](/guides/decoration/choisir-cadre-tableau-mural-vegetal/)
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236869153.jpg" alt="Choisir tableau velleda - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ## FAQ
 
 **Quelle est la différence entre un tableau Velleda et un tableau blanc classique ?**
 Velleda est une marque de BIC qui fabrique des tableaux blancs effaçables. Le nom est devenu générique en France, comme "Scotch" pour le ruban adhésif. Tous les tableaux Velleda sont des tableaux blancs, mais tous les tableaux blancs ne sont pas des Velleda. D'autres marques comme Nobo, Legamaster ou Bi-Office proposent des produits de qualité équivalente ou supérieure.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771233985370.jpg" alt="Choisir tableau velleda - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Comment nettoyer un tableau Velleda qui ne s'efface plus ?**
 Si ton tableau fantôme (traces grises persistantes), essaie d'abord un spray nettoyant spécial tableau blanc (5 euros en papeterie). Si ça ne suffit pas, un peu d'alcool isopropylique sur un chiffon microfibre fait des miracles. Evite les produits abrasifs qui rayeraient la surface. Pour les cas désespérés, le dentifrice blanc (pas en gel) appliqué en fine couche et essuyé peut aussi fonctionner.

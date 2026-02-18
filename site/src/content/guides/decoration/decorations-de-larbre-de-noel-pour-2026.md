@@ -15,6 +15,11 @@ Cette année, le sapin de Noël revient en force avec des ambiances qui mêlent 
 
 ## Les grandes tendances sapin de Noël 2026
 
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237303632.jpg" alt="Decorations de larbre de noel pour 2026 - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le retour au naturel et à l'éco-responsable
 
 C'est la tendance la plus forte de cette saison. Les ornements en matières recyclées, le papier, le bois et le feutre ont complètement pris le dessus sur le plastique bon marché. Le sapin en papier façon origami géant ou accordéon devient même une alternative déco à part entière pour ceux qui veulent éviter l'arbre artificiel classique.
@@ -88,6 +93,11 @@ graph TD
     E --> J["Matières naturelles,\nornements recyclés"]
     F --> K["Style graphique,\nélégance urbaine"]
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238492707.jpg" alt="Decorations de larbre de noel pour 2026 - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
     style A fill:#141D30,stroke:#F59E0B,color:#F1F5F9
     style B fill:#141D30,stroke:#F59E0B,color:#F1F5F9
     style C fill:#141D30,stroke:#8B5CF6,color:#F1F5F9
@@ -104,6 +114,11 @@ graph TD
 ## Comment construire ton sapin par étapes
 
 Habiller un sapin, c'est un vrai art - et la plupart des gens le font dans le mauvais ordre, ce qui explique pourquoi le résultat est souvent décevant. Voici la méthode qui fonctionne vraiment.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238075449.jpg" alt="Decorations de larbre de noel pour 2026 - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart LR
@@ -132,6 +147,11 @@ flowchart LR
 
 ## Les ornements tendance à shopper cette saison
 
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236739092.jpg" alt="Decorations de larbre de noel pour 2026 - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Budget serré (moins de 30 € pour tout le sapin)
 
 - **Action** : sets de boules basiques 12-20 pièces entre 2,99 et 5,99 €, guirlandes LED à partir de 3,99 €
@@ -155,6 +175,11 @@ flowchart LR
 > Si tu veux créer des ornements originaux qui sortent du lot, jette un oeil aux techniques de [fleurs en tissu ou en papier](/guides/decoration/comment-realiser-des-fleurs-en-tissu-ou-en-papier-etape-par-etape/) - une guirlande de petites fleurs en papier kraft autour du sapin est à la fois très tendance et très peu chère à fabriquer.
 
 ## Idées originales pour se démarquer
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237017520.jpg" alt="Decorations de larbre de noel pour 2026 - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le sapin monochrome
 

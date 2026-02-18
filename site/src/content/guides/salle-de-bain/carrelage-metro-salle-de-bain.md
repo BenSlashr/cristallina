@@ -17,6 +17,11 @@ Tu adores le look du carrelage métro mais tu ne sais pas comment l'intégrer da
 
 Ce petit carreau rectangulaire a été créé en 1900 pour habiller les stations du métro parisien. À l'époque, l'objectif était simple : un revêtement mural hygiénique, facile à nettoyer, qui reflète la lumière dans les tunnels sombres. Le résultat ? Un carreau en céramique biseauté, blanc, au format 7,5 x 15 cm, avec des bords légèrement bombés qui captent la lumière.
 
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771236265096.jpg" alt="Carrelage metro salle de bain - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Depuis, le carrelage métro a quitté les souterrains pour s'inviter dans nos intérieurs. Cuisines, salles de bains, buanderies - il fonctionne partout. Son secret ? Un aspect à la fois rétro et moderne, qui se marie aussi bien avec une déco classique qu'avec un style industriel ou minimaliste.
 
 En 2026, les carreaux métro se déclinent dans des dizaines de couleurs et de finitions. On est loin du simple blanc brillant - et c'est tant mieux.
@@ -24,6 +29,11 @@ En 2026, les carreaux métro se déclinent dans des dizaines de couleurs et de f
 ## Quel format choisir pour tes carreaux métro
 
 Le format original est le 7,5 x 15 cm, mais tu trouveras aussi du 10 x 20 cm (le plus vendu aujourd'hui), du 10 x 30 cm pour un effet plus allongé, et même du 5 x 15 cm pour un rendu plus graphique.
+
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771235178818.jpg" alt="Carrelage metro salle de bain - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le 10 x 20 cm : la valeur sûre
 
@@ -43,6 +53,11 @@ Le petit format d'origine a un côté authentique que les grands formats n'ont p
 ## Couleurs et finitions : comment trouver ton style
 
 C'est là que ça devient fun. Le blanc reste un classique absolu, mais les couleurs font une entrée en force dans les salles de bains en 2026.
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771236465208.jpg" alt="Carrelage metro salle de bain - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le blanc : luminosité maximale
 
@@ -94,6 +109,11 @@ flowchart LR
 
 Le sens de pose influence énormément le rendu final. Voici les options les plus courantes.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-industrielle-m-tal-carrelage-metro-noir-1771236145207.jpg" alt="Carrelage metro salle de bain - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Pose décalée horizontale (la classique)
 
 C'est la pose la plus répandue : les carreaux muraux sont posés à l'horizontale, décalés d'un demi-carreau à chaque rangée (comme un mur de briques). Résultat : un look intemporel et élégant. Si tu débutes, c'est la pose la plus facile à réaliser toi-même.
@@ -138,6 +158,11 @@ flowchart TD
 ## Les joints : un détail qui change tout
 
 Le choix du joint est souvent négligé, mais il peut transformer complètement l'aspect de ton carrelage métro.
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237529336.jpg" alt="Carrelage metro salle de bain - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Joint blanc sur carrelage blanc** : discret, propre, agrandit l'espace. C'est le combo le plus safe. Mais les joints blancs dans une salle de bains... ça jaunit. Opte pour un joint époxy (type Mapei Kerapoxy) : plus cher (25-30 EUR le seau de 5 kg contre 8-12 EUR pour un joint classique) mais quasi indestructible face à l'humidité et aux moisissures.
 

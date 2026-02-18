@@ -19,6 +19,11 @@ Je t'explique tout : quelles espèces choisir selon ton exposition, comment les 
 
 La salle de bains reproduit naturellement les conditions des forêts tropicales humides. Température stable, taux d'humidité élevé après la douche ou le bain, abri du vent... c'est le paradis pour toute une famille de plantes.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-cosy-chaleureuse-bois-naturel-spa-1771233360078.jpg" alt="Plantes salle de bains - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Le gros avantage concret : tu arroseras bien moins souvent. Les plantes se nourrissent de l'humidité de l'air. Du coup, une plante que tu arroserais deux fois par semaine dans le salon peut se contenter d'une fois tous les dix jours dans la salle de bains. C'est pratique pour les profils qui ont tendance à oublier.
 
 L'autre bénéfice, moins connu, c'est que certaines plantes absorbent une partie de l'humidité en excès. Pas de quoi remplacer un déshumidificateur, mais ça contribue à réguler l'ambiance et à limiter la condensation sur les miroirs.
@@ -27,6 +32,11 @@ L'autre bénéfice, moins connu, c'est que certaines plantes absorbent une parti
 > Si ta salle de bains n'a pas de fenêtre, choisis des espèces qui tolèrent le manque de lumière comme le pothos, le chlorophytum ou la peperomia. Ces plantes s'adaptent à la lumière artificielle.
 
 ## Les meilleures plantes pour la salle de bains
+
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237560466.jpg" alt="Plantes salle de bains - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le pothos : le sans-fautes
 
@@ -93,6 +103,11 @@ graph TD
     G --> H
     H --> I["Plante installée !"]
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-cosy-chaleureuse-bois-naturel-spa-1771233444939.jpg" alt="Plantes salle de bains - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
     style A fill:#FFF0F5,stroke:#E879F9,color:#701A75
     style B fill:#F3F4F6,stroke:#8B5CF6,color:#581C87
     style C fill:#FFF0F5,stroke:#E879F9,color:#701A75
@@ -126,6 +141,11 @@ Solution simple : pot intérieur avec trou + cache-pot décoratif sans trou. Vid
 
 Toutes les plantes ne sont pas faites pour la salle de bains. Certaines souffrent dans ces conditions :
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-cosy-chaleureuse-bois-naturel-spa-1771233524088.jpg" alt="Plantes salle de bains - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 - Les succulentes (sauf aloe vera) : elles détestent l'humidité permanente et la faible luminosité
 - Le cactus : même raison
 - Le ficus (Benjamin) : il perd ses feuilles au moindre changement, et les variations de températures dans une salle de bains sont trop fréquentes
@@ -150,6 +170,11 @@ flowchart LR
 ```
 
 ## Entretien : beaucoup plus simple que tu ne le crois
+
+
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771235636423.jpg" alt="Plantes salle de bains - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### L'arrosage en salle de bains
 

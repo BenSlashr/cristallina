@@ -17,6 +17,11 @@ Tu as déjà regardé des photos de salles de bain japonaises en te disant "waou
 
 Le mot "ofuro" (お風呂) désigne la baignoire japonaise traditionnelle. Contrairement à ce qu'on imagine, son format n'est pas là pour économiser de la place - même si c'est un avantage. La vraie différence, c'est son usage : au Japon, on ne se lave PAS dans la baignoire. Tu te douches d'abord, tu te savonnes, tu te rinces bien, et ensuite seulement tu t'immerges dans l'ofuro pour te détendre.
 
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771235145478.jpg" alt="Baignoire japonaise - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 L'eau reste propre et à bonne température, souvent partagée par toute la famille dans la journée. C'est pour ça que le bois utilisé, comme le **hinoki** (cyprès japonais) ou le **sugi** (cèdre japonais), dégage un parfum naturel qui intensifie l'expérience sensorielle. L'origine de cette pratique remonte au 6ème siècle, et le concept du "furo" s'est inspiré des onsen, ces sources chaudes naturelles où les Japonais aiment se retrouver.
 
 > [!NOTE]
@@ -25,6 +30,11 @@ L'eau reste propre et à bonne température, souvent partagée par toute la fami
 ## Dimensions et format : ce qui change tout
 
 La baignoire japonaise est beaucoup plus profonde qu'une baignoire occidentale classique. Elle mesure généralement **60 à 70 cm de profondeur**, contre 40 à 50 cm pour une baignoire standard. Par contre, elle est plus courte en longueur : autour de **110 à 130 cm**, parfois moins.
+
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771233417322.jpg" alt="Baignoire japonaise - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Tu t'assois dans l'ofuro, les genoux pliés, immergé jusqu'aux épaules. Au début ça surprend, mais une fois que tu t'y habitues, c'est extraordinairement relaxant. L'eau chaude enveloppe tout le corps en même temps, y compris les épaules - ce que n'offre pas une baignoire allongée classique.
 
@@ -53,6 +63,11 @@ graph TD
 
 ## Les matériaux : bois, acrylique ou pierre ?
 
+
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771235386654.jpg" alt="Baignoire japonaise - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le bois hinoki - le summum de l'expérience
 
 C'est le matériau traditionnel et de loin le plus beau. Le hinoki (cyprès japonais) a une couleur claire et dorée, un grain fin, et un parfum légèrement citronné vraiment enivrant. Le sugi (cèdre japonais) est plus abordable, avec une teinte plus chaude et rosée.
@@ -78,6 +93,11 @@ Pour une salle de bain ultra-design, certains optent pour des ofuro sur mesure e
 
 L'ofuro est plus haut et plus lourd qu'une baignoire classique. Quelques points à vérifier avant de se lancer :
 
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771235803571.jpg" alt="Baignoire japonaise - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Le poids.** Un ofuro en bois plein rempli d'eau peut peser plus de 500 kg. Ton plancher doit supporter ça. Dans un appartement au-dessus d'un garage, c'est souvent OK. Dans un appartement avec plancher bois ancien, ça mérite une vérification sérieuse.
 
 **La plomberie.** Le remplissage demande plus d'eau qu'une baignoire standard (entre 200 et 300 litres vs 150 litres en moyenne). Ton chauffe-eau doit suivre. Un chauffe-eau thermodynamique de 200 à 300 litres est conseillé si tu veux te baigner chaud tous les jours.
@@ -90,6 +110,11 @@ L'ofuro est plus haut et plus lourd qu'une baignoire classique. Quelques points 
 ## Quel espace prévoir dans ta salle de bain ?
 
 Bonne nouvelle : l'ofuro est plus court qu'une baignoire classique. Une salle de bain de **4 à 5 m²** peut tout à fait accueillir un ofuro + une douche séparée (pour l'étape de lavage, qui se fait avant d'entrer dans la baignoire). C'est même moins encombrant qu'une baignoire de 170 cm.
+
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771236402395.jpg" alt="Baignoire japonaise - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart LR

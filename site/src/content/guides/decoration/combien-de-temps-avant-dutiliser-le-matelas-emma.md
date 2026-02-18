@@ -17,6 +17,11 @@ Tu viens de recevoir ton matelas Emma, il est posé en rouleau dans ta chambre, 
 
 Quand tu commandes un matelas Emma en ligne, il t'est livré compressé et enroulé dans un film plastique, glissé dans une boîte compacte. Ça peut surprendre la première fois - on ne s'attend pas forcément à ce qu'un matelas tienne dans un carton de cette taille !
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236438486.jpg" alt="Combien de temps avant dutiliser le matelas emma - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Ce système de livraison "bed-in-a-box" est utilisé par la plupart des marques de matelas en ligne (Emma, Tediber, Casper, Simba...). L'avantage est évident : la livraison est plus simple, moins chère, et tu peux porter le carton seul jusque dans ta chambre sans forcer.
 
 Mais compresser un matelas en mousse ou en latex, même pendant quelques semaines, a une conséquence directe : le matelas a besoin de temps pour retrouver son volume et sa forme d'origine une fois sorti de son emballage.
@@ -27,6 +32,11 @@ Mais compresser un matelas en mousse ou en latex, même pendant quelques semaine
 ## Combien de temps avant d'utiliser le matelas Emma ?
 
 La règle standard recommandée par Emma et la plupart des fabricants de literie : **attends au minimum 24 heures, idéalement 48 à 72 heures** avant de dormir dessus.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238267173.jpg" alt="Combien de temps avant dutiliser le matelas emma - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Voici ce qui se passe selon les délais :
 
@@ -55,6 +65,11 @@ flowchart LR
 
 Oui, tu peux. Emma elle-même dit que le matelas peut être utilisé dès la sortie du carton. Mais tu risques de ne pas profiter pleinement du confort prévu si la mousse n'a pas encore totalement repris sa forme.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771233949769.jpg" alt="Combien de temps avant dutiliser le matelas emma - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Il y a aussi la question des odeurs. Un matelas neuf, surtout en mousse, peut dégager une odeur un peu chimique les premières heures - c'est ce qu'on appelle le "off-gassing". Ce phénomène est normal et sans danger, mais bien aérer la pièce les premiers jours aide vraiment.
 
 La température de ta chambre joue aussi un rôle. Une pièce à 18-20 °C permet à la mousse de se détendre correctement. En hiver, si ta chambre est froide (en dessous de 15 °C), la décompression peut prendre un peu plus de temps - compte plutôt 72 heures que 48.
@@ -65,6 +80,11 @@ La température de ta chambre joue aussi un rôle. Une pièce à 18-20 °C perme
 ## Comment bien déballer le matelas Emma ?
 
 Pour que la décompression se passe dans les meilleures conditions, voici comment procéder :
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237021284.jpg" alt="Combien de temps avant dutiliser le matelas emma - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 1. **Porte le carton dans ta chambre** avant de l'ouvrir - c'est beaucoup plus simple.
 2. **Pose le rouleau sur le sommier ou le sol** à l'endroit où tu veux l'installer.
@@ -94,6 +114,11 @@ flowchart TD
 ## Que faire si le matelas ne reprend pas bien sa forme ?
 
 Dans la grande majorité des cas, un matelas Emma reprend parfaitement sa forme après 72 heures. Mais si après 4 ou 5 jours tu constates encore des creux ou des bosses anormaux, voici quelques pistes :
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237049894.jpg" alt="Combien de temps avant dutiliser le matelas emma - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 - **Vérifie ton support** : un sommier à lattes trop espacées ou une base inadaptée peut déformer un matelas en mousse. Emma recommande des lattes espacées de 7 cm maximum.
 - **Retourne le matelas** : certains modèles Emma ne sont pas réversibles (ils ont un côté haut et un côté bas), mais vérifier que tu l'as posé dans le bon sens peut aider.

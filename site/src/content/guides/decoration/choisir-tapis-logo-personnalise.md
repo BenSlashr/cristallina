@@ -19,6 +19,11 @@ Ce guide passe en revue tout ce qu'il faut savoir avant de commander : les forma
 
 La réponse évidente, c'est le branding. Ton logo affiché dès le seuil, dans tes couleurs, avec ton typographie - ça ancre ton identité visuelle de manière concrète, physique. Mais il y a d'autres bonnes raisons, moins glamour mais bien réelles.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236588734.jpg" alt="Choisir tapis logo personnalise - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Un tapis d'entrée de qualité protège ton sol. Il capte la poussière, l'humidité, les salissures que les visiteurs apportent depuis l'extérieur. Moins de nettoyage, moins d'usure sur ton parquet ou ton carrelage. Et avec la couche caoutchouc antidérapante intégrée sur les modèles sérieux, tu évites aussi les glissades - ce qui n'est pas anodin en termes de responsabilité légale pour un commerce.
 
 > [!NOTE]
@@ -31,6 +36,11 @@ Et à la maison ? Certains particuliers commandent des tapis personnalisés pour
 ## Les dimensions : par où commencer ?
 
 C'est la premiere question à régler, et souvent celle qu'on bâcle. Résultat : un tapis trop petit qui semble perdu dans l'entrée, ou trop grand qui bloque la porte.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771238020228.jpg" alt="Choisir tapis logo personnalise - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Voici les formats standards qu'on retrouve chez la plupart des fournisseurs :
 
@@ -52,6 +62,11 @@ Si tu vises un stand événementiel, pense à la surface totale que tu veux couv
 
 On distingue deux familles principales :
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236932575.jpg" alt="Choisir tapis logo personnalise - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **7 mm d'épaisseur** - C'est le format standard, plus fin, plus léger. Adapté aux portes coulissantes ou aux endroits où l'épaisseur peut poser un problème (porte qui touche le tapis, seuil rehaussé). La couche de surface est en polyamide ou en velours imprimé, l'envers en caoutchouc naturel ou synthétique.
 
 **10 mm d'épaisseur** - Le format "confort plus", plus absorbant, meilleur pour capter les salissures et l'humidité. Recommandé pour les entrées avec fort passage ou les zones où il pleut souvent (commerces, cabinets). L'envers caoutchouc est généralement plus épais, donc meilleure adhérence au sol.
@@ -64,6 +79,11 @@ Pour l'impression, les tapis logo utilisent presque exclusivement l'impression q
 ## Où commander : tour des fournisseurs
 
 Le marché des tapis personnalisés a bien évolué. Aujourd'hui, plusieurs acteurs sérieux se démarquent.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236577602.jpg" alt="Choisir tapis logo personnalise - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 graph TD
@@ -98,6 +118,11 @@ graph TD
 ## Préparer ses fichiers : le point technique à ne pas négliger
 
 C'est là que beaucoup de commandes partent de travers. Un fichier mal préparé donne un résultat flou, des couleurs décalées, ou un logo illisible.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237933398.jpg" alt="Choisir tapis logo personnalise - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Le format idéal pour l'impression sur tapis : **PDF vectoriel ou EPS**, à défaut un PNG en 150 dpi minimum à la taille réelle du tapis. Le JPEG compressé est à éviter - les artéfacts de compression ressortent à l'impression.
 

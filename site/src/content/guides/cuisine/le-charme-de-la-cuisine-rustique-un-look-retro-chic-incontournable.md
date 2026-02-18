@@ -19,6 +19,11 @@ Je t'explique comment créer cette ambiance chez toi, avec des choix concrets de
 
 Pendant des années, la tendance était au tout lisse, tout blanc, tout épuré. Les cuisines ressemblaient à des blocs opératoires - propres, certes, mais sans personnalité. Le problème ? On s'en lasse vite. Une cuisine rustique chic, elle, vieillit comme le bon vin. Les matériaux naturels se patinent, les couleurs chaudes restent accueillantes, et le style a cette capacité rare de traverser les modes sans paraître daté.
 
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-couleur-olive-vert-sauge-d-coration-moderne-1771232042073.jpg" alt="Le charme de la cuisine rustique un look retro chic incontournable - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 En 2026, la tendance est clairement au retour des matières vivantes. Le bois massif, la pierre, la céramique artisanale - tout ce qui a une texture, une imperfection, une histoire. Les cuisinistes l'ont bien compris : Mobalpa, Cuisines Schmidt et même Ikea proposent désormais des gammes qui jouent sur les codes du rustique remis au goût du jour.
 
 L'autre raison de ce retour en grâce ? L'envie de durabilité. Une cuisine rustique bien faite avec de vrais matériaux, ça dure 20 ou 30 ans. Beaucoup mieux qu'une cuisine en mélaminé qui gondole au bout de 5 ans.
@@ -29,6 +34,11 @@ L'autre raison de ce retour en grâce ? L'envie de durabilité. Une cuisine rust
 ## Les matériaux qui font tout le style
 
 C'est la base. Sans les bons matériaux, une cuisine rustique ressemble juste à une cuisine vieillotte. Avec les bons, elle devient spectaculaire.
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-couleur-olive-vert-sauge-d-coration-moderne-1771232884786.jpg" alt="Le charme de la cuisine rustique un look retro chic incontournable - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le bois : l'ossature du rustique chic
 
@@ -80,6 +90,11 @@ graph TD
 
 Le choix des couleurs va déterminer si ta cuisine penche plutôt "campagne anglaise cosy" ou "mas provençal ensoleillé". Les deux sont top, mais il faut être cohérent.
 
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771232753929.jpg" alt="Le charme de la cuisine rustique un look retro chic incontournable - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Les teintes chaudes et terreuses
 
 Le blanc cassé, le crème, le beige sable, le terracotta doux, le vert olive - voilà ta palette de base. Ce sont des couleurs qu'on retrouve dans la nature, dans les vieux murs de pierre, dans les façades des maisons de village. Elles se marient entre elles sans effort.
@@ -98,6 +113,11 @@ Si tu veux une teinte plus audacieuse sur tes meubles, l'olive est un choix qui 
 ## L'électroménager rétro : utile ou gadget ?
 
 C'est la question que tout le monde se pose. Les frigos Smeg à 1 800 euros, les cuisinières La Cornue à 8 000 euros - est-ce que ça vaut le coup ?
+
+<div class="my-8">
+  <img src="/images/pinterest-petite-cuisine-moderne-2026-compact-optimis-e-1771237219719.jpg" alt="Le charme de la cuisine rustique un look retro chic incontournable - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Ma réponse honnête : ça dépend de ton budget. L'électroménager rétro est magnifique et peut devenir la pièce maîtresse de ta cuisine. Un frigo Smeg FAB28 en crème ou en vert pastel, c'est un objet qu'on a envie de regarder. Et il fonctionne très bien.
 
@@ -123,6 +143,11 @@ graph LR
 ## Les accessoires et détails qui font la différence
 
 Le diable est dans les détails, et c'est encore plus vrai pour le style rustique chic. Quelques éléments bien choisis peuvent transformer une cuisine banale en espace plein de charme.
+
+<div class="my-8">
+  <img src="/images/pinterest-petite-cuisine-moderne-2026-compact-optimis-e-1771238321362.jpg" alt="Le charme de la cuisine rustique un look retro chic incontournable - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### L'éclairage
 

@@ -17,6 +17,11 @@ Vivre dans 14 ou 28 m² d'acier recyclé, c'est un projet qui attire de plus en 
 
 Une tiny house container, c'est un conteneur maritime recyclé - celui qu'on voit empilé dans les ports - transformé en micro-habitation autonome. On garde la structure en acier d'origine, on découpe les ouvertures pour les fenêtres et la porte, on isole, on aménage l'intérieur, et on obtient un petit logement fonctionnel.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237824889.jpg" alt="Tiny house container - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Deux formats existent :
 
 - Le **20 pieds** (6 m x 2,4 m, environ 14 m²) - pour un studio, un bureau ou une chambre d'appoint
@@ -30,6 +35,11 @@ La version "High Cube" (HC) ajoute 30 cm de hauteur sous plafond, ce qui fait pa
 ## Pourquoi choisir un container plutôt qu'une tiny house classique ?
 
 La tiny house sur remorque en ossature bois, tu connais. Mais le container a des atouts bien à lui.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235238242.jpg" alt="Tiny house container - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### La solidité
 
@@ -66,6 +76,11 @@ graph TD
 
 Dans 14 ou 28 m², chaque centimètre compte. L'aménagement d'une tiny house container suit des règles très précises pour rendre l'espace vivable et agréable au quotidien.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237849533.jpg" alt="Tiny house container - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le plan type en 20 pieds (14 m²)
 
 Sur 6 mètres de long par 2,2 m utiles (après isolation), l'agencement classique donne :
@@ -94,6 +109,11 @@ Pour l'ambiance intérieure, le style [minimaliste](/guides/decoration/decoratio
 ## L'isolation : le sujet que tu ne peux pas ignorer
 
 L'acier conduit la chaleur et le froid mieux que n'importe quel matériau de construction. Sans isolation, ton container sera une étuve l'été et un frigo l'hiver. C'est LE poste technique à ne pas rater.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771236991507.jpg" alt="Tiny house container - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les trois options
 
@@ -132,6 +152,11 @@ Dans un espace aussi compact et étanche, la VMC (Ventilation Mécanique Contrô
 ## La réglementation : ce que dit la loi
 
 La question administrative dépend de la surface, de l'emplacement et du caractère fixe ou mobile de ta tiny house.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236673190.jpg" alt="Tiny house container - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Conteneur fixe sur terrain
 

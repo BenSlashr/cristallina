@@ -34,6 +34,11 @@ La confusion entre les deux crée souvent des déceptions. Un tableau de mousse 
 
 ## Les types de cadres disponibles : tour d'horizon
 
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238205991.jpg" alt="Choisir cadre tableau mural vegetal - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le cadre en acier ou aluminium
 
 C'est le format "professionnel" que tu vois dans les halls d'hôtel ou les open spaces. Des marques comme **Mobilane** ou **ANS Vertical Gardens** proposent des structures modulaires à partir de 150 € le m², avec système d'arrosage intégré pour les versions vivantes.
@@ -125,6 +130,11 @@ Même raisonnement que pour le salon. Un petit format (30x40 cm) posé sur un bu
 
 C'est souvent la partie qu'on sous-estime. Un tableau végétal vivant de 60x80 cm peut peser entre 8 et 15 kg selon le substrat et l'arrosage. Il faut faire ça bien.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237277589.jpg" alt="Choisir cadre tableau mural vegetal - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart LR
     P1[Peser le tableau sec\net mouillé] --> P2[Identifier la nature\ndu mur]
@@ -183,6 +193,11 @@ L'arrosage d'un tableau vivant se fait généralement par le haut (pulvérisateu
 
 Faire un tableau végétal mural, ça peut coûter 25 € en DIY ou 600 € pour un modèle haut de gamme. Voici les fourchettes réelles pour chaque option.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237337355.jpg" alt="Choisir cadre tableau mural vegetal - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 | Format | DIY vivant | Acheté vivant | Stabilisé |
 |--------|-----------|---------------|-----------|
 | 30x40 cm | 20-35 € | 55-90 € | 45-80 € |
@@ -210,10 +225,20 @@ Le DIY vivant comprend : cadre en bois brut (palette ou caisse), feutre horticol
 
 - [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238193182.jpg" alt="Choisir cadre tableau mural vegetal - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ## FAQ
 
 **Un tableau végétal stabilisé peut-il durer en salle de bains ?**
 Non, pas idéalement. L'humidité constante dégrade le traitement de stabilisation et fait jaunir la mousse. Préfère une plante vivante adaptée à l'humidité ou un tableau vivant avec un cadre en PVC.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237070539.jpg" alt="Choisir cadre tableau mural vegetal - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Combien de temps dure un tableau végétal stabilisé ?**
 Entre 5 et 10 ans dans de bonnes conditions (lumière indirecte, pas d'humidité excessive, pas de soleil direct). Les marques premium comme Forest Moss annoncent 8 ans de durée de vie.

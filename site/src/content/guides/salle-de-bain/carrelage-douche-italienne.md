@@ -17,6 +17,11 @@ Tu envisages une douche à l'italienne et tu te retrouves perdu face à l'immens
 
 Une douche à l'italienne, c'est un espace sans receveur classique, avec un sol en légère pente qui mène vers le siphon de sol. Ça change tout par rapport à une cabine de douche traditionnelle, parce que les contraintes techniques sont différentes.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771236205119.jpg" alt="Carrelage douche italienne - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Le sol doit obligatoirement être **antidérapant** - et pas seulement un peu. La réglementation définit des indices de glissance : pour une douche, tu vises minimum **R10 pour le sol**, et idéalement R11 si tu as des enfants ou des personnes âgées chez toi. Sur les murs, ce critère disparaît, et tu as beaucoup plus de liberté.
 
 L'autre point important : l'humidité permanente. Toutes les matières ne se valent pas face à l'eau, aux produits de nettoyage et aux variations de température. C'est là que le grès cérame s'impose comme la valeur sûre.
@@ -27,6 +32,11 @@ L'autre point important : l'humidité permanente. Toutes les matières ne se val
 ## Le grès cérame : le chouchou des douches à l'italienne
 
 Si tu ne retiens qu'une matière pour ta douche à l'italienne, c'est le **grès cérame**. Ce matériau cuit à très haute température absorbe presque zéro eau (moins de 0,5%), résiste aux chocs, aux rayures et aux produits ménagers. Et il existe aujourd'hui dans une variété de finitions et d'imitations vraiment bluffantes.
+
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771234264739.jpg" alt="Carrelage douche italienne - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Grès cérame émaillé vs grès cérame pleine masse
 
@@ -44,6 +54,11 @@ La faïence est souvent moins chère (5-15€/m² contre 15-40€ pour le grès 
 ## Les formats : quel effet pour quel espace ?
 
 Le format du carrelage change complètement l'ambiance visuelle de ta douche. C'est souvent là que les gens hésitent le plus, alors voilà un récap concret.
+
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771234333428.jpg" alt="Carrelage douche italienne - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart TD
@@ -90,6 +105,11 @@ Le 30x60 et le 60x60 restent les formats les plus utilisés en douche à l'itali
 
 Le carrelage, c'est aussi une question de style. Voilà les grandes tendances du moment et ce qu'elles donnent vraiment dans un espace douche.
 
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771236267741.jpg" alt="Carrelage douche italienne - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le blanc et les tons clairs : valeur sûre mais pas si basique
 
 Un carrelage blanc ou beige clair dans une douche à l'italienne, c'est intemporel. Ça agrandit visuellement l'espace, ça reflète la lumière, et ça vieillit bien. Pour ne pas tomber dans le médical, joue sur les textures : un blanc mat légèrement structuré (imitation pierre, relief discret) est beaucoup plus chaleureux qu'un blanc brillant lisse.
@@ -129,6 +149,11 @@ flowchart LR
 ## Les joints : le détail qui fait tout
 
 On oublie souvent les joints quand on choisit son carrelage, et c'est une erreur. Dans une douche à l'italienne, les joints doivent être **époxy** - pas les joints classiques au ciment. Pourquoi ? Parce qu'un joint époxy est imperméable, antifongique (adieu la moisissure noire...) et résiste aux produits de nettoyage.
+
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771235162016.jpg" alt="Carrelage douche italienne - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 La couleur des joints change aussi beaucoup le résultat final :
 - Joint assorti au carrelage : effet homogène, l'oeil ne voit pas les joints

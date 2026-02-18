@@ -19,6 +19,11 @@ Voici huit astuces concrètes, avec des prix réels et des marques accessibles, 
 
 Avant de foncer acheter quoi que ce soit, il faut comprendre un truc : ce n'est pas l'argent qui fait une belle chambre, c'est la cohérence. Un pot de peinture bien choisi à 25 euros fera plus d'effet qu'une commode Maisons du Monde à 400 euros posée dans une pièce où rien ne va ensemble.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237827519.jpg" alt="Decorer la chambre a coucher avec peu dargent - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 La clé, c'est de choisir une direction et de s'y tenir. Trois couleurs maximum, un style clair, des matières qui se répondent. Avec ça, même des objets de récup donnent un résultat professionnel.
 
 ```mermaid
@@ -44,6 +49,11 @@ flowchart TD
 
 C'est le meilleur rapport effort/résultat qui existe en déco. Tu n'as même pas besoin de peindre toute la pièce - un seul mur accent suffit à changer radicalement l'ambiance de ta chambre.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238104326.jpg" alt="Decorer la chambre a coucher avec peu dargent - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Le mur derrière le lit**, c'est le plus logique. Il attire naturellement le regard quand tu entres dans la pièce, et il encadre ta tête de lit sans que tu aies besoin d'en acheter une.
 
 Côté budget, voici ce que ça coûte pour un mur de 8 à 10 m2 :
@@ -59,6 +69,11 @@ Les couleurs qui marchent ? Vert sauge, bleu gris, rose poudré, terracotta doux
 ## Astuce 2 : les textiles, ton arme secrète
 
 Si tu devais investir dans un seul poste, c'est celui-là. Les textiles changent l'atmosphère en dix minutes, sans travaux et sans engagement.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236642878.jpg" alt="Decorer la chambre a coucher avec peu dargent - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Le linge de lit d'abord.** Un beau drap en lin lavé ou en percale de coton donne immédiatement un air soigné. Mes bons plans :
 
@@ -77,6 +92,11 @@ Enfin, un plaid en bout de lit. C'est le détail qui fait "chambre d'hôtel" san
 
 Regarde autour de toi avant de foncer en magasin. Tu serais surprise de ce qu'on peut faire avec du mobilier existant et un peu de créativité.
 
+<div class="my-8">
+  <img src="/images/pinterest-chambre-coucher-2026-tendances-d-coration-moderne-1771232831456.jpg" alt="Decorer la chambre a coucher avec peu dargent - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Ta vieille commode un peu moche ?** Un coup de peinture, des boutons neufs (2-5 euros les 6 chez Action ou Amazon), et c'est un autre meuble. La peinture pour meuble Rust-Oleum "Chalky finish" coûte environ 12 euros le pot de 750 mL - assez pour transformer un meuble complet sans poncer.
 
 **Tes cadres dépareillés ?** Peins-les tous de la même couleur (blanc, noir ou doré) et regroupe-les en gallery wall. Effet garanti, coût quasi nul si tu as un fond de peinture qui traîne.
@@ -88,6 +108,11 @@ Regarde autour de toi avant de foncer en magasin. Tu serais surprise de ce qu'on
 ## Astuce 4 : la lumière qui change tout
 
 L'éclairage, c'est le truc le plus sous-estimé en déco chambre. Un plafonnier central qui crache une lumière blanche, c'est l'ambiance salle d'attente garantie. On va corriger ça sans gros travaux.
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771234373195.jpg" alt="Decorer la chambre a coucher avec peu dargent - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Multiplie les sources lumineuses.** Au moins trois points de lumière : un éclairage principal (ton plafonnier), un éclairage de lecture (lampe de chevet), et un éclairage d'ambiance (guirlandes, bougies LED).
 

@@ -19,6 +19,11 @@ Je vais te donner la méthode exacte pour que ça tienne, parce que oui, mal fai
 
 La réponse courte : le coût et le temps. Remplacer du carrelage, ça implique de la casse, des gravats, un carreleur pro si on ne veut pas louper les joints, et une facture qui grimpe vite à plusieurs milliers d'euros. Sans compter que tu vis dans un chantier pendant une semaine.
 
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771236559224.jpg" alt="La peinture sur carrelage une methode pour renover votre interieur - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 La peinture sur carrelage, c'est une journée de prep plus une journée d'application. Budget : entre 50 et 150 euros selon la surface et la qualité de la peinture choisie.
 
 > [!NOTE]
@@ -29,6 +34,11 @@ L'autre avantage, c'est la réversibilité partielle. Si dans deux ans tu veux v
 ## Quelle peinture choisir ?
 
 C'est LA question. Pas n'importe quelle peinture ne tient sur du carrelage, qui est une surface lisse, non poreuse et souvent exposée à l'humidité.
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771232341811.jpg" alt="La peinture sur carrelage une methode pour renover votre interieur - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **La peinture époxy, c'est la référence.** Elle se présente en deux composants (la peinture + le durcisseur) qu'on mélange juste avant d'appliquer. Une fois polymérisée, elle forme un film extrêmement dur et résistant à l'eau, aux produits ménagers, et aux chocs. C'est ce qu'on utilise dans les cuisines pros et les hôpitaux.
 
@@ -44,6 +54,11 @@ Pour la couleur, reste sur des tons qui pardonnent : blanc cassé, gris clair, s
 ## La préparation : l'étape qui fait tout
 
 80% de la réussite, c'est la préparation. J'insiste. Une peinture qui cloque ou qui s'écaille deux mois après, c'est presque toujours un problème de prep, pas de peinture.
+
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771236297153.jpg" alt="La peinture sur carrelage une methode pour renover votre interieur - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Nettoyage en profondeur
 
@@ -86,6 +101,11 @@ flowchart TD
 
 ## L'application : technique et patience
 
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771237538753.jpg" alt="La peinture sur carrelage une methode pour renover votre interieur - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le matériel
 
 - Rouleau mousse courte (5mm) pour les grandes surfaces
@@ -123,6 +143,11 @@ Attends au moins 48h avant de remettre des objets sur un plan de travail peint, 
 Si tu as envie de voir le résultat rapidement, c'est le bon moment pour te faire un thé et regarder [comment bien choisir une peinture murale de qualité pour le reste de ta pièce](/guides/couleurs/peinture-luxens/).
 
 ## Sol ou mur : les différences importantes
+
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771236186624.jpg" alt="La peinture sur carrelage une methode pour renover votre interieur - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Peinture carrelage mural
 

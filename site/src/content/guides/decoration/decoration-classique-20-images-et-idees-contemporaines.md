@@ -19,6 +19,11 @@ Je te propose 20 idées concrètes pour réussir ce mélange chez toi, avec des 
 
 Le style classique pur, c'est le mobilier sculpté, les tissus damassés, les couleurs bordeaux et or, les lustres à pampilles, les consoles en marbre. Beau, mais parfois lourd et un peu muséal quand on en fait trop. Le contemporain, c'est l'inverse : lignes droites, couleurs neutres, matériaux bruts, praticité avant tout.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238411168.jpg" alt="Decoration classique 20 images et idees contemporaines - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Le classique contemporain prend le meilleur des deux mondes. On garde les éléments décoratifs qui apportent du caractère - une cheminée en marbre, des boiseries, un miroir doré - et on les associe à un mobilier épuré, des couleurs apaisantes et une mise en scène aérée.
 
 > [!NOTE]
@@ -29,6 +34,11 @@ C'est un style qui fonctionne particulièrement bien dans les appartements ancie
 ## La palette de couleurs : entre neutralité et profondeur
 
 La couleur est la base de tout dans ce style. On travaille avec des tons neutres et élégants, rehaussés par des touches plus riches qui rappellent le vocabulaire classique.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237859903.jpg" alt="Decoration classique 20 images et idees contemporaines - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les bases neutres
 
@@ -69,6 +79,11 @@ graph TD
 ```
 
 ## 20 idées concrètes pour un intérieur classique contemporain
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238267617.jpg" alt="Decoration classique 20 images et idees contemporaines - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### 1. Le canapé capitonné en version moderne
 
@@ -162,6 +177,11 @@ flowchart LR
     A --> D[Couleurs trop saturées]:::err
     A --> E[Symétrie excessive]:::err
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237085516.jpg" alt="Decoration classique 20 images et idees contemporaines - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
     B --> B1["Résultat : look 'faux palace'"]:::fix
     C --> C1["Résultat : ambiance musée"]:::fix
     D --> D1["Résultat : intérieur lourd"]:::fix
@@ -188,6 +208,11 @@ flowchart LR
 | Touches classiques dans un salon moderne | 300-600 euros | Zara Home, H&M Home, Ikea |
 | Salon classique contemporain complet | 2000-4000 euros | Maisons du Monde, AM.PM, La Redoute |
 | Rénovation pièce avec éléments architecturaux | 3000-6000 euros | Orac Decor (moulures) + mobilier chiné |
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238427502.jpg" alt="Decoration classique 20 images et idees contemporaines - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Le style classique contemporain a un gros avantage : tu peux le construire progressivement. Commence par un ou deux éléments forts (un miroir doré, un canapé en velours), et ajoute des pièces au fil du temps. Ce n'est pas un style qui demande de tout changer d'un coup.
 

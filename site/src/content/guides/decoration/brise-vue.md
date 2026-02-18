@@ -17,6 +17,11 @@ Tu en as assez de croiser le regard de ton voisin chaque fois que tu prends ton 
 
 Un brise-vue - on dit aussi pare-vue ou écran d'occultation - est un dispositif que l'on fixe sur un garde-corps, une clôture ou une structure porteuse pour bloquer la vue depuis l'extérieur. Son rôle premier, c'est de créer de l'intimité. Mais selon le modèle choisi, il peut aussi couper le vent, filtrer le soleil, réduire le bruit ambiant et habiller un espace extérieur qui manque de caractère.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235219487.jpg" alt="Brise vue - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 On le retrouve dans trois configurations principales :
 
 - **Sur un balcon** - fixé au garde-corps ou à la rambarde, souvent en toile ou en canisse légère
@@ -29,6 +34,11 @@ On le retrouve dans trois configurations principales :
 ## Les grandes familles de brise-vue
 
 Le marché propose des dizaines de références, mais elles se regroupent en quelques catégories bien distinctes. Chacune a ses points forts, ses limites et ses usages idéaux.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238434363.jpg" alt="Brise vue - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 graph TD
@@ -85,6 +95,11 @@ Pour aller plus loin sur le sujet, mon guide sur les [jardins verticaux](/guides
 
 Voici un récapitulatif pour comparer rapidement les options :
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237064829.jpg" alt="Brise vue - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 | Type de brise-vue | Prix indicatif au m | Occultation | Durée de vie | Entretien |
 |---|---|---|---|---|
 | Canisse bambou | 5 à 12 euros | 60-80 % | 3-4 ans | Faible |
@@ -102,6 +117,11 @@ Voici un récapitulatif pour comparer rapidement les options :
 ## Comment choisir le bon brise-vue pour ta situation
 
 Le meilleur brise-vue dépend de trois critères : où tu veux le poser, ce que tu attends de lui, et combien tu es prêt à investir.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237204915.jpg" alt="Brise vue - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Pour un balcon en ville
 
@@ -122,6 +142,11 @@ Pour les projets de pergola végétalisée le long d'une limite de propriété, 
 ## Poser un brise-vue soi-même : les étapes
 
 La pose varie selon le type de brise-vue, mais le principe reste simple pour la plupart des modèles.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771236105555.jpg" alt="Brise vue - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Brise-vue souple (toile, canisse, haie artificielle)
 

@@ -19,6 +19,11 @@ Je t'explique ici comment t'y retrouver, fibre par fibre, pièce par pièce, ave
 
 Un tapis en fibre végétale, c'est quoi exactement ? C'est un tapis tissé à partir de plantes : des herbes, des lianes, des écorces. Pas de plastique, pas de synthétique, pas de pétrochimie. Juste des végétaux transformés en fils, puis tissés en surface de sol.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235231132.jpg" alt="Choisir tapis fibre naturelle - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le côté écologique
 
 Les fibres naturelles sont biodégradables et renouvelables. Le jute pousse en 4 à 6 mois, le sisal en 7 à 10 ans avant la première récolte. Leur production demande moins d'eau et de pesticides que le coton conventionnel. Et en fin de vie, un tapis en jute ou en sisal se composte - essaie de faire pareil avec un tapis en polypropylène.
@@ -37,6 +42,11 @@ Les tapis en fibres naturelles sont souvent moins chers que leurs équivalents e
 ## Les 5 fibres naturelles à connaître
 
 Chaque fibre a son caractère. Voici un tour d'horizon pour t'aider à choisir.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236573067.jpg" alt="Choisir tapis fibre naturelle - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 graph TD
@@ -132,6 +142,11 @@ La fibre de coco provient de l'enveloppe des noix de coco. C'est la plus grossi�
 
 Le choix de la fibre dépend avant tout de l'endroit où tu vas poser ton tapis. L'erreur la plus courante, c'est de choisir un beau tapis en jute pour l'entrée ou la cuisine - deux pièces qui vont le détruire en quelques mois.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232897448.jpg" alt="Choisir tapis fibre naturelle - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 graph LR
     A["Quelle pièce ?"]:::principal
@@ -178,6 +193,11 @@ La règle est simple : si la pièce voit de l'eau régulièrement, le jonc de me
 
 L'entretien, c'est le point sensible des tapis naturels. Ils ne se nettoient pas comme un tapis synthétique, et certaines erreurs peuvent les abîmer définitivement.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235276181.jpg" alt="Choisir tapis fibre naturelle - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le quotidien
 
 Passe l'aspirateur une à deux fois par semaine, dans le sens du tissage, avec la brosse douce (pas la brosse rotative qui arrache les fibres).
@@ -196,6 +216,11 @@ Si ta pièce est mal ventilée, place un sous-tapis anti-humidité entre le sol 
 ## Associer un tapis naturel à ta déco
 
 Les tapis en fibres naturelles ont un gros avantage : ils sont neutres. Leur palette de beige, doré, brun et vert s'accorde avec à peu près tous les styles.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771233964304.jpg" alt="Choisir tapis fibre naturelle - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Style scandinave et minimaliste
 

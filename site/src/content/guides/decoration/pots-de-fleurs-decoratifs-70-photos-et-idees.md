@@ -19,12 +19,22 @@ Dans cet article, je te guide à travers les matériaux, les formes et les assoc
 
 Un Monstera dans un pot en plastique beige, ça fait "j'ai acheté ça au supermarché hier". Le même Monstera dans un panier en osier tressé ou un pot en grès noir mat, et soudain ton salon prend une toute autre allure. Le pot, c'est le trait d'union entre la plante et ta déco - il donne le ton.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238108624.jpg" alt="Pots de fleurs decoratifs 70 photos et idees - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 En plus de l'esthétique, le matériau du pot influence la santé de la plante. La terracotta est poreuse et laisse respirer les racines. Le plastique retient l'humidité plus longtemps. Le grès émaillé garde la fraicheur au pied. Bref, ton choix n'est pas juste décoratif, il est aussi pratique.
 
 > [!NOTE]
 > Si tu utilises un cache-pot (un pot décoratif sans trou de drainage), laisse toujours ta plante dans son pot de culture à l'intérieur. Ca te permet de contrôler l'arrosage et d'éviter que les racines baignent dans l'eau stagnante.
 
 ## Les matériaux qui changent tout
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237917342.jpg" alt="Pots de fleurs decoratifs 70 photos et idees - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Terracotta : le retour du classique
 
@@ -88,6 +98,11 @@ flowchart TD
 
 ## Les formes de pots qui marchent en 2026
 
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238106999.jpg" alt="Pots de fleurs decoratifs 70 photos et idees - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le pot cylindrique droit
 
 C'est la forme la plus polyvalente. Elle passe partout, du sol à l'étagère. Le cylindre haut (type pot colonne) met particulièrement bien en valeur les plantes retombantes comme le [Scindapsus pictus](/guides/decoration/entretenir-du-scindapsus-pictus-la-plante-robuste-qui-a-tout-pour-plaire/) ou le pothos.
@@ -105,6 +120,11 @@ Très tendance depuis 2024, le pot sur pieds (en bois, en métal ou intégrés a
 Les grands pots de sol (50 cm et plus) servent de véritables éléments de décoration à part entière. Un grand olivier, un Strelitzia ou un Ficus lyrata dans un pot XXL en terre cuite ou en béton fibré, ca pose un intérieur. Chez Deroma, les grands pots en terracotta vont de 25 à 60 euros. Pour du haut de gamme, Atelier Vierkant propose des pots en argile fait main à partir de 200 euros.
 
 ## Composer de belles associations de pots
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237904651.jpg" alt="Pots de fleurs decoratifs 70 photos et idees - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### La règle des nombres impairs
 
@@ -132,6 +152,11 @@ Un pot noir mat à côté d'un pot en terracotta claire et d'un panier en osier 
 ## DIY : personnaliser tes pots pour trois fois rien
 
 Tu n'as pas besoin de dépenser des fortunes pour avoir des pots qui ont du caractère. Voici des techniques simples qui transforment un pot basique en pièce déco.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238170726.jpg" alt="Pots de fleurs decoratifs 70 photos et idees - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Peindre un pot en terracotta
 

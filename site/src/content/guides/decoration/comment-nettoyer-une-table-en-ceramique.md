@@ -17,6 +17,11 @@ J'ai craqué pour une table en céramique il y a deux ans, attirée par ce look 
 
 La céramique, c'est de l'argile cuite à très haute température, souvent recouverte d'un émail protecteur. Ce qui lui donne ce beau fini brillant ou satiné, c'est aussi ce qui peut être attaqué par des produits chimiques agressifs ou des abrasifs. La bonne nouvelle : elle est naturellement résistante aux rayures légères, à la chaleur et aux taches courantes. La mauvaise : une fois l'émail endommagé, il n'y a pas vraiment de retour en arrière.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237194696.jpg" alt="Comment nettoyer une table en ceramique - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Autre point à avoir en tête : la plupart des tables en céramique ont un plateau en céramique posé sur une structure en bois, métal ou stratifié. Les bords et dessous peuvent donc avoir des règles d'entretien différentes. On se concentre ici sur la surface céramique elle-même.
 
 > [!NOTE]
@@ -25,6 +30,11 @@ Autre point à avoir en tête : la plupart des tables en céramique ont un plate
 ## Le nettoyage quotidien : simple et rapide
 
 Pour l'entretien de tous les jours, tu n'as besoin de presque rien. Voici ce que je fais systématiquement après chaque repas.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237765473.jpg" alt="Comment nettoyer une table en ceramique - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les bons gestes au quotidien
 
@@ -48,6 +58,11 @@ Pour l'entretien de tous les jours, tu n'as besoin de presque rien. Voici ce que
 ## Les taches difficiles : que faire selon le type
 
 Même avec un entretien régulier, certaines taches résistent. Voici comment gérer chaque cas.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237822006.jpg" alt="Comment nettoyer une table en ceramique - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart TD
@@ -112,6 +127,11 @@ flowchart LR
         X5["Acide chlorhydrique\n(certains deboucheurs)"]
     end
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236538270.jpg" alt="Comment nettoyer une table en ceramique - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
     subgraph OK["Alternatives autorisees"]
         direction TB
         O1["Microfibre douce"]
@@ -147,6 +167,11 @@ flowchart LR
 ## Entretien mensuel : redonner de l'éclat
 
 Même en nettoyant régulièrement, une table en céramique peut ternir avec le temps à cause des micro-résidus de calcaire, de savon ou de gras. Un nettoyage plus profond une fois par mois suffit à lui redonner son éclat.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236970110.jpg" alt="Comment nettoyer une table en ceramique - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Nettoyage en profondeur
 

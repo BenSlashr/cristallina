@@ -17,12 +17,22 @@ Tu rêves d'une maison moderne mais tu ne sais pas par où commencer ? Entre les
 
 L'architecture moderne en 2026 ne se résume pas à une boîte blanche avec des grandes fenêtres (même si c'est toujours ultra séduisant). La définition s'est élargie : on parle de lignes épurées qui dialoguent avec les matériaux naturels, de façades qui jouent sur les textures, et d'intérieurs où chaque espace a une vraie fonction.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231868374.jpg" alt="Maisons modernes 2026 images dexterieur et dinterieur - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Ce qui change vraiment cette année, c'est le retour des matières brutes et chaleureuses. La maison minimaliste froide cède la place à quelque chose de plus vivant, plus humain. Pierre, bois, béton ciré, marbre : les matériaux sont présents, et ils s'assument pleinement.
 
 > [!NOTE]
 > Les maisons modernes en 2026 combinent lignes nettes et matériaux naturels. L'objectif : un espace chaleureux qui respire, pas un showroom glacial.
 
 ## Les façades qui font tourner les têtes
+
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-moderne-2026-enduit-bardage-design-1771235170115.jpg" alt="Maisons modernes 2026 images dexterieur et dinterieur - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### La façade blanche et ses déclinaisons
 
@@ -68,6 +78,11 @@ flowchart TD
     style H fill:#FEF3F2,stroke:#F97316,color:#9A3412
 ```
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236533678.jpg" alt="Maisons modernes 2026 images dexterieur et dinterieur - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### La maison de plain-pied : le confort au quotidien
 
 La maison plain-pied est souvent sous-estimée côté design. Pourtant, une belle architecture contemporaine de plain-pied peut avoir beaucoup d'allure - pense aux longues lignes horizontales qui s'étendent dans le paysage, avec un toit plat ou légèrement incliné.
@@ -88,6 +103,11 @@ La maison à étage moderne joue sur la verticalité et la séparation jour/nuit
 Ce qui se fait beaucoup cette année, c'est le décalage des volumes entre rez-de-chaussée et étage. Le premier niveau peut être en béton ou en pierre, et l'étage en bois ou en enduit blanc - ce décalage de matériaux crée un effet architectural fort sans avoir besoin de grandes surfaces.
 
 ## L'intérieur : matériaux, sols et ambiances
+
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771233087354.jpg" alt="Maisons modernes 2026 images dexterieur et dinterieur - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Les sols qui posent l'ambiance
 
@@ -136,6 +156,11 @@ graph LR
     style H fill:#F9FAFB,stroke:#6B7280,color:#374151
     style I fill:#F9FAFB,stroke:#6B7280,color:#374151
 ```
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771233020697.jpg" alt="Maisons modernes 2026 images dexterieur et dinterieur - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le métal dans tous les espaces
 

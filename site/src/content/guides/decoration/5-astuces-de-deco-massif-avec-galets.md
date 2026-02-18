@@ -56,6 +56,16 @@ flowchart TD
 
 C'est la solution la plus simple et souvent la plus élégante. Un grand bol ou une coupe basse remplie de galets posée sur une table basse, un meuble d'entrée ou un buffet - ça donne immédiatement du caractère à un espace.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237914190.jpg" alt="5 astuces de deco massif avec galets - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771236958734.jpg" alt="5 astuces de deco massif avec galets - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Le bon choix de galets**
 
 Pour un bol décoratif, je te recommande des galets polis brillants (souvent appelés galets de rivière ou galets de quartz) plutôt que des galets bruts. Leur surface lisse et leur aspect satiné captent mieux la lumière et donnent un effet plus soigné.
@@ -105,6 +115,11 @@ Pour cet usage, des galets assez petits (8-15 mm) fonctionnent mieux que de gros
 ## Astuce 3 : Une frise ou un massif de galets pour délimiter un espace
 
 Dans un appartement ouvert ou une grande pièce, les galets peuvent servir à créer des zones visuelles sans construire de cloison. C'est une technique qui vient du design d'intérieur japonais et scandinave, et qui s'adapte très bien aux intérieurs modernes.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238031932.jpg" alt="5 astuces de deco massif avec galets - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Le principe**
 
@@ -161,6 +176,11 @@ Pour la salle de bain, les galets de marbre, de quartz ou de granite sont les me
 
 Un jardin zen de table (karesansui en japonais) est un des projets déco les plus simples et les plus relaxants à réaliser. Un plateau peu profond, du sable fin, quelques galets, éventuellement une petite plante succulente ou un morceau de bois flotté - et voilà un objet décoratif qui change complètement l'ambiance d'un bureau ou d'un salon.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237047001.jpg" alt="5 astuces de deco massif avec galets - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Monter son jardin zen en moins de 30 minutes**
 
 1. Choisis un plateau plat et peu profond (bois, ardoise, béton ciré). Le plateau ne doit pas faire plus de 5 cm de haut.
@@ -215,6 +235,11 @@ Les galets blancs attirent la poussière et peuvent jaunir avec le temps si tu n
 ## Pour aller plus loin dans ta déco naturelle
 
 Les galets s'inscrivent dans une tendance plus large de la déco naturelle et minérale qui est très forte en ce moment. Si tu aimes cette direction, tu peux aussi regarder du côté du recyclage créatif - par exemple avec les [pneus recyclés en déco](/guides/decoration/pneus-recycles-pour-la-decoration/), une autre façon d'intégrer des matières brutes et inattendues dans ton intérieur.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237465493.jpg" alt="5 astuces de deco massif avec galets - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Et si tu veux prolonger l'expérience galets vers l'extérieur, notre guide sur la façon de [poser une bordure de jardin sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/) te donnera plein d'idées pour créer des massifs délimités avec des galets dans ton jardin aussi.
 

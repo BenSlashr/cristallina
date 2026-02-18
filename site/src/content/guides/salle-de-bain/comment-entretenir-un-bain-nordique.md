@@ -19,6 +19,11 @@ Dans cet article, on passe en revue tout ce qu'il faut savoir : le traitement de
 
 Un bain nordique - ou hot tub en bois - fonctionne à des températures entre 36 °C et 40 °C. Cette chaleur, c'est parfait pour se détendre, mais c'est aussi un terrain idéal pour les bactéries si l'eau n'est pas traitée correctement. Le volume d'eau est généralement entre 1 000 et 1 500 litres, bien moins qu'une piscine, donc les déséquilibres chimiques se produisent plus vite.
 
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771234631143.jpg" alt="Comment entretenir un bain nordique - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Autre particularité : la cuve en bois (épicéa, pin traité, cèdre rouge ou teck selon les modèles) réagit à l'humidité, aux produits chimiques et aux variations de température. L'entretien du bois est donc aussi important que celui de l'eau.
 
 ```mermaid
@@ -44,6 +49,11 @@ flowchart TD
 ```
 
 ## Le traitement de l'eau : la base de tout
+
+
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771235785956.jpg" alt="Comment entretenir un bain nordique - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Comprendre le trio pH / chlore / alcalinité
 
@@ -85,6 +95,11 @@ Budget mensuel estimé pour un bain nordique utilisé régulièrement : entre 20
 
 ## Entretenir le bois : le geste souvent négligé
 
+
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771233404106.jpg" alt="Comment entretenir un bain nordique - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Pourquoi le bois demande de l'attention
 
 Le bois d'un bain nordique gonfle quand il absorbe l'eau, et se rétracte quand il sèche. C'est normal et même souhaitable pour l'étanchéité - les douelles (les planches du bac) se dilatent et forment un joint naturel. Mais si le bois se sèche trop vite entre les utilisations ou reste trop longtemps en contact avec des produits agressifs, il peut craquer, se décolorer ou commencer à pourrir.
@@ -109,6 +124,11 @@ Kirami et Skargards déconseillent les huiles trop grasses sur l'intérieur de l
 ## Le filtre : le coeur souvent oublié
 
 Même si ton bain nordique chauffe au bois et semble "naturel", il dispose souvent d'une pompe de filtration - et le filtre doit être entretenu.
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771236436191.jpg" alt="Comment entretenir un bain nordique - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Filtre à cartouche** (le plus courant) : rincer à l'eau claire toutes les deux semaines. Remplacer la cartouche tous les 3 à 6 mois selon l'usage. Prix : 15 à 40 € selon le modèle (Jacuzzi, Waterco, Hayward). Tremper la cartouche une nuit dans du vinaigre blanc dilué (1/4 vinaigre, 3/4 eau) dégraisse le filtre et prolonge sa durée de vie.
 
@@ -140,6 +160,11 @@ graph LR
 ## L'hivernage : protéger ton bain pendant les mois froids
 
 L'hiver est la période où beaucoup de propriétaires font des erreurs. Il y a deux scénarios.
+
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771233182460.jpg" alt="Comment entretenir un bain nordique - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Scénario 1 : tu utilises ton bain en hiver
 

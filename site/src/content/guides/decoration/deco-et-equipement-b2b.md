@@ -17,6 +17,11 @@ Tu ouvres ta boutique, tu relookes ton bureau ou tu repenses l'aménagement d'un
 
 La première chose à comprendre, c'est que décorer un espace professionnel et décorer un salon, ce n'est pas le même métier. Les enjeux diffèrent sur trois axes.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236571960.jpg" alt="Deco et equipement b2b - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **La durabilité avant tout.** Un fauteuil de salon supporte 2-3 heures d'usage par jour. Un siège de salle d'attente, c'est 8 à 12 heures. Les tissus, les mousses, les finitions - tout doit résister à un usage intensif. En B2B, on parle en cycles d'abrasion Martindale : un tissu pro doit dépasser les 30 000 cycles minimum. Pour comparaison, un tissu résidentiel standard tourne autour de 15 000 cycles.
 
 **Les normes de sécurité.** En espace recevant du public (ERP), le mobilier doit répondre à des exigences feu (M1 ou M2 selon les cas). Les textiles aussi. Un rideau magnifique trouvé chez Zara Home ne passera pas l'inspection dans un hôtel ou un restaurant. Tu dois toujours demander les fiches techniques et les certificats de conformité.
@@ -29,6 +34,11 @@ La première chose à comprendre, c'est que décorer un espace professionnel et 
 ## Les circuits d'achat pro : où trouver le bon matériel
 
 C'est la question numéro un. Quand tu débutes en B2B, tu te retrouves vite perdue entre les grossistes, les plateformes en ligne, les salons pro et les revendeurs spécialisés. Voilà comment t'y retrouver.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237843243.jpg" alt="Deco et equipement b2b - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les plateformes B2B en ligne
 
@@ -78,6 +88,11 @@ flowchart TD
 
 ## Décorer un espace pro : les règles qui changent tout
 
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236568622.jpg" alt="Deco et equipement b2b - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Penser en zones, pas en pièces
 
 En résidentiel, on décore pièce par pièce. En B2B, on pense en zones fonctionnelles. Un restaurant, par exemple, combine la zone d'accueil (première impression), la salle (confort et ambiance), le bar (dynamisme et identité), et les sanitaires (propreté et détail). Chaque zone a son propre brief déco.
@@ -109,6 +124,11 @@ Pour une signalétique cohérente, prévois un budget de 500 à 2 000 euros selo
 
 Parlons chiffres. Les budgets varient énormément selon le secteur et le niveau de finition, mais voici des fourchettes réalistes pour t'aider à planifier.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771238078382.jpg" alt="Deco et equipement b2b - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart LR
     A["Budget déco B2B\nau m²"]:::principal
@@ -137,6 +157,11 @@ Pour un budget serré, la stratégie la plus intelligente est d'investir sur les
 Si tu veux pousser l'idée du [style minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/) dans ton local pro, c'est une approche maline : moins de meubles, mais mieux choisis. Ton budget va plus loin et le résultat est souvent plus impressionnant.
 
 ## Les erreurs que tout le monde fait (et comment les éviter)
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238432219.jpg" alt="Deco et equipement b2b - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Erreur 1 : copier un intérieur résidentiel
 

@@ -19,6 +19,11 @@ Dans cet article, je te montre comment créer une salle de bain qui sent la camp
 
 La salle de bain, c'est la pièce où tu commences et termines ta journée. Et entre nous, il n'y a rien de plus apaisant qu'un espace qui mêle textures naturelles et lignes nettes. Le style rustique moderne joue là-dessus : il crée une atmosphère organique tout en restant fonctionnel.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233634965.jpg" alt="Salles de bains rustiques decoration et design modernes - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Ce qui rend cette approche si séduisante, c'est l'équilibre. Tu gardes l'imperfection assumée du bois brut, l'irrégularité de la pierre naturelle, et tu poses ça à côté d'une vasque géométrique ou d'un miroir sans cadre. Le contraste est doux, jamais forcé.
 
 En pratique, une salle de bain rustique moderne repose sur trois piliers :
@@ -31,6 +36,11 @@ En pratique, une salle de bain rustique moderne repose sur trois piliers :
 > Ce style s'adapte aussi bien aux grandes salles de bain qu'aux petits espaces. Un mur en pierre, un meuble vasque en bois et un robinet noir suffisent à poser l'ambiance dans 5 m2.
 
 ## Les matériaux qui définissent le look rustique moderne
+
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232722035.jpg" alt="Salles de bains rustiques decoration et design modernes - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le bois : l'âme de la pièce
 
@@ -67,6 +77,11 @@ Le zellige, c'est entre 80 et 150 euros le m2 posé. Si le budget coince, les ca
 
 Le rustique moderne ne crie pas. Il murmure. Les couleurs restent douces, terreuses, et proches de ce qu'on trouverait en balade en forêt ou dans un jardin à la fin de l'été.
 
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771235433520.jpg" alt="Salles de bains rustiques decoration et design modernes - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart LR
     A["Base neutre\nBlanc lin / Beige sable"] --> B["Accents chauds\nTerracotta / Noyer / Caramel"]
@@ -87,6 +102,11 @@ Quelques combinaisons qui marchent à tous les coups :
 Pour les murs, la peinture à la chaux donne un fini légèrement texturé qui colle parfaitement au style. La [décoration shabby chic](/guides/decoration/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/) partage d'ailleurs cet amour des finitions patinées et des teintes poudrées.
 
 ## Les éléments clés à choisir
+
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231865346.jpg" alt="Salles de bains rustiques decoration et design modernes - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### La vasque : entre caractère et sobriété
 
@@ -150,6 +170,11 @@ flowchart TD
 ## Les rangements : visibles et organisés
 
 Dans une salle de bain rustique moderne, on montre plutôt qu'on cache. Les étagères ouvertes en bois massif remplacent les placards fermés. Les paniers en osier ou en jute servent de rangement pour les serviettes. Les pots en grès accueillent brosses et accessoires.
+
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771235653049.jpg" alt="Salles de bains rustiques decoration et design modernes - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Quelques idées concrètes :
 

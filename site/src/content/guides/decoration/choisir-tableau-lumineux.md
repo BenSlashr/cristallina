@@ -77,6 +77,11 @@ flowchart TD
 
 La LED a gagné la partie sur a peu pres tous les criteres.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235373574.jpg" alt="Choisir tableau lumineux - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Pas de chaleur (ou presque).** Une LED chauffe entre 30 et 40 degres en surface. La chaleur abime les impressions sur toile, fait jaunir le papier et déforme les supports plastiques. Un halogene monte a 150-200 degres - un risque réel pour un tableau décoratif. Si tu as d'autres oeuvres sur tes murs, notre guide pour [bien accrocher un tableau mural](/guides/decoration/bien-accrocher-tableau-mural/) t'aidera a les protéger.
 
 **Durée de vie longue.** Les LED de qualité tiennent 30 000 a 50 000 heures, soit 20 a 35 ans a raison de 4 heures par jour. Les néons classiques durent 10 000 a 15 000 heures et perdent en luminosité bien avant.
@@ -143,6 +148,11 @@ flowchart LR
 
 90 % des tableaux lumineux s'installent aussi facilement qu'un cadre classique. Voici les étapes.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237759458.jpg" alt="Choisir tableau lumineux - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Etape 1 : vérifier l'alimentation
 
 La plupart fonctionnent en basse tension (12V ou 24V) via un transformateur sur prise classique. Vérifie qu'une prise est accessible pres de l'emplacement prévu. Si elle est trop loin, deux options :
@@ -202,6 +212,11 @@ Voici les points a vérifier avant d'acheter.
 
 **Acheter un tableau trop petit pour le mur.** Un panneau de 30x40 cm sur un mur de 3 metres, ca fait perdu et mesquin. Pour un mur standard de 2 a 3 metres, vise minimum 60x80 cm.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236482026.jpg" alt="Choisir tableau lumineux - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Oublier le variateur.** Un tableau lumineux sans variateur, c'est tout ou rien. Le soir, tu veux une lumiere douce et tamisée. Si ton modele n'a pas de variateur intégré, tu peux en ajouter un entre le transformateur et le ruban LED pour 8 a 15 euros.
 
 **Mélanger trop de sources lumineuses.** Un tableau lumineux est un accent, pas un plafonnier. Avec lustre, lampes de table et spots encastrés, il doit rester discret en intensité pour ne pas transformer le salon en vitrine de magasin.
@@ -231,10 +246,20 @@ Voici les points a vérifier avant d'acheter.
 - [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
 - [choisir un tableau mural](/guides/decoration/choisir-tableau-mural/)
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236532997.jpg" alt="Choisir tableau lumineux - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ## FAQ
 
 **Est-ce qu'un tableau lumineux consomme beaucoup d'électricité ?**
 Non, tres peu. Un panneau LED de taille moyenne (60x90 cm) consomme entre 8 et 15W. A raison de 5 heures par jour pendant un an, ca représente environ 15 a 27 kWh, soit 3 a 6 euros sur ta facture annuelle. C'est négligeable.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237365451.jpg" alt="Choisir tableau lumineux - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Peut-on laisser un tableau lumineux allumé toute la nuit ?**
 Techniquement oui, les LED ne chauffent pas assez pour présenter un risque. Mais pour la durée de vie de tes LED et pour ta facture, un minuteur ou une prise connectée programmable (10 a 20 euros) est un bon investissement. Tu programmes l'extinction automatique et tu n'y penses plus.

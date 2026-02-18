@@ -19,6 +19,11 @@ Bonne nouvelle : tu peux décirer avec des produits naturels que tu as déjà da
 
 La cire, c'est un produit gras qui pénètre dans les fibres du bois et forme un film protecteur en surface. Très bien pour entretenir un meuble ancien, mais cette couche grasse pose deux gros problèmes quand tu veux rénover :
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232887159.jpg" alt="Decirer un meuble en bois les astuces pratiques - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 - **La peinture n'accroche pas.** La cire repousse les produits à base d'eau (acryliques) et empêche même les peintures glycéro de bien adhérer.
 - **Le nouveau vernis ou la nouvelle cire ne pénètre pas.** Les anciennes couches de cire saturent la surface du bois et bloquent l'absorption.
 
@@ -30,6 +35,11 @@ Si ton meuble a été ciré pendant des décennies, il a accumulé plusieurs cou
 ## Le matériel dont tu as besoin
 
 Prépare ton équipement avant de te lancer.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235315502.jpg" alt="Decirer un meuble en bois les astuces pratiques - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Matériel de base :**
 - Laine d'acier fine (grade 000 ou 0000)
@@ -50,6 +60,11 @@ Prépare ton équipement avant de te lancer.
 ## Méthode 1 : décirer avec un décireur du commerce
 
 C'est la méthode la plus rapide et la plus efficace, surtout si le meuble a accumulé beaucoup de couches de cire au fil des ans. Un bon décireur dissout la cire en quelques minutes sans abimer le bois en dessous.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235265987.jpg" alt="Decirer un meuble en bois les astuces pratiques - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les étapes
 
@@ -100,6 +115,11 @@ Pour une commode ou un buffet, compte un demi-litre environ.
 
 Si tu préfères une recette naturelle, le vinaigre blanc est ton meilleur allié. C'est un acide doux qui dissout la cire sans attaquer le bois, pour presque rien.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232919817.jpg" alt="Decirer un meuble en bois les astuces pratiques - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### La recette de base
 
 Mélange dans un seau :
@@ -127,6 +147,11 @@ Applique avec un chiffon, laisse agir 5 minutes, puis frotte avec la laine d'aci
 ## Méthode 3 : le décapage pour les cas difficiles
 
 Parfois, un simple décireur ne suffit pas. Si ton meuble a été ciré pendant 50 ans, si la cire est mélangée à du vernis, ou si tu veux décaper le bois jusqu'à le mettre blanc, il faut passer au décapage complet.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232828019.jpg" alt="Decirer un meuble en bois les astuces pratiques - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Décapage chimique
 

@@ -19,6 +19,11 @@ J'ai testé pas mal de modèles et appris à mes dépens - mon premier fauteuil,
 
 Commence par définir ce que tu attends vraiment de ton assise. Ce n'est pas la même chose de chercher une chaise pour dîner confortablement, un fauteuil pour te lover avec un bouquin ou une chaise longue pour allonger les jambes après une grosse journée.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771234044319.jpg" alt="Chaise salon - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le fauteuil classique : confort et présence
 
 Le fauteuil de salon, c'est la pièce maîtresse : il occupe de la place, attire le regard et donne le ton de ta déco. On parle d'une assise avec accoudoirs, dossier enveloppant et souvent un coussin généreux.
@@ -63,6 +68,11 @@ flowchart TD
 
 Le design c'est bien, mais une chaise de salon, tu vas t'asseoir dessus des centaines de fois par an. Autant qu'elle soit bien construite.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231417427.jpg" alt="Chaise salon - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### La hauteur d'assise : le chiffre clé
 
 La hauteur d'assise idéale se situe entre 42 et 48 cm pour une chaise classique, et entre 38 et 42 cm pour un fauteuil bas. Si tu mesures moins de 1,65 m, vise le bas de la fourchette. Si tu fais plus de 1,80 m, monte vers 48 cm minimum.
@@ -98,6 +108,11 @@ Pour l'assise et le dossier, trois grandes familles de revêtements s'affrontent
 ## Adapter ta chaise à ton style déco
 
 Ta chaise de salon ne vit pas en isolation - elle dialogue avec le canapé, la table basse, les murs. Voici comment créer une cohérence visuelle sans que tout soit assorti à l'identique (ce qui serait un peu ennuyeux).
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235288301.jpg" alt="Chaise salon - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Style scandinave
 
@@ -141,6 +156,11 @@ flowchart LR
 
 Voici mon classement des enseignes selon ton budget et ce que tu cherches.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771233940281.jpg" alt="Chaise salon - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Budget serré (moins de 200 euros)
 
 - **IKEA** : le Poäng (100 euros), le Strandmon (300 euros en promo régulièrement à 200), les chaises Odger en plastique recyclé (75 euros). Large choix, livraison possible.
@@ -165,6 +185,11 @@ Voici mon classement des enseignes selon ton budget et ce que tu cherches.
 ## Entretien : garder ta chaise belle longtemps
 
 Un bon entretien, c'est ce qui fait la différence entre une chaise qui dure 5 ans et une qui en dure 15.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232888756.jpg" alt="Chaise salon - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Tissu et velours
 

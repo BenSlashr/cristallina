@@ -4,5 +4,6 @@ dist/
 .env
 *.log
 
-# Pinterest bulk images (too large for git)
+# Pinterest bulk images (too large for git - only used ones are tracked)
 site/public/images/pinterest-*.jpg
+# Force-include used pinterest images (see git add -f)

@@ -19,6 +19,11 @@ Je t'explique tout ce qu'il faut savoir pour te lancer, du choix des nuances aux
 
 Il y a quelques années, tout le monde voulait du blanc immaculé ou du gris anthracite. Puis le vert sauge a débarqué et a tout changé. L'olive, c'est l'étape d'après : plus chaude, plus intense, avec ce côté un peu vintage qui donne du caractère sans effort.
 
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771232747468.jpg" alt="Cuisine olive - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Ce vert-brun-doré tire ses références directes de la nature méditerranéenne. Une feuille d'olivier, une huile d'olive vierge extra dans un bol en céramique, un marché provençal en plein été - c'est exactement cette atmosphère que tu vas recréer dans ta cuisine. Et c'est pour ça que cette couleur fonctionne aussi bien dans un intérieur : elle évoque quelque chose de concret, de vivant.
 
 Autre avantage non négligeable : l'olive vieillit bien. Contrairement au blanc qui se jaunit, un vert olive garde son allure et se bonifie avec le temps, surtout sur du bois ou du lin.
@@ -29,6 +34,11 @@ Autre avantage non négligeable : l'olive vieillit bien. Contrairement au blanc 
 ## Les différents tons d'olive et lequel choisir
 
 "Olive" n'est pas une couleur unique - c'est une famille. Et selon le ton que tu choisis, le rendu sera très différent.
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-couleur-olive-vert-sauge-d-coration-moderne-1771233920838.jpg" alt="Cuisine olive - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **L'olive clair (type sauge soutenu)** : C'est la version la plus douce, presque un kaki clair. Elle convient parfaitement aux petites cuisines ou aux espaces ouverts sur le salon, parce qu'elle reste aérée. Chez Ikea, la gamme Sektion en vert sauge s'en approche à 129€ la façade 40x80cm. La Redoute Intérieurs propose aussi des buffets dans cette teinte aux alentours de 599€.
 
@@ -42,6 +52,11 @@ Autre avantage non négligeable : l'olive vieillit bien. Contrairement au blanc 
 ## Les associations qui marchent vraiment
 
 C'est la question que tout le monde me pose : avec quoi combiner l'olive pour que ça tienne la route ?
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771232725813.jpg" alt="Cuisine olive - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 graph TD
@@ -76,6 +91,11 @@ graph TD
 
 Tu peux adopter l'olive de différentes façons selon ton budget et ton niveau d'engagement.
 
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-couleur-olive-vert-sauge-d-coration-moderne-1771233773261.jpg" alt="Cuisine olive - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Option 1 - Les façades (L'engagement total)** : Changer les façades de ta cuisine, c'est l'option la plus impactante. Si tu as une cuisine Ikea, c'est d'ailleurs très accessible : la gamme de façades compatibles avec les caissons Ikea chez des marques comme Semihandmade, Reform ou Plykea propose de l'olive dans différentes finitions à partir de 150€ la façade. Pour une cuisine complète, budget 2000-5000€ pour les façades seules.
 
 **Option 2 - Peindre les façades existantes** : Si tes façades sont en bois ou en MDF (pas en thermofoil), tu peux les peindre toi-même. Une peinture spécialisée meuble comme la Chalk Paint d'Annie Sloan (25€ pour 500ml) ou la peinture meuble Libéron (18€) permettent un résultat pro sans avoir à poncer. Compte 3-4 jours de travail pour une cuisine moyenne.
@@ -102,6 +122,11 @@ flowchart LR
 ## L'olive dans les petites cuisines : les règles à connaître
 
 Une des questions que j'entends souvent : "Mais est-ce que l'olive ne va pas écraser ma petite cuisine ?" La réponse courte : pas si tu fais les bons choix.
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771232676602.jpg" alt="Cuisine olive - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Dans une petite cuisine, l'olive fonctionne mieux sur les façades inférieures seulement, en laissant les meubles hauts en blanc ou en bois clair. Cette technique de contraste haut/bas agrandit visuellement la pièce tout en apportant la chaleur de l'olive. C'est exactement ce que font beaucoup de cuisines suédoises et danoises.
 

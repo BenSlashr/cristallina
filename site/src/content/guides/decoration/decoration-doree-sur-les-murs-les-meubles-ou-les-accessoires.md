@@ -17,6 +17,11 @@ Le doré fait un sacré retour dans les intérieurs. Mais entre l'or qui illumin
 
 Le doré n'a jamais vraiment disparu. Mais depuis quelques années, il s'est complètement transformé. Fini le dorure clinquante des années 90 qui évoquait les palaces kitsch. Ce qui revient aujourd'hui, c'est un or mat, terni, vieilli - qu'on appelle souvent "or brossé" ou "or antique".
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232925327.jpg" alt="Decoration doree sur les murs les meubles ou les accessoires - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Ce changement tient à deux tendances de fond. D'abord, le retour du style classique français et des influences romantiques dans la déco (les [appartements modernes](/guides/decoration/appartements-modernes-60-photos-et-conseils-de-decoration/) eux-mêmes intègrent des touches de doré sans complexe). Ensuite, l'émergence des matériaux mats : un robinet doré brossé dans une salle de bain en béton ciré, ça fait une combinaison que même les plus réticents trouvent belle.
 
 > [!NOTE]
@@ -25,6 +30,11 @@ Ce changement tient à deux tendances de fond. D'abord, le retour du style class
 La question que tout le monde se pose, c'est : combien de doré c'est trop ? La réponse dépend de la surface et du contexte. Mais une règle fonctionne bien : le doré doit représenter au maximum 20 % de ta décoration. Au-delà, l'effet se dilue et l'ensemble perd en élégance.
 
 ## Le doré sur les murs : peinture, papier peint et stuc
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237056171.jpg" alt="Decoration doree sur les murs les meubles ou les accessoires - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### La peinture dorée sur les murs
 
@@ -66,6 +76,11 @@ flowchart LR
     D --> F["Associer à bois\nclair ou béton"]:::principal
     E --> G["Associer à velours\nou marbre"]:::secondaire
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235131984.jpg" alt="Decoration doree sur les murs les meubles ou les accessoires - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
     classDef principal fill:#141D30,stroke:#F59E0B,color:#F1F5F9
     classDef secondaire fill:#141D30,stroke:#8B5CF6,color:#F1F5F9
     classDef warning fill:#141D30,stroke:#F97316,color:#F1F5F9
@@ -106,6 +121,11 @@ Technique en 5 étapes :
 ## Les accessoires dorés : la voie royale pour débuter
 
 Si tu hésites encore à t'engager sur les murs ou les meubles, les accessoires sont la meilleure façon de tester le doré dans ton intérieur. C'est réversible, c'est abordable et l'effet est immédiat.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235395229.jpg" alt="Decoration doree sur les murs les meubles ou les accessoires - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 mindmap
@@ -174,6 +194,11 @@ C'est peut-être l'endroit où le doré a le plus d'impact par rapport au coût.
 ## Comment combiner le doré avec les autres couleurs
 
 Le doré est une couleur caméléon qui s'associe bien à beaucoup d'univers. Mais certaines combinaisons fonctionnent mieux que d'autres.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232943259.jpg" alt="Decoration doree sur les murs les meubles ou les accessoires - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 graph TD

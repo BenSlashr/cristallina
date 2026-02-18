@@ -19,6 +19,11 @@ Mais entre le vert bouteille, le bleu nuit, le terracotta et le jaune paille, di
 
 Pendant des années, le blanc cassé et le gris clair ont régné en maîtres. C'était pratique, reposant, vendeur aussi. Mais quelque chose a changé après les années de confinement et de cocooning intensif : les gens ont envie que leur intérieur leur ressemble vraiment, qu'il soit chaleureux, enveloppant, singulier.
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-ocre-terre-cuite-mur-d-coration-chaude-1771236142630.jpg" alt="Couleurs dinterieur de mur et de peinture a la mode 2026 - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Les designers décrivent les intérieurs 2026 comme "plus incarnés". La couleur ne sert plus juste à habiller un mur - elle devient un outil pour créer une émotion, une ambiance. Un bleu profond dans une chambre, c'est une promesse de calme. Un bordeaux dans un salon, c'est une invitation à la convivialité. Un vert sauge dans une cuisine, c'est un ancrage dans la nature.
 
 > [!NOTE]
@@ -27,6 +32,11 @@ Les designers décrivent les intérieurs 2026 comme "plus incarnés". La couleur
 ## Le bleu profond : la star incontestée de 2026
 
 C'est la grande couleur de cette année. Le bleu profond - dans ses nuances ardoise, marine, minérale ou quasi-noir - s'impose partout. Il s'inspire des océans, du ciel nocturne, des minéraux anciens.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237170669.jpg" alt="Couleurs dinterieur de mur et de peinture a la mode 2026 - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Ce n'est pas le bleu vif et cartoonesque des années 80. C'est un bleu adulte, sophistiqué, qui absorbe la lumière et donne une présence très particulière à un mur.
 
@@ -44,6 +54,11 @@ Ce n'est pas le bleu vif et cartoonesque des années 80. C'est un bleu adulte, s
 
 Le vert n'est plus une nouveauté, mais il mûrit. En 2026, il se décline dans plusieurs registres qui méritent chacun qu'on s'y attarde.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-orange-mur-couleur-assortiment-design-1771233414395.jpg" alt="Couleurs dinterieur de mur et de peinture a la mode 2026 - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Le vert sauge** reste populaire parce qu'il est facile à vivre. C'est un vert grisé, désaturé, qui s'associe à tout. Il va avec le bois blond, le blanc chaud, le cuivre, le terracotta. Farrow & Ball "Mizzle" ou Ressource "Bruyère" (autour de 55-65 €/litre) sont des valeurs sûres.
 
 **Le vert foncé** prend de l'ampleur cette année. Bouteille, chasseur, forêt : ces verts intenses transforment n'importe quelle pièce en refuge élégant. Benjamin Moore le signale comme tendance majeure 2026. Compte entre 40 et 70 € le litre selon la marque.
@@ -55,6 +70,11 @@ Pour compléter ta palette verte, regarde aussi ce que font les [couleurs ocres 
 ## Les rouges et bordeaux : la chaleur qui s'impose
 
 C'est peut-être la tendance la plus audacieuse de 2026 : les rouges profonds, les bordeaux, les prunes reviennent avec une belle assurance. Ces teintes, longtemps boudées parce que jugées trop théâtrales, trouvent aujourd'hui leur place dans des intérieurs modernes et équilibrés.
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771237247151.jpg" alt="Couleurs dinterieur de mur et de peinture a la mode 2026 - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Le bordeaux en particulier est cité par de nombreux décorateurs comme la couleur coup de coeur de cette année. Il apporte une chaleur enveloppante, un côté bibliothèque anglaise ou bistro parisien qu'on adore revisiter avec des meubles contemporains.
 
@@ -87,6 +107,11 @@ graph TD
 ## Les neutres revisités : le beige n'est plus banal
 
 Le beige n'est pas mort, il a juste muri. En 2026, les neutres sont plus complexes, plus travaillés, plus chauds. On parle de "greige" (gris + beige), d'ocre pâle, de blanc cassé au lait.
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771232475064.jpg" alt="Couleurs dinterieur de mur et de peinture a la mode 2026 - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Ce qui change, c'est la profondeur de ces teintes. Le blanc pur immaculé recule au profit de blancs crémeux, presque beurre, parfois légèrement rosés ou légèrement verts. La marque Ressource propose une gamme de blancs très large qui illustre bien cette nuance : "Blanc 1900", "Lait", "Coquille d'oeuf" sont tous différents dans un espace, même s'ils semblent proches sur une carte couleur.
 

@@ -46,6 +46,11 @@ Moins fréquent mais ça arrive dans les vieilles maisons ou les chalets. Une si
 
 Le poids du tableau, c'est vraiment le critère numéro 1 pour choisir ta méthode. Voici un guide rapide :
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238054307.jpg" alt="Bien accrocher tableau mural - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart TD
     A["Quel est le poids de ton tableau ?"]
@@ -131,6 +136,11 @@ Si ton tableau a deux crochets au dos et penche toujours d'un côté, colle un p
 
 Un tableau de 15 kg ou plus, un miroir encadré, un grand format - ça mérite une attention particulière. Ce n'est pas le moment d'improviser.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237104870.jpg" alt="Bien accrocher tableau mural - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart LR
     A["Tableau lourd\n(+ de 10 kg)"] --> B["Repérer\nles montants\nou chevrons"]
@@ -195,6 +205,11 @@ Tu as planté ton clou au mauvais endroit ? Pas de panique. Un tube d'**enduit d
 
 Tu es en location et ton propriétaire t'a clairement dit "pas de trous" ? Tu as quand même envie de personnaliser ton intérieur et de te sentir chez toi. C'est tout à fait possible, même si la palette d'options se réduit un peu.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237662852.jpg" alt="Bien accrocher tableau mural - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Les **languettes Command** restent la solution numéro 1 pour les locataires. Elles tiennent jusqu'à 5 kg par lot de languettes si tu en combines plusieurs, et elles se retirent sans laisser de trace sur la peinture (sur des surfaces lisses et en bon état).
 
 Les **bandes velcro adhésives** sont une alternative pour les cadres légers. Tu colles le côté mâle sur le mur, le côté femelle sur le dos du cadre. Chaque bande tient environ 1 à 2 kg selon le modèle.
@@ -248,10 +263,20 @@ Sur un mur de galerie, évite de placer un tableau très lourd (plus de 5 kg) av
 - [choisir un tableau mural](/guides/decoration/choisir-tableau-mural/)
 - [cadre tableau mural végétal](/guides/decoration/choisir-cadre-tableau-mural-vegetal/)
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238008500.jpg" alt="Bien accrocher tableau mural - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ## Questions fréquentes
 
 **Quelle hauteur pour accrocher un tableau ?**
 Le centre du tableau devrait être à environ 145-160 cm du sol dans la plupart des pièces. Au-dessus d'un canapé, laisse 15-20 cm entre le dossier et le bas du cadre.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238084936.jpg" alt="Bien accrocher tableau mural - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Comment savoir combien pèse mon tableau ?**
 Pose-le sur une balance de cuisine ou de salle de bain. Si tu n'en as pas, tiens-le à bout de bras 30 secondes : s'il pèse visiblement, compte au moins 3-5 kg.

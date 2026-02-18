@@ -67,6 +67,16 @@ Le format "déco bohème". Un support en tissu, en lin ou en macramé avec des p
 
 Le choix dépend de trois choses : ce que tu veux y mettre, où tu veux l'installer, et ton style déco. Voici un schéma pour t'aider à trancher.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238427502.jpg" alt="Choisir tableau planning pense bete - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238187362.jpg" alt="Choisir tableau planning pense bete - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart TD
     A["Quel tableau pour toi ?"]:::principal
@@ -145,6 +155,16 @@ Tu vois, pour moins de 100 euros avec un peu de malin shopping, tu montes un cen
 ## Version DIY : fabriquer ton propre tableau planning
 
 Tu préfères le sur-mesure ? Bonne nouvelle : fabriquer un tableau planning ou un pense-bête déco est un projet accessible, même si tu n'es pas bricoleuse confirmée.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771233949769.jpg" alt="Choisir tableau planning pense bete - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771233965002.jpg" alt="Choisir tableau planning pense bete - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le tableau en liège customisé
 
@@ -226,6 +246,11 @@ flowchart LR
 ## Numérique ou physique : faut-il vraiment choisir ?
 
 La question revient souvent : "Pourquoi un tableau mural alors que j'ai Google Calendar sur mon téléphone ?" Bonne question. La réponse, c'est que les deux ne remplissent pas la même fonction.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237321169.jpg" alt="Choisir tableau planning pense bete - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Le planning numérique est génial pour les rappels automatiques, les agendas partagés et les rendez-vous à long terme. Mais il a un défaut : **il est invisible quand l'écran est éteint**. Tu n'y penses plus en rentrant chez toi.
 

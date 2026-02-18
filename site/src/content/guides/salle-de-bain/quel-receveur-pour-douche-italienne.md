@@ -19,6 +19,11 @@ Bonne nouvelle : le bon receveur, ça n'existe pas en absolu. Ça dépend de ta 
 
 Avant de choisir, un petit point vocabulaire parce que les termes se mélangent souvent. Une douche italienne (ou douche à l'italienne), c'est une douche sans bac apparent - le sol est au même niveau ou très légèrement en dessous du reste de la salle de bain, avec une évacuation linéaire ou centrale. L'effet visuel est fluide, continu, très épuré.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237479698.jpg" alt="Quel receveur pour douche italienne - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Le receveur de douche italienne, lui, c'est l'élément technique qui assure l'étanchéité et l'écoulement de l'eau. Même quand la douche "n'a pas l'air d'avoir de bac", il y a toujours une structure dessous qui fait le travail.
 
 Et c'est là que les choses deviennent intéressantes : selon le type de receveur, l'installation change complètement, le rendu final aussi, et le budget - pas de la même planète non plus.
@@ -27,6 +32,11 @@ Et c'est là que les choses deviennent intéressantes : selon le type de receveu
 > Une douche italienne sans receveur, ça n'existe pas vraiment. Ce qu'on appelle "douche sans bac" utilise souvent un receveur à carreler ou un système de chape hydrofuge - mais la fonction étanchéité est toujours là.
 
 ## Les 4 types de receveurs : le tour complet
+
+
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771236300634.jpg" alt="Quel receveur pour douche italienne - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### 1. Le receveur extra-plat : le choix rénovation
 
@@ -91,6 +101,11 @@ flowchart TD
 
 La question du format arrive toujours trop tard dans la réflexion. Pourtant, le choix du receveur et de sa taille conditionne le confort au quotidien.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237896990.jpg" alt="Quel receveur pour douche italienne - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **90x90 cm** : la taille minimum pour être à l'aise. Suffisant pour une personne, un peu juste à deux. Bon choix pour une petite salle de bain ou une salle d'eau.
 
 **100x100 ou 80x120 cm** : le sweet spot confort/encombrement. Je recommande cette taille si tu as la place - ça change vraiment la sensation de la douche.
@@ -108,7 +123,17 @@ La question du format arrive toujours trop tard dans la réflexion. Pourtant, le
 - [douche à 1 euro](/guides/salle-de-bain/douche-1-euro/)
 - [carrelage métro salle de bain](/guides/salle-de-bain/carrelage-metro-salle-de-bain/)
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237480882.jpg" alt="Quel receveur pour douche italienne - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ## Les bonnes questions avant d'acheter
+
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771236072216.jpg" alt="Quel receveur pour douche italienne - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Ton évacuation existe déjà ou est à créer ?
 

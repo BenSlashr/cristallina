@@ -17,6 +17,11 @@ La salle à manger, c'est la pièce qu'on a souvent tendance à oublier. On pass
 
 Une salle à manger n'a pas toujours beaucoup de mobilier. Une table, des chaises, parfois un buffet. C'est précisément pour ça que la peinture joue un rôle aussi fort ici - les murs sont bien plus visibles que dans une pièce encombrée de meubles.
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-ocre-terre-cuite-mur-d-coration-chaude-1771236532155.jpg" alt="Couleurs pour la salle a manger a peindre et a decorer - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 La couleur va définir l'ambiance de tes repas. Littéralement. Des murs chaleureux invitent à s'attarder, à prolonger la conversation. Des tons froids et lumineux donnent envie d'un petit-déj efficace avant de filer au travail. Ce n'est pas du tout la même chose.
 
 Autre point à garder en tête : la lumière naturelle de ta salle à manger. Est-ce qu'elle regarde vers le nord ? Le sud ? Est-ce qu'elle est ouverte sur le salon ou complètement fermée ? Tout ça va influencer ton choix final.
@@ -25,6 +30,11 @@ Autre point à garder en tête : la lumière naturelle de ta salle à manger. Es
 > Avant d'acheter ta peinture, teste toujours un échantillon sur au moins 30 x 30 cm et observe-le à différents moments de la journée - le matin, à midi et le soir avec la lumière artificielle. La même couleur peut sembler complètement différente selon l'éclairage.
 
 ## Les grands styles de couleurs : lequel te correspond ?
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-orange-mur-couleur-assortiment-design-1771232518670.jpg" alt="Couleurs pour la salle a manger a peindre et a decorer - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Les tons neutres : blanc, gris, taupe
 
@@ -65,6 +75,11 @@ Leroy Merlin propose une belle gamme dans ces tons naturels avec leur peinture M
 
 La finition change l'aspect final autant que la couleur elle-même.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236666859.jpg" alt="Couleurs pour la salle a manger a peindre et a decorer - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Mat** : c'est la finition la plus "déco" en ce moment. Elle absorbe la lumière, cache les imperfections des murs, et donne un rendu très élégant. Le seul bémol : moins facile à nettoyer. Pour une salle à manger où tu reçois souvent et où il y a des enfants, réfléchis-y à deux fois.
 
 **Satin** : le compromis parfait. Il a un léger lustre qui donne de la profondeur à la couleur tout en étant bien plus lavable que le mat. Ma recommandation pour la plupart des salles à manger.
@@ -95,6 +110,11 @@ graph TD
 
 Peindre toute la salle à manger d'une seule couleur, c'est bien. Mais jouer avec les combinaisons, c'est mieux.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771238050070.jpg" alt="Couleurs pour la salle a manger a peindre et a decorer - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le mur accent
 
 Une seule couleur forte sur le mur "focal" - celui que tu vois en entrant, ou celui derrière le buffet - et les autres en blanc ou en ton neutre. C'est l'approche la plus facile et la plus impactante. Tu peux oser une couleur que tu n'aurais jamais mise partout, et l'effet est spectaculaire.
@@ -124,6 +144,11 @@ pie title "Règle des 3 couleurs dans une salle à manger"
 ## Les erreurs à éviter
 
 **Choisir sa couleur sur un écran.** Les couleurs sur les sites et les applis sont systématiquement déformées. Va dans un magasin, prends des échantillons papier, observe-les chez toi.
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771236370653.jpg" alt="Couleurs pour la salle a manger a peindre et a decorer - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Peindre sans préparer.** Un mur mal préparé, c'est une peinture qui cloque ou qui ne tient pas. Dépoussiérage, rebouchage des trous, impression si nécessaire - ça prend du temps mais ça change tout.
 

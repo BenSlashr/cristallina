@@ -19,6 +19,11 @@ La déco chambre Harry Potter, c'est bien plus qu'une accumulation de produits d
 
 Avant de foncer acheter des posters, prends cinq minutes pour définir l'atmosphère que tu veux. Il y a deux grandes directions, et elles ne se décorent pas du tout pareil.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238088155.jpg" alt="Deco chambre harry potter - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **L'ambiance Poudlard et ses grandes salles** : pierre, bois sombre, chandelles, dorures usées, livres empilés partout. C'est l'ambiance des grandes salles du château, un peu gothique et très cosy à la fois. Parfaite si tu veux quelque chose d'immersif et d'un peu mystérieux.
 
 **L'ambiance maison de sorcier** : plus quotidienne, plus chaleureuse. On pense à la salle commune de Gryffondor avec son rouge profond, ses fauteuils confortables et sa cheminée. Ou à la maison des Weasley, avec ses objets enchantés et son côté patchwork adorable. Cette direction est souvent plus facile à habiter au quotidien.
@@ -52,6 +57,11 @@ flowchart TD
 
 Les couleurs, c'est la base de tout. Et dans l'univers Harry Potter, il y a des associations qui reviennent partout : elles créent l'ambiance instantanément même sans un seul produit dérivé visible.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236640004.jpg" alt="Deco chambre harry potter - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Le bordeaux et l'or** : c'est la combinaison Gryffondor par excellence, mais elle fonctionne aussi dans un contexte plus général. Un mur peint en bordeaux profond (type "wine" ou "burgundy"), avec des accessoires dorés, ça évoque Poudlard sans tomber dans le déco enfant.
 
 **Le vert bouteille et l'argent** : pour ceux qui assument leur côté Serpentard, ou qui veulent juste une atmosphère plus mystérieuse. Le vert profond sur un mur d'accent, combiné à des cadres argentés et des bougies blanches, c'est vraiment beau.
@@ -64,6 +74,11 @@ Les couleurs, c'est la base de tout. Et dans l'univers Harry Potter, il y a des 
 Le plus important : ne peins pas tout en rouge et or. Choisis une couleur dominante sur un seul mur (le mur en face du lit, idéalement), et garde le reste dans des tons neutres. Ça évite l'effet "chambre d'enfant de 8 ans" et ça reste beau sur la durée.
 
 ## Les éléments de déco à ne pas manquer
+
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771235557860.jpg" alt="Deco chambre harry potter - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### La bibliothèque qui raconte une histoire
 
@@ -120,6 +135,11 @@ Ici, la règle c'est : quelques pièces bien choisies plutôt que beaucoup de pe
 
 Les textiles font 50% de l'ambiance dans une chambre. Et c'est là que tu peux vraiment aller vers l'univers HP sans que ça fasse trop.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237972813.jpg" alt="Deco chambre harry potter - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **La housse de couette** : oublie les modèles avec les personnages. Choisis plutôt une couleur unie dans ta palette (bordeaux, vert bouteille, bleu nuit) ou un tissu avec un petit motif répétitif type houndstooth (pied-de-poule), plaid écossais ou jacquard géométrique. C'est très "uniformes de Poudlard" et ça reste intemporel.
 
 **Les coussins** : là tu peux te permettre quelques détails thématiques. Un coussin avec l'armoirie de ta maison préférée, ou une phrase en latin brodée. Mélange avec des coussins neutres pour équilibrer.
@@ -131,6 +151,11 @@ Les textiles font 50% de l'ambiance dans une chambre. Et c'est là que tu peux v
 ## Les murs : affiches et art DIY
 
 Pour les murs, l'idée est de créer quelque chose qui ressemble à un vrai appartement décoré avec passion, pas à une chambre d'enfant.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237317496.jpg" alt="Deco chambre harry potter - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Les affiches et cadres** : cherche des illustrations de style vintage ou botanique qui évoquent le monde magique sans être des affiches officielles du film. Il y a plein de graphistes sur Etsy et Society6 qui proposent des prints de plantes de la salle de Sprout, des cartes de l'école, des partitions de musique façon ancien... C'est beau, c'est subtilement Harry Potter, et ça ne date pas.
 

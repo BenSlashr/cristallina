@@ -17,6 +17,11 @@ Je t'explique les couleurs qui marquent l'année, comment les associer, et surto
 
 ## Les 6 couleurs phares de 2026
 
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771235385979.jpg" alt="Couleurs de cuisine 2026 - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le vert sauge : la valeur sûre
 
 Le vert sauge reste le roi incontesté des cuisines en 2026. Cette teinte grisée et douce s'adapte à tous les styles - du contemporain au campagne chic - et elle ne fatigue pas, même au bout de 5 ans. Chez Cuisinella, les facades vert sauge mat sont en top 3 des ventes depuis deux ans. Schmidt le propose dans sa collection Arcos à partir de 6 500 euros pour une cuisine en L.
@@ -78,6 +83,11 @@ graph TD
 
 Oublie la cuisine monochrome. En 2026, le bicolore est partout - et c'est ce qui donne de la personnalité à une pièce. Voici les duos testés et approuvés.
 
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771232740861.jpg" alt="Couleurs de cuisine 2026 - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Crème + vert sauge** : Le duo le plus demandé de l'année selon Cuisinella. Le crème en meubles hauts, le sauge en bas. Résultat lumineux, chaleureux, jamais ennuyeux. Si tu veux aussi explorer d'autres combinaisons vertes, jette un oeil a la [cuisine olive](/guides/cuisine/cuisine-olive/) qui joue dans un registre similaire mais plus chaud.
 
 **Blanc cassé + terracotta** : L'association méditerranéenne par excellence. Le blanc cassé calme le côté intense du terracotta et le résultat évoque la Toscane sans effort. Budget pour des facades bicolores chez Ikea (HAVSTORP blanc + Kallarp terracotta) : 3 500-5 500 euros pour une cuisine de 8 m².
@@ -92,6 +102,11 @@ Oublie la cuisine monochrome. En 2026, le bicolore est partout - et c'est ce qui
 ## Les finitions mates : pourquoi tout le monde les veut
 
 Si tu regardes les catalogues 2026 de Schmidt, Mobalpa, Pronorm ou Cuisinella, tu vas remarquer un truc : le laqué brillant a presque disparu. Les finitions mates dominent tout, et il y a de bonnes raisons à ça.
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771235933809.jpg" alt="Couleurs de cuisine 2026 - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Une facade mate absorbe la lumière au lieu de la refléter, ce qui donne un rendu plus doux et plus sensoriel. Quand tu passes la main sur une facade en Fenix NTM (le matériau anti-traces utilisé par beaucoup de cuisinistes haut de gamme), tu sens une surface presque soyeuse. C'est devenu un argument de vente à part entière.
 
@@ -119,6 +134,11 @@ flowchart LR
 
 Toutes ces tendances c'est bien joli, mais comment savoir ce qui marchera chez toi ? Voici les critères concrets à vérifier.
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771236730567.jpg" alt="Couleurs de cuisine 2026 - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **L'exposition lumineuse** : Une cuisine exposée nord reçoit une lumière froide et bleutée. Les couleurs chaudes (terracotta, sable, vert olive) compensent et réchauffent l'espace. A l'inverse, une cuisine plein sud baignée de soleil peut accueillir des teintes plus froides (bleu boréal, gris perle, anthracite) sans devenir triste.
 
 **La taille de la pièce** : Dans une [petite cuisine](/guides/cuisine/petites-cuisines-modernes-2026-designs-et-modeles/), les couleurs claires restent plus sûres en dominante - blanc laine, sable, vert sauge clair. Les couleurs profondes fonctionnent en accent (ilot, meubles bas) mais pas partout. Dans une grande cuisine ouverte, tu as plus de liberté.
@@ -133,6 +153,11 @@ Toutes ces tendances c'est bien joli, mais comment savoir ce qui marchera chez t
 ## Comment intégrer les couleurs tendance sans tout refaire
 
 Pas besoin de changer ta cuisine pour suivre les tendances. Voici des options par palier de budget.
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-ocre-terre-cuite-mur-d-coration-chaude-1771237734385.jpg" alt="Couleurs de cuisine 2026 - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Moins de 200 euros - les accessoires** : Change tes poignées pour du laiton brossé (8-15 euros pièce), ajoute un tapis dans les tons terracotta (Ikea, 30-50 euros), remplace tes torchons. Les accessoires colorés changent l'ambiance plus vite qu'on ne le pense.
 

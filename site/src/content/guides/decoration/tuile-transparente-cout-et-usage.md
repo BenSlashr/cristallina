@@ -17,6 +17,11 @@ Tu veux laisser entrer la lumière du jour sans ouvrir une fenêtre de toit ? La
 
 Une tuile transparente - aussi appelée tuile translucide ou tuile de lumière - est une tuile fabriquée dans un matériau qui laisse passer la lumière solaire. Elle s'intègre dans une couverture de toit existante, à la place d'une tuile ordinaire, sans modifier la structure de la charpente.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238096448.jpg" alt="Tuile transparente cout et usage - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Son usage premier : faire entrer la lumière naturelle dans les combles, les garages, les vérandas ou les abris de jardin, là où poser une fenêtre de toit coûterait bien plus cher.
 
 ### Les trois matériaux principaux
@@ -35,6 +40,11 @@ Il existe plusieurs familles de tuiles translucides, chacune avec ses spécifici
 ## Les usages courants de la tuile transparente
 
 La tuile translucide répond à des besoins bien précis. On l'utilise rarement sur l'ensemble d'une toiture - plutôt de façon ciblée pour créer des "puits de lumière" là où c'est le plus utile.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238130413.jpg" alt="Tuile transparente cout et usage - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart TD
@@ -75,6 +85,11 @@ Une avancée de toit transparente au-dessus d'une terrasse permet de garder la l
 ## Prix des tuiles transparentes : ce que tu vas vraiment payer
 
 Le budget varie selon le matériau, la marque, et si tu poses toi-même ou si tu fais appel à un artisan.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237101929.jpg" alt="Tuile transparente cout et usage - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 graph LR
@@ -117,6 +132,11 @@ Pour une véranda complète avec vitrage en polycarbonate, le budget total (stru
 
 ## Avantages et limites à bien peser
 
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235451293.jpg" alt="Tuile transparente cout et usage - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Ce qui plaide pour la tuile transparente
 
 **La lumière naturelle sans travaux lourds.** Pas besoin de découpe dans la charpente, pas d'étanchéité complexe à gérer. Tu remplaces des tuiles existantes par des translucides compatibles, et c'est tout.
@@ -144,6 +164,11 @@ Pour une véranda complète avec vitrage en polycarbonate, le budget total (stru
 > Pour les combles, si tu ajoutes des tuiles translucides, pense aussi à l'isolation thermique globale. Une toiture bien isolée avec quelques points de lumière naturelle est bien plus confortable qu'un espace lumineux mais froid en hiver. Notre guide sur l'[isolation d'une montée d'escalier](/guides/decoration/comment-isoler-une-montee-descalier/) donne des pistes utiles pour traiter les zones de déperdition thermique.
 
 ## Pose et entretien : les bons réflexes
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236538270.jpg" alt="Tuile transparente cout et usage - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Poser des tuiles transparentes soi-même
 

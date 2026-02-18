@@ -17,6 +17,11 @@ Je te présente les couleurs qui dominent cette année, les associations qui fon
 
 ## Les neutres chaleureux : la base de tout en 2026
 
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771236732182.jpg" alt="Couleurs tendance pour les salles de bains modernes 2026 - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Beige chaud et tons sable
 
 Le beige revient en force, mais pas le beige triste des années 2000. On parle de beiges riches, presque dorés, qui tirent vers le sable, le lin, la terre sèche. Ces teintes représentent environ 70 % de la palette globale des salles de bain tendance cette année - c'est la base sur laquelle tout le reste s'articule.
@@ -38,6 +43,11 @@ Le taupe, c'est le beige qui a grandi. Plus profond, plus sophistiqué, il donne
 Le brun doux - pas le marron chocolat, plutôt un café au lait - fonctionne aussi très bien en duo avec le blanc cassé. C'est une combinaison sûre, élégante, et qui ne se démode pas.
 
 ## Les couleurs fortes qui s'imposent
+
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771237676044.jpg" alt="Couleurs tendance pour les salles de bains modernes 2026 - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le bourgogne : la star de l'année
 
@@ -96,6 +106,11 @@ Le bleu profond (pas turquoise, pas ciel - un vrai bleu nuit) fonctionne aussi t
 
 ## Les teintes solaires : la surprise 2026
 
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-orange-mur-couleur-assortiment-design-1771233243941.jpg" alt="Couleurs tendance pour les salles de bains modernes 2026 - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Jaune ambre et orange doux
 
 C'est la tendance qu'on n'attendait pas : les tons chauds et ensoleillés font leur entrée dans la salle de bain. Jaune d'or, orange doux, ambre - ces couleurs insufflent une énergie positive à la pièce. En 2026, on les retrouve sur les meubles laqués, les accessoires, et parfois même sur les carrelages.
@@ -116,6 +131,11 @@ L'association rose poudré + gris perle + laiton brossé est une valeur sûre. C
 ## Les palettes complètes qui fonctionnent
 
 Choisir une couleur c'est bien, mais créer une palette harmonieuse, c'est là où ça devient vraiment intéressant. Voici quatre combinaisons testées et approuvées :
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237770243.jpg" alt="Couleurs tendance pour les salles de bains modernes 2026 - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart LR
@@ -150,6 +170,11 @@ flowchart LR
 ## Comment choisir la bonne couleur pour TA salle de bain
 
 La couleur tendance c'est bien, mais la couleur qui convient à ton espace c'est mieux. Voici les critères à prendre en compte :
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-orange-mur-couleur-assortiment-design-1771231740104.jpg" alt="Couleurs tendance pour les salles de bains modernes 2026 - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **La taille de la pièce** : en dessous de 4 m2, privilégie les neutres chaleureux et garde les couleurs fortes pour un seul mur ou les accessoires. Au-dessus de 6 m2, tu as plus de liberté.
 

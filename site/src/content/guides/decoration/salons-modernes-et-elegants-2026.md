@@ -17,6 +17,11 @@ Tu as envie de relooker ton salon mais tu ne sais pas trop par où commencer ? P
 
 La palette de 2026 joue clairement la carte de l'apaisement. On sort des intérieurs tout blancs aseptisés pour aller vers des teintes qui respirent, qui réchauffent, qui donnent envie de rester.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771232489859.jpg" alt="Salons modernes et elegants 2026 - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le retour des terres et des sages
 
 Les tons de terre dominent : ocre doux, argile, brique patinée. Ces couleurs s'inspirent directement de la nature et créent une ambiance à la fois moderne et intemporelle. Elles fonctionnent particulièrement bien sur un mur d'accent, avec un mobilier clair en contraste.
@@ -58,6 +63,11 @@ graph TD
 
 En 2026, le toucher compte autant que le regard. Les salons bien construits jouent sur la superposition des matières pour créer de la richesse visuelle sans surcharger.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231938138.jpg" alt="Salons modernes et elegants 2026 - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le bois clair et le chêne blanchi
 
 Le bois est partout, mais pas n'importe lequel. Le chêne clair, le frêne, le hêtre - les essences claires dominent et apportent cette légèreté scandinave qu'on aime tant. Le chêne blanchi ou huilé donne un résultat très propre et moderne.
@@ -78,6 +88,11 @@ Un canapé en velours côtelé vert bouteille chez La Redoute se trouve autour d
 > Le velours côtelé est plus résistant qu'on ne le croit - il est facile à entretenir avec une brosse douce. En revanche, le boucle peut accrocher les ongles ou s'effilocher avec des animaux. Si tu as des chats, préfère le velours traité anti-griffes.
 
 ## Les styles qui dominent en 2026
+
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232876574.jpg" alt="Salons modernes et elegants 2026 - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le minimalisme chaleureux
 
@@ -117,6 +132,11 @@ flowchart LR
 
 Un salon peut être décoré avec les plus beaux meubles du monde - si l'éclairage est raté, tout tombe à plat. En 2026, l'éclairage devient une vraie pièce de déco à part entière.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771236146792.jpg" alt="Salons modernes et elegants 2026 - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Multiplier les sources lumineuses
 
 Le plaffonnier central unique est mort. La règle d'or : au moins trois sources de lumière à des hauteurs différentes. Un plafonnier pour la lumière générale, une ou deux lampes à poser pour les zones de lecture ou de convivialité, et une lumière d'ambiance (guirlande, ruban LED derrière un meuble, bougie de grande taille).
@@ -131,6 +151,11 @@ Les marques comme Ferm Living ou Muuto proposent de très beaux luminaires entre
 Les suspensions en corde, en raphia, en rotin ou en papier de riz sont partout en 2026. Elles apportent cette touche organique et douce qui contraste bien avec des meubles plus rigides. Une belle suspension en rotin tressé chez La Redoute tourne autour de 60-120 euros.
 
 ## Le sol et les tapis
+
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232673452.jpg" alt="Salons modernes et elegants 2026 - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Les revêtements qui s'imposent
 

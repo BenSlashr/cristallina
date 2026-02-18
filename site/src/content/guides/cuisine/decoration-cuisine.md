@@ -19,6 +19,11 @@ Je te donne 10 idées concrètes, testées, avec des prix réels et des marques 
 
 Les murs de cuisine sont souvent les grands oubliés. Un carrelage, un coup de peinture blanche, et c'est tout. Pourtant, c'est la surface la plus visible quand tu es aux fourneaux. Un cadre bien choisi au-dessus de la zone repas, une affiche vintage dans un joli cadre bois, ou une série de trois petits formats au-dessus du plan de travail - ça transforme l'ambiance en cinq minutes.
 
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-couleur-olive-vert-sauge-d-coration-moderne-1771231978896.jpg" alt="Decoration cuisine - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Les affiches culinaires rétro sont un classique qui marche à tous les coups : des illustrations d'ingrédients, des recettes anciennes, des publicités vintage. Tu en trouves chez Desenio à partir de 8 euros le format A3, et les cadres en chêne naturel chez Ikea (gamme Ribba) démarrent à 5 euros. Pour un mur galerie de 3-4 cadres, compte 40-80 euros tout compris.
 
 Si tu veux quelque chose de plus personnel, encadre une recette de famille écrite à la main, ou accroche une belle planche à découper en bois brut comme élément décoratif. Ça ne coûte rien et ça raconte une histoire.
@@ -30,6 +35,11 @@ Si tu veux quelque chose de plus personnel, encadre une recette de famille écri
 
 C'est l'astuce la plus sous-estimée. Un tapis de cuisine (un vrai, lavable et antidérapant) devant l'évier ou le plan de travail apporte de la couleur, de la chaleur et un confort sous les pieds que tu n'imagines pas tant que tu n'as pas essayé.
 
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771235063459.jpg" alt="Decoration cuisine - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Les tapis en vinyle type Beija Flor sont parfaits : imitation carreaux de ciment, faciles à nettoyer d'un coup d'éponge, et ils ne bougent pas. Compte 45-90 euros pour un modèle 60x180 cm. Chez Amazon, les tapis cuisine en microfibre lavable démarrent à 15 euros - moins durables, mais ça permet de tester le concept sans se ruiner.
 
 La règle d'or : choisis une couleur ou un motif qui contraste avec ton sol. Un tapis terracotta sur un carrelage gris, un tapis bleu profond sur un parquet clair - c'est le contraste qui crée l'effet.
@@ -37,6 +47,11 @@ La règle d'or : choisis une couleur ou un motif qui contraste avec ton sol. Un 
 ## 3. Des étagères ouvertes pour aérer l'espace
 
 Remplacer un ou deux meubles hauts par des étagères ouvertes, c'est un des changements les plus spectaculaires que tu puisses faire. Ça ouvre l'espace, ça donne de la profondeur, et ça te permet d'exposer tes plus beaux objets au lieu de les cacher.
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-couleur-olive-vert-sauge-d-coration-moderne-1771232895825.jpg" alt="Decoration cuisine - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart LR
@@ -60,6 +75,11 @@ Ce qui fonctionne sur les étagères ouvertes : des bocaux en verre avec des pâ
 
 L'éclairage, c'est là où la plupart des cuisines se plantent. Un néon central ou un plafonnier unique qui éclaire tout de manière plate et froide - voilà qui tue l'ambiance en une seconde. La solution : multiplier les sources lumineuses.
 
+<div class="my-8">
+  <img src="/images/pinterest-petite-cuisine-moderne-2026-compact-optimis-e-1771238251323.jpg" alt="Decoration cuisine - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Des spots LED sous les meubles hauts (Ikea Mittled, 20 euros pour un kit de 3) éclairent le plan de travail avec une lumière chaude et pratique. Une suspension au-dessus de la table ou du bar (Maisons du Monde en propose à 35-80 euros) crée un îlot de lumière convivial. Et un ruban LED collé sous les meubles bas (10-15 euros pour 2 mètres chez Amazon) ajoute une touche très moderne le soir.
 
 Le point important : choisis des ampoules en blanc chaud (2700-3000K). Le blanc froid donne un air d'hôpital. Le blanc chaud donne un air de maison.
@@ -67,6 +87,11 @@ Le point important : choisis des ampoules en blanc chaud (2700-3000K). Le blanc 
 ## 5. Jouer avec les couleurs sans tout repeindre
 
 Tu n'as pas envie de refaire toute ta cuisine en vert sauge ou en olive (même si les [cuisines olive](/guides/cuisine/cuisine-olive/) sont magnifiques) ? Pas de souci. Tu peux injecter de la couleur par petites touches qui font une grosse différence.
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-couleur-olive-vert-sauge-d-coration-moderne-1771234043960.jpg" alt="Decoration cuisine - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Un mur d'accent, c'est le plus simple : un seul mur peint dans une teinte forte (terracotta, bleu canard, vert forêt) pendant que les autres restent neutres. Un pot de peinture Dulux Valentine ou V33 coûte 25-35 euros pour 2,5 litres, largement assez pour un mur. Pour choisir la bonne teinte, jette un oeil à notre guide sur les [couleurs de cuisine 2026](/guides/cuisine/couleurs-de-cuisine-2026/) qui détaille les associations qui marchent.
 

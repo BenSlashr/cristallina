@@ -21,6 +21,11 @@ Je l'ai testée dans deux pièces différentes - un couloir et une chambre d'ami
 
 Spectrum est la gamme de peinture en marque propre d'Action, la chaîne de discount connue pour ses prix bas. L'enseigne propose cette gamme depuis plusieurs années, et elle couvre pas mal de besoins : peinture murale intérieure, peinture bois, laque, peinture sol... Il y a plus de 100 références dans la gamme, entre les différentes couleurs, finitions et formats.
 
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771233161763.jpg" alt="Avis peinture spectrum - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Les prix sont clairement le premier argument : un pot de peinture murale blanche de 2,5 litres tourne autour de 4 à 7 euros selon les promotions. Pour des petits travaux ou un budget serré, ça saute aux yeux. La gamme "2 en 1 Masque-taches" est particulièrement populaire - elle promet de cacher les petites imperfections en une seule couche.
 
 > [!NOTE]
@@ -29,6 +34,11 @@ Les prix sont clairement le premier argument : un pot de peinture murale blanche
 ## Ce que j'ai testé : la peinture murale intérieure
 
 J'ai commencé avec la peinture murale blanche "2 en 1 Masque-taches" pour repeindre un couloir d'environ 12 m2. Le mur était propre, légèrement abîmé par quelques petits coups. L'idée : tester si la promesse "masque-taches" tenait vraiment.
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771233255496.jpg" alt="Avis peinture spectrum - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **La consistance** : elle est assez liquide comparée à une peinture comme la [Luxens de Leroy Merlin](/guides/couleurs/peinture-luxens/). Ca éclabousse davantage au rouleau, alors mets bien tes bâches. Sur le côté positif, elle s'étale facilement et monte vite.
 
@@ -62,6 +72,11 @@ flowchart TD
 
 C'est là que Spectrum surprend agréablement. Le nuancier propose plusieurs dizaines de teintes, du blanc cassé au bleu canard en passant par des verts sauge, des roses poudré, des griges tendance. C'est bien pensé pour suivre les couleurs populaires en déco sans devoir commander sur internet.
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771236273001.jpg" alt="Avis peinture spectrum - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 > [!TIP]
 > Les teintes "taupe clair" et "gris cendre" de la gamme Spectrum s'associent très bien avec des meubles blancs ou naturels. Si tu hésites sur une couleur pour un salon ou une chambre, commence par les neutres chauds - ils pardonnent mieux les erreurs.
 
@@ -73,6 +88,11 @@ Pour aller plus loin sur les associations de couleurs avec ces teintes neutres, 
 
 J'ai aussi testé la peinture bois sur un meuble de jardin en bois peint. La finition satin proposée sur ce format est correcte, avec un rendu lisse si tu prépares bien la surface.
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771237357844.jpg" alt="Avis peinture spectrum - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Ce qui fonctionne** : sur du bois déjà peint et légèrement poncé, le résultat est propre. L'adhérence est correcte, et après plusieurs mois en extérieur couvert (une terrasse abritée), le meuble n'a pas pelé.
 
 **Ce qui fonctionne moins** : sur du bois brut ou poreux, l'accroche est moins bonne. Une sous-couche s'impose avant pour éviter les décollements.
@@ -83,6 +103,11 @@ J'ai aussi testé la peinture bois sur un meuble de jardin en bois peint. La fin
 ## Spectrum vs les autres marques budget : où elle se place
 
 Pour comparer honnêtement, j'ai aussi utilisé de la peinture Dulux Valentine (gamme entrée de gamme en grande surface à 15-18 euros/pot de 2,5L) et de la [Luxens de Leroy Merlin](/guides/couleurs/peinture-luxens/) dans d'autres pièces.
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771237250665.jpg" alt="Avis peinture spectrum - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart LR

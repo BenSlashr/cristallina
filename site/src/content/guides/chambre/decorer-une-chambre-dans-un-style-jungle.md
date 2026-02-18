@@ -17,12 +17,22 @@ Tu rêves de te réveiller dans un cocon végétal, entouré de feuilles, de mat
 
 Le style jungle, ce n'est pas juste mettre des plantes partout et espérer que ça ressemble à quelque chose. C'est une vraie direction déco qui joue sur plusieurs registres en même temps : la couleur, les matières, la lumière et bien sûr la végétation. L'objectif, c'est de recréer la sensation d'un espace luxuriant, dense mais apaisant, où la nature reprend ses droits.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237302208.jpg" alt="Decorer une chambre dans un style jungle - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Ce qui distingue la jungle de la simple "chambre avec des plantes", c'est la cohérence. Chaque élément parle le même langage : bois brut, rotin, lin, teintes de vert profondes, et une touche d'animal print pour le piquant. Ça forme un tout organique et chaleureux.
 
 > [!NOTE]
 > Le style jungle se décline en plusieurs variantes : jungle tropicale (chaude, colorée, plantes larges), jungle urbaine (plus graphique, noir et blanc), et jungle bohème (superposition de textiles, esprit vagabond). Choisis celle qui colle à ta personnalité.
 
 ## Les couleurs : la base de tout
+
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-coucher-2026-tendances-d-coration-moderne-1771231612541.jpg" alt="Decorer une chambre dans un style jungle - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Les verts, évidemment
 
@@ -50,6 +60,11 @@ Le vert seul, ça peut vite devenir étouffant. Il se marie parfaitement avec :
 
 Le papier peint jungle, c'est le raccourci magique. Une seule pose et tu as une ambiance complète. Les modèles qui carburent en ce moment :
 
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771234222534.jpg" alt="Decorer une chambre dans un style jungle - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Papier peint à motifs botaniques** : grandes feuilles de monstera, fougères, palmiers. IKEA propose le "TYSKA BONDBÖNA" à 35€ les 10m², idéal pour un mur en panoramique. Pour du plus haut de gamme, Maisons du Monde a une collection jungle magnifique entre 40 et 65€ le rouleau.
 
 **Papier peint panoramique** : format photo sur tout un mur, généralement de 90 à 200€ selon les dimensions. Papier peint Décor propose des forêts tropicales photorealistiques vraiment bluffantes.
@@ -59,6 +74,11 @@ Le papier peint jungle, c'est le raccourci magique. Une seule pose et tu as une 
 ## Les plantes : l'âme de ta jungle
 
 Sans plantes, il n'y a pas de jungle. Mais choisir les bonnes espèces change tout, surtout dans une chambre où la luminosité est souvent limitée.
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771235477776.jpg" alt="Decorer une chambre dans un style jungle - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 graph TD
@@ -93,6 +113,11 @@ graph TD
 **Combien de plantes ?** Pour une chambre de 12m², vise 5 à 8 plantes de tailles variées : 1 ou 2 grandes (sol), 2 à 3 moyennes (étagères, commode) et quelques petites (table de nuit, rebord de fenêtre). L'effet de masse crée l'ambiance.
 
 ## Les matières naturelles : le toucher compte autant que le visuel
+
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-adulte-deux-couleurs-peinture-bicolore-1771235486693.jpg" alt="Decorer une chambre dans un style jungle - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le bois et le rotin
 

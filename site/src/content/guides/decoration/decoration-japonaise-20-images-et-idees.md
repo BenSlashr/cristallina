@@ -19,6 +19,16 @@ Et la bonne nouvelle ? Tu n'as pas besoin de tout casser chez toi pour créer ce
 
 Avant de plonger dans les idées, il faut comprendre ce qui fait l'âme d'un intérieur japonais. C'est un équilibre entre trois éléments : les matériaux naturels, l'espace libre, et la lumière filtrée.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771238294567.jpg" alt="Decoration japonaise 20 images et idees - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238014968.jpg" alt="Decoration japonaise 20 images et idees - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Au Japon, l'esthétique wabi-sabi célèbre la beauté de l'imperfection et du temps qui passe. Un bol en céramique avec une légère irrégularité a plus de valeur qu'un objet parfaitement industriel. Un bout de bois brut avec ses noeuds raconte une histoire. Cette philosophie imprègne toute la déco japonaise traditionnelle et contemporaine.
 
 Les couleurs sont sobres : blanc cassé, beige sable, gris doux, vert mousse, noir profond. Les textures comptent plus que les teintes vives. Et l'espace vide - le "ma" en japonais - n'est pas un manque, c'est un élément décoratif à part entière.
@@ -44,6 +54,11 @@ flowchart TD
 ```
 
 ## 20 idées pour adopter la décoration japonaise chez toi
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771238088887.jpg" alt="Decoration japonaise 20 images et idees - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### 1. Les panneaux shoji pour séparer les espaces
 
@@ -155,6 +170,11 @@ Un élément souvent oublié : le parfum. Les Japonais utilisent l'encens (senko
 
 **Trop d'objets déco** - C'est la contradiction la plus courante. Tu achètes 15 objets "japonais" et tu les exposes tous. Résultat : un intérieur encombré, l'exact opposé de ce que tu voulais. Choisis 3-4 éléments forts par pièce, pas plus.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237224909.jpg" alt="Decoration japonaise 20 images et idees - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Le rouge et le noir à outrance** - Beaucoup de gens associent "déco japonaise" à du laque rouge vif et du noir brillant. C'est une vision cinéma, pas une réalité quotidienne. Les intérieurs japonais sont clairs, doux, neutres. Le rouge et le noir existent, mais en touches très légères.
 
 **Du plastique partout** - Les fausses plantes en plastique, les lanternes en plastique, les faux bambous en plastique... Ca se voit et ça va à l'encontre de toute la philosophie japonaise des matériaux authentiques. Si tu ne peux pas mettre du vrai, mets moins, mais du vrai.
@@ -183,6 +203,11 @@ flowchart TD
 ## Comment commencer sans tout refaire
 
 Si tout ça te donne envie mais que tu ne sais pas par où attaquer, voici mon plan en 4 étapes :
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236564832.jpg" alt="Decoration japonaise 20 images et idees - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Etape 1 - Désencombre.** La déco japonaise commence par le vide. Retire les objets inutiles, les cadres qui s'accumulent, les bibelots sans histoire. C'est gratuit et ça change déjà beaucoup.
 

@@ -21,6 +21,11 @@ Que tu sois en pleine rénovation ou que tu veuilles juste rafraîchir une pièc
 
 Luxens est la marque propre de Leroy Merlin pour la peinture intérieur et extérieur. Elle n'est vendue nulle part ailleurs, ce qui explique pourquoi tu ne la trouveras pas en grande surface classique ni en magasin de peinture indépendant.
 
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771231673069.jpg" alt="Peinture luxens - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 La gamme couvre à peu près tous les besoins : murs, plafonds, boiseries, façades, sols. Avec plusieurs niveaux de finitions (mat, satin, velours, brillant), le choix est large. Le positionnement prix se situe clairement dans l'entrée et le milieu de gamme, ce qui en fait un concurrent direct des lignes "accessibles" de V33, Dulux Valentine ou Tollens.
 
 > [!NOTE]
@@ -29,6 +34,11 @@ La gamme couvre à peu près tous les besoins : murs, plafonds, boiseries, faça
 ## Les gammes Luxens : comment s'y retrouver
 
 C'est là où ça se complique un peu, parce que Leroy Merlin a créé plusieurs sous-gammes dans l'univers Luxens. Voici les principales que tu croiseras en rayon.
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771237495310.jpg" alt="Peinture luxens - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Luxens "classique" (premier prix)
 
@@ -59,6 +69,11 @@ Finition laquée ou satinée, cette gamme est conçue pour les supports bois et 
 
 C'est souvent la question numéro un. Comment Luxens se positionne par rapport aux autres marques ? Voici un comparatif sur un pot de 2,5 L en finition satinée, couleur blanche :
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771237237788.jpg" alt="Peinture luxens - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 graph LR
     A["Luxens classique<br/>~18 euros"] --> B["Luxens couleurs<br/>~30 euros"]
@@ -83,6 +98,11 @@ Dulux Valentine et Tollens restent au-dessus en termes d'opacité pure et de dur
 ## Application : mes conseils pour un résultat pro
 
 La peinture Luxens est pensée pour les bricoleurs, pas pour les professionnels. Ça veut dire qu'elle pardonne pas mal d'erreurs, mais il y a quand même des règles à respecter si tu veux un beau rendu.
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771234468972.jpg" alt="Peinture luxens - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Préparation des surfaces
 
@@ -135,6 +155,11 @@ Le nettoyage des outils se fait à l'eau (la gamme Luxens est en phase aqueuse),
 ## Durabilité et résistance : ce que ça donne sur le long terme
 
 C'est là que l'expérience des consommateurs diverge le plus. En conditions normales (salon, chambre, couloir), la peinture Luxens tient bien 3 à 5 ans sans retouche visible. La résistance aux taches est correcte en finition satinée - un coup d'éponge humide suffit pour la plupart des traces.
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771232323535.jpg" alt="Peinture luxens - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Par contre, dans les pièces à forte humidité mal ventilées, plusieurs clients rapportent des problèmes de cloquage ou de décollement après 12 à 18 mois. La gamme "cuisine et bains" s'en sort mieux, mais elle n'est pas miraculeuse si la ventilation est insuffisante.
 

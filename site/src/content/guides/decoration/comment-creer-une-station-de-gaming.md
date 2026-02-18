@@ -17,6 +17,11 @@ Tu passes des heures devant ton écran et tu en as marre de jouer dans un coin s
 
 Ton bureau, c'est la pièce centrale du setup. Et c'est souvent là qu'on fait des erreurs : soit on prend quelque chose de trop petit, soit on recycle un vieux meuble de lycée qui tient à peine debout.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237852676.jpg" alt="Comment creer une station de gaming - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **La taille minimale pour un setup gaming : 120 cm de large.** En dessous, tu vas te battre pour caser l'écran, le clavier, la souris et les enceintes. L'idéal, c'est 140 à 160 cm pour avoir de l'espace sans te sentir à l'étroit.
 
 Pour la profondeur, 60 à 80 cm, c'est le bon compromis. Ca laisse de la distance avec l'écran (important pour les yeux) tout en restant dans une emprise raisonnable.
@@ -33,6 +38,11 @@ Côté matières, les options :
 ## Le setup écran : moniteur ou double écran ?
 
 L'écran, c'est l'investissement qui fait la plus grande différence à l'usage. Un mauvais écran sur un bon PC, c'est du gachis. À l'inverse, un écran de qualité compense beaucoup de choses.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237056167.jpg" alt="Comment creer une station de gaming - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Pour le gaming, le minimum en 2026 :** un moniteur 1080p à 144 Hz. C'est le seuil en dessous duquel tu vas sentir la différence. Si ton budget le permet, visez directement du 1440p à 144 ou 165 Hz - le rendu est nettement meilleur et la durée de vie du setup plus longue.
 
@@ -79,6 +89,11 @@ flowchart TD
 
 Les longues sessions de jeu avec une mauvaise chaise, ca finit en mal de dos chronique. C'est le type d'investissement qu'on reporte sans cesse et qu'on regrette d'avoir retardé.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237828038.jpg" alt="Comment creer une station de gaming - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Une chaise gaming correcte doit avoir :
 
 - Réglage de la hauteur
@@ -101,6 +116,11 @@ Une chaise gaming correcte doit avoir :
 
 **Le clavier mécanique** : si tu joues beaucoup, le mécanique s'impose. Le retour tactile et la durabilité sont sans comparaison avec le membranaire. Les switches Cherry MX Red (discrets) ou Brown (retour tactile) sont les plus polyvalents. Budget : à partir de 60€ pour un HyperX Alloy FPS, 100-150€ pour un Logitech G Pro ou un Corsair K70.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237861842.jpg" alt="Comment creer une station de gaming - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **La souris gaming** : ici, le critère principal c'est le capteur et le poids. Les souris filaires restent supérieures en termes de réactivité pour le gaming compétitif. La Razer DeathAdder V3 (70€) et la Logitech G Pro X Superlight 2 (150€) sont des valeurs sures. Si tu préfères sans fil, le budget monte mais la technologie a beaucoup progressé.
 
 **Le casque** : pour le gaming solo, un bon casque stéréo suffit largement. Pour le jeu en équipe ou les FPS, un micro intégré de qualité devient important. Le SteelSeries Arctis Nova 1 (80€) est une belle option abordable ; le HyperX Cloud Alpha (100€) aussi.
@@ -108,6 +128,11 @@ Une chaise gaming correcte doit avoir :
 ## La gestion des cables : le détail qui change tout esthétiquement
 
 C'est le truc que presque tout le monde bâcle et qui pourtant transforme complètement l'aspect visuel d'un setup.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235325247.jpg" alt="Comment creer une station de gaming - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Mes conseils concrets :**
 

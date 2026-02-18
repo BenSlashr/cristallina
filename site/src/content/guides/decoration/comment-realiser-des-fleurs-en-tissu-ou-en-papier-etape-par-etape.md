@@ -19,6 +19,11 @@ Je t'explique tout ici : les matériaux à choisir, les étapes à suivre, et le
 
 Avant de se lancer, il faut choisir ton matériau de prédilection. Les deux ont leurs avantages selon ce que tu veux faire.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237875273.jpg" alt="Comment realiser des fleurs en tissu ou en papier etape par etape - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Les fleurs en papier**, c'est souvent plus accessible pour commencer. Le papier crépon (vendu chez Cultura à environ 2 € le rouleau) est parfait : il est souple, facile à travailler, et on peut lui donner des formes organiques avec les doigts. Le papier de soie (Rougier & Plé, 1,50 € la feuille) donne des fleurs légères et aériennes, idéales pour des mobiles ou des guirlandes. Pour quelque chose de plus solide et sculptural, le papier cartonné (cardstock) est très bien.
 
 **Les fleurs en tissu** sont plus durables et donnent un rendu plus luxueux. Le feutre (Mondial Tissu, environ 1,20 € les 20 cm) est parfait pour débuter : il ne s'effiloche pas et ne nécessite pas d'ourlet. La soie, le satin ou le voile donnent des fleurs raffinées mais demandent un peu plus de soin dans la découpe.
@@ -29,6 +34,11 @@ Avant de se lancer, il faut choisir ton matériau de prédilection. Les deux ont
 ## Les outils de base
 
 Pas besoin d'un atelier complet pour se lancer. Voici le matériel de base :
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237661083.jpg" alt="Comment realiser des fleurs en tissu ou en papier etape par etape - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 - Des ciseaux à bouts fins (les ciseaux de couture Fiskars à 8 € sont top pour la précision)
 - Un crayon ou une craie pour tracer les gabarits
@@ -42,6 +52,11 @@ Pour les fleurs en tissu, ajoute à cette liste une bougie ou un briquet pour fo
 ## Tuto fleurs en papier crépon : la rose
 
 La rose en papier crépon est un grand classique, et une fois qu'on a la technique, ça va vraiment vite.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237095593.jpg" alt="Comment realiser des fleurs en tissu ou en papier etape par etape - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart TD
@@ -82,6 +97,11 @@ Une fois toutes tes bandes posées, pince très fort la base de la fleur et enro
 
 Ce type de fleur géante est parfait pour décorer un mur lors d'une fête ou comme backdrop photo.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237309774.jpg" alt="Comment realiser des fleurs en tissu ou en papier etape par etape - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Ce qu'il te faut** : 8 à 10 feuilles de papier de soie (50 x 70 cm), du fil ou un attache-torsade, des ciseaux.
 
 1. Empile toutes les feuilles les unes sur les autres
@@ -99,6 +119,11 @@ Le résultat : une fleur de 30 à 40 cm de diamètre, hyper décorative. Tu peux
 ## Tuto fleurs en tissu : la fleur en feutre
 
 Le feutre est vraiment le meilleur ami de la fleur en tissu pour débuter. Il ne s'effiloche pas, il est disponible dans des dizaines de coloris et il coûte très peu.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235391394.jpg" alt="Comment realiser des fleurs en tissu ou en papier etape par etape - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart LR

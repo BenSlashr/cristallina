@@ -36,6 +36,16 @@ Trois piliers caractérisent ce style :
 
 ## Les plantes essentielles d'un jardin mexicain
 
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231839945.jpg" alt="Jardins et cours mexicains images et idees pour linspiration - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771235958068.jpg" alt="Jardins et cours mexicains images et idees pour linspiration - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Cactus et succulentes : le squelette végétal
 
 Un jardin mexicain sans cactus, c'est comme une cuisine mexicaine sans piment - ça peut se faire, mais on perd l'essentiel. Les cactus apportent structure, verticalité et caractère.
@@ -115,6 +125,11 @@ graph TD
     F --> H["Massif xérophyte\n(cactus, succulentes)"]:::main
     G --> H
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233538674.jpg" alt="Jardins et cours mexicains images et idees pour linspiration - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
     classDef main fill:#141D30,stroke:#F59E0B,color:#F1F5F9
     classDef secondary fill:#141D30,stroke:#8B5CF6,color:#F1F5F9
 ```
@@ -186,6 +201,11 @@ flowchart LR
 
 ## Les touches décoratives qui font tout
 
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771234408347.jpg" alt="Jardins et cours mexicains images et idees pour linspiration - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Les luminaires : l'ambiance du soir
 
 Le jardin mexicain vit aussi la nuit. Quelques idées :
@@ -248,6 +268,11 @@ Pour le bougainvillier : il fleurit d'autant mieux qu'on le stress un peu. Pas d
 ## Inspirations de jardins mexicains réels
 
 Pour nourrir ton imagination, voici quelques références visuelles que tu peux chercher :
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771236447103.jpg" alt="Jardins et cours mexicains images et idees pour linspiration - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 - **La Casa Azul de Frida Kahlo** à Mexico City : l'exemple ultime du jardin mexicain urbain avec ses murs bleu cobalt, ses collections de plantes et ses sculptures précolumbiennes.
 - **Les jardins de Luis Barragán** : l'architecte mexicain du XXe siècle a sublimé les murs de couleur, les plans d'eau et la végétation sobre. Ses réalisations sont une leçon de modernité.

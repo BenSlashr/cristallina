@@ -17,6 +17,11 @@ Tu t'assois a ton bureau, tu repousses la pile de papiers, tu cherches ton stylo
 
 Un bureau encombre, c'est du temps perdu chaque jour. Selon une étude de Brother International, les employés de bureau passent en moyenne 38 heures par an a chercher des documents et des fournitures mal rangés. Meme si tu bosses depuis chez toi, ce temps gaspillé s'accumule vite.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771236802360.jpg" alt="Ikea cartonne avec ce rangement bureau decouverte du must have de la saison - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Le probleme, c'est rarement le manque de place. C'est l'absence de systeme. Tu empiles au lieu de trier, tu poses au lieu de ranger, et en deux semaines ton plan de travail disparait sous les cables, les carnets et les tasses vides.
 
 > [!NOTE]
@@ -27,6 +32,11 @@ L'avantage d'IKEA pour le bureau, c'est le rapport qualité-prix et la compatibi
 ## ALEX : le caisson a tiroirs qui fait référence
 
 Le caisson ALEX, c'est un peu le classique indémodable du rangement bureau chez IKEA. Disponible en blanc, gris-turquoise, noir-brun et beige, il se décline en version 5 tiroirs (environ 79 euros) ou en version a tiroirs avec classeur (environ 99 euros).
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771238285161.jpg" alt="Ikea cartonne avec ce rangement bureau decouverte du must have de la saison - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Ce qui le rend si populaire
 
@@ -57,6 +67,11 @@ Si tu as un [espace de travail réduit](/guides/decoration/decoration-petit-salo
 
 C'est la petite nouveauté qui me plait beaucoup. La FJÄDERHARV, c'est une mini-commode de 2 tiroirs en blanc, au format compact : 16 x 25 cm. Elle se pose directement sur le bureau, a coté de l'écran, et sert de rangement pour tout ce qui traine habituellement en vrac.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237874331.jpg" alt="Ikea cartonne avec ce rangement bureau decouverte du must have de la saison - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Dimensions et finition
 
 Avec ses 16 cm de largeur et 25 cm de profondeur, la FJÄDERHARV prend tres peu de place. Elle est fabriquée en panneaux de fibres avec une finition blanche mate. Les tiroirs sont légers, sans glissieres métalliques - c'est du rangement d'appoint, pas un coffre-fort.
@@ -76,6 +91,11 @@ Pour un prix souvent en dessous de 10 euros, c'est un achat malin qui élimine l
 ## KUGGIS : l'accessoire 5 compartiments pour structurer tes tiroirs
 
 Le KUGGIS accessoire a 5 compartiments en blanc, c'est la piece qui transforme un tiroir fourre-tout en tiroir organisé. Tu le poses dans un tiroir ALEX ou dans n'importe quel tiroir de bureau, et chaque catégorie d'objets trouve sa section.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238070742.jpg" alt="Ikea cartonne avec ce rangement bureau decouverte du must have de la saison - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart LR
@@ -106,6 +126,11 @@ Le KUGGIS est en plastique blanc, facile a nettoyer. Un coup d'éponge et c'est 
 ## ÖVNING : la desserte qui complète le bureau
 
 La desserte ÖVNING en blanc et gris-vert (54 x 33 cm) est pensée pour se placer a coté du bureau. Avec ses roulettes, tu la déplaces facilement selon tes besoins : contre le mur quand tu n'en as pas besoin, pres de toi quand tu tries des documents.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237467672.jpg" alt="Ikea cartonne avec ce rangement bureau decouverte du must have de la saison - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Un usage malin pour le bureau
 

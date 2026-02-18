@@ -19,6 +19,11 @@ On va parler essences de bois, types de volets, prix concrets avec des enseignes
 
 Le bois reste un matériau à part en menuiserie extérieure. Voilà pourquoi il mérite ton attention.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237994504.jpg" alt="Volets en bois - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Isolation naturelle et confort thermique
 
 Le bois est un isolant naturel. Un volet massif de 27 mm offre une résistance thermique bien supérieure au PVC standard. En hiver, il garde la chaleur dedans. En été, il bloque le soleil - surtout sur les fenêtres exposées sud ou ouest.
@@ -41,6 +46,11 @@ Un volet en bois bien entretenu dure 30 à 50 ans. Contrairement au PVC qui jaun
 ## Les essences de bois : laquelle choisir ?
 
 Le choix de l'essence détermine la durée de vie, l'aspect et le prix de tes volets. Voilà les options principales.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238112934.jpg" alt="Volets en bois - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le pin : le rapport qualité-prix
 
@@ -98,6 +108,11 @@ flowchart TD
 
 ## Les différents types de volets en bois
 
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235311979.jpg" alt="Volets en bois - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Volets battants : le classique indémodable
 
 Le modèle le plus courant en France. Deux vantaux s'ouvrent vers l'extérieur, maintenus par des gonds scellés dans la façade. Version pleine (isolation et obscurité max) ou à persiennes (air et lumière tamisée).
@@ -124,6 +139,11 @@ Le budget est plus élevé (400-800 EUR la paire pose comprise), mais le résult
 ## L'entretien des volets en bois : pas si compliqué
 
 C'est souvent le frein numéro un quand on hésite entre le bois et le PVC. Mais entretenir des volets en bois n'est pas la corvée que certains imaginent.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238110044.jpg" alt="Volets en bois - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le calendrier d'entretien type
 
@@ -152,6 +172,11 @@ Un volet en bois qui montre des signes de fatigue n'est pas bon pour la poubelle
 ## Déco et couleurs : faire de tes volets un atout charme
 
 Les volets ne sont pas juste un élément fonctionnel - ils représentent une grosse partie de l'identité visuelle de ta façade. Bien choisis, ils transforment l'allure de ta maison.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237088819.jpg" alt="Volets en bois - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les couleurs tendance 2026
 

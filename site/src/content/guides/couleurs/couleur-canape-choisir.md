@@ -19,6 +19,11 @@ Je comprends. Un canapé, c'est un investissement - entre 500 et 3000 euros selo
 
 Dans un salon, le canapé occupe en général entre 30 et 50 % du champ visuel. C'est le plus gros meuble de la pièce, celui autour duquel tout s'organise. Sa couleur va donc influencer énormément l'atmosphère générale.
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-ocre-terre-cuite-mur-d-coration-chaude-1771236216476.jpg" alt="Couleur canape choisir - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Un canapé beige dans un salon blanc, c'est doux et lumineux. Le même salon avec un canapé vert forêt, c'est complètement différent - plus affirmé, plus cosy, plus "refuge". Et un canapé jaune moutarde ? On bascule dans quelque chose d'énergique et de joyeux.
 
 La couleur du canapé interagit aussi avec tout le reste : la peinture des murs, le sol, les rideaux, les coussins, le tapis. C'est une décision qui se prend en contexte, pas de manière isolée.
@@ -27,6 +32,11 @@ La couleur du canapé interagit aussi avec tout le reste : la peinture des murs,
 > Un canapé de qualité dure entre 10 et 15 ans. Choisis une couleur qui te plaît aujourd'hui mais qui te plaira aussi dans 5 ans. Les teintes neutres et les couleurs "nature" (vert, terracotta, bleu profond) vieillissent mieux que les couleurs très vives ou très mode.
 
 ## Les grandes familles de couleurs pour un canapé
+
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771237729055.jpg" alt="Couleur canape choisir - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le beige et le lin : la valeur sûre
 
@@ -107,6 +117,11 @@ Si le terracotta t'attire, regarde aussi les [associations avec l'orange en déc
 
 La couleur idéale dépend aussi de ton espace. Voici un arbre de décision simple pour t'orienter.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-orange-mur-couleur-assortiment-design-1771232488945.jpg" alt="Couleur canape choisir - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 graph TD
     A[Ton salon] --> B{Quelle taille ?}
@@ -147,6 +162,11 @@ C'est le cas de figure le plus courant en 2026. Le canapé doit dialoguer avec l
 
 Un même coloris rend complètement différent selon la matière. C'est un point qu'on oublie trop souvent.
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771237771005.jpg" alt="Couleur canape choisir - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 graph LR
     A[Velours] -->|Reflets profonds| B[Couleurs intenses sublimées]
@@ -175,6 +195,11 @@ graph LR
 ## Les associations canapé + murs qui marchent à tous les coups
 
 Voici mes combinaisons préférées, testées et approuvées :
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771236807867.jpg" alt="Couleur canape choisir - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Canapé beige + murs vert sauge** : doux, naturel, apaisant. Ajoute du bois clair et du rotin pour compléter.
 

@@ -19,6 +19,11 @@ Ce guide, je l'ai conçu comme une boîte à outils complète : tu pioches ce qu
 
 Avant d'acheter le moindre meuble ou panier, une seule chose à faire : le grand tri. Vraiment. C'est l'étape que tout le monde saute, et c'est pourtant celle qui change tout.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237644523.jpg" alt="Idees de rangement et de placards pour la salle de bains - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Vide tes placards, tes tiroirs, tes étagères. Regarde les dates de péremption de tes produits. Compte tes serviettes - honnêtement, tu en as besoin de combien ? Trie en trois catégories : garder, donner, jeter. Tu vas souvent découvrir que tu n'as pas un problème de manque de rangement, mais un problème de trop de choses.
 
 Une fois que tu sais ce que tu gardes, répartis par usage : produits du quotidien accessibles facilement, produits de beauté, médicaments, linge, produits d'entretien. Cette organisation par catégorie va guider tous tes choix de rangements.
@@ -29,6 +34,11 @@ Une fois que tu sais ce que tu gardes, répartis par usage : produits du quotidi
 ## Les rangements sous le lavabo : une mine inexploitée
 
 L'espace sous le lavabo ou la vasque est souvent le plus négligé. Pourtant, c'est potentiellement la zone de rangement la plus importante de la pièce.
+
+<div class="my-8">
+  <img src="/images/pinterest-rangement-salle-bain-placard-organisation-optimis--1771238351596.jpg" alt="Idees de rangement et de placards pour la salle de bains - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les meubles avec tiroirs
 
@@ -46,6 +56,11 @@ Pour les meubles ouverts ou les espaces avec siphon apparent, les paniers en osi
 ## Optimiser l'espace autour de la douche et de la baignoire
 
 La zone douche/baignoire cumule souvent le plus de produits : shampoings, après-shampoings, gels douche, huiles, rasoirs. L'organisation y est d'autant plus importante que l'humidité complique les choses.
+
+<div class="my-8">
+  <img src="/images/pinterest-rangement-salle-bain-placard-organisation-optimis--1771237252392.jpg" alt="Idees de rangement et de placards pour la salle de bains - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les étagères de douche
 
@@ -82,6 +97,11 @@ Si tu veux un look plus propre, une colonne de rangement avec des tiroirs en tis
 
 Les petites salles de bains - celles de moins de 5 m² - imposent de penser en 3D. L'espace mural est ta meilleure ressource, et les rangements verticaux vont devenir tes meilleurs alliés.
 
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771235822449.jpg" alt="Idees de rangement et de placards pour la salle de bains - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Les étagères flottantes
 
 Deux ou trois étagères flottantes au-dessus des toilettes ou du lavabo, c'est un grand classique qui marche à tous les coups. En chêne clair pour un esprit scandinave, en marbre pour quelque chose de plus luxueux, en bois peint en blanc pour un look frais. La hauteur idéale pour la première étagère : environ 40-50 cm au-dessus du plan de travail.
@@ -106,6 +126,11 @@ Dans la douche, des crochets autocollants repositionnables permettent de suspend
 ## Organiser les produits de beauté et de maquillage
 
 Le maquillage, les soins du visage, les parfums : tout ça nécessite une organisation à part entière. Et c'est souvent la catégorie qui génère le plus de désordre.
+
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771236005095.jpg" alt="Idees de rangement et de placards pour la salle de bains - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### La salle de bains comme espace beauté organisé
 

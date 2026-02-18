@@ -19,6 +19,11 @@ Dans cet article, je te présente les grandes tendances de l'année, avec des ex
 
 C'est la tendance de fond depuis quelques années, mais en 2026 elle arrive à maturité. Le minimalisme luxueux, c'est le concept "less is more" poussé à son meilleur niveau - des lignes droites, des surfaces nettes, zéro chichis, mais avec des matériaux qui font la différence.
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771236408170.jpg" alt="Salles de bains modernes 2026 modeles designs decoration - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Concrètement, ça veut dire quoi ? Un meuble vasque suspendu plutôt qu'un meuble posé au sol (ça dégage le sol visuellement, c'est magique). Des robinets à col de cygne en laiton brossé plutôt qu'en chrome standard. Un miroir sans cadre ou avec un cadre minimaliste en métal noir mat.
 
 Pour les budgets variés :
@@ -34,6 +39,11 @@ Le truc qui fait la différence dans cette approche, c'est la cohérence. Tu cho
 ## Bourgogne et beige chaud : les couleurs de l'année
 
 En 2026, les blancs immaculés cèdent la place à des teintes plus riches et plus sensuelles. Le bourgogne s'impose comme LA couleur tendance des salles de bains haut de gamme. C'est profond, enveloppant, ça crée une atmosphère presque cocoon - un peu comme une suite d'hôtel à Milan.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238076751.jpg" alt="Salles de bains modernes 2026 modeles designs decoration - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Mais attention, le bourgogne ça s'utilise avec intelligence. Voici deux approches qui fonctionnent :
 
@@ -69,6 +79,11 @@ flowchart TD
 
 Les matériaux naturels et nobles ont le vent en poupe. Marbre, pierre, béton ciré - ces trois-là dominent les tendances 2026, chacun avec son caractère propre.
 
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771235868252.jpg" alt="Salles de bains modernes 2026 modeles designs decoration - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Le marbre** reste une valeur sûre. Blanc avec des veines grises ou noires pour le classique, mais en 2026 on voit aussi du marbre vert, du marbre nude avec des veines dorées. Si le vrai marbre dépasse ton budget, les grandes marques de carrelage comme Porcelanosa ou Marazzi proposent des faïences effet marbre vraiment convaincantes entre 40 et 80 € le m2.
 
 **Le béton ciré** continue sa progression. Il convient parfaitement aux vasques, aux meubles et aux murs. L'avantage : il s'applique sur n'importe quelle surface existante, ce qui en fait une option rénovation intéressante. Compte 80-150 € le m2 en incluant la main d'oeuvre. Si tu veux te lancer en DIY, des kits Béton Ciré Leroy Merlin existent autour de 50-80 € pour une petite surface - je te montre comment faire dans notre guide sur les [meubles salle de bain en béton ciré](/guides/salle-de-bain/meuble-salle-de-bain-beton-cire/).
@@ -78,6 +93,11 @@ Les matériaux naturels et nobles ont le vent en poupe. Marbre, pierre, béton c
 ## Douche italienne : le choix moderne numéro un
 
 Si tu planifies une rénovation et que tu te demandes entre baignoire et douche à l'italienne, la tendance est claire : la douche italienne a quasiment gagné la bataille. Elle agrandit visuellement l'espace, facilite l'entretien, et correspond mieux aux usages actuels.
+
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771235705943.jpg" alt="Salles de bains modernes 2026 modeles designs decoration - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 En 2026, les douches italiennes se déclinent avec des carrelages de grand format (60x120 ou même 120x120 cm) pour minimiser les joints et créer une surface propre et continue. Les receveurs à siphon linéaire (la barre d'évacuation sur le côté plutôt que la bonde centrale) sont aussi très tendance - plus propre visuellement.
 
@@ -94,6 +114,11 @@ Pour entrer dans les détails des choix de carrelage, j'ai écrit un guide compl
 ## La tech intelligente sans se compliquer la vie
 
 2026, c'est aussi l'année où la tech dans la salle de bain devient vraiment accessible - et pas juste un gadget de show-off. Quelques exemples concrets qui apportent un vrai confort au quotidien :
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236898629.jpg" alt="Salles de bains modernes 2026 modeles designs decoration - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Les colonnes de douche à mémoire** comme la Grohe Euphoria SmartControl (autour de 800-1200 €) mémorisent tes préférences de débit et de température. Ça paraît anodin, mais quand tu te lèves les yeux à 7h du matin et que ta douche est parfaite du premier coup...
 

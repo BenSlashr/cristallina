@@ -17,6 +17,11 @@ Je te fais le tour complet de ce qui se fait de mieux en cuisine moderne cette a
 
 ## Les grands courants de la cuisine moderne en 2026
 
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-couleur-olive-vert-sauge-d-coration-moderne-1771232028689.jpg" alt="Cuisines modernes 2026 designs modeles - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le minimalisme chaud
 
 Le minimalisme froid, c'est fini. En 2026, on garde les lignes épurées, les façades lisses, les poignées invisibles - mais on y ajoute de la chaleur. Comment ? Avec du bois naturel, des teintes terreuses et des matières qui ont du grain. Le résultat, c'est une cuisine qui respire le calme sans donner l'impression de vivre dans un showroom.
@@ -61,6 +66,11 @@ flowchart TD
 
 ## Les matériaux stars de 2026
 
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771232697251.jpg" alt="Cuisines modernes 2026 designs modeles - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le bois naturel, encore et toujours
 
 Le bois reste le matériau roi de la cuisine moderne. Mais en 2026, on privilégie les essences claires et les finitions naturelles : chêne huilé, frêne blanchi, hêtre clair. Le vernis brillant a quasiment disparu des catalogues. Ce qu'on cherche, c'est le toucher brut, la veine visible, l'imperfection assumée.
@@ -83,6 +93,11 @@ Le métal en cuisine, ce n'est plus les poignées chromées de 2005. En 2026, on
 La bonne dose ? Pas plus de 20 a 25% de surfaces métalliques dans la cuisine. Au-dela, ca vire au restaurant professionnel. L'idée, c'est d'en faire un accent, pas une dominante.
 
 ## Les couleurs qui dominent les cuisines modernes
+
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231840627.jpg" alt="Cuisines modernes 2026 designs modeles - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Les verts profonds
 
@@ -116,6 +131,11 @@ graph LR
 
 ## Agencements et rangements : ce qui fonctionne
 
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771233990513.jpg" alt="Cuisines modernes 2026 designs modeles - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Les colonnes de rangement intégrées
 
 La grande évolution de 2026, c'est la disparition progressive des meubles hauts traditionnels au profit de colonnes de rangement du sol au plafond. Le gain de place est massif : une colonne de 60 cm de large sur 240 cm de haut stocke autant que trois meubles hauts classiques, et le rendu est beaucoup plus propre.
@@ -140,6 +160,11 @@ Pour les [petites cuisines modernes](/guides/cuisine/petites-cuisines-modernes-2
 ## La technologie dans la cuisine moderne
 
 En 2026, les innovations les plus utiles en cuisine sont discrètes :
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-couleur-olive-vert-sauge-d-coration-moderne-1771234033084.jpg" alt="Cuisines modernes 2026 designs modeles - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 - **Éclairage LED sous meubles** : pilotable via smartphone, lumière froide pour cuisiner ou chaude pour l'apéro. Kit Philips Hue a environ 70 euros.
 - **Prises rétractables** : encastrées dans le plan de travail, elles disparaissent quand tu n'en as pas besoin. Bloc 3 prises Schulte a environ 80 euros.

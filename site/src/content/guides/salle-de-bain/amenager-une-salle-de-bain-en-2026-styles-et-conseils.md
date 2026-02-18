@@ -17,6 +17,11 @@ J'ai compilé ici les styles qui marquent cette année, des conseils concrets su
 
 ## Les styles qui dominent en 2026
 
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-cosy-chaleureuse-bois-naturel-spa-1771234817583.jpg" alt="Amenager une salle de bain en 2026 styles et conseils - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le Japandi, toujours au sommet
 
 Le style Japandi - contraction de Japon et Scandinavie - continue sa progression et reste l'une des directions les plus choisies pour la salle de bain. Ce qui le rend si attrayant, c'est cet équilibre entre simplicité et chaleur : des lignes épurées, mais pas froides. Des matières naturelles, mais pas rustiques.
@@ -66,6 +71,11 @@ flowchart TD
 
 ## Les matériaux phares de l'année
 
+
+<div class="my-8">
+  <img src="/images/pinterest-baignoire-scandinave-bois--lot-design-nordique-1771234408279.jpg" alt="Amenager une salle de bain en 2026 styles et conseils - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le béton ciré : polyvalent et tendance
 
 Le béton ciré reste l'un des choix les plus demandés pour les salles de bain. Il unifie l'espace, s'adapte à presque tous les styles, et donne un rendu haut de gamme. Mais il demande une pose soignée et un entretien régulier.
@@ -109,6 +119,11 @@ flowchart LR
 
 ## Repenser le plan de la salle de bain
 
+
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771236584715.jpg" alt="Amenager une salle de bain en 2026 styles et conseils - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### La douche italienne : un standard, pas une option
 
 En 2026, une douche à l'italienne n'est plus un luxe - c'est devenu la norme dans les rénovations. Zéro receveur, niveau de sol continu, bac de douche integré dans la chape. Le résultat est plus propre, plus facile à nettoyer, et visuellement plus grand.
@@ -137,6 +152,11 @@ Marques fiables : Paulmann, Nordlux et Astro pour les appliques et spots. Budget
 
 Il est difficile de parler d'aménagement sans aborder les prix réels. Voici une grille honnête selon les ambitions :
 
+<div class="my-8">
+  <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237673695.jpg" alt="Amenager une salle de bain en 2026 styles et conseils - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart TD
     B[Budget rénovation]:::start
@@ -163,6 +183,11 @@ Un conseil concret : sur un budget limité, investis sur ce qui se change rareme
 ## Les petits détails qui changent tout
 
 La robinetterie est un point que beaucoup sous-estiment. Un mitigeur bien choisi peut transformer visuellement une salle de bain entière. En 2026, les finitions or rose, laiton brossé et noir mat sont particulièrement prisées. Grohe, Hansgrohe et Vitra offrent de très bonnes gammes entre 150 et 400 €.
+
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771236344637.jpg" alt="Amenager une salle de bain en 2026 styles et conseils - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Les rangements doivent se penser dès la conception. Des niches dans la douche (taillées dans le mur et carrelées à l'identique), des tiroirs en pleine hauteur à côté du meuble vasque, ou des étagères en métal sur pied - plusieurs approches fonctionnent. L'idée est que rien ne traine à vue.
 

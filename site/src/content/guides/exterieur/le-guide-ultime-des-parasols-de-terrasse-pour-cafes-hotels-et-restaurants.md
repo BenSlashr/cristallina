@@ -19,6 +19,11 @@ Le choix d'un parasol CHR (Cafés, Hôtels, Restaurants) n'a rien à voir avec u
 
 Trois types de parasols dominent le marché CHR. Le bon choix dépend avant tout de ta configuration de terrasse.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231875979.jpg" alt="Le guide ultime des parasols de terrasse pour cafes hotels et restaurants - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le parasol à mât central : le classique indémodable
 
 C'est le modèle que tu vois sur 80 % des terrasses de brasseries. Un mât vertical planté au centre, une toile carrée ou ronde autour. Simple, efficace, abordable.
@@ -74,6 +79,11 @@ graph TD
 
 Le mât, c'est la colonne vertébrale du parasol. Son matériau détermine la durabilité, le poids et le look de l'ensemble.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233556218.jpg" alt="Le guide ultime des parasols de terrasse pour cafes hotels et restaurants - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Bois** - Hêtre, frêne, teck ou bambou. Le rendu est chaleureux, organique, parfait pour une terrasse de bistrot qui joue la carte du charme authentique. Le bois est lourd (ce qui aide à la stabilité) mais demande un entretien régulier : huile ou vernis marin chaque année. Les mâts en bois dur comme le teck résistent bien aux intempéries, mais le prix grimpe vite. Compte 300 à 1 200 euros pour un parasol bois de qualité pro.
 
 **Aluminium** - Le choix dominant en CHR. Léger, résistant à la corrosion, zéro entretien. L'aluminium thermolaqué se décline dans toutes les couleurs RAL pour s'accorder à ta déco. C'est le matériau des parasols Galileo et Verona. Budget : 200 à 3 000 euros selon la taille et la finition.
@@ -86,6 +96,11 @@ Le mât, c'est la colonne vertébrale du parasol. Son matériau détermine la du
 ## Toile : acrylique, polyester ou PVC ?
 
 La toile fait le boulot le plus dur. C'est elle qui encaisse le soleil, la pluie, le vent, et c'est elle que tes clients voient. Trois matériaux dominent.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771184764645.jpg" alt="Le guide ultime des parasols de terrasse pour cafes hotels et restaurants - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Toile acrylique teinte dans la masse** - Le haut de gamme, avec Sunbrella comme référence mondiale. La couleur est intégrée dans la fibre, pas imprimée dessus : même après 5 ans de soleil, quasi aucune décoloration. Résistance UV de 98 %, imperméabilité, résistance à la moisissure. Durée de vie : 8 à 10 ans en usage pro intensif.
 
@@ -122,6 +137,11 @@ graph LR
 
 Trop petit, il ne couvre pas assez. Trop grand, il dépasse sur le trottoir et la mairie te tombe dessus. Voici les repères concrets.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231806007.jpg" alt="Le guide ultime des parasols de terrasse pour cafes hotels et restaurants - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Pour un guéridon 2 places** : parasol rond de 2 à 2,5 m de diamètre. Couverture d'environ 4 m2.
 
 **Pour une table de 4-6 places** : parasol carré ou rectangulaire de 3x3 m. Couverture de 9 m2. C'est la taille la plus vendue en CHR.
@@ -135,6 +155,11 @@ Si tu veux une vue d'ensemble sur les solutions d'ombrage pour terrasse (pas seu
 ## Résistance au vent : le critère que tout le monde sous-estime
 
 Un parasol CHR reste ouvert 8 à 14 heures par jour, parfois avec des rafales de 40-50 km/h en milieu urbain (effet tunnel entre immeubles). Un parasol qui s'envole, c'est un risque pour tes clients et ta responsabilité.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231822394.jpg" alt="Le guide ultime des parasols de terrasse pour cafes hotels et restaurants - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Repères de résistance :
 

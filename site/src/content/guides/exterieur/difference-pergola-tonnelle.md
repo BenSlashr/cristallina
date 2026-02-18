@@ -19,6 +19,11 @@ Je t'explique tout : les vraies différences, les budgets, les avantages de chaq
 
 Avant d'entrer dans les détails techniques, pose-toi cette question simple : tu cherches une solution permanente qui devient une pièce à vivre, ou un abri pratique que tu installes et désinstalles selon les saisons ?
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238082189.jpg" alt="Difference pergola tonnelle - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 La **pergola**, c'est une structure fixe et durable. Elle est construite pour rester en place toute l'année, qu'elle soit adossée à la façade de ta maison ou autoportée au milieu du jardin. Matériaux costauds (aluminium, bois, acier), fixation au sol solide, toiture rigide ou à lames orientables. On parle d'un vrai investissement qui s'intègre à l'architecture de ta maison.
 
 La **tonnelle**, c'est un abri léger et démontable. Toile polyester, structure en tubes d'acier ou d'aluminium fin, montage en quelques heures. Tu la sors au printemps, tu la ranges à l'automne - ou tu la déplaces selon tes envies. C'est la liberté avant tout.
@@ -27,6 +32,11 @@ La **tonnelle**, c'est un abri léger et démontable. Toile polyester, structure
 > Le terme "tonnelle" désigne aussi parfois une treille végétalisée en arceaux dans les catalogues jardinerie. Ici, on parle de la tonnelle-abri avec toile, le modèle le plus répandu dans les magasins de bricolage.
 
 ## Les 5 critères qui font vraiment la différence
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238145420.jpg" alt="Difference pergola tonnelle - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### 1. La durabilité et la résistance
 
@@ -98,9 +108,19 @@ La tonnelle, par définition temporaire, n'a aucun impact sur la valeur immobili
 | Plus-value immobilière | Oui (5-10 %) | Non |
 | Entretien | Faible à moyen | Faible |
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237036306.jpg" alt="Difference pergola tonnelle - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ## Dans quel cas choisir une tonnelle ?
 
 La tonnelle est le bon choix si tu coches plusieurs de ces cases :
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232906157.jpg" alt="Difference pergola tonnelle - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 - Tu es locataire et tu ne peux pas fixer de structure permanente
 - Tu veux un abri pour des événements ponctuels (anniversaires, barbecues entre amis)
@@ -117,6 +137,11 @@ Les tonnelles pliantes de type barnum (3x3 m, dépliage en 2 minutes) sont aussi
 ## Dans quel cas choisir une pergola ?
 
 La pergola s'impose si :
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238023418.jpg" alt="Difference pergola tonnelle - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 - Tu es propriétaire et tu veux aménager ta terrasse pour longtemps
 - Tu cherches une vraie pièce à vivre extérieure, utilisable du printemps à l'automne (et même en hiver avec des options chauffage)

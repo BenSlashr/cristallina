@@ -17,6 +17,11 @@ Je vais te montrer les formes, les matériaux, les couleurs et les astuces concr
 
 ## L'îlot 2026 : ce qui change par rapport aux années précédentes
 
+
+<div class="my-8">
+  <img src="/images/pinterest-petite-cuisine-moderne-2026-compact-optimis-e-1771237404343.jpg" alt="Cuisines avec ilot 2026 designs et tendances - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Des formes qui sortent du rectangle
 
 Le gros virage de 2026, c'est la fin du rectangle systématique. Les îlots aux angles arrondis, en forme de haricot ou avec un pan coupé, prennent de plus en plus de place dans les showrooms. Chez Veneta Cucine, les modèles avec bords courbes se multiplient. Cuisinella a aussi lancé une gamme avec des angles adoucis qui donne un résultat très organique.
@@ -41,6 +46,11 @@ flowchart TD
     A --> D[Rangement]
     A --> E[Bureau d'appoint]
     A --> F[Présentation]
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771235155905.jpg" alt="Cuisines avec ilot 2026 designs et tendances - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
     B --> B1[Plaque induction\n+ hotte intégrée]
     C --> C1[Bar surélevé\nou table basse]
@@ -88,6 +98,11 @@ Depuis le Covid, l'îlot sert aussi de poste de travail temporaire. Un plan dég
 
 La bicolore est reine cette année. Fini la cuisine toute blanche ou toute grise. En 2026, l'îlot a souvent une couleur différente du reste des meubles, et c'est justement ca qui donne du caractère.
 
+<div class="my-8">
+  <img src="/images/pinterest-petite-cuisine-moderne-2026-compact-optimis-e-1771238167396.jpg" alt="Cuisines avec ilot 2026 designs et tendances - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Crème et vert sauge
 
 L'association la plus populaire du moment. Les meubles muraux en crème ou blanc cassé, et l'îlot en vert sauge mat. Ca donne un résultat naturel, apaisant, qui vieillit bien. Le Journal de la Maison a identifié cette palette comme la plus demandée dans les projets de rénovation 2026.
@@ -108,6 +123,11 @@ Le duo classique revisité. Le gris perle sur les façades murales apporte la mo
 ## Matériaux tendance pour le plateau de l'îlot
 
 Le plateau de l'îlot est la surface la plus sollicitée de ta cuisine. Voici ce qui se fait en 2026.
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771235166554.jpg" alt="Cuisines avec ilot 2026 designs et tendances - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Quartz composite** (Silestone, Caesarstone) : le rapport résistance/esthétique est dur à battre. De 100 à 350 euros/m² posé. C'est le choix le plus courant dans les cuisines avec îlot de gamme intermédiaire.
 
@@ -134,6 +154,11 @@ graph LR
 ## Quelle taille d'îlot pour quelle cuisine ?
 
 La règle d'or : il faut au minimum 90 cm de passage libre tout autour de l'îlot. En dessous, tu ne peux pas ouvrir un tiroir confortablement.
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771235053562.jpg" alt="Cuisines avec ilot 2026 designs et tendances - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Cuisine de 12 à 15 m²** : îlot compact de 120 x 60 cm. Pas de cuisson dessus, mais un coin repas pour deux personnes et du rangement. Budget meubles : 1 500 à 3 000 euros chez Ikea, 3 000 à 6 000 euros chez un cuisiniste.
 

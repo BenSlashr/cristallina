@@ -19,6 +19,11 @@ Je te donne ici tout ce qu'il faut savoir, du choix de l'enduit jusqu'à la fini
 
 Le parpaing brut, c'est poreux, irrégulier, et pas du tout étanche. L'enduit joue plusieurs rôles à la fois : il protège le mur contre l'humidité et les infiltrations, corrige les défauts de planéité (les joints en creux, les petits décalages entre blocs), et prépare la surface pour recevoir une peinture ou un enduit décoratif.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238143913.jpg" alt="Comment enduir un mur en parpaing - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Pour un mur extérieur, c'est aussi une protection contre les intempéries. Pour un mur intérieur, ça permet d'obtenir une surface lisse sur laquelle tu pourras peindre, poser du papier peint ou appliquer un [enduit décoratif type crépi](https://www.cristallina.fr/guides/decoration/crepir-un-mur-interieur/).
 
 Les parpaings de béton sont classés Rt3 (résistance à l'arrachement élevée), ce qui signifie que tous les types d'enduits - OC1, OC2, OC3 - sont compatibles. Tu as donc le choix.
@@ -26,6 +31,11 @@ Les parpaings de béton sont classés Rt3 (résistance à l'arrachement élevée
 ## Choisir le bon enduit
 
 Avant d'acheter quoi que ce soit, il faut identifier ton support et l'usage du mur.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238066856.jpg" alt="Comment enduir un mur en parpaing - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Enduit ciment (OC3)** : le plus résistant, idéal pour les murs extérieurs ou les pièces humides (cave, garage, sous-sol). Il résiste bien aux chocs et à l'eau. Chez Brico Dépôt, un sac de 25 kg coûte autour de 8-12€, ce qui en fait l'option la plus économique.
 
@@ -41,6 +51,11 @@ Avant d'acheter quoi que ce soit, il faut identifier ton support et l'usage du m
 ## Le matériel nécessaire
 
 Pas besoin d'investir une fortune. Voici l'essentiel :
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238250150.jpg" alt="Comment enduir un mur en parpaing - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 - Taloche (en plastique ou en bois) et platoir pour étaler
 - Truelle et lisseuse
@@ -76,6 +91,11 @@ graph TD
 
 C'est l'étape que tout le monde a envie de zapper pour aller plus vite. Mauvaise idée.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238119028.jpg" alt="Comment enduir un mur en parpaing - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Un enduit posé sur un support mal préparé va se fissurer ou se décoller dans les mois qui suivent. Donc on prend le temps.
 
 **Nettoie le mur** : brosse métallique sur les zones friables, retire les éclats de mortier qui dépassent, les traces de gras ou de peinture. Si le mur a des trous ou des joints creux, rebouche-les avec un mortier de réparation.
@@ -90,6 +110,11 @@ Un enduit posé sur un support mal préparé va se fissurer ou se décoller dans
 ## Étape 2 : le gobetis (couche d'accroche)
 
 Le gobetis, c'est la première couche fine et granuleuse qu'on projette sur le mur. Son rôle : créer une rugosité pour que le corps d'enduit accroche bien.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237428506.jpg" alt="Comment enduir un mur en parpaing - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Tu prépares un mélange assez fluide - plus liquide que la pâte à crêpes mais moins que de l'eau - et tu le projettes en gestes vifs à la truelle ou au balai. L'idée n'est pas de couvrir uniformément mais de créer des éclaboussures qui vont former des "plots d'accroche".
 

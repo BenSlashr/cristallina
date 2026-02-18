@@ -17,6 +17,11 @@ L'ocre, c'est cette couleur qui fait qu'on entre dans une pièce et qu'on se sen
 
 Avant de foncer acheter des pots de peinture, petit récap utile. L'ocre est une couleur naturelle obtenue à partir d'une argile riche en oxyde de fer. C'est pour ça qu'elle existe depuis la préhistoire - les premières peintures rupestres utilisaient déjà ces pigments. Ce qui lui donne ce côté "ancrée dans la matière" qu'on ressent instinctivement.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-orange-mur-couleur-assortiment-design-1771233383573.jpg" alt="Couleurs ocres pour les murs et la decoration - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Dans la palette, l'ocre se situe entre le jaune et l'orange, avec des reflets brunâtres selon la teinte. Le code hex de référence c'est #CC7722 - une sorte de marron doré, warm et terreux.
 
 Il existe plusieurs grandes familles :
@@ -32,6 +37,11 @@ Il existe plusieurs grandes familles :
 ## Avec quoi associer l'ocre sur tes murs ?
 
 C'est LA question. L'ocre est puissante - trop d'ocre partout et l'effet peut devenir étouffant. Le secret, c'est le dosage et les associations.
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-ocre-terre-cuite-mur-d-coration-chaude-1771236926819.jpg" alt="Couleurs ocres pour les murs et la decoration - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Ocre + blanc cassé : la combinaison canon
 
@@ -71,6 +81,11 @@ graph TD
 ```
 
 ## Comment utiliser l'ocre dans chaque pièce ?
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236638963.jpg" alt="Couleurs ocres pour les murs et la decoration - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le salon : le mur d'accent vs tout peindre
 
@@ -128,6 +143,11 @@ flowchart LR
 
 Tu ne veux pas (encore) peindre tes murs ? L'ocre marche très bien en doses plus légères.
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-ocre-terre-cuite-mur-d-coration-chaude-1771237726860.jpg" alt="Couleurs ocres pour les murs et la decoration - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Les textiles** : coussins, plaids, rideaux. C'est le moyen le plus accessible d'introduire l'ocre. Un coussin ocre 45x45cm en velours, c'est 25-45€ chez H&M Home ou Zara Home. Un plaid ocre tissé, c'est 39-79€ chez La Redoute.
 
 **La céramique et la poterie** : vases, bols, cache-pots en ocre ou terre cuite vernissée. C'est le budget le plus flexible - de 8€ chez Ikea (gamme GLADELIG) jusqu'à des pièces d'artisans à 80-150€.
@@ -142,6 +162,11 @@ Tu ne veux pas (encore) peindre tes murs ? L'ocre marche très bien en doses plu
 ## Les 3 erreurs classiques avec l'ocre
 
 **Erreur 1 : choisir une ocre trop jaune fluo.** Certaines teintes étiquetées "ocre" sont en fait des jaunes assez agressifs. Teste toujours un échantillon sur ton mur avant d'acheter tout le pot. La couleur change énormément selon la lumière de ta pièce.
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771237693992.jpg" alt="Couleurs ocres pour les murs et la decoration - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Erreur 2 : associer avec du marron foncé.** Ocre + marron chocolat, ça fait souvent "années 70" dans le mauvais sens. Si tu veux du bois foncé, assure-toi que les autres éléments de la pièce restent clairs.
 

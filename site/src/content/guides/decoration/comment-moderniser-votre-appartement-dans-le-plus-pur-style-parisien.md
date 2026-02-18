@@ -19,6 +19,11 @@ Si tu vis dans un appartement parisien classique ou si tu veux simplement t'insp
 
 Le style parisien ne cherche pas la perfection. C'est même ce qui le rend si attachant : les murs ne sont pas forcément impeccables, le mobilier mélange les époques, et ça marche. Cette liberté repose malgré tout sur quelques principes que les Parisiennes appliquent instinctivement.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-traversant-lumi-re-am-nagement-design-1771233076027.jpg" alt="Comment moderniser votre appartement dans le plus pur style parisien - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **La règle des trois époques** : dans une pièce réussie selon ce style, tu trouveras toujours du mobilier ancien (ou avec une patine), du mobilier contemporain et au moins un élément vintage ou récupéré. Pas de tout-matching, pas de tout-neuf.
 
 **La palette sobre avec une touche de caractère** : blanc, ecru, gris perle, taupe, anthracite. Sur cette base neutre, on pose une ou deux touches de couleur - un bleu nuit profond, un vert sauge, un terracotta discret.
@@ -31,6 +36,11 @@ Le style parisien ne cherche pas la perfection. C'est même ce qui le rend si at
 ## L'architecture intérieure : exploiter les moulures et les volumes
 
 Si ton appartement a des moulures, des corniches, des rosaces ou des boiseries, c'est une mine d'or. Ces éléments architecturaux sont la signature des appartements parisiens classiques - et ils s'associent parfaitement avec une déco contemporaine à condition de les traiter correctement.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-traversant-lumi-re-am-nagement-design-1771234294161.jpg" alt="Comment moderniser votre appartement dans le plus pur style parisien - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Peindre les moulures : la méthode Haussmann actualisée
 
@@ -56,6 +66,11 @@ Tu habites dans un appartement des années 70-80 avec des plafonds bas et des mu
 ## Le parquet : pilier du style parisien
 
 Difficile d'imaginer un intérieur parisien sans parquet. Le point Hongrie et le chevron sont les deux motifs traditionnels, mais ils ne sont pas les seuls qui fonctionnent.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-traversant-lumi-re-am-nagement-design-1771234296822.jpg" alt="Comment moderniser votre appartement dans le plus pur style parisien - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart TD
@@ -92,6 +107,11 @@ Le parquet parisien n'est jamais trop brillant. Les finitions tendance :
 ## Les couleurs qui définissent le style parisien en 2026
 
 Le style parisien a évolué. La palette traditionnelle blanc/bois/beige reste une base, mais les intérieurs les plus inspirants d'aujourd'hui osent davantage. Si tu cherches des idées précises pour tes murs, les [couleurs du salon 2026](/guides/decoration/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) donnent un aperçu des tendances actuelles qui s'intègrent parfaitement dans cet univers.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-traversant-lumi-re-am-nagement-design-1771234307999.jpg" alt="Comment moderniser votre appartement dans le plus pur style parisien - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 graph LR
@@ -134,6 +154,11 @@ Les teintes qui marchent vraiment en 2026 :
 ## Le mobilier : mélanger les époques avec naturel
 
 C'est là que le style parisien se distingue vraiment de tous les styles "thème". Il n'y a pas de liste de meubles à acheter en un seul endroit. L'authenticité vient du mélange.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236998604.jpg" alt="Comment moderniser votre appartement dans le plus pur style parisien - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### La structure de base
 

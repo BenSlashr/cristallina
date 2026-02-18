@@ -15,12 +15,22 @@ Ce guide vous accompagne dans vos premiers pas. Suivez les etapes ci-dessous pou
 
 Commencez par installer les outils necessaires. Vous aurez besoin de Node.js (v18+) et d'un editeur de code.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235244570.jpg" alt="First steps - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 > [!TIP]
 > Utilisez VS Code avec l'extension Astro pour une meilleure experience de developpement.
 
 ## Etape 2 : Configuration
 
 Creez un fichier `.env` a partir du template fourni et renseignez vos cles API.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237994513.jpg" alt="First steps - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 graph LR
@@ -40,6 +50,11 @@ graph LR
 
 Creez votre premier article dans `src/content/blog/` en suivant le schema du frontmatter.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236995361.jpg" alt="First steps - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 > [!NOTE]
 > Les articles avec une date `pubDate` dans le futur ne seront pas generes au build. Ils apparaitront automatiquement au prochain rebuild apres leur date de publication.
 
@@ -52,7 +67,17 @@ Creez votre premier article dans `src/content/blog/` en suivant le schema du fro
 - [tiny house container](/guides/decoration/tiny-house-container/)
 - [crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/)
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236870730.jpg" alt="First steps - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ## Questions frequentes
+
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238169844.jpg" alt="First steps - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Comment planifier un article ?
 

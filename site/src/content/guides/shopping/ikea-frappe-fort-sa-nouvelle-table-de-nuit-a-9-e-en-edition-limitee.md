@@ -17,6 +17,11 @@ Tu cherches une table de nuit pas chère qui ne ressemble pas à un meuble de ch
 
 C'est le modèle qui fait parler de lui sur les réseaux. La KNARREVIK est une petite table de chevet en métal noir avec un plateau ajouré et un espace de rangement en dessous. Son prix : 9,99 euros. À ce tarif, certains en achètent deux sans réfléchir.
 
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771235768680.jpg" alt="Ikea frappe fort sa nouvelle table de nuit a 9 e en edition limitee - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Ce qui la rend intéressante :**
 
 - Un look industriel-minimaliste qui passe partout
@@ -37,6 +42,11 @@ C'est le modèle qui fait parler de lui sur les réseaux. La KNARREVIK est une p
 
 Si tu as besoin de ranger des trucs (et soyons honnêtes, qui n'en a pas besoin sur sa table de nuit ?), la KULLEN est probablement le meilleur rapport qualité-prix du catalogue IKEA. La version 2 tiroirs en blanc fait 35x49 cm et coûte 29 euros.
 
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771234905685.jpg" alt="Ikea frappe fort sa nouvelle table de nuit a 9 e en edition limitee - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Ses atouts principaux :**
 
 - **Deux tiroirs** qui glissent bien et offrent un vrai espace de rangement
@@ -52,6 +62,11 @@ La KULLEN existe aussi en version commode (3, 5 ou 6 tiroirs) si tu veux garder 
 ## TARVA : le charme du bois brut à customiser
 
 La TARVA, c'est un peu la toile blanche du catalogue IKEA. Fabriquée en pin massif non traité, cette table de chevet (48x62 cm) attend que tu lui donnes ta touche perso. Brute, teintée, peinte, cirée - tout est possible.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238171417.jpg" alt="Ikea frappe fort sa nouvelle table de nuit a 9 e en edition limitee - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Pourquoi j'adore la TARVA :**
 
@@ -88,6 +103,11 @@ flowchart TD
 
 Pour celles et ceux qui veulent quelque chose d'un peu plus fini, deux modèles méritent le détour.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237292513.jpg" alt="Ikea frappe fort sa nouvelle table de nuit a 9 e en edition limitee - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### MALM 2 tiroirs - 49 euros
 
 La MALM est le grand classique d'IKEA. La version table de chevet (40x55 cm) en blanc propose deux tiroirs avec des glissières plus fluides que la KULLEN. Le design est épuré, les angles sont nets, et la finition est un cran au-dessus. C'est le modèle que je recommande si tu as un budget entre 40 et 60 euros et que tu veux un truc solide qui dure.
@@ -99,6 +119,11 @@ La TONSTAD est apparue dans le catalogue 2025 et elle s'est vite imposée comme 
 ## Les éditions limitées 2026 à surveiller
 
 IKEA lance régulièrement des collections en édition limitée, et 2026 ne fait pas exception. Voici ce qu'il faut garder dans ton radar.
+
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771235989550.jpg" alt="Ikea frappe fort sa nouvelle table de nuit a 9 e en edition limitee - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### STORKLINTA - le gris-vert qui fait craquer
 

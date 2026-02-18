@@ -19,6 +19,11 @@ Je l'ai adopté il y a deux ans après avoir cherché longtemps une plante retom
 
 Le Scindapsus pictus appartient à la famille des Aracées, la même que le pothos et le philodendron - des cousins dont il partage l'allure générale mais pas la facilité à trouver en jardinerie de quartier. On le reconnaît à ses feuilles en forme de cœur légèrement bombées, d'un vert profond parsemé de taches argentées qui captent la lumière. La variété la plus répandue s'appelle 'Argyraeus' : ses reflets sont particulièrement marqués, presque métalliques.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237329317.jpg" alt="Entretenir du scindapsus pictus la plante robuste qui a tout pour plaire - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Originaire des forêts tropicales d'Asie du Sud-Est (Thaïlande, Philippines, Malaisie), il grimpe naturellement le long des arbres en s'accrochant à leur écorce. En pot, il préfère retomber ou s'enrouler autour d'un tuteur. Son allure change beaucoup selon ce choix : en mode cascade depuis une étagère haute, les feuilles restent petites et rapprochées ; attaché à un tuteur mousse, elles grossissent davantage.
 
 > [!NOTE]
@@ -27,6 +32,11 @@ Originaire des forêts tropicales d'Asie du Sud-Est (Thaïlande, Philippines, Ma
 ## La lumière : le seul vrai point de vigilance
 
 C'est le paramètre qui compte le plus pour le Scindapsus pictus. Il tolère l'ombre, oui, mais à condition de ne pas lui en donner trop. Dans une pièce très sombre, les taches argentées pâlissent et les feuilles perdent leur éclat caractéristique. Il finit par devenir banal, vert uniforme, sans le motif qui fait tout son intérêt.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237369574.jpg" alt="Entretenir du scindapsus pictus la plante robuste qui a tout pour plaire - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 L'idéal, c'est une lumière indirecte lumineuse : à 1 ou 2 mètres d'une fenêtre orientée est ou ouest, ou à 2-3 mètres d'une fenêtre sud sans soleil direct qui brûlerait ses feuilles. Dans une pièce nord, il s'en sortira si la fenêtre est grande, mais les taches argentées seront moins prononcées.
 
@@ -55,6 +65,11 @@ Ce qui est bien avec lui, c'est qu'il s'adapte aux conditions intérieures chang
 
 Le Scindapsus stocke l'eau dans ses feuilles charnues, ce qui lui donne une belle résistance à la sécheresse. La règle d'or : laisser les 2 à 3 premiers centimètres de terre se dessécher complètement entre deux arrosages. Pour le vérifier, enfonce ton doigt dans le substrat. Si c'est encore humide en surface, tu attends.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237889619.jpg" alt="Entretenir du scindapsus pictus la plante robuste qui a tout pour plaire - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 En pratique, ça donne :
 - **Printemps-été** : environ tous les 7 à 10 jours
 - **Automne-hiver** : environ tous les 14 à 21 jours selon la chaleur de ton appartement
@@ -68,6 +83,11 @@ Utilise de l'eau à température ambiante, si possible laissée reposer 24h pour
 
 Le Scindapsus pictus aime la chaleur et craint le froid. Entre 18 et 29°C, il est à l'aise - ce qui correspond parfaitement à nos intérieurs chauffés. En dessous de 13°C, il ralentit fortement. En dessous de 10°C, les feuilles peuvent noircir.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237101165.jpg" alt="Entretenir du scindapsus pictus la plante robuste qui a tout pour plaire - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Sur l'humidité, c'est une plante tropicale qui apprécie l'air humide, mais elle supporte sans problème l'air sec des appartements en hiver. Si tu veux aller plus loin, quelques options :
 
 - Pose le pot sur un plateau de gravier avec de l'eau (sans que le pot trempe dedans)
@@ -80,6 +100,11 @@ Sur l'humidité, c'est une plante tropicale qui apprécie l'air humide, mais ell
 ## Le substrat et le rempotage
 
 Pour la terre, un mélange bien drainant est préférable à la terre universelle pure qui retient trop l'eau. Le plus simple : deux tiers de terreau universel de qualité (Plagron ou Biobizz, environ 10-15€ le sac de 10L) et un tiers de perlite pour aérer. Tu peux aussi ajouter un peu d'écorces de pin qui imitent son substrat naturel en forêt.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235244570.jpg" alt="Entretenir du scindapsus pictus la plante robuste qui a tout pour plaire - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Le rempotage se fait tous les 1 à 2 ans, au printemps, quand les racines pointent par les trous de drainage ou que la plante semble stagner malgré de bonnes conditions. Choisis un pot seulement 2 cm plus grand que le pot actuel - un pot trop grand retient trop d'eau non utilisée par les racines.
 

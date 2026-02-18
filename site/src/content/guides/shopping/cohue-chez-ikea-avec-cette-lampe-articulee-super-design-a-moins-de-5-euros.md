@@ -17,6 +17,11 @@ Si tu passes dans un magasin IKEA en ce moment, tu as peut-être remarqué un tr
 
 Le buzz a commencé sur TikTok et Instagram. Des créateurs déco ont filmé leurs trouvailles IKEA en montrant des ambiances hyper soignées réalisées avec des lampes à petit prix. Le contraste entre le rendu "design d'architecte" et l'étiquette à moins de 15 euros a fait le reste. Les publications ont cumulé des millions de vues et les ruptures de stock ont suivi dans la foulée.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238405847.jpg" alt="Cohue chez ikea avec cette lampe articulee super design a moins de 5 euros - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Ce qui plaît, c'est la combinaison de trois choses : un style industriel/atelier qui colle parfaitement aux tendances actuelles, un bras articulable qui permet de diriger la lumière exactement où tu veux, et un prix ridicule par rapport aux lampes équivalentes en boutique déco. Chez Maisons du Monde ou AM.PM, une lampe articulée comparable tourne entre 45 et 90 euros. Chez IKEA, tu repars avec un modèle solide pour une fraction de ce tarif.
 
 > [!TIP]
@@ -25,6 +30,11 @@ Ce qui plaît, c'est la combinaison de trois choses : un style industriel/atelie
 ## Les 3 modèles stars à moins de 15 euros
 
 Rentrons dans le vif du sujet. Voici les trois lampes qui concentrent l'essentiel de l'engouement, avec leurs forces et leurs limites.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238075449.jpg" alt="Cohue chez ikea avec cette lampe articulee super design a moins de 5 euros - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### TERTIAL - la lampe d'atelier à 12,99 euros
 
@@ -99,6 +109,11 @@ graph TD
     D --> I[Plissée compacte 28 cm]:::detail
     D --> J[Lumière filtrée douce]:::detail
 
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771233650416.jpg" alt="Cohue chez ikea avec cette lampe articulee super design a moins de 5 euros - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
     classDef main fill:#FFF0F5,stroke:#E879F9,color:#701A75
     classDef secondary fill:#F3F4F6,stroke:#8B5CF6,color:#581C87
     classDef detail fill:#FAFAFA,stroke:#D1D5DB,color:#374151
@@ -113,6 +128,11 @@ graph TD
 ## Au-delà de 15 euros : les modèles qui valent le détour
 
 Si ton budget monte un peu, IKEA propose des luminaires qui gardent ce rapport qualité-design-prix assez bluffant. En voici trois qui méritent un coup d'oeil.
+
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771236293725.jpg" alt="Cohue chez ikea avec cette lampe articulee super design a moins de 5 euros - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### SINNERLIG - la suspension en bambou à 24,99 euros
 
@@ -132,6 +152,11 @@ Pour les fans de bois naturel, le KINNAHULT est un lampadaire avec une tige tors
 ## Comment bien choisir ta lampe IKEA selon ta pièce
 
 Le choix de la bonne lampe dépend surtout de l'usage que tu en fais. Voici un guide pièce par pièce pour t'aider à viser juste.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238178843.jpg" alt="Cohue chez ikea avec cette lampe articulee super design a moins de 5 euros - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Pour le bureau ou l'espace de travail
 

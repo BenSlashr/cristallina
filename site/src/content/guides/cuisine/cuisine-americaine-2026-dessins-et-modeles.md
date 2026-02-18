@@ -17,6 +17,11 @@ Je vais te montrer les modèles qui se démarquent cette année, les matériaux 
 
 ## Ce qui définit la cuisine américaine en 2026
 
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-couleur-olive-vert-sauge-d-coration-moderne-1771233881699.jpg" alt="Cuisine americaine 2026 dessins et modeles - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### L'ouverture repensée
 
 Le principe de base reste le même : un espace cuisine qui communique directement avec le salon, sans cloison. Ce qui change, c'est la manière de gérer cette transition. En 2026, on ne se contente plus d'abattre un mur et de poser un comptoir en stratifié. La séparation se fait avec des éléments architecturaux pensés : un ilot sculptural, une verrière en verre rainuré, une banquette intégrée qui sert de frontière douce entre les deux zones.
@@ -59,6 +64,11 @@ flowchart TD
 
 L'ilot n'est plus un simple plan de travail au milieu de la pièce. En 2026, c'est le centre de gravité de la cuisine américaine. Il concentre la cuisson, la préparation, les repas rapides et parfois un coin bureau d'appoint.
 
+<div class="my-8">
+  <img src="/images/pinterest-petite-cuisine-moderne-2026-compact-optimis-e-1771237223052.jpg" alt="Cuisine americaine 2026 dessins et modeles - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Les formes qui changent tout
 
 Le rectangle classique cède du terrain aux formes organiques. Les ilots avec un pan arrondi, une excroissance en virgule pour le coin repas, ou une forme de haricot gagnent les showrooms. Chez Santos, le modèle "Minos" propose un retour courbe qui crée un espace repas enveloppant. Chez Veneta Cucine, la collection 2026 inclut des modules arrondis combinables en formes libres.
@@ -78,6 +88,11 @@ Pour qu'un ilot fonctionne dans une cuisine américaine, il faut respecter ces d
 - **Longueur de l'ilot** : 120 cm minimum pour être fonctionnel, 180 à 240 cm pour intégrer cuisson et repas
 
 ## Les matériaux qui définissent 2026
+
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-couleur-olive-vert-sauge-d-coration-moderne-1771235124081.jpg" alt="Cuisine americaine 2026 dessins et modeles - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le bois massif en facades
 
@@ -117,6 +132,11 @@ flowchart LR
 
 ## La technologie intégrée : visible nulle part, utile partout
 
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771233804607.jpg" alt="Cuisine americaine 2026 dessins et modeles - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Les robinets multifonction
 
 Le Quooker, ce robinet qui délivre de l'eau bouillante instantanée, s'est imposé dans les cuisines haut de gamme. En 2026, les alternatives se multiplient et les prix baissent. Le Grohe Red 2 démarre à 900 euros (contre 1 200 euros pour le Quooker Flex). Le principe : un seul robinet pour l'eau froide, chaude, bouillante et parfois filtrée ou gazeuse. Plus besoin de bouilloire, de carafe filtrante ni de machine à eau gazeuse.
@@ -133,6 +153,11 @@ Chez Bora, le système intégré au plan de cuisson démarre à 3 500 euros (pla
 > Si tu rénoves et que tu ne veux pas investir dans une hotte Bora, une alternative maline : la hotte tiroir (télescopique) intégrée dans un meuble haut juste au-dessus du plan. Invisible quand elle est rangée, efficace quand tu cuisines. Prix : 300 a 600 euros chez Bosch ou Neff.
 
 ## Couleurs et ambiances : ce qui marche en cuisine américaine
+
+
+<div class="my-8">
+  <img src="/images/pinterest-petite-cuisine-moderne-2026-compact-optimis-e-1771237404343.jpg" alt="Cuisine americaine 2026 dessins et modeles - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Les palettes qui durent
 

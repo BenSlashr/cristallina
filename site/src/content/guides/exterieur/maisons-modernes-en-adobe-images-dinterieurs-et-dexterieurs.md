@@ -19,6 +19,11 @@ Dans cet article, je t'emmène faire le tour des plus belles images de maisons m
 
 L'adobe, c'est un mélange de terre argileuse, de sable, de paille et d'eau, compressé en briques puis séché au soleil. La technique remonte à des milliers d'années et a traversé les continents. Ce qui change aujourd'hui, c'est la façon dont les architectes et les particuliers l'intègrent dans des projets très actuels.
 
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-moderne-2026-enduit-bardage-design-1771236234664.jpg" alt="Maisons modernes en adobe images dinterieurs et dexterieurs - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart TD
     A[Terre crue extraite du site]:::main --> B[Mélange argile + sable + paille]:::secondary
@@ -39,6 +44,11 @@ La société suisse Terrabloc, par exemple, a perfectionné l'adobe compressée 
 > L'adobe offre une excellente inertie thermique : la maison reste fraîche l'été et garde la chaleur en hiver sans chauffage excessif. C'est une des raisons principales qui poussent à revenir à ce matériau.
 
 ## Extérieurs en adobe : ce que montrent les images
+
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771233255496.jpg" alt="Maisons modernes en adobe images dinterieurs et dexterieurs - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Des façades aux teintes naturelles
 
@@ -72,6 +82,11 @@ graph LR
 
 ## Intérieurs en adobe : l'ambiance qu'on ne trouve nulle part ailleurs
 
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-adobe-moderne-terre-architecture--cologique-1771233938287.jpg" alt="Maisons modernes en adobe images dinterieurs et dexterieurs - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Des murs qui respirent et qui vibrent
 
 À l'intérieur, l'adobe crée une atmosphère unique. Les murs ne sont jamais parfaitement droits, les angles ne sont jamais parfaitement nets - et c'est précisément ce qui donne du caractère. On retrouve souvent des niches sculptées dans la masse, des arches douces qui remplacent les ouvertures rectangulaires, des tablettes encastrées qui font corps avec le mur.
@@ -102,6 +117,11 @@ Pour les salles de bain, l'adobe se marie superbement avec le tadelakt (enduit m
 
 C'est la question que tout le monde se pose. La réponse varie beaucoup selon la région, le type de construction et les finitions. Voici quelques repères tirés du marché actuel :
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771236580862.jpg" alt="Maisons modernes en adobe images dinterieurs et dexterieurs - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart LR
     A[Budget construction adobe]:::main --> B[Briques adobe standard\n80-120€ la tonne]:::secondary
@@ -125,6 +145,11 @@ Pour les rénovations, l'adobe existant est parfois moins cher à restaurer qu'�
 ## S'inspirer de l'adobe sans tout construire en terre
 
 Même si tu n'as pas de projet de construction en adobe, tu peux tout à fait t'inspirer de cet univers pour ton intérieur ou ta façade. Quelques idées concrètes :
+
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-moderne-2026-enduit-bardage-design-1771236994159.jpg" alt="Maisons modernes en adobe images dinterieurs et dexterieurs - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 - **Enduit à la terre ou à l'argile** sur un ou deux murs dans ton salon : les marques Argisol, Tierrafino ou Keim proposent des produits prêts à l'emploi entre 40 et 90€/m² posé. Le rendu rappelle très fidèlement l'adobe.
 - **Palette de couleurs terre** : ocre jaune, brun cuivré, rose poudré, beige sable. La marque Ressource a une collection "Terres" avec des teintes parfaitement calibrées pour cet esprit.

@@ -19,6 +19,11 @@ Je vais te guider à travers toutes les étapes pour repeindre ton lino comme un
 
 Le linoleum, c'est un revêtement de sol plutôt costaud. Résistant, facile à nettoyer, isolant : il a plein de qualités. Mais avec les années, il peut jaunir, se décolorer ou simplement ne plus correspondre à tes goûts. Et là, deux options : tout changer (cher et compliqué) ou peindre (malin et rapide).
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771234057085.jpg" alt="Peindre lino - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Peindre un sol en lino, c'est une solution économique qui te coûte entre 15 et 40 euros le m2 tout compris (peinture + sous-couche + vernis). Pour comparaison, poser un nouveau revêtement revient à 30-80 euros le m2 pose comprise. Le calcul est vite fait.
 
 > [!TIP]
@@ -29,6 +34,11 @@ Autre avantage : tu peux choisir exactement la couleur que tu veux. Envie d'un s
 ## Choisir la bonne peinture pour sol en lino
 
 C'est LE point qui fait toute la différence entre un résultat durable et une peinture qui s'écaille au bout de trois semaines. Le lino est une surface lisse, un peu souple, parfois brillante. Il faut donc une peinture spécifique qui accroche bien dessus.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237873106.jpg" alt="Peindre lino - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les types de peintures adaptées
 
@@ -55,6 +65,11 @@ Tu trouves ces produits chez Leroy Merlin, Castorama ou Mr Bricolage. La V33 Ré
 ## Préparer son lino avant de peindre
 
 La préparation, c'est 80% du résultat. Un lino mal préparé = une peinture qui tient mal. Prends le temps de bien faire cette étape, ça vaut le coup.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237362293.jpg" alt="Peindre lino - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le matériel nécessaire
 
@@ -115,6 +130,11 @@ graph TD
 
 Ça y est, ton sol est propre, poncé et sous-couché. C'est le moment le plus satisfaisant : peindre !
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237204915.jpg" alt="Peindre lino - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Première couche
 
 Commence par les bords et les coins au pinceau à réchampir. Utilise le ruban de masquage pour protéger les plinthes. Puis attaque la surface au rouleau mousse, en travaillant par bandes parallèles. Commence par le fond de la pièce et avance vers la porte - sinon tu te retrouves coincée dans un coin (ça m'est arrivé, c'est un classique).
@@ -136,6 +156,11 @@ Laisse sécher 48 à 72 heures avant de remettre les meubles et de marcher norma
 ## Entretien du lino peint
 
 Un sol en lino peint demande un peu d'attention pour garder son look longtemps. Rien de compliqué, mais quelques réflexes à prendre.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232834533.jpg" alt="Peindre lino - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Nettoyage courant** - Serpillère humide (pas trempée !) avec un nettoyant doux neutre. Évite les produits agressifs à base d'ammoniaque ou de javel concentrée qui attaquent la peinture.
 

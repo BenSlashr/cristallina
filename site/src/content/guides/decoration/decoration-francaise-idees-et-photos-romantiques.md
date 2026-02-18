@@ -17,6 +17,11 @@ La décoration française romantique, c'est cet art de vivre qu'on imagine tout 
 
 On confond souvent la déco romantique à la française avec le style shabby chic ou le style provençal. C'est lié, mais pas pareil. La déco française romantique, c'est un mélange très spécifique : des couleurs douces inspirées des jardins et des ciels d'aube, des matières naturelles un peu désuètes (la soie, le lin, le velours), et surtout cette esthétique du temps qui passe - quelque chose qui vieillit bien, qui patine, qui raconte une histoire.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236837212.jpg" alt="Decoration francaise idees et photos romantiques - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Ce n'est pas du tout le même registre qu'une [décoration marocaine moderne avec ses contrastes forts](/guides/decoration/decoration-marocaine-moderne-ou-classique/) ou qu'un salon contemporain très épuré. Ici, on est dans la douceur, la sensibilité, le détail qui fait sourire.
 
 > [!NOTE]
@@ -31,6 +36,11 @@ Ce n'est pas du tout le même registre qu'une [décoration marocaine moderne ave
 ## La palette de couleurs : du blanc cassé au rose poudré
 
 C'est probablement le point le plus important quand on veut créer une ambiance romantique à la française. Oublie les blancs froids ou les beiges trop contemporains. Ici, on travaille avec des tons qui évoquent les robes d'un autre siècle, les murs d'un manoir normand, les roses du jardin de Giverny.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771238279256.jpg" alt="Decoration francaise idees et photos romantiques - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Les couleurs qui font le style :**
 
@@ -47,6 +57,11 @@ Tu veux voir ce que ça donne en pratique ? Imagine un salon avec des murs presq
 ## Les meubles : chinés, patinés, racontés
 
 Le mobilier d'une déco romantique française n'est jamais neuf et brillant. Ou en tout cas, il ne doit pas le paraître. L'idée, c'est d'habiller ta maison avec des pièces qui ont du vécu - soit vraiment chinées, soit patinées maison.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238473630.jpg" alt="Decoration francaise idees et photos romantiques - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Où trouver les bons meubles
 
@@ -71,6 +86,11 @@ Si tu n'as pas le temps de chiner, quelques marques proposent des meubles dans c
 ## Les textiles : la vraie magie du style romantique
 
 Si tu ne devais retenir qu'une chose de cet article, c'est bien ça : dans une déco française romantique, les textiles font 60% du travail. Rideaux, coussins, jeté de lit, nappes, plaids - chaque tissu ajoute une couche de poésie.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238127358.jpg" alt="Decoration francaise idees et photos romantiques - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 flowchart TD
@@ -116,6 +136,11 @@ flowchart TD
 ## La lumière : entre bougies et lumières tamisées
 
 Dans un intérieur romantique, la lumière artificielle dure et froide est ton ennemi. Tu veux de la chaleur, du mouvement, des jeux d'ombres douces.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238112448.jpg" alt="Decoration francaise idees et photos romantiques - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Les suspensions** : opte pour des abat-jour en lin naturel ou en soie écrué, des formes baladeuse ou en cage dorée patinée. Harto propose de jolies suspensions dans cet esprit autour de 120-180€. Sinon, une simple ampoule Edison dans une suspension en osier tressé (Ikea, 14€99) fait le travail.
 

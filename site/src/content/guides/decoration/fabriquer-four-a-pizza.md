@@ -15,6 +15,11 @@ Construire un four à pizza dans son jardin, c'est le genre de projet qui change
 
 ## Ce dont tu as besoin avant de commencer
 
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238149079.jpg" alt="Fabriquer four a pizza - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Les matériaux clés
 
 Un four à pizza maison repose sur deux matériaux différents selon la zone :
@@ -43,6 +48,11 @@ Pour la base et le tablier extérieur, des **parpaings standard** (environ 0,90 
 
 La base doit être solide, stable et à la bonne hauteur. 80-90 cm de hauteur de travail est confortable pour enfourner sans te casser le dos.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238132127.jpg" alt="Fabriquer four a pizza - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Commence par **une dalle béton de fondation** de 15-20 cm d'épaisseur, armée, sur sol stabilisé. Elle doit dépasser le tablier d'au moins 20 cm tout autour pour l'isolation. Laisse sécher 48h minimum.
 
 Monte ensuite le tablier en parpaings creux 20 x 20 x 50 cm, montés avec du mortier bâtiment classique. Prévois une **case de stockage** pour le bois à l'avant : c'est pratique et ça fait beau. Tu peux t'inspirer des mêmes techniques que pour [poser une bordure de jardin sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/) pour les finitions extérieures - la gestion des niveaux et des joints est similaire.
@@ -55,6 +65,11 @@ Une fois le tablier monté, coule une dalle de béton réfractaire de 10 cm pour
 ## Etape 2 : la sole
 
 La sole, c'est le fond du four où posent directement les pizzas. Elle doit être parfaitement plane et aussi homogène que possible (peu de joints) pour que la pelle glisse bien.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238068761.jpg" alt="Fabriquer four a pizza - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Utilise des briques réfractaires 30 x 30 cm** de 5 cm d'épaisseur (Terres Cuites de Raujolles propose ce format, comptez 8-10 € pièce). Dispose-les à sec d'abord pour optimiser le calepinage et minimiser les joints.
 
@@ -81,6 +96,11 @@ flowchart TD
 
 C'est la partie la plus technique - et la plus gratifiante. La voûte en dôme concentre la chaleur par rayonnement, ce qui fait toute la différence avec un four ordinaire.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237729661.jpg" alt="Fabriquer four a pizza - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Construire le coffrage
 
 Trace un gabarit en contreplaqué de la section de ton dôme : un demi-cercle dont le rayon est la moitié du diamètre intérieur (40 cm pour un four 80 cm). Découpe deux morceaux identiques et relies-les par des planches pour former un coffrage en bois sur lequel tu vas appuyer les briques pendant la construction.
@@ -103,6 +123,11 @@ La cheminée se place juste derrière l'ouverture de la porte (côté extérieur
 ## Etape 4 : l'isolation extérieure
 
 Une fois la voûte terminée et sèche, applique une couche d'isolation extérieure de 10-15 cm. Mélange du mortier avec de la **perlite** (granulés minéraux ultra-légers, 15 € le sac de 100L chez Jardiland) dans un ratio 1:3 (1 mortier pour 3 perlite). Cette couche réduit les pertes de chaleur et te permet de moins alimenter en bois.
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236898629.jpg" alt="Fabriquer four a pizza - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Applique-la en deux passes de 6-7 cm chacune, laisse sécher 24h entre les couches. Une fois sec, tu peux finir avec un crépi coloré - ça donne un rendu soigné et protège de l'humidité. Si tu veux en savoir plus sur les techniques de finition murale, l'article sur [crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/) donne de bons repères sur la gestion des couches et des temps de séchage.
 

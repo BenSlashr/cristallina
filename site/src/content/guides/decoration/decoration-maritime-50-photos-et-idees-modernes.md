@@ -19,6 +19,11 @@ Mais la ligne est mince entre une déco bord de mer réussie et un salon qui res
 
 Oui, le bleu et le blanc sont les piliers. Mais la palette maritime moderne va beaucoup plus loin. Elle pioche dans les tons naturels du littoral pour créer des ambiances nuancées, jamais monotones.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233691254.jpg" alt="Decoration maritime 50 photos et idees modernes - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Les bleus qui fonctionnent
 
 **Le bleu marine profond** - C'est la couleur star. Pas le bleu roi criard, non. Un bleu intense, dense, presque noir quand la lumière baisse. Sur un mur d'accent, c'est spectaculaire. Chez Tollens, la teinte "Bleu Abyssal" (environ 38EUR les 2,5L) donne cet effet. Dulux Valentine propose aussi un "Bleu Nuit" très réussi autour de 35EUR.
@@ -61,6 +66,11 @@ flowchart TD
 
 C'est ici que la déco maritime moderne se distingue vraiment de la version kitch qu'on veut éviter. Les matériaux authentiques, bruts, travaillés par les éléments - c'est eux qui donnent l'âme à ton intérieur.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236410687.jpg" alt="Decoration maritime 50 photos et idees modernes - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le bois, roi de la déco côtière
 
 **Le bois flotté** - La pièce déco par excellence. Ramassé sur la plage ou acheté en ligne (Etsy, Amazon : 10-50EUR selon la taille), le bois flotté s'utilise partout. En centre de table, en porte-manteau, en cadre de miroir. Sa texture grisée et usée par le sel raconte une histoire que tu ne peux pas reproduire autrement.
@@ -80,6 +90,11 @@ C'est ici que la déco maritime moderne se distingue vraiment de la version kitc
 ## Les objets déco maritimes : le dosage qui fait tout
 
 C'est LE piège de la déco bord de mer. Tu commences par une ancre décorative, tu ajoutes un filet de pêche, des coquillages, et soudain ton salon ressemble au musée de la Marine. La version moderne, c'est la retenue.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237043412.jpg" alt="Decoration maritime 50 photos et idees modernes - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Les pièces qui marchent à tous les coups
 
@@ -101,6 +116,11 @@ Les ancres géantes posées au sol, les bouées accrochées au mur, les filets t
 ## Pièce par pièce : adapter la déco maritime chez toi
 
 Le style bord de mer ne se limite pas au salon. Chaque pièce peut accueillir sa dose d'océan, à condition d'adapter le dosage.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238275586.jpg" alt="Decoration maritime 50 photos et idees modernes - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le salon maritime
 
@@ -148,6 +168,11 @@ flowchart LR
 ## DIY maritime : 5 projets faciles et pas chers
 
 Pas besoin de tout acheter. La déco maritime se prête particulièrement bien au fait-maison - et c'est souvent les pièces DIY qui ont le plus de caractère.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231855132.jpg" alt="Decoration maritime 50 photos et idees modernes - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Cadre photo en bois flotté** - Colle 4-5 branches autour d'un cadre basique (pistolet à colle, 3 min). Budget : 0EUR si tu ramasses en bord de mer, 10-15EUR sinon.
 

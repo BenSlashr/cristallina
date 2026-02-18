@@ -17,6 +17,11 @@ Tu te demandes quelle couleur choisir pour repeindre ton salon cette année ? Bo
 
 Cette année, les experts et les grandes maisons de peinture s'accordent sur une teinte : le teal, ce bleu-vert aquatique à la fois intense et apaisant. WGSN et Coloro l'ont baptisé "Transformative Teal", et honnêtement, le nom colle parfaitement à ce que cette couleur fait dans un salon.
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771236249353.jpg" alt="Couleurs du salon 2026 palettes de murs et de decors - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 C'est une couleur qui change l'ambiance d'une pièce du sol au plafond. Pas effacée du tout, pas agressive non plus. Elle apporte de la profondeur et une vraie sensation de calme. Tu imagines un salon avec un grand mur teal, un canapé en lin naturel beige et quelques coussins cuivre ? C'est exactement l'ambiance qu'on cherche en 2026.
 
 > [!TIP]
@@ -27,6 +32,11 @@ Pour les marques accessibles, Zara Home propose des coussins dans cette palette 
 ## Les grandes palettes tendance pour le salon 2026
 
 Plutôt que te donner une seule couleur, voilà comment construire une palette complète pour ton salon. Parce que la vraie magie, c'est dans la combinaison.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-orange-mur-couleur-assortiment-design-1771231750082.jpg" alt="Couleurs du salon 2026 palettes de murs et de decors - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ```mermaid
 graph TD
@@ -87,6 +97,11 @@ Sherwin-Williams a sorti "Alabaster" qui fait un carton - c'est un blanc doux qu
 
 C'est LE facteur que les gens oublient, et c'est dommage parce que ça fait toute la différence.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237101929.jpg" alt="Couleurs du salon 2026 palettes de murs et de decors - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 flowchart LR
     L1["Salon plein sud\nou est"]:::principal --> R1["Teal, vert olive,\nterracotta : tous fonctionnent"]:::secondaire
@@ -112,6 +127,11 @@ flowchart LR
 
 Choisir la couleur des murs c'est la moitié du travail. Le reste, c'est savoir quoi mettre dedans.
 
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771237748095.jpg" alt="Couleurs du salon 2026 palettes de murs et de decors - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Avec le teal :**
 - Bois clair (chêne, frêne) pour équilibrer
 - Métaux : laiton ou cuivre (pas d'acier froid)
@@ -135,6 +155,11 @@ Si tu cherches à affiner tes associations de couleurs, notre article sur les [c
 ## Budget : ce que ça coûte vraiment de repeindre son salon
 
 Soyons honnêtes sur les chiffres parce que ça aide à planifier.
+
+<div class="my-8">
+  <img src="/images/pinterest-couleur-violet-d-coration-assortiment-mauve-prune-1771236234137.jpg" alt="Couleurs du salon 2026 palettes de murs et de decors - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Peinture haut de gamme** (Farrow & Ball, Little Greene) : 80-120€ le litre. Pour un salon standard de 20m², compte 2-3 litres pour deux couches. Budget peinture : 200-350€.
 

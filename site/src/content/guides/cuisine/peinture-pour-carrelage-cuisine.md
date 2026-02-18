@@ -19,6 +19,11 @@ Je te guide pas à pas pour choisir le bon produit, préparer ta surface, appliq
 
 La cuisine, c'est la pièce qui subit le plus d'attaques au quotidien : vapeur, projections de graisse, nettoyages répétés. Du coup, quand on dit "peinture carrelage", la première réaction c'est souvent "mais ca va tenir ?" Spoiler : oui, à condition de choisir la bonne peinture et de bien préparer.
 
+<div class="my-8">
+  <img src="/images/pinterest-petite-cuisine-moderne-2026-compact-optimis-e-1771238175200.jpg" alt="Peinture pour carrelage cuisine - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 L'avantage numéro un, c'est le budget. Poser du carrelage neuf, avec la dépose, les matériaux et la pose, ca peut facilement grimper à 100-200€ le m². Repeindre, c'est 15 à 40€ le m² selon le produit. Et si tu fais toi-même, encore moins. Pour une crédence de 2 m², on parle d'environ 40-80€ tout compris. C'est pas le même monde.
 
 L'autre avantage : la rapidité. Un week-end suffit pour transformer complètement l'ambiance d'une cuisine. Et si tu veux changer à nouveau dans quelques années, tu peux re-peindre par-dessus ou décaper.
@@ -29,6 +34,11 @@ L'autre avantage : la rapidité. Un week-end suffit pour transformer complèteme
 ## Quelle peinture choisir pour le carrelage cuisine ?
 
 C'est LA question. Il existe trois grandes familles, chacune avec ses avantages.
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-verte-bois-sauge-eucalyptus-moderne-design-1771234884056.jpg" alt="Peinture pour carrelage cuisine - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### La peinture époxy : la plus résistante
 
@@ -60,6 +70,11 @@ Plus économique (10-20€ le litre), elle reste correcte pour des zones peu exp
 ## Préparer le carrelage : l'étape qui fait tout
 
 Soyons honnêtes : 80% des échecs viennent d'une mauvaise préparation. La peinture n'accroche pas sur une surface sale ou grasse. En cuisine, c'est encore plus vrai - les résidus de cuisson s'incrustent partout.
+
+<div class="my-8">
+  <img src="/images/pinterest-cuisine-couleur-olive-vert-sauge-d-coration-moderne-1771232886589.jpg" alt="Peinture pour carrelage cuisine - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Voici le process complet, dans l'ordre :
 
@@ -96,6 +111,11 @@ flowchart TD
 
 Tu as bien préparé ? Super. L'application en elle-même est la partie la plus simple si tu respectes quelques règles.
 
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-couleur-ext-rieur-2026-tendance-peinture-1771233059858.jpg" alt="Peinture pour carrelage cuisine - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Le matériel** :
 - Rouleau mousse courte portée (3-4 mm) pour les grandes surfaces
 - Pinceau plat de qualité (pas le moins cher du rayon) pour les bords et joints
@@ -115,6 +135,11 @@ Deuxième couche : croisée par rapport à la première (si tu as roulé horizon
 ## Peindre les joints : le détail qui change tout
 
 Les joints, c'est souvent le point noir du carrelage ancien - jaunis, abîmés, difficiles à nettoyer. Bonne nouvelle : tu peux les peindre aussi, ou les faire ressortir en couleur contrastée pour un effet graphique vraiment sympa.
+
+<div class="my-8">
+  <img src="/images/pinterest-am-nagement-salle-bain-2026-moderne-design-tendance-1771236060640.jpg" alt="Peinture pour carrelage cuisine - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Il existe des stylos de rénovation joints (Fuginator, HG Joint Pen - 8-15€) qui permettent de blanchir ou de colorier les joints rapidement. Pour un effet "carrelage noir à joints blancs" très tendance en ce moment, c'est parfait.
 

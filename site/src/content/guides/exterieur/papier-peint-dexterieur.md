@@ -19,6 +19,11 @@ Ce n'est pas un gadget ni un truc éphémère. Les revêtements muraux d'extéri
 
 Oublie tout de suite l'image du papier peint intérieur collé sur un mur dehors - ça ne marcherait pas deux semaines. Le papier peint d'extérieur, c'est un revêtement mural technique conçu pour résister aux intempéries. Il existe trois grandes familles de produits.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771231852330.jpg" alt="Papier peint dexterieur - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **La toile en fibre de verre** est la solution la plus courante et la plus robuste. C'est un tissage serré de filaments de verre recouvert d'un traitement anti-UV et hydrophobe. Le rendu peut être uni, texturé, ou imprimé avec un motif. Marques de référence : Acte-Déco, WallpaperDream, Etoffe.com. La fibre de verre est le matériau qui dure le plus longtemps - jusqu'à 12 ans pour les meilleures gammes d'après les fabricants.
 
 **Le panneau aluminium composite** (type Dibond) est une plaque rigide sur laquelle un visuel est imprimé en haute définition puis protégé par un vernis anti-UV. On le fixe au mur avec des entretoises ou un système de rail. C'est plus une affiche géante qu'un papier peint à proprement parler, mais le résultat est identique visuellement. Budget plus élevé, pose plus technique.
@@ -32,11 +37,21 @@ Oublie tout de suite l'image du papier peint intérieur collé sur un mur dehors
 
 La peinture murale extérieure, c'est bien pour une teinte unie. Mais dès que tu veux un motif, un trompe-l'oeil, une fresque ou une texture complexe, elle atteint ses limites. Le papier peint d'extérieur te donne accès à des rendus impossibles à obtenir au rouleau : motifs tropicaux, imitations pierre ou bois, fresques graphiques, panoramiques sur-mesure.
 
+<div class="my-8">
+  <img src="/images/pinterest-fa-ade-maison-moderne-2026-enduit-bardage-design-1771236975864.jpg" alt="Papier peint dexterieur - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 L'autre avantage, c'est la facilité de remplacement. Une peinture fatiguée demande décapage, apprêt et deux couches. Un papier peint, tu le décolles et tu en poses un neuf. C'est aussi plus tolérant sur les imperfections du mur : la fibre de verre masque les petites fissures et les irrégularités que la peinture, elle, met en évidence.
 
 Et si tu hésites entre peinture et revêtement pour tes façades, jette un oeil au guide sur les [couleurs pour les extérieurs et façades 2026](/guides/exterieur/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) qui compare les deux approches.
 
 ## Les matériaux en détail : fibre de verre, alu, toile technique
+
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233713506.jpg" alt="Papier peint dexterieur - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### La fibre de verre : le standard du marché
 
@@ -79,6 +94,11 @@ graph TD
 ## La pose étape par étape
 
 Poser un papier peint d'extérieur en fibre de verre n'est pas très différent d'une pose intérieure, à quelques détails près. L'enjeu principal, c'est la préparation du mur et le choix de la colle.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233766740.jpg" alt="Papier peint dexterieur - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Préparer le mur
 
@@ -125,6 +145,11 @@ graph LR
 ## Entretien et durée de vie
 
 Un papier peint d'extérieur en fibre de verre bien posé avec la bonne colle tient entre 5 et 12 ans. La marque Acte-Déco communique sur 10-12 ans en conditions normales. WallpaperDream annonce 7 ans de garantie couleur.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233550836.jpg" alt="Papier peint dexterieur - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 L'entretien est minimal. Un nettoyage à l'eau claire et à l'éponge douce une à deux fois par an suffit pour retirer la poussière et les traces de pollution. Si de la mousse commence à apparaître (murs nord, zones humides), applique un anti-mousse doux type Algimouss dilué, laisse agir 15 minutes et rince. Pas de nettoyeur haute pression directement sur le revêtement - ça risque de décoller les bords.
 

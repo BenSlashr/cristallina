@@ -21,6 +21,11 @@ En 2026, IKEA renouvelle sa gamme avec le TORNSBORG, un modèle canapé-lit au l
 
 Avant de plonger dans les modèles, posons les bases. Dans un salon de moins de 20 m2, un canapé 3 places mange souvent trop de place. Il bloque la circulation, empêche d'ouvrir un tiroir ou une porte, et donne cette impression étouffante de pièce surchargée.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238261037.jpg" alt="Ikea frappe fort avec son nouveau canape 2 places parfait pour les petits salons - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Un 2 places bien choisi, c'est le juste milieu : tu gardes le confort d'un vrai canapé, tu libères de l'espace pour une table basse, un fauteuil d'appoint, ou simplement du vide (et le vide, dans un petit salon, c'est du luxe).
 
 ### Les critères qui comptent vraiment
@@ -38,6 +43,11 @@ Quand tu choisis un canapé pour un petit espace, oublie le look cinq minutes et
 ## TORNSBORG : le nouveau canapé-lit scandinave d'IKEA
 
 Le TORNSBORG est la grosse nouveauté IKEA de 2026. C'est un canapé-lit 2 places avec une structure en bois clair de pin apparent, des coussins beiges déhoussables, et un design scandinave minimaliste qui rappelle les marques comme Hay ou Muuto - mais au prix IKEA.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771234050445.jpg" alt="Ikea frappe fort avec son nouveau canape 2 places parfait pour les petits salons - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Ce qui le rend spécial
 
@@ -59,6 +69,11 @@ Compte entre 499 et 599 euros selon la finition. C'est dans la fourchette haute 
 ## VIMLE 2 places : la valeur sûre d'IKEA
 
 Le VIMLE existe depuis plusieurs années, mais IKEA l'a repositionné en 2026 avec un nouveau prix plus agressif. C'est le modèle qui se vend le plus en France dans la catégorie 2 places, et il y a de bonnes raisons à ça.
+
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771236723157.jpg" alt="Ikea frappe fort avec son nouveau canape 2 places parfait pour les petits salons - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Confort et modularité
 
@@ -97,6 +112,11 @@ flowchart TD
 
 Le KLIPPAN, c'est LE canapé d'entrée de gamme IKEA. Il équipe les studios étudiants et les premiers appartements depuis plus de vingt ans. Et il a un atout que les autres n'ont pas : son prix.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235486688.jpg" alt="Ikea frappe fort avec son nouveau canape 2 places parfait pour les petits salons - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Pourquoi il reste pertinent en 2026
 
 A 199 euros en tissu basique (Vansbro), le KLIPPAN est difficile à battre. C'est un canapé honnête : l'assise est correcte (pas extraordinaire), la structure est solide, et le système de housses interchangeables permet de le relooker à moindre coût. Une housse KLIPPAN coûte entre 60 et 130 euros chez IKEA, et tu trouves aussi des housses sur mesure sur des sites comme Comfort Works ou Bemz avec des tissus plus qualitatifs.
@@ -113,6 +133,11 @@ Le KLIPPAN est parfait si tu as un budget serré, si tu déménages souvent (il 
 ## Comment intégrer ton canapé dans un petit salon
 
 Choisir le bon canapé, c'est la moitié du travail. L'autre moitié, c'est l'aménagement autour. Voici ce qui fonctionne pour chaque modèle.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771232445657.jpg" alt="Ikea frappe fort avec son nouveau canape 2 places parfait pour les petits salons - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le placement optimal
 

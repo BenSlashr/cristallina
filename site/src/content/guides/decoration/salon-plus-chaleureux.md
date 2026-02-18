@@ -17,6 +17,11 @@ Tu rentres chez toi, tu t'affales dans ton canapé et... tu trouves que ça manq
 
 La couleur des murs, c'est la base. Un blanc trop froid ou un gris clair sans relief, ça refroidit instantanément l'ambiance. Pour réchauffer ton salon, oriente-toi vers des teintes terreuses : terracotta, ocre jaune, beige sable, rose poudré ou un vert sauge profond.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235499472.jpg" alt="Salon plus chaleureux - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Tu n'es pas obligé de peindre les quatre murs. Un seul mur d'accent en terracotta derrière le canapé change déjà toute la dynamique de la pièce. L'astuce, c'est de garder les autres murs dans un ton neutre chaud (blanc cassé, lin, coquille d'œuf) pour équilibrer le tout.
 
 Si tu veux creuser le sujet des palettes, jette un œil à mon guide sur les [couleurs du salon en 2026](/guides/decoration/couleurs-du-salon-2026-palettes-de-murs-et-de-decors) - tu y trouveras des combinaisons qui marchent à coup sûr.
@@ -27,6 +32,11 @@ Si tu veux creuser le sujet des palettes, jette un œil à mon guide sur les [co
 ## 2. Superposer les textiles douillets
 
 Un salon chaleureux, c'est un salon où tu as envie de toucher les choses. Le velours, la laine, le coton tufté, la fausse fourrure - ces matières invitent à s'installer et à rester. L'idée, c'est de superposer les couches.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771232477243.jpg" alt="Salon plus chaleureux - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Voici un plan concret :
 
@@ -61,6 +71,11 @@ graph TD
 
 L'erreur classique : un seul plafonnier qui éclaire tout le salon comme un bureau. Pour une ambiance chaleureuse, il faut multiplier les sources de lumière et les répartir à différentes hauteurs.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-d-coration-naturel-chic-lin-beige-plantes-1771231358505.jpg" alt="Salon plus chaleureux - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Trois niveaux à combiner :
 
 1. **Éclairage d'ambiance** : guirlandes lumineuses, bougies (ou bougies LED si tu as des enfants ou des animaux), lampes avec variateur
@@ -76,6 +91,11 @@ La température de couleur joue aussi un rôle important. Choisis des ampoules �
 
 Le bois apporte de la chaleur de manière quasi instantanée. Qu'il soit brut, teinté miel ou noyer foncé, il crée une connexion avec la nature qui adoucit n'importe quel intérieur.
 
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232873236.jpg" alt="Salon plus chaleureux - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Où placer du bois dans ton salon :
 
 - **Table basse** en chêne massif ou en manguier
@@ -88,6 +108,11 @@ En complément du bois, ajoute d'autres matières naturelles : un panier en osie
 ## 5. Ajouter des plantes vertes (même sans la main verte)
 
 Les plantes apportent de la vie, de la couleur et une sensation de fraîcheur. Et non, tu n'as pas besoin d'un jardin intérieur pour que ça fonctionne. Deux à trois plantes bien placées suffisent.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235378191.jpg" alt="Salon plus chaleureux - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 Mes recommandations pour un salon :
 

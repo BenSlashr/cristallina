@@ -17,6 +17,11 @@ La maison container, c'est le genre de projet qui fait rêver sur Pinterest mais
 
 Une maison container, c'est une habitation construite à partir de conteneurs maritimes recyclés. Ces boîtes en acier, conçues pour transporter des marchandises par bateau, sont réutilisées comme modules de base pour créer un logement. On les découpe, on les assemble, on les isole, on les aménage - et au final on obtient une maison à part entière.
 
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771233506551.jpg" alt="Maison container - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Il existe deux formats standards :
 - Le **20 pieds** (6 m x 2,4 m, soit environ 14 m²) - plutôt utilisé pour des dépendances ou des espaces de travail
 - Le **40 pieds** (12 m x 2,4 m, soit environ 28 m²) - la brique de base pour une vraie maison habitable
@@ -29,6 +34,11 @@ La plupart des maisons containers combinent plusieurs modules. Une maison de 80 
 ## Les prix réels - sans langue de bois
 
 Voilà la partie qui fait souvent déchanter. Les prix "à partir de 25 000 €" qu'on voit partout, c'est vrai... mais uniquement pour la coque brute, sans terrain, sans fondations, sans raccordements.
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771236215862.jpg" alt="Maison container - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Le container seul
 
@@ -72,6 +82,11 @@ graph TD
 
 ## Ce qui est vraiment bien avec une maison container
 
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771234482411.jpg" alt="Maison container - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### La rapidité de construction
 
 C'est l'argument le plus solide. Une maison traditionnelle, c'est 12 à 24 mois de chantier. Une maison container bien menée, c'est 3 à 6 mois. Les modules sont préfabriqués en atelier, livrés prêts, et la phase chantier est réduite au minimum. Moins de temps sur le chantier = moins d'aléas météo, moins de problèmes de coordination entre corps de métier.
@@ -90,6 +105,11 @@ Tu peux commencer avec un module de 28 m², puis en ajouter un deuxième deux an
 > Pour les façades, les containers se prêtent à tous les styles : bardage bois pour un rendu chalet, béton ciré pour un effet industriel, végétalisation pour quelque chose de plus organique. Jette un oeil aux [couleurs et matériaux pour les façades en 2026](/guides/exterieur/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) pour t'inspirer avant de choisir.
 
 ## Ce qu'on ne te dit pas toujours
+
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771234759521.jpg" alt="Maison container - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### L'isolation, c'est le nerf de la guerre
 
@@ -125,6 +145,11 @@ flowchart LR
     D --> E["Aménagement\natelier"]
     E --> F["Chantier\nsite"]
     F --> G["Raccordements\n& finitions"]
+
+<div class="my-8">
+  <img src="/images/pinterest-maison-moderne-2026-architecture-design-int-rieur-ext-rieur-1771232698269.jpg" alt="Maison container - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
     style A fill:#FFF0F5,stroke:#E879F9,color:#701A75
     style B fill:#F3F4F6,stroke:#8B5CF6,color:#581C87

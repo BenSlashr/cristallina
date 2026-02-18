@@ -19,6 +19,11 @@ Je me suis penchée sur la question et j'ai testé les trois modèles stars de c
 
 Tous les plateaux IKEA ne se valent pas - loin de là. Cette saison, trois modèles se détachent nettement du lot et concentrent l'essentiel de l'engouement.
 
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771234773795.jpg" alt="Cohue chez ikea avec ce plateau multifonction de la saison - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### SMÅÄTA - le plateau tournant en acacia
 
 C'est LE modèle dont tout le monde parle. Le SMÅÄTA est un plateau tournant de 42 cm de diamètre en placage d'acacia, monté sur un cadre en métal noir mat. Son look est à la fois brut et raffiné - il a ce côté bistrot parisien qui plait beaucoup en ce moment. Prix : environ 19,99 euros.
@@ -53,6 +58,11 @@ Son format 40x30 cm est pile la bonne taille : assez grand pour transporter verr
 
 Pour t'aider à choisir, voici un récapitulatif clair des trois modèles.
 
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771234771218.jpg" alt="Cohue chez ikea avec ce plateau multifonction de la saison - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ```mermaid
 graph TD
     A[Quel plateau IKEA choisir ?]:::principal --> B{Ton usage principal ?}:::secondaire
@@ -81,6 +91,11 @@ graph TD
 ## 8 façons d'utiliser un plateau multifonction au quotidien
 
 Un plateau, ça semble basique. Mais une fois que tu commences à en avoir un bon, tu te demandes comment tu faisais avant. Voici 8 usages concrets testés et approuvés.
+
+<div class="my-8">
+  <img src="/images/pinterest-rangement-chambre-organisation-dressing-optimis--1771233670435.jpg" alt="Cohue chez ikea avec ce plateau multifonction de la saison - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### 1. Station condiments au centre de la table
 
@@ -121,6 +136,11 @@ Si tu as une cuisine ouverte sur le salon, un plateau bien garni fait office de 
 
 Tant qu'on parle de shopping IKEA, quelques autres références méritent ton attention cette saison.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238438611.jpg" alt="Cohue chez ikea avec ce plateau multifonction de la saison - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Le **Färgsättare**, c'est une étagère murale qui vient de sortir à environ 30 euros. Le design est épuré, plutôt discret, et elle s'intègre bien dans une cuisine ou un bureau. Pratique pour poser de petits objets déco ou des plantes sans percer cinquante trous dans le mur.
 
 Le **Hundhaj** est un range-épices minuscule à 3 euros. Oui, trois euros. Il se fixe à l'intérieur d'une porte de placard ou directement sur le mur, et il organise tes épices verticalement au lieu de les empiler en vrac dans un tiroir. À ce prix, tu en prends trois ou quatre sans culpabiliser.
@@ -141,6 +161,11 @@ graph LR
 ## Comment bien choisir son plateau selon sa déco
 
 Le plateau que tu choisis en dit plus sur ton style que tu ne le penses. Voici comment matcher avec ton intérieur existant.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238413119.jpg" alt="Cohue chez ikea avec ce plateau multifonction de la saison - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Si tu as une déco naturelle/scandinave** : le RESGODS en bambou s'intègre parfaitement. Sa couleur claire et sa matière brute se fondent dans un univers de bois clair, de lin et de blanc.
 

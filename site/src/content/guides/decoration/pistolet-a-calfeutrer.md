@@ -19,6 +19,11 @@ Je t'explique ici comment choisir le bon modèle, bien l'utiliser, et surtout é
 
 C'est un outil en forme de pistolet qui accueille une cartouche de mastic ou de silicone (format standard 310 ml). Tu appuies sur la gâchette, une tige pousse le fond de la cartouche, et le produit sort par la buse. Simple, mécanique, efficace.
 
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236552614.jpg" alt="Pistolet a calfeutrer - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 Il existe trois grandes familles :
 
 - **Manuel à tige** : le plus courant, entre 5 et 25€. Tu presses la gâchette, la tige avance cran par cran. Suffisant pour 90% des travaux maison.
@@ -28,6 +33,11 @@ Il existe trois grandes familles :
 Le choix dépend de la fréquence d'utilisation et du volume de travail. Pour refaire le joint de ta baignoire une fois par an, un modèle manuel à 10€ fait le job. Pour isoler toutes les fenêtres d'une maison, le modèle électrique te fera gagner un temps considérable - et surtout, il évitera la fatigue dans les mains.
 
 ## Les types de pistolets en détail
+
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771232901043.jpg" alt="Pistolet a calfeutrer - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le pistolet manuel classique
 
@@ -98,6 +108,11 @@ graph TD
 
 Le pistolet, c'est juste le support. Le résultat final dépend surtout du produit que tu mets dedans. Voici les principaux types de mastic en cartouche :
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237350890.jpg" alt="Pistolet a calfeutrer - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 **Silicone sanitaire** : pour les joints de salle de bain, cuisine, douche. Résiste à l'eau et aux moisissures (choisir un modèle antifongique). Ne se peint pas. Prix : 5 à 12€ la cartouche.
 
 **Acrylique** : pour les joints intérieurs - tour de fenêtre, plinthes, fissures légères. Se peint facilement, se lisse à l'eau. Moins souple que le silicone. Prix : 3 à 8€.
@@ -109,6 +124,11 @@ Le pistolet, c'est juste le support. Le résultat final dépend surtout du produ
 Si tu travailles sur de l'isolation - par exemple pour [calfeutrer une montée d'escalier](https://www.cristallina.fr/guides/decoration/comment-isoler-une-montee-descalier/) - un mastic acrylique ou polyuréthane sera plus adapté qu'un silicone.
 
 ## Comment utiliser un pistolet à calfeutrer : la méthode étape par étape
+
+
+<div class="my-8">
+  <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771237991766.jpg" alt="Pistolet a calfeutrer - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### 1. Préparer la cartouche
 
@@ -167,6 +187,11 @@ graph LR
 ## Les erreurs que tout le monde fait (et comment les éviter)
 
 **Couper l'embout trop large** : tu te retrouves avec un cordon de 12 mm alors que ton joint fait 5 mm. Coupe toujours plus petit que ce dont tu penses avoir besoin. Tu peux élargir, mais pas rétrécir.
+
+<div class="my-8">
+  <img src="/images/pinterest-salon-moderne--l-gant-2026-canap--design-d-co-1771235272616.jpg" alt="Pistolet a calfeutrer - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 **Aller trop vite** : le mastic n'a pas le temps de se déposer correctement et tu obtiens un cordon irrégulier avec des "vagues". Prends ton temps, avance à vitesse constante.
 

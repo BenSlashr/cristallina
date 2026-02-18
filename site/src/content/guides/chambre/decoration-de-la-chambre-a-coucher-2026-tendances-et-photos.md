@@ -17,6 +17,11 @@ Tu cherches à donner un vrai coup de frais à ta chambre cette année ? Bonne n
 
 Oublie le tout-blanc un peu clinique. En 2026, la chambre s'habille de teintes plus profondes, plus enveloppantes, et surtout plus personnelles.
 
+<div class="my-8">
+  <img src="/images/pinterest-chambre-coucher-2026-tendances-d-coration-moderne-1771232850641.jpg" alt="Decoration de la chambre a coucher 2026 tendances et photos - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Bordeaux, cassis et prune : l'audace douce
 
 Le bordeaux profond, que certaines marques appellent "Cassis", est LA couleur de l'année pour la chambre. C'est chaud, c'est enveloppant, et ça fonctionne aussi bien sur un mur entier qu'en touches (coussins, plaid, tête de lit). Chez Maisons du Monde, la parure de lit en lin lavé teinte cassis démarre à 79 euros. Chez La Redoute (collection AM.PM), tu trouves des draps housse en coloris prune à partir de 35 euros.
@@ -57,6 +62,11 @@ graph TD
 
 La grande tendance de fond en 2026, c'est le retour aux matières naturelles. Et pas juste en décoration : dans le linge de lit, le mobilier, les accessoires - partout.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237106878.jpg" alt="Decoration de la chambre a coucher 2026 tendances et photos - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le lin lavé, toujours roi
 
 Le lin lavé reste le textile numéro un pour la chambre. Il est beau froissé, il se patine avec le temps, et il respire (génial en été comme en hiver). La bonne nouvelle, c'est que les prix ont pas mal baissé ces dernières années. Chez H&M Home, un drap housse en lin démarre à 49,99 euros. Chez AM.PM (La Redoute), compte plutôt 70-90 euros pour une qualité supérieure.
@@ -78,6 +88,11 @@ Grosse tendance 2026 : le velours côtelé fait son retour, pas que sur les pant
 
 ## Les motifs tendance : pois, rayures douces et géométrie
 
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-coucher-2026-tendances-d-coration-moderne-1771231584505.jpg" alt="Decoration de la chambre a coucher 2026 tendances et photos - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 ### Le pois, motif star de 2026
 
 Surprise de l'année : le motif à pois s'impose sur le linge de lit. Noir sur fond blanc, blanc sur fond beige, parfois légèrement irrégulier - il remplace progressivement les rayures qui dominaient depuis quelques saisons. C'est graphique sans être agressif, et ça fonctionne avec à peu près tout.
@@ -87,6 +102,11 @@ Surprise de l'année : le motif à pois s'impose sur le linge de lit. Noir sur f
 Les motifs géométriques restent présents, mais en version adoucie. On parle de formes arrondies, de lignes ondulées, de motifs abstraits qui rappellent presque de la peinture. L'idée, c'est d'apporter du rythme au linge de lit sans créer de surcharge visuelle. Si tu aimes [le design minimaliste en chambre](/chambre-moderne-design-minimaliste/), ces motifs discrets sont un bon compromis entre personnalité et sobriété.
 
 ## Les styles déco chambre qui cartonnent en 2026
+
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-jungle-tropical-plantes-vertes-papier-peint-1771235518682.jpg" alt="Decoration de la chambre a coucher 2026 tendances et photos - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
 
 ### Le rétro glam
 
@@ -127,6 +147,11 @@ graph LR
 ## L'éclairage : le détail qui change tout
 
 La lumière, c'est probablement l'élément le plus sous-estimé en déco chambre. Et en 2026, les tendances éclairage vont dans le bon sens : plus de chaleur, plus de couches, moins de plafonnier unique et froid.
+
+<div class="my-8">
+  <img src="/images/pinterest-chambre-adulte-deux-couleurs-peinture-bicolore-1771236858504.jpg" alt="Decoration de la chambre a coucher 2026 tendances et photos - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### La règle des 3 sources lumineuses
 

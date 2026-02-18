@@ -44,6 +44,11 @@ Si tu hésites sur le style général de ton intérieur, jette un oeil à notre 
 
 C'est LE piège classique. Tu achètes un petit tableau 30x40 cm et tu le colles sur un immense mur de 3 mètres de large. Résultat : on dirait un timbre poste perdu dans le vide. Ou l'inverse - un grand format écrase une pièce trop petite.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238132127.jpg" alt="Choisir tableau mural - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### La règle des deux tiers
 
 La règle la plus fiable, c'est celle des deux tiers. Ton tableau (ou ton ensemble de cadres) doit occuper environ 60 à 75 % de la largeur du meuble en dessous. Au-dessus d'un canapé de 200 cm ? Vise un tableau ou une composition d'environ 120 à 150 cm de large.
@@ -113,6 +118,11 @@ Pour approfondir le sujet des palettes, notre guide sur les [couleurs du salon 2
 
 Au-delà du style, le type d'oeuvre change l'ambiance d'une pièce de manière radicale. Voici les grandes familles et ce qu'elles apportent.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238174150.jpg" alt="Choisir tableau mural - amenagement et design" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### La photographie d'art
 
 C'est l'option la plus accessible pour débuter. Une belle photo noir et blanc, un paysage dramatique, une scène de rue... La photo d'art donne un côté sophistiqué sans trop de risque. Les tirages numériques sur papier fine art coûtent entre 30 et 150 euros selon la taille et l'artiste. Des sites comme Desenio ou Juniqe proposent des sélections variées à partir de 15 euros pour le poster seul.
@@ -175,6 +185,11 @@ Trust me, cette étape de 20 minutes t'évite des heures de frustration et des d
 
 L'emplacement change tout. Le même tableau peut passer de "magnifique" à "bizarre" selon l'endroit où tu le mets.
 
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238209272.jpg" alt="Choisir tableau mural - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
+
 ### Le salon
 
 L'endroit classique : au-dessus du canapé. Ça fonctionne parce que le canapé crée une ligne horizontale forte et le tableau équilibre la composition. Autre option : le mur face au canapé, pour que tu puisses l'admirer depuis ta position assise.
@@ -211,6 +226,11 @@ Si tu cherches des idées pour associer cadres et décoration murale végétale,
 ## Budget : combien ça coûte vraiment ?
 
 Pas besoin de casser ta tirelire pour habiller tes murs. Voici un tour d'horizon réaliste des prix en 2026.
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237659188.jpg" alt="Choisir tableau mural - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ### Reproductions et affiches
 
@@ -260,6 +280,11 @@ Après avoir aidé des dizaines de lectrices à choisir leurs tableaux, voici le
 ## Sur le meme theme
 
 - [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
+
+<div class="my-8">
+  <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238291095.jpg" alt="Choisir tableau mural - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
+</div>
+
 
 ## FAQ
 
