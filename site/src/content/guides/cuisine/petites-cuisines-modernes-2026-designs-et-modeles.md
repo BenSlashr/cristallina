@@ -43,7 +43,7 @@ Chez Ikea, la gamme Voxtorp avec le système Utrusta push-opener tourne autour d
 
 L'idée d'ouvrir la cuisine sur le salon fait peur quand on a peu de mètres carrés - "mais mes casseroles vont envahir le salon". En 2026, les solutions de transition sont beaucoup plus fines : ilots coulissants, plans de travail en extension, verrières coulissantes. Tu profites de l'air de l'open space sans perdre de rangement.
 
-Si tu veux te lancer dans une refonte avec verrière ou paroi, jette un oeil à ce que propose [une cuisine haut de gamme comme le concept 77 AI](/guides/cuisine/cuisine-haut-gamme-77-ai-concept/) : c'est le genre d'inspiration qu'on peut adapter à plus petit budget.
+Si tu veux te lancer dans une refonte avec verrière ou paroi, jette un oeil à ce que propose [une cuisine haut de gamme comme le concept 77 AI](/cuisine-haut-gamme-77-ai-concept/) : c'est le genre d'inspiration qu'on peut adapter à plus petit budget.
 
 > [!NOTE]
 > Un ilot roulant Ikea (Råskog ou Förhöja) peut servir de plan de travail d'appoint et se range sous le comptoir quand tu n'en as pas besoin. À 40-80€, c'est le meilleur rapport espace/budget du moment.
@@ -151,7 +151,7 @@ La couleur est souvent ce qui bloque le plus. On veut du caractère mais on a pe
 
 **Vert sauge** : c'est la valeur sure de 2026. Apaisante, naturelle, elle va avec le bois clair et le plan de travail quartz blanc. Chez Cuisines IKEA, les teintes proches (Axstad vert grisé) démarrent à 100€ la façade. Chez Mobalpa ou SoCoo'c, il faudra choisir dans leurs catalogues colorimétriques.
 
-**Vert olive** : plus profond, plus affirmé. Si tu veux voir ce que ca donne avec le bois, jette un oeil à [cet article sur la cuisine olive](/guides/cuisine/cuisine-olive/) qui détaille tout le style.
+**Vert olive** : plus profond, plus affirmé. Si tu veux voir ce que ca donne avec le bois, jette un oeil à [cet article sur la cuisine olive](/cuisine-olive/) qui détaille tout le style.
 
 **Bleu Boston** (bleu profond presque marine) : c'est le contrepoint au beige chaleureux. Audacieux sur les façades basses, il faut l'équilibrer avec un plan de travail clair ou du marbre.
 
@@ -160,7 +160,7 @@ La couleur est souvent ce qui bloque le plus. On veut du caractère mais on a pe
 > [!WARNING]
 > Évite de mettre une couleur sombre sur les meubles HAUTS si ta cuisine manque de lumière naturelle. Tu risques d'écraser l'espace. Une façade haute sombre fonctionne uniquement si tu as une fenêtre bien exposée ou un éclairage artificiel puissant.
 
-Pour les amoureux des teintes végétales, [la cuisine verte et bois](/guides/cuisine/la-cuisine-verte-et-bois-une-teinte-elegante-et-moderne/) est une lecture complementaire qui donne beaucoup d'idées sur comment jouer avec ces couleurs organiques.
+Pour les amoureux des teintes végétales, [la cuisine verte et bois](/la-cuisine-verte-et-bois-une-teinte-elegante-et-moderne/) est une lecture complementaire qui donne beaucoup d'idées sur comment jouer avec ces couleurs organiques.
 
 ## Budget : combien prévoir selon ton ambition ?
 
@@ -183,8 +183,8 @@ Pour un appartement parisien standard (6-9 m²), le sweet spot est autour de 8 0
 
 ## Sur le meme theme
 
-- [cuisines modernes 2026](/guides/cuisine/cuisines-modernes-2026-designs-modeles/)
-- [cuisines avec îlot 2026](/guides/cuisine/cuisines-avec-ilot-2026-designs-et-tendances/)
+- [cuisines modernes 2026](/cuisines-modernes-2026-designs-modeles/)
+- [cuisines avec îlot 2026](/cuisines-avec-ilot-2026-designs-et-tendances/)
 
 ## FAQ
 

@@ -204,11 +204,11 @@ Pour une entrée de bureau ou un couloir de réception, pense aussi à [l'éclai
 
 ## Sur le meme theme
 
-- [tapis imprimé](/guides/decoration/choisir-tapis-imprime/)
-- [tapis en fibre naturelle : guide pour bien choisir](/guides/decoration/choisir-tapis-fibre-naturelle/)
-- [tableau noir ardoise](/guides/decoration/choisir-tableau-noir-ardoise/)
-- [rotin et osier](/guides/decoration/rotin-osier/)
-- [coussins décoratifs](/guides/decoration/coussins-decoratifs-pour-les-salons-les-fauteuils-et-les-sols/)
+- [tapis imprimé](/choisir-tapis-imprime/)
+- [tapis en fibre naturelle : guide pour bien choisir](/choisir-tapis-fibre-naturelle/)
+- [tableau noir ardoise](/choisir-tableau-noir-ardoise/)
+- [rotin et osier](/rotin-osier/)
+- [coussins décoratifs](/coussins-decoratifs-pour-les-salons-les-fauteuils-et-les-sols/)
 
 ## Synthèse pour choisir
 

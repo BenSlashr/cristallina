@@ -117,7 +117,7 @@ Concrètement, ca veut dire :
 - Spots orientés vers le mur ou le plafond, pas vers les casiers
 - Luminaires encastrés avec un angle de diffusion large (60° minimum)
 
-Si tu t'intéresses aux techniques d'éclairage indirect pour d'autres pièces, le guide sur les [techniques d'éclairage d'ambiance](/guides/decoration/eclairage-ambiance-techniques-sublimer/) détaille ces méthodes avec des exemples concrets.
+Si tu t'intéresses aux techniques d'éclairage indirect pour d'autres pièces, le guide sur les [techniques d'éclairage d'ambiance](/eclairage-ambiance-techniques-sublimer/) détaille ces méthodes avec des exemples concrets.
 
 ```mermaid
 flowchart LR
@@ -177,7 +177,7 @@ L'éclairage ne fonctionne pas tout seul. Il s'inscrit dans un écosystème comp
 
 **Stockage :** bouteilles à l'horizontale pour que le bouchon reste en contact avec le vin. Cette position influence aussi l'éclairage : les étiquettes sont souvent sur le côté, donc il faut un éclairage suffisant pour les lire sans manipuler les bouteilles.
 
-Si tu envisages d'aménager ton sous-sol pour y installer une cave, le guide sur le [sous-sol aménagé en espace de vie](/guides/decoration/sous-sol-amenage-espace-vie-cosy/) te donnera des idées pour combiner cave à vin et espace cosy dans le même volume.
+Si tu envisages d'aménager ton sous-sol pour y installer une cave, le guide sur le [sous-sol aménagé en espace de vie](/sous-sol-amenage-espace-vie-cosy/) te donnera des idées pour combiner cave à vin et espace cosy dans le même volume.
 
 > [!IMPORTANT]
 > Choisis des luminaires avec un indice de protection IP44 minimum pour ta cave. L'humidité ambiante (60-80 %) abime rapidement les composants électriques non protégés et peut créer des courts-circuits. Pour les caves enterrées très humides, monte à IP65.
@@ -192,7 +192,7 @@ Quelques pièges classiques que je vois régulièrement dans les caves mal écla
 
 **Placer des spots directement au-dessus des casiers.** Même avec des LED, la chaleur descend. Un spot encastré au plafond pile au-dessus d'un casier crée un point chaud localisé sur les bouteilles du dessus. Décale les spots de 20-30 cm vers l'allée de circulation.
 
-**Oublier la zone de dégustation.** Si ta cave a un coin dégustation (table, fauteuils), il mérite son propre éclairage - un peu plus fort que le reste de la cave. Un suspension design au-dessus de la table avec un variateur fait très bien le travail. Pour l'inspiration, les [tendances en éclairage moderne](/guides/decoration/eclairage-moderne-tendances/) proposent des modèles qui fonctionnent bien dans ce contexte.
+**Oublier la zone de dégustation.** Si ta cave a un coin dégustation (table, fauteuils), il mérite son propre éclairage - un peu plus fort que le reste de la cave. Un suspension design au-dessus de la table avec un variateur fait très bien le travail. Pour l'inspiration, les [tendances en éclairage moderne](/eclairage-moderne-tendances/) proposent des modèles qui fonctionnent bien dans ce contexte.
 
 ## Idées déco pour sublimer l'éclairage de ta cave
 
@@ -204,7 +204,7 @@ L'éclairage d'une cave à vin, c'est aussi une opportunité déco. Quelques id�
 
 **Les niches lumineuses** : creuser ou aménager des niches dans le mur pour y poser quelques bouteilles de collection, éclairées individuellement par un petit spot LED orientable. Ca met en valeur tes plus beaux crus comme des oeuvres d'art.
 
-**Le mélange matériaux + lumière** : pierre naturelle, brique, bois brut - ces matériaux typiques des caves gagnent en caractère sous un éclairage indirect chaud. Une lumière rasante sur un mur en pierre révèle chaque relief et chaque texture. Pour une touche de raffinement supplémentaire, les [accents dorés en décoration](/guides/decoration/decoration-doree-sur-les-murs-les-meubles-ou-les-accessoires/) apportent un côté luxueux qui se marie bien avec l'univers du vin.
+**Le mélange matériaux + lumière** : pierre naturelle, brique, bois brut - ces matériaux typiques des caves gagnent en caractère sous un éclairage indirect chaud. Une lumière rasante sur un mur en pierre révèle chaque relief et chaque texture. Pour une touche de raffinement supplémentaire, les [accents dorés en décoration](/decoration-doree-sur-les-murs-les-meubles-ou-les-accessoires/) apportent un côté luxueux qui se marie bien avec l'univers du vin.
 
 > [!TIP]
 > Pour une ambiance de cave professionnelle sans le budget d'un architecte, combine ruban LED 2200K sous les casiers + 2 spots orientables au plafond dirigés vers les murs + un variateur centralisé. Cout total : 150 à 200 euros, installation comprise si tu fais toi-même.
@@ -212,7 +212,7 @@ L'éclairage d'une cave à vin, c'est aussi une opportunité déco. Quelques id�
 
 ## Sur le meme theme
 
-- [comment nettoyer une table en céramique](/guides/decoration/comment-nettoyer-une-table-en-ceramique/)
+- [comment nettoyer une table en céramique](/comment-nettoyer-une-table-en-ceramique/)
 
 ## FAQ
 

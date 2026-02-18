@@ -40,7 +40,7 @@ J'ai commencé avec la peinture murale blanche "2 en 1 Masque-taches" pour repei
 </div>
 
 
-**La consistance** : elle est assez liquide comparée à une peinture comme la [Luxens de Leroy Merlin](/guides/couleurs/peinture-luxens/). Ca éclabousse davantage au rouleau, alors mets bien tes bâches. Sur le côté positif, elle s'étale facilement et monte vite.
+**La consistance** : elle est assez liquide comparée à une peinture comme la [Luxens de Leroy Merlin](/peinture-luxens/). Ca éclabousse davantage au rouleau, alors mets bien tes bâches. Sur le côté positif, elle s'étale facilement et monte vite.
 
 **Le pouvoir couvrant** : deux couches ont été nécessaires pour un résultat propre. La première couche laissait bien voir la couleur d'avant, même sur un mur blanc. Ce n'est pas surprenant à ce prix, mais si tu espères t'en tirer en une couche sur un mur foncé, oublie. Les petits coups sur le mur ? Pas vraiment masqués malgré la promesse de l'étiquette. Il aurait fallu boucher avant de peindre.
 
@@ -82,7 +82,7 @@ C'est là que Spectrum surprend agréablement. Le nuancier propose plusieurs diz
 
 Cela dit, le nuancier n'est pas fixe : selon les semaines et les magasins, certaines teintes ne sont plus disponibles ou arrivent en rupture. Si tu as un projet de plusieurs pièces à réaliser, achète tous tes pots d'un coup pour éviter les variations de teinte entre deux lots.
 
-Pour aller plus loin sur les associations de couleurs avec ces teintes neutres, jette un oeil à notre article sur les [couleurs compatibles avec l'orange pour les murs et la décoration](/guides/couleurs/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) - les mêmes logiques s'appliquent.
+Pour aller plus loin sur les associations de couleurs avec ces teintes neutres, jette un oeil à notre article sur les [couleurs compatibles avec l'orange pour les murs et la décoration](/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) - les mêmes logiques s'appliquent.
 
 ## Et la peinture bois Spectrum, ça donne quoi ?
 
@@ -102,7 +102,7 @@ J'ai aussi testé la peinture bois sur un meuble de jardin en bois peint. La fin
 
 ## Spectrum vs les autres marques budget : où elle se place
 
-Pour comparer honnêtement, j'ai aussi utilisé de la peinture Dulux Valentine (gamme entrée de gamme en grande surface à 15-18 euros/pot de 2,5L) et de la [Luxens de Leroy Merlin](/guides/couleurs/peinture-luxens/) dans d'autres pièces.
+Pour comparer honnêtement, j'ai aussi utilisé de la peinture Dulux Valentine (gamme entrée de gamme en grande surface à 15-18 euros/pot de 2,5L) et de la [Luxens de Leroy Merlin](/peinture-luxens/) dans d'autres pièces.
 
 <div class="my-8">
   <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771237250665.jpg" alt="Avis peinture spectrum - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
@@ -161,7 +161,7 @@ Si tu décides de tester la peinture Spectrum, voilà ce qui fait vraiment la di
 **Utilise un bon rouleau.** Spectrum vend aussi des accessoires peinture à prix bas, mais investis dans un rouleau de qualité moyenne (8-12 euros chez Leroy Merlin ou Brico Dépôt) - ça change vraiment le rendu final.
 
 > [!TIP]
-> Si tu veux donner du caractère à tes murs avec un budget serré, Spectrum est un bon choix pour des effets décoratifs simples comme un pan de mur coloré dans une chambre. Combine une teinte Spectrum vive avec un revêtement naturel sur un mur adjacent pour un look moderne sans budget explosé. Pour d'autres idées de surfaces à peindre, notre guide sur [comment peindre le lino](/guides/decoration/peindre-lino/) donne de bonnes pistes pour les petits budgets déco.
+> Si tu veux donner du caractère à tes murs avec un budget serré, Spectrum est un bon choix pour des effets décoratifs simples comme un pan de mur coloré dans une chambre. Combine une teinte Spectrum vive avec un revêtement naturel sur un mur adjacent pour un look moderne sans budget explosé. Pour d'autres idées de surfaces à peindre, notre guide sur [comment peindre le lino](/peindre-lino/) donne de bonnes pistes pour les petits budgets déco.
 
 ## Pour quel type de projet choisir Spectrum ?
 
@@ -181,7 +181,7 @@ Après plusieurs mois de tests et d'utilisation, j'ai une opinion claire :
 - L'extérieur (sauf terrasse couverte et protégée)
 - Les finitions très soignées dans des pièces représentatives
 
-Si tu envisages des travaux plus importants comme [créer un enduit sur un mur intérieur](/guides/decoration/crepir-un-mur-interieur/), il vaut mieux investir dans une peinture de finition plus résistante pour protéger ton travail sur la durée.
+Si tu envisages des travaux plus importants comme [créer un enduit sur un mur intérieur](/crepir-un-mur-interieur/), il vaut mieux investir dans une peinture de finition plus résistante pour protéger ton travail sur la durée.
 
 ## Mon verdict final
 
@@ -189,14 +189,14 @@ La peinture Spectrum, c'est exactement ce qu'on attend d'une peinture à 5 euros
 
 Ce qui m'a vraiment plu : le nuancier, les prix accessibles pour tester des couleurs, et la disponibilité dans de nombreuses villes. Ce qui m'a moins plu : la résistance aux frottements et le pouvoir couvrant limité en une seule couche.
 
-Si tu cherches la meilleure peinture qualité/prix pour une grande pièce à vivre, regarde plutôt du côté de la [Luxens de Leroy Merlin](/guides/couleurs/peinture-luxens/) - le surcoût par rapport à Spectrum se justifie facilement. Mais pour un projet ponctuel, une pièce secondaire ou un budget vraiment serré, Spectrum fait le job.
+Si tu cherches la meilleure peinture qualité/prix pour une grande pièce à vivre, regarde plutôt du côté de la [Luxens de Leroy Merlin](/peinture-luxens/) - le surcoût par rapport à Spectrum se justifie facilement. Mais pour un projet ponctuel, une pièce secondaire ou un budget vraiment serré, Spectrum fait le job.
 
 ---
 
 
 ## Sur le meme theme
 
-- [couleurs d'intérieur 2026](/guides/couleurs/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/)
+- [couleurs d'intérieur 2026](/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/)
 
 ## Questions fréquentes sur la peinture Spectrum
 

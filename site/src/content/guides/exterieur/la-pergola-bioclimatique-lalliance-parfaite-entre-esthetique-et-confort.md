@@ -42,7 +42,7 @@ La structure en aluminium domine le marché, et c'est logique. L'aluminium therm
 
 Le bois existe aussi, notamment en version pergola bioclimatique hybride avec structure bois et lames alu. Ça donne un rendu plus chaud, plus organique, qui colle bien avec un jardin nature ou une maison ancienne. Mais ça demande un entretien régulier - lasure tous les deux ou trois ans minimum.
 
-Mon conseil perso : si tu as une [maison moderne aux lignes nettes](https://www.cristallina.fr/guides/exterieur/maisons-modernes-2026-images-dexterieur-et-dinterieur/), pars sur de l'aluminium anthracite. Le rendu est net, contemporain, et ça va tout de suite ensemble. Si ta maison est plus traditionnelle avec de la pierre ou de la brique, regarde les versions avec poteaux bois.
+Mon conseil perso : si tu as une [maison moderne aux lignes nettes](https://www.cristallina.fr/maisons-modernes-2026-images-dexterieur-et-dinterieur/), pars sur de l'aluminium anthracite. Le rendu est net, contemporain, et ça va tout de suite ensemble. Si ta maison est plus traditionnelle avec de la pierre ou de la brique, regarde les versions avec poteaux bois.
 
 ```mermaid
 graph TD
@@ -105,7 +105,7 @@ La motorisation est souvent en option sur les modèles entrée de gamme mais inc
 > [!WARNING]
 > Attention aux "prix de pergola" que tu vois en ligne à 1 500-2 000 €. Ce sont souvent des structures en acier ou aluminium basique sans système bioclimatique véritable, les lames ne sont pas étanches et ne se motorisent pas correctement. Vérifie toujours les certifications de résistance au vent (minimum classe 3) et à la neige si tu habites dans une région concernée.
 
-Si tu as déjà une terrasse bien équipée ou si tu réfléchis à [d'autres aménagements extérieurs comme un bureau de jardin](https://www.cristallina.fr/guides/exterieur/bureau-de-jardin-de-5m2-un-mauvais-concept-qui-etait-cense-etre-sympa/), il vaut mieux planifier l'ensemble du projet d'un coup pour optimiser les raccords électriques et les accès.
+Si tu as déjà une terrasse bien équipée ou si tu réfléchis à [d'autres aménagements extérieurs comme un bureau de jardin](https://www.cristallina.fr/bureau-de-jardin-de-5m2-un-mauvais-concept-qui-etait-cense-etre-sympa/), il vaut mieux planifier l'ensemble du projet d'un coup pour optimiser les raccords électriques et les accès.
 
 ## Options et accessoires qui font la différence
 
@@ -177,7 +177,7 @@ Une pergola bioclimatique bien intégrée ajoute de la valeur à un bien. Les ag
 
 Pour que ça marche sur le plan esthétique, la pergola doit être cohérente avec l'architecture de la maison. Une structure anthracite très contemporaine sur une maison provençale avec tuiles rouge, c'est souvent raté. Dans ce cas-là, des tons plus neutres (blanc cassé, beige) ou une version avec intégration bois passe mieux.
 
-Si tu travailles sur le look extérieur global de ta maison, la pergola s'intègre dans une réflexion plus large sur les [façades et l'architecture extérieure 2026](https://www.cristallina.fr/guides/decoration/facades-de-maisons-modernes-2026/). Les deux se complètent et se renforcent quand ils sont pensés ensemble.
+Si tu travailles sur le look extérieur global de ta maison, la pergola s'intègre dans une réflexion plus large sur les [façades et l'architecture extérieure 2026](https://www.cristallina.fr/facades-de-maisons-modernes-2026/). Les deux se complètent et se renforcent quand ils sont pensés ensemble.
 
 ## Par où commencer si tu envisages d'en installer une ?
 
@@ -200,11 +200,11 @@ La pergola bioclimatique, c'est un investissement à long terme. Bien choisie, e
 
 ## Sur le meme theme
 
-- [pergola ou tonnelle](/guides/exterieur/difference-pergola-tonnelle/)
-- [peinture carrelage extérieur terrasse](/guides/exterieur/peinture-pour-carrelage-exterieur-terrasse/)
-- [rénover votre terrasse pour la sécurité](/guides/exterieur/renovez-votre-terrasse-pour-la-securite/)
-- [parasols de terrasse pour cafés et restaurants](/guides/exterieur/le-guide-ultime-des-parasols-de-terrasse-pour-cafes-hotels-et-restaurants/)
-- [papier peint d'extérieur](/guides/exterieur/papier-peint-dexterieur/)
+- [pergola ou tonnelle](/difference-pergola-tonnelle/)
+- [peinture carrelage extérieur terrasse](/peinture-pour-carrelage-exterieur-terrasse/)
+- [rénover votre terrasse pour la sécurité](/renovez-votre-terrasse-pour-la-securite/)
+- [parasols de terrasse pour cafés et restaurants](/le-guide-ultime-des-parasols-de-terrasse-pour-cafes-hotels-et-restaurants/)
+- [papier peint d'extérieur](/papier-peint-dexterieur/)
 
 ## FAQ
 

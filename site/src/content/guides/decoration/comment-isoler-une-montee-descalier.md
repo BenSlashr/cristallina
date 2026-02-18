@@ -204,7 +204,7 @@ Pour te donner une vue d'ensemble :
 
 Côté aides, l'isolation de la cage d'escalier peut entrer dans le cadre de MaPrimeRénov' si elle fait partie d'un projet de rénovation globale. En revanche, une simple porte ou un rideau ne sont pas éligibles seuls. Rapproche-toi de ton espace France Rénov' pour un diagnostic gratuit.
 
-Si tu te lances dans l'isolation des murs de ta cage d'escalier, ça peut être l'occasion de revoir aussi [l'enduit de tes murs intérieurs](/guides/decoration/crepir-un-mur-interieur/) pour une finition impeccable. Et si ton escalier communique avec une cave aux murs en parpaings, jette un oeil à notre guide pour [recouvrir des parpaings de façon esthétique](/guides/decoration/recouvrir-parpaings/) - ça te donnera des idées pour combiner isolation et déco.
+Si tu te lances dans l'isolation des murs de ta cage d'escalier, ça peut être l'occasion de revoir aussi [l'enduit de tes murs intérieurs](/crepir-un-mur-interieur/) pour une finition impeccable. Et si ton escalier communique avec une cave aux murs en parpaings, jette un oeil à notre guide pour [recouvrir des parpaings de façon esthétique](/recouvrir-parpaings/) - ça te donnera des idées pour combiner isolation et déco.
 
 ## Comment isoler un escalier en colimaçon ?
 
@@ -216,7 +216,7 @@ Les escaliers en colimaçon posent un défi supplémentaire : la forme ronde ren
 
 Pour un escalier en colimaçon, le rideau reste la solution la plus simple et réversible. L'isolation des parois autour du fût est un plus si ton escalier traverse un espace non chauffé.
 
-Pour l'ambiance de ton entrée et de ta cage d'escalier, pense aussi au [choix d'un bon éclairage](/guides/decoration/decoration-marocaine-moderne-ou-classique/) - une montée d'escalier bien isolée et joliment éclairée, c'est un vrai gain de confort au quotidien. Et si tu cherches à optimiser le chauffage de la pièce en contrebas, découvre notre comparatif des [poêles à granulés suspendus](/guides/decoration/poele-a-granules-suspendu/) qui s'intègrent parfaitement dans un salon ouvert.
+Pour l'ambiance de ton entrée et de ta cage d'escalier, pense aussi au [choix d'un bon éclairage](/decoration-marocaine-moderne-ou-classique/) - une montée d'escalier bien isolée et joliment éclairée, c'est un vrai gain de confort au quotidien. Et si tu cherches à optimiser le chauffage de la pièce en contrebas, découvre notre comparatif des [poêles à granulés suspendus](/poele-a-granules-suspendu/) qui s'intègrent parfaitement dans un salon ouvert.
 
 > [!TIP]
 > Avant de te lancer, fais le test de la bougie : allume une bougie en bas et en haut de ton escalier. Si la flamme vacille fort, c'est que le courant d'air est important et qu'une isolation fera vraiment la différence. C'est simple et ça te motive à passer à l'action !
@@ -224,7 +224,7 @@ Pour l'ambiance de ton entrée et de ta cage d'escalier, pense aussi au [choix d
 
 ## Sur le meme theme
 
-- [peindre du lino](/guides/decoration/peindre-lino/)
+- [peindre du lino](/peindre-lino/)
 
 ## FAQ
 

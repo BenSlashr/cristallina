@@ -146,7 +146,7 @@ Utilise un panier en tissu ou en osier (type **Compactor**, 8-15€) posé sur u
 
 Pour les deux ou trois soutiens-gorge en rotation active, un crochet adhésif derrière la porte de la chambre ou de la salle de bain (environ 3€ les 4 chez Action) permet de les aérer entre deux utilisations. Pas un rangement permanent, mais un point de transit entre le porté et le rangé.
 
-Si tu cherches d'autres idées pour mieux organiser ta chambre, mon guide sur le [rangement de chambre](/guides/chambre/ranger-chambre/) couvre la méthode complète zone par zone.
+Si tu cherches d'autres idées pour mieux organiser ta chambre, mon guide sur le [rangement de chambre](/ranger-chambre/) couvre la méthode complète zone par zone.
 
 ## Les erreurs qui réduisent la durée de vie de ta lingerie
 
@@ -178,7 +178,7 @@ Même avec un bon système de rangement, certaines habitudes ruinent tes soutien
 
 **Le sachet de lavande :** un petit sachet de lavande séchée (2€ sur les marchés ou chez Nature & Découvertes) glissé dans le tiroir éloigne les mites et donne une odeur fraîche à ta lingerie. Remplace-le tous les 3-4 mois.
 
-Pour des idées de rangement dans d'autres pièces, jette un oeil à mes astuces de [rangement créatif](/rangement-creatif-optimisation/) et aux [solutions de rangement pour la salle de bains](/guides/salle-de-bain/idees-de-rangement-et-de-placards-pour-la-salle-de-bains/).
+Pour des idées de rangement dans d'autres pièces, jette un oeil à mes astuces de [rangement créatif](/rangement-creatif-optimisation/) et aux [solutions de rangement pour la salle de bains](/idees-de-rangement-et-de-placards-pour-la-salle-de-bains/).
 
 ## Récapitulatif : les bons gestes en un coup d'oeil
 
@@ -214,11 +214,11 @@ Si tu veux aller plus loin dans l'optimisation de ton [dressing](/dressing-optim
 
 ## Sur le meme theme
 
-- [rangement bureau ikea](/guides/rangement/ikea-cartonne-avec-ce-rangement-bureau-decouverte-du-must-have-de-la-saison/)
-- [ranger sa chambre efficacement](/guides/chambre/ranger-chambre/)
-- [armoire d'angle IKEA](/guides/shopping/ikea-cartonne-avec-son-armoire-dangle/)
-- [decoration de chambre petit budget](/guides/chambre/decorer-la-chambre-a-coucher-avec-peu-dargent/)
-- [idees de rangement pour la salle de bains](/guides/salle-de-bain/idees-de-rangement-et-de-placards-pour-la-salle-de-bains/)
+- [rangement bureau ikea](/ikea-cartonne-avec-ce-rangement-bureau-decouverte-du-must-have-de-la-saison/)
+- [ranger sa chambre efficacement](/ranger-chambre/)
+- [armoire d'angle IKEA](/ikea-cartonne-avec-son-armoire-dangle/)
+- [decoration de chambre petit budget](/decorer-la-chambre-a-coucher-avec-peu-dargent/)
+- [idees de rangement pour la salle de bains](/idees-de-rangement-et-de-placards-pour-la-salle-de-bains/)
 
 ## Questions fréquentes
 

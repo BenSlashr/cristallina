@@ -46,7 +46,7 @@ Le shingle se pose bien plus vite que la tuile. Un couvreur expérimenté couvre
 
 ### Une légèreté qui simplifie la charpente
 
-Avec 8 à 15 kg/m2, le shingle n'exige pas une charpente dimensionnée pour supporter du lourd. C'est un vrai plus pour les abris de jardin, les carports, les extensions légères ou les maisons à ossature bois. Si tu as une [maison container](/guides/decoration/maison-container/) par exemple, le shingle est souvent le choix le plus logique pour la toiture.
+Avec 8 à 15 kg/m2, le shingle n'exige pas une charpente dimensionnée pour supporter du lourd. C'est un vrai plus pour les abris de jardin, les carports, les extensions légères ou les maisons à ossature bois. Si tu as une [maison container](/maison-container/) par exemple, le shingle est souvent le choix le plus logique pour la toiture.
 
 ### Un large choix de couleurs et de formes
 
@@ -172,7 +172,7 @@ flowchart LR
 
 **Étape 5 - Les points singuliers.** Autour des cheminées, des lucarnes ou des sorties de ventilation, on applique des bandes de solin ou des pièces de raccord métalliques pour assurer l'étanchéité. C'est la partie la plus technique - si tu n'es pas à l'aise, fais appel à un pro pour ces finitions.
 
-Si tu t'interroges sur les [façades de ta maison en 2026](/guides/decoration/facades-de-maisons-modernes-2026/), sache que le choix de la toiture influence beaucoup le style général. Un shingle anthracite avec une façade blanche, par exemple, donne un rendu très contemporain.
+Si tu t'interroges sur les [façades de ta maison en 2026](/facades-de-maisons-modernes-2026/), sache que le choix de la toiture influence beaucoup le style général. Un shingle anthracite avec une façade blanche, par exemple, donne un rendu très contemporain.
 
 ## Comment obtenir un devis juste ?
 
@@ -214,7 +214,7 @@ Le shingle demande un entretien régulier pour atteindre sa durée de vie maxima
 - Utiliser un nettoyeur haute pression (ça arrache les granulés et détruit l'étanchéité)
 - Laisser l'eau stagner dans les gouttières bouchées (l'humidité remonte sous les bardeaux)
 
-Si tu as des travaux à prévoir à l'intérieur après la réfection de ton toit, jette un oeil à notre guide pour [crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/) - c'est souvent le bon moment pour remettre les murs en état.
+Si tu as des travaux à prévoir à l'intérieur après la réfection de ton toit, jette un oeil à notre guide pour [crépir un mur intérieur](/crepir-un-mur-interieur/) - c'est souvent le bon moment pour remettre les murs en état.
 
 ## Shingle vs les autres matériaux : le comparatif
 
@@ -227,12 +227,12 @@ Si tu as des travaux à prévoir à l'intérieur après la réfection de ton toi
 | Isolation thermique | Faible | Moyenne | Bonne | Faible |
 | Résistance vent | Moyenne | Bonne | Bonne | Excellente |
 
-Le shingle gagne sur le prix et la facilité de pose. Il perd sur la longévité et l'isolation. Le bon choix dépend de ton projet : pour un abri de jardin ou un garage, c'est parfait. Pour ta maison principale, la tuile ou le zinc restent plus pertinents sur la durée. Et si tu cherches à intégrer des éléments lumineux dans ta couverture, notre article sur les [tuiles transparentes](/guides/decoration/tuile-transparente-cout-et-usage/) donne de bonnes pistes.
+Le shingle gagne sur le prix et la facilité de pose. Il perd sur la longévité et l'isolation. Le bon choix dépend de ton projet : pour un abri de jardin ou un garage, c'est parfait. Pour ta maison principale, la tuile ou le zinc restent plus pertinents sur la durée. Et si tu cherches à intégrer des éléments lumineux dans ta couverture, notre article sur les [tuiles transparentes](/tuile-transparente-cout-et-usage/) donne de bonnes pistes.
 
 
 ## Sur le meme theme
 
-- [tuile chatière](/guides/decoration/installation-et-usage-dune-tuile-chatiere/)
+- [tuile chatière](/installation-et-usage-dune-tuile-chatiere/)
 
 ## FAQ : les questions les plus fréquentes
 

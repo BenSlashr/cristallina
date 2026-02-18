@@ -88,7 +88,7 @@ Pour les textiles, Maisons du Monde propose des coussins velours rose poudré en
 
 Le bleu apporte de la fraîcheur au taupe sans le refroidir complètement. Un taupe chaud avec des touches de bleu ciel - un fauteuil, des coussins, un vase - ça crée un équilibre très agréable. La version lavande fonctionne aussi, en plus originale et plus tendance.
 
-Si tu aimes les palettes couleur de cette saison, tu retrouveras le bleu et le taupe parmi les associations plébiscitées dans mon guide sur les [couleurs tendance 2026 pour les murs et la peinture](/guides/couleurs/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/).
+Si tu aimes les palettes couleur de cette saison, tu retrouveras le bleu et le taupe parmi les associations plébiscitées dans mon guide sur les [couleurs tendance 2026 pour les murs et la peinture](/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/).
 
 ### Taupe + vert olive : la palette nature
 
@@ -132,7 +132,7 @@ Le salon est l'endroit où le taupe donne le meilleur de lui-même. Un mur taupe
 
 Pour un salon de 20m2, compte environ 80-110 euros de peinture (2 pots de 2,5L en qualité moyenne type Luxens ou Dulux Valentine). Ajoute 15-25 euros pour un bon rouleau et du ruban de masquage.
 
-Un canapé en lin naturel ou en velours gris clair sur fond taupe, c'est canon. Et si tu hésites sur la couleur de ton canapé, j'ai écrit un guide complet pour [choisir la couleur de son canapé](/guides/couleurs/couleur-canape-choisir/) qui peut t'aider.
+Un canapé en lin naturel ou en velours gris clair sur fond taupe, c'est canon. Et si tu hésites sur la couleur de ton canapé, j'ai écrit un guide complet pour [choisir la couleur de son canapé](/couleur-canape-choisir/) qui peut t'aider.
 
 > [!WARNING]
 > Le taupe foncé au salon absorbe beaucoup de lumière. Si ta pièce est orientée nord ou a peu de fenêtres, reste sur un taupe clair ou limite le taupe foncé à un seul mur. Sinon, compense avec un bon éclairage : des lampes à 3000K (blanc chaud) posées à différentes hauteurs.
@@ -178,7 +178,7 @@ Les écrans affichent les couleurs différemment de la réalité. Ma méthode en
 3. **Peins un carré de 50x50cm** sur ton mur (la couleur change selon l'orientation).
 4. **Attends 48h** - le taupe fonce en séchant. La couleur humide n'est pas la couleur finale.
 
-Pour creuser le sujet des couleurs qui donnent de la profondeur à un espace, mon article sur les [couleurs pour donner de la profondeur a un mur](/guides/couleurs/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece/) te sera utile.
+Pour creuser le sujet des couleurs qui donnent de la profondeur à un espace, mon article sur les [couleurs pour donner de la profondeur a un mur](/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece/) te sera utile.
 
 ```mermaid
 graph TD
@@ -197,7 +197,7 @@ graph TD
 
 ## Le taupe selon ton style déco
 
-Le taupe s'adapte à tous les registres. En version scandinave, choisis un taupe clair avec du mobilier en bouleau et des textiles en lin blanc - le taupe remplace le gris pâle classique en apportant plus de chaleur. En version classique, un taupe moyen avec des moulures blanches et un parquet à chevrons, c'est l'alternative moderne au beige haussmannien. L'association avec l'orange en accent apporte une énergie inattendue - tu trouveras des idées dans mon guide sur les [couleurs compatibles avec l'orange](/guides/couleurs/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/).
+Le taupe s'adapte à tous les registres. En version scandinave, choisis un taupe clair avec du mobilier en bouleau et des textiles en lin blanc - le taupe remplace le gris pâle classique en apportant plus de chaleur. En version classique, un taupe moyen avec des moulures blanches et un parquet à chevrons, c'est l'alternative moderne au beige haussmannien. L'association avec l'orange en accent apporte une énergie inattendue - tu trouveras des idées dans mon guide sur les [couleurs compatibles avec l'orange](/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/).
 
 En version minimaliste, le taupe grisé avec des lignes épurées et du laiton fonctionne à merveille. Et en version bohème, le taupe en toile de fond calme le jeu face aux textiles colorés (kilim, macramé) sans étouffer l'ensemble.
 
@@ -208,7 +208,7 @@ Si tu n'es pas sûre de toi, commence petit : un plaid et deux coussins taupe su
 
 ## Sur le meme theme
 
-- [couleurs qui se marient avec le violet](/guides/couleurs/quelles-sont-les-couleurs-qui-se-marient-bien-avec-le-violet-en-decoration/)
+- [couleurs qui se marient avec le violet](/quelles-sont-les-couleurs-qui-se-marient-bien-avec-le-violet-en-decoration/)
 
 ## FAQ - Couleur taupe en décoration
 

@@ -99,7 +99,7 @@ Un plateau, ça semble basique. Mais une fois que tu commences à en avoir un bo
 
 ### 1. Station condiments au centre de la table
 
-Le SMÅÄTA est parfait pour ça. Tu poses huile d'olive, sel, poivre, moutarde, serviettes et tout le monde se sert en faisant tourner le plateau. Fini les "tu me passes le sel ?" pendant le diner. Si tu cherches des idées pour mieux organiser ta cuisine au passage, regarde notre guide sur [l'organisation des armoires de cuisine](/guides/cuisine/organisation-armoire-cuisine/) - ça va de pair.
+Le SMÅÄTA est parfait pour ça. Tu poses huile d'olive, sel, poivre, moutarde, serviettes et tout le monde se sert en faisant tourner le plateau. Fini les "tu me passes le sel ?" pendant le diner. Si tu cherches des idées pour mieux organiser ta cuisine au passage, regarde notre guide sur [l'organisation des armoires de cuisine](/organisation-armoire-cuisine/) - ça va de pair.
 
 ### 2. Plateau petit-déjeuner au lit (le classique)
 
@@ -115,7 +115,7 @@ Le RESGODS se transforme en mini-bureau improvisé quand tu veux bosser depuis l
 
 ### 5. Plateau tournant décoratif sur un îlot
 
-Le SMÅÄTA, quand il n'est pas en service à table, fait un très bel objet déco sur un îlot de cuisine ou un comptoir. Pose dessus une bougie, un petit vase avec une branche d'eucalyptus et un pot à sel en céramique - tu obtiens une vignette déco qui a de l'allure. Ça rappelle ce qu'on fait dans les salons, si ça t'inspire regarde notre article sur la [décoration de petits salons](/guides/decoration/decoration-petit-salon/).
+Le SMÅÄTA, quand il n'est pas en service à table, fait un très bel objet déco sur un îlot de cuisine ou un comptoir. Pose dessus une bougie, un petit vase avec une branche d'eucalyptus et un pot à sel en céramique - tu obtiens une vignette déco qui a de l'allure. Ça rappelle ce qu'on fait dans les salons, si ça t'inspire regarde notre article sur la [décoration de petits salons](/decoration-petit-salon/).
 
 ### 6. Dessous de plat géant en terrasse
 
@@ -127,7 +127,7 @@ Un plateau sur une commode de salle de bain, c'est un classique déco qui foncti
 
 ### 8. Présentoir cuisine ouverte
 
-Si tu as une cuisine ouverte sur le salon, un plateau bien garni fait office de tampon visuel entre l'espace cuisine et l'espace vie. Un SMÅÄTA avec de belles huiles, du vinaigre dans une jolie bouteille et des herbes fraiches dans un petit pot, ça donne un côté authentique et chic. Tu trouveras d'autres inspirations dans notre guide sur la [décoration de cuisine](/guides/cuisine/decoration-cuisine/).
+Si tu as une cuisine ouverte sur le salon, un plateau bien garni fait office de tampon visuel entre l'espace cuisine et l'espace vie. Un SMÅÄTA avec de belles huiles, du vinaigre dans une jolie bouteille et des herbes fraiches dans un petit pot, ça donne un côté authentique et chic. Tu trouveras d'autres inspirations dans notre guide sur la [décoration de cuisine](/decoration-cuisine/).
 
 > [!WARNING]
 > Les plateaux en bois (SMÅÄTA et RESGODS) ne doivent jamais tremper dans l'eau ou passer au lave-vaisselle. Un coup d'éponge humide suivi d'un séchage immédiat, c'est la méthode qui les conserve le plus longtemps. Si le bois commence à ternir, une goutte d'huile de lin ravive tout en deux minutes.
@@ -201,8 +201,8 @@ Et si tu veux aller plus loin dans l'optimisation de ta cuisine et de ta déco, 
 
 ## Sur le meme theme
 
-- [étagères murales ikea](/guides/shopping/cohue-chez-ikea-avec-letagere-murale-prisee-a-prix-imbattable/)
-- [séchoir ikea à moins de 6 euros](/guides/shopping/ikea-cet-indispensable-pour-secher-son-linge-meme-en-automne-a-moins-de-6-euros/)
+- [étagères murales ikea](/cohue-chez-ikea-avec-letagere-murale-prisee-a-prix-imbattable/)
+- [séchoir ikea à moins de 6 euros](/ikea-cet-indispensable-pour-secher-son-linge-meme-en-automne-a-moins-de-6-euros/)
 
 ## Questions fréquentes
 

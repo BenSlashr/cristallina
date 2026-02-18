@@ -35,7 +35,7 @@ Si tu es tentée par cette direction, tu peux regarder les peintures Farrow & Ba
 
 Le vert sauge reste très présent, mais en 2026 il s'enrichit d'autres verts : le vert mousse, le vert olive profond, le vert céladon très pâle. Ces tons se marient magnifiquement avec le bois naturel, le rotin, et les textiles beige ou écru.
 
-Si tu aimes les associations de couleurs plus audacieuses, les teintes orangées se prêtent aussi au jeu avec ces verts. Je te conseille d'aller jeter un oeil à notre article sur les [couleurs compatibles avec l'orange pour les murs et la décoration](/guides/couleurs/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) - il y a des combinaisons vraiment surprenantes qui fonctionnent super bien dans un salon.
+Si tu aimes les associations de couleurs plus audacieuses, les teintes orangées se prêtent aussi au jeu avec ces verts. Je te conseille d'aller jeter un oeil à notre article sur les [couleurs compatibles avec l'orange pour les murs et la décoration](/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) - il y a des combinaisons vraiment surprenantes qui fonctionnent super bien dans un salon.
 
 ### Le bleu nuit et le prune
 
@@ -104,7 +104,7 @@ Ce style s'inspire beaucoup du wabi-sabi japonais : l'imperfection, le temps qui
 
 Les influences du bassin méditerranéen arrivent fort en 2026. Carreaux de ciment sur un petit pan de mur, moucharabieh en claustra, lanternes en métal ciselé - autant d'éléments qu'on intègre dans un intérieur moderne pour créer une identité forte sans tomber dans le pittoresque.
 
-Si ce style t'attire, je t'invite à lire notre guide sur la [décoration marocaine moderne ou classique](/guides/decoration/decoration-marocaine-moderne-ou-classique/) - tu y trouveras des idées très concrètes pour intégrer ces codes dans ton intérieur actuel.
+Si ce style t'attire, je t'invite à lire notre guide sur la [décoration marocaine moderne ou classique](/decoration-marocaine-moderne-ou-classique/) - tu y trouveras des idées très concrètes pour intégrer ces codes dans ton intérieur actuel.
 
 ### Le salon "bibliothèque vivante"
 
@@ -169,7 +169,7 @@ Dans un salon, le tapis est l'élément qui "pose" la pièce. En 2026, on aime l
 
 Les matières naturelles (laine, jute, coton) restent en tête. Chez IKEA, le tapis "Stoense" en laine tufté (200x300 cm) est autour de 299 euros - un très bon rapport qualité-prix. Pour quelque chose de plus artisanal, les tapis kilim ou berbères sur des sites comme Nodi ou Beni Rugs se trouvent entre 200 et 800 euros selon la taille.
 
-Si la déco terracotta te parle, notre article sur la [déco terracotta en chambre](/guides/chambre/deco-terracotta-chambre/) donne plein d'idées transposables aussi au salon - les associations de couleurs et les matières fonctionnent très bien d'une pièce à l'autre.
+Si la déco terracotta te parle, notre article sur la [déco terracotta en chambre](/deco-terracotta-chambre/) donne plein d'idées transposables aussi au salon - les associations de couleurs et les matières fonctionnent très bien d'une pièce à l'autre.
 
 > [!IMPORTANT]
 > Un tapis trop petit est l'erreur la plus courante en décoration de salon. Pour une pièce standard, préfère un tapis d'au moins 160x230 cm, et idéalement 200x300 cm. Un grand tapis dans un petit salon donne une impression d'espace - un petit tapis dans une grande pièce fait exactement l'inverse.
@@ -207,7 +207,7 @@ Pour remettre à plat un salon sans tout changer, voici des fourchettes réalist
 
 Le secret pour rester dans les clous : ne pas tout changer d'un coup. Commence par la peinture et les textiles (coussins, plaid) - c'est peu cher et l'effet est immédiat. Ensuite le tapis, puis le mobilier au fur et à mesure.
 
-Si la cuisine fait partie de ton projet de rénovation globale, notre article sur la [cuisine avec une palette olive](/guides/cuisine/cuisine-olive/) peut t'aider à créer une cohérence entre les pièces - les tons olive se marient d'ailleurs très bien avec les tendances salon 2026.
+Si la cuisine fait partie de ton projet de rénovation globale, notre article sur la [cuisine avec une palette olive](/cuisine-olive/) peut t'aider à créer une cohérence entre les pièces - les tons olive se marient d'ailleurs très bien avec les tendances salon 2026.
 
 ## En résumé : les 5 clés d'un salon moderne et élégant en 2026
 
@@ -224,7 +224,7 @@ Si la cuisine fait partie de ton projet de rénovation globale, notre article su
 
 ## Sur le meme theme
 
-- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
+- [salons modernes 2026](/salons-modernes-tendances-2026/)
 
 ## Questions fréquentes
 

@@ -44,7 +44,7 @@ Les bases classiques : blanc cassé, beige, gris clair, crème, taupe, greige (c
 
 Mais attention : une palette neutre ne signifie pas monochrome ennuyeux. Tu peux jouer sur les nuances, les matériaux et les textures pour créer de la profondeur. Un mur blanc, un canapé en lin écru, un parquet en chêne clair - c'est déjà trois tons différents qui s'harmonisent parfaitement.
 
-Pour les touches de couleur, quelques règles simples : reste dans les couleurs terre (terracotta, kaki, ocre) ou les teintes sombres comme le vert bouteille ou le noir. Et limite-toi à une ou deux couleurs d'accent dans la pièce. Tu peux voir comment ce principe fonctionne en pratique dans nos idées pour [des salons modernes et élégants en 2026](/guides/decoration/salons-modernes-et-elegants-2026/).
+Pour les touches de couleur, quelques règles simples : reste dans les couleurs terre (terracotta, kaki, ocre) ou les teintes sombres comme le vert bouteille ou le noir. Et limite-toi à une ou deux couleurs d'accent dans la pièce. Tu peux voir comment ce principe fonctionne en pratique dans nos idées pour [des salons modernes et élégants en 2026](/salons-modernes-et-elegants-2026/).
 
 ```mermaid
 flowchart TD
@@ -78,7 +78,7 @@ En pratique, ça veut dire privilégier les meubles aux formes géométriques si
 
 Chez Ikea, la gamme KALLAX (25-80€) pour les rangements et les tables LACK sont des références abordables. Pour un peu plus de budget, la table LISABO en frêne (99€) a des lignes vraiment épurées. Si tu veux investir dans quelque chose de plus qualitatif, Made.com propose des canapés et tables avec des formes minimalistes autour de 300-800€.
 
-Un point important : le mobilier multifonctions est ton ami. Un ottoman qui sert de table basse ET de rangement, un lit avec tiroirs intégrés, une banquette avec coffre - ça diminue le nombre de meubles nécessaires tout en maximisant les fonctions. Pour aller plus loin sur l'optimisation des rangements, l'article sur [comment ranger sa chambre](/guides/chambre/ranger-chambre/) est vraiment utile.
+Un point important : le mobilier multifonctions est ton ami. Un ottoman qui sert de table basse ET de rangement, un lit avec tiroirs intégrés, une banquette avec coffre - ça diminue le nombre de meubles nécessaires tout en maximisant les fonctions. Pour aller plus loin sur l'optimisation des rangements, l'article sur [comment ranger sa chambre](/ranger-chambre/) est vraiment utile.
 
 > [!TIP]
 > Avant d'acheter un nouveau meuble, pose-toi toujours la question : est-ce qu'il remplace quelque chose qui existe déjà, ou est-ce qu'il s'ajoute simplement ? Dans un intérieur minimaliste, on cherche toujours à remplacer plutôt qu'à accumuler.
@@ -157,7 +157,7 @@ Les bacs et pots : cache-pots en céramique unie, bacs en béton, paniers en cor
 
 ## Minimalisme vs autres styles : où tu te situes ?
 
-Le minimalisme n'est pas pour tout le monde - et c'est ok ! Si tu aimes le côté douillet et romantique d'un intérieur chargé de textures et d'objets chinés, le [style shabby chic](/guides/decoration/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/) pourrait te convenir davantage. Ce sont deux philosophies décoratives très différentes, et l'une n'est pas supérieure à l'autre.
+Le minimalisme n'est pas pour tout le monde - et c'est ok ! Si tu aimes le côté douillet et romantique d'un intérieur chargé de textures et d'objets chinés, le [style shabby chic](/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/) pourrait te convenir davantage. Ce sont deux philosophies décoratives très différentes, et l'une n'est pas supérieure à l'autre.
 
 Ce qui compte, c'est que ton intérieur te ressemble et te fasse du bien. Le minimalisme convient particulièrement aux personnes qui se sentent mentalement plus légères dans des espaces épurés, qui trouvent le désordre visuel stressant, ou qui veulent investir dans quelques belles pièces plutôt que beaucoup de petites choses.
 
@@ -183,8 +183,8 @@ La décoration minimaliste, c'est vraiment l'un des styles les plus accessibles 
 
 ## Sur le meme theme
 
-- [décoration japonaise](/guides/decoration/decoration-japonaise-20-images-et-idees/)
-- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+- [décoration japonaise](/decoration-japonaise-20-images-et-idees/)
+- [décoration art déco](/50-idees-de-decoration-art-deco/)
 
 ## Questions fréquentes sur la décoration minimaliste
 

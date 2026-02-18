@@ -33,7 +33,7 @@ Voici quelques associations qui marchent à tous les coups :
 - **Style classique** : reproductions de maîtres, paysages à l'huile, encadrements dorés
 - **Style contemporain** : art abstrait aux couleurs vives, oeuvres géométriques, photos d'art conceptuel
 
-Si tu hésites sur le style général de ton intérieur, jette un oeil à notre guide sur les [salons modernes et élégants 2026](/guides/decoration/salons-modernes-et-elegants-2026/) pour trouver l'inspiration.
+Si tu hésites sur le style général de ton intérieur, jette un oeil à notre guide sur les [salons modernes et élégants 2026](/salons-modernes-et-elegants-2026/) pour trouver l'inspiration.
 
 > [!TIP]
 > Teste avant d'acheter : imprime une version A4 de l'oeuvre que tu aimes, scotche-la au mur et vis avec pendant 3 jours. Si elle te plaît toujours, c'est bon signe.
@@ -107,7 +107,7 @@ C'est la règle des décorateurs d'intérieur. 60 % de couleur dominante (murs, 
 - **Intérieur coloré** : reste dans les tons complémentaires ou choisis un tableau en noir et blanc pour calmer le jeu
 - **Palette monochromatique** : joue sur les nuances d'une seule couleur pour un effet sophistiqué
 
-Pour approfondir le sujet des palettes, notre guide sur les [couleurs du salon 2026](/guides/decoration/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) te donnera plein d'idées.
+Pour approfondir le sujet des palettes, notre guide sur les [couleurs du salon 2026](/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) te donnera plein d'idées.
 
 > [!WARNING]
 > Évite de choisir un tableau uniquement parce qu'il "va avec le canapé". Les tendances changent, tu vas peut-être changer ta housse dans un an. Choisis une oeuvre qui te plaît vraiment, pas un accessoire coordonné.
@@ -174,7 +174,7 @@ Si un seul tableau ne suffit pas (ou si tu as plusieurs pièces que tu adores), 
 
 Avant de percer, découpe des formes en papier journal aux dimensions de tes cadres. Scotche-les au mur et ajuste la disposition. Tu peux prendre des photos avec ton téléphone pour comparer les versions. Quand tu es satisfait(e), marque les emplacements des clous avec un crayon à travers le papier.
 
-Trust me, cette étape de 20 minutes t'évite des heures de frustration et des dizaines de trous inutiles. Si tu veux aller plus loin sur la technique d'accrochage, consulte notre article sur [bien accrocher un tableau mural](/guides/decoration/bien-accrocher-tableau-mural/).
+Trust me, cette étape de 20 minutes t'évite des heures de frustration et des dizaines de trous inutiles. Si tu veux aller plus loin sur la technique d'accrochage, consulte notre article sur [bien accrocher un tableau mural](/bien-accrocher-tableau-mural/).
 
 > [!IMPORTANT]
 > Pour un gallery wall réussi, commence par placer le cadre le plus grand au centre (ou légèrement décentré vers la gauche - c'est là où l'oeil se pose naturellement). Construis ensuite autour de lui.
@@ -219,7 +219,7 @@ Le cadre, c'est comme la reliure d'un livre. Il peut mettre en valeur ou complè
 
 Le passe-partout (ce carton de couleur entre le cadre et l'image), c'est un atout sous-estimé. Un passe-partout blanc autour d'une petite illustration la rend immédiatement plus prestige. Il crée un espace de respiration visuelle et attire l'oeil vers l'oeuvre.
 
-Si tu cherches des idées pour associer cadres et décoration murale végétale, notre guide sur les [cadres et tableaux muraux végétaux](/guides/decoration/choisir-cadre-tableau-mural-vegetal/) te donnera des pistes originales.
+Si tu cherches des idées pour associer cadres et décoration murale végétale, notre guide sur les [cadres et tableaux muraux végétaux](/choisir-cadre-tableau-mural-vegetal/) te donnera des pistes originales.
 
 ---
 
@@ -279,7 +279,7 @@ Après avoir aidé des dizaines de lectrices à choisir leurs tableaux, voici le
 
 ## Sur le meme theme
 
-- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
+- [tableau planning et pense-bête](/choisir-tableau-planning-pense-bete/)
 
 <div class="my-8">
   <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238291095.jpg" alt="Choisir tableau mural - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />

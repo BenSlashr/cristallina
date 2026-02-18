@@ -126,13 +126,13 @@ Le style bord de mer ne se limite pas au salon. Chaque pièce peut accueillir sa
 
 C'est la pièce où tu peux te permettre le plus d'éléments côtiers. Un canapé en lin blanc ou gris clair (Ikea EKTORP à 449EUR pour démarrer, ou Made.com autour de 900EUR pour monter en gamme), des coussins dans les bleus, un tapis en jute ou jonc de mer au sol, une table basse en bois blanchi. Ajoute quelques éléments en verre et en corde, et c'est plié.
 
-Si tu cherches a donner de la personnalité a tes murs, jette un oeil aux [idées pour décorer avec des tableaux et cadres muraux](/guides/decoration/bien-accrocher-tableau-mural/) - le mix cadres + déco maritime fonctionne très bien.
+Si tu cherches a donner de la personnalité a tes murs, jette un oeil aux [idées pour décorer avec des tableaux et cadres muraux](/bien-accrocher-tableau-mural/) - le mix cadres + déco maritime fonctionne très bien.
 
 ### La chambre bord de mer
 
 Ici, on joue la carte de la douceur. Du linge de lit blanc et bleu pâle en lin lavé, une tête de lit en bois flotté ou en rotin (DIY possible avec des planches de palette cérusées), une ou deux touches de corde sur la table de nuit. Pas besoin de plus.
 
-Pour la palette idéale de ta chambre, tu peux aussi t'inspirer des [tendances couleurs 2026 pour le salon](/guides/decoration/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) - les tons bleu gris et sable fonctionnent aussi bien dans une chambre.
+Pour la palette idéale de ta chambre, tu peux aussi t'inspirer des [tendances couleurs 2026 pour le salon](/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) - les tons bleu gris et sable fonctionnent aussi bien dans une chambre.
 
 ### La salle de bains
 
@@ -193,11 +193,11 @@ Le style maritime se décline en deux directions principales. Les deux marchent,
 
 ### Le maritime moderne (Hampton style)
 
-Inspiré des maisons de plage américaines de Long Island. Lignes épurées, couleurs douces, meubles en bois peint en blanc, beaucoup de lumière naturelle. C'est propre, aéré, élégant. Si tu aimes la [décoration minimaliste et ses lignes épurées](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/), le Hampton style va te plaire - c'est du minimalisme avec l'âme de l'océan.
+Inspiré des maisons de plage américaines de Long Island. Lignes épurées, couleurs douces, meubles en bois peint en blanc, beaucoup de lumière naturelle. C'est propre, aéré, élégant. Si tu aimes la [décoration minimaliste et ses lignes épurées](/decoration-minimaliste-idees-et-photos-faciles/), le Hampton style va te plaire - c'est du minimalisme avec l'âme de l'océan.
 
 ### Le maritime vintage (style port de pêche)
 
-Plus rustique, plus chargé, plus authentique. Bois patiné, objets chinés en brocante de port, vraies pièces de bateau recyclées. Un vieux gouvernail en bois (200-800EUR en brocante), une lampe en laiton (150-500EUR), des cordages marins en vrac (20-50EUR). C'est le style pour ceux qui ont grandi en Bretagne ou passent leurs étés face à l'Atlantique. Si tu aimes les ambiances patinées, regarde du côté de la [déco shabby chic](/guides/decoration/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/) - les deux styles partagent ce gout pour les objets qui ont vécu.
+Plus rustique, plus chargé, plus authentique. Bois patiné, objets chinés en brocante de port, vraies pièces de bateau recyclées. Un vieux gouvernail en bois (200-800EUR en brocante), une lampe en laiton (150-500EUR), des cordages marins en vrac (20-50EUR). C'est le style pour ceux qui ont grandi en Bretagne ou passent leurs étés face à l'Atlantique. Si tu aimes les ambiances patinées, regarde du côté de la [déco shabby chic](/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/) - les deux styles partagent ce gout pour les objets qui ont vécu.
 
 > [!IMPORTANT]
 > Quel que soit ton choix - moderne ou vintage - la lumière naturelle est ta meilleure alliée. La déco maritime vit grâce à la lumière. Privilégie les rideaux légers (lin, voilage), les miroirs bien placés pour refléter la lumière, et des ampoules blanc chaud (2700K) pour les soirées.
@@ -241,7 +241,7 @@ Pour transformer un salon de 20m2 en ambiance bord de mer :
 
 ## Sur le meme theme
 
-- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+- [décoration art déco](/50-idees-de-decoration-art-deco/)
 
 ## FAQ
 

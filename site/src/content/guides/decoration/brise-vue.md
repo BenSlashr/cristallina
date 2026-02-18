@@ -84,7 +84,7 @@ graph TD
 
 **Les plantes grimpantes** sont la solution la plus esthétique et la plus écologique. Un jasmin étoilé, un chèvrefeuille, une clématite ou un lierre planté au pied d'un treillage forme un écran dense en une à deux saisons. L'avantage : le rendu est vivant, il évolue avec les saisons, attire les pollinisateurs et améliore la qualité de l'air. L'inconvénient : ça demande de la patience et un minimum d'entretien (taille, arrosage, tuteurage).
 
-Pour aller plus loin sur le sujet, mon guide sur les [jardins verticaux](/guides/exterieur/jardins-verticaux-de-40-photos-dinspiration-verte/) donne plein d'idées pour créer un mur végétal qui fait aussi office de brise-vue.
+Pour aller plus loin sur le sujet, mon guide sur les [jardins verticaux](/jardins-verticaux-de-40-photos-dinspiration-verte/) donne plein d'idées pour créer un mur végétal qui fait aussi office de brise-vue.
 
 **La jardinière brise-vue** combine un bac planté et un treillage intégré. C'est la solution idéale pour les terrasses et les balcons, là où on ne peut pas planter en pleine terre. Les bambous non traçants (Fargesia), les graminées et les lauriers-tin sont les essences les plus utilisées. Budget : 80 à 200 euros par jardinière complète (bac + plantes + support).
 
@@ -131,13 +131,13 @@ Privilégie la toile HDPE ou la haie artificielle souple. Ces deux options sont 
 
 Tu as plus de possibilités. Un panneau composite ou une haie artificielle haute densité offrent un écran total et durable sans entretien. Si tu préfères le végétal, une haie mixte (photinia + laurier) plantée en bac ou en pleine terre forme un brise-vue dense en 2 à 3 ans. Pour une solution rapide et temporaire, la brande de bruyère ou les canisses font le job.
 
-Tu cherches aussi à te protéger du soleil ? Combine ton brise-vue avec une solution d'ombrage - j'en parle en détail dans mon guide sur [comment ombrager ta terrasse](/guides/exterieur/ombrager-terrasse/).
+Tu cherches aussi à te protéger du soleil ? Combine ton brise-vue avec une solution d'ombrage - j'en parle en détail dans mon guide sur [comment ombrager ta terrasse](/ombrager-terrasse/).
 
 ### Pour une clôture de jardin
 
 Les lamelles PVC dans un grillage rigide sont le choix le plus pratique. Si tu vises un rendu haut de gamme, les panneaux composites ou les claustras bois sont plus esthétiques mais aussi plus chers. Les plantes grimpantes sur un treillage ou un grillage transforment une clôture banale en mur végétal vivant - la solution la plus belle à long terme.
 
-Pour les projets de pergola végétalisée le long d'une limite de propriété, regarde aussi le guide sur [la pergola bioclimatique](/guides/exterieur/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) qui combine ombrage et intimité.
+Pour les projets de pergola végétalisée le long d'une limite de propriété, regarde aussi le guide sur [la pergola bioclimatique](/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) qui combine ombrage et intimité.
 
 ## Poser un brise-vue soi-même : les étapes
 
@@ -194,8 +194,8 @@ Le brise-vue parfait n'existe pas de façon universelle. Tout dépend de ton esp
 
 ## Sur le meme theme
 
-- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
-- [tapis logo personnalisé](/guides/decoration/choisir-tapis-logo-personnalise/)
+- [tableau planning et pense-bête](/choisir-tableau-planning-pense-bete/)
+- [tapis logo personnalisé](/choisir-tapis-logo-personnalise/)
 
 ## FAQ
 

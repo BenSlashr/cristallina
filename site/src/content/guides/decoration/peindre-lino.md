@@ -219,11 +219,11 @@ Toutes les pièces ne se valent pas quand on parle de peindre du lino. Voici mon
 
 ## Sur le meme theme
 
-- [peindre sans poncer](/guides/decoration/peindre-sans-poncer/)
-- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
-- [enduire un mur en parpaing](/guides/decoration/comment-enduir-un-mur-en-parpaing/)
-- [comment recouvrir des parpaings](/guides/decoration/recouvrir-parpaings/)
-- [crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/)
+- [peindre sans poncer](/peindre-sans-poncer/)
+- [isolation dalle béton](/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [enduire un mur en parpaing](/comment-enduir-un-mur-en-parpaing/)
+- [comment recouvrir des parpaings](/recouvrir-parpaings/)
+- [crépir un mur intérieur](/crepir-un-mur-interieur/)
 
 ## Questions fréquentes
 

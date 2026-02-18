@@ -169,7 +169,7 @@ La table de nuit peut être remplacée par une étagère murale flottante si l'e
 Les crochets Shaker vissés sur le mur (style **Umbra**, environ 15-25€ la rangée chez Habitat ou Maisons du Monde) permettent de suspendre sacs, vêtements du lendemain, accessoires - sans meuble supplémentaire.
 
 > [!TIP]
-> Dans une petite chambre, pense aussi à la déco qui s'intègre dans le rangement. Des paniers en osier sur des étagères ouvertes, c'est beau ET fonctionnel. Jette un oeil à nos idées de [décoration terracotta pour chambre](/guides/chambre/deco-terracotta-chambre/) qui combinent esthétique et organisation.
+> Dans une petite chambre, pense aussi à la déco qui s'intègre dans le rangement. Des paniers en osier sur des étagères ouvertes, c'est beau ET fonctionnel. Jette un oeil à nos idées de [décoration terracotta pour chambre](/deco-terracotta-chambre/) qui combinent esthétique et organisation.
 
 ### Grande chambre (plus de 15m2)
 
@@ -181,9 +181,9 @@ Evite de remplir l'espace juste pour le remplir - une grande chambre bien organi
 
 Le rangement n'est pas incompatible avec une belle déco. Un espace ordonné met en valeur tes choix décoratifs au lieu de les noyer dans le désordre ambiant.
 
-Si tu réfléchis à renouveler le style de ta chambre en même temps que son organisation, les [tendances déco chambre 2026](/guides/chambre/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/) donnent de belles idées pour des espaces à la fois esthétiques et pratiques. Et si tu as un sol en parquet avec quelques taches, voici comment t'en occuper : [réparer un parquet taché](/guides/decoration/parquet-tache/) sans tout démonter.
+Si tu réfléchis à renouveler le style de ta chambre en même temps que son organisation, les [tendances déco chambre 2026](/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/) donnent de belles idées pour des espaces à la fois esthétiques et pratiques. Et si tu as un sol en parquet avec quelques taches, voici comment t'en occuper : [réparer un parquet taché](/parquet-tache/) sans tout démonter.
 
-Pour les chambres avec une vraie personnalité, l'organisation peut s'adapter à des univers très spécifiques - comme une [chambre Harry Potter](/guides/chambre/deco-chambre-harry-potter/) où le rangement fait partie du décor.
+Pour les chambres avec une vraie personnalité, l'organisation peut s'adapter à des univers très spécifiques - comme une [chambre Harry Potter](/deco-chambre-harry-potter/) où le rangement fait partie du décor.
 
 ```mermaid
 flowchart LR
@@ -220,7 +220,7 @@ Ranger sa chambre n'est pas une corvée à faire une fois pour toutes - c'est un
 
 ## Sur le meme theme
 
-- [chambre sans fenêtre](/guides/chambre/chambre-sans-fenetre/)
+- [chambre sans fenêtre](/chambre-sans-fenetre/)
 
 ## Questions fréquentes
 

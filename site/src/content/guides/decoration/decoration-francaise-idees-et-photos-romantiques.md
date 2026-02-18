@@ -22,7 +22,7 @@ On confond souvent la déco romantique à la française avec le style shabby chi
 </div>
 
 
-Ce n'est pas du tout le même registre qu'une [décoration marocaine moderne avec ses contrastes forts](/guides/decoration/decoration-marocaine-moderne-ou-classique/) ou qu'un salon contemporain très épuré. Ici, on est dans la douceur, la sensibilité, le détail qui fait sourire.
+Ce n'est pas du tout le même registre qu'une [décoration marocaine moderne avec ses contrastes forts](/decoration-marocaine-moderne-ou-classique/) ou qu'un salon contemporain très épuré. Ici, on est dans la douceur, la sensibilité, le détail qui fait sourire.
 
 > [!NOTE]
 > La décoration française romantique se distingue du shabby chic anglais par son ancrage dans le patrimoine : faïence de Quimper, toiles de Jouy, osier tressé, boiseries peintes. C'est une esthétique "terroir" élevée au rang d'art de vivre.
@@ -148,7 +148,7 @@ Dans un intérieur romantique, la lumière artificielle dure et froide est ton e
 
 **Les miroirs anciens** : ils doublent visuellement la lumière et ajoutent cette dimension mystérieuse et poétique. Un grand miroir en pied à cadre doré, une série de petits miroirs ronds en laiton vintage, ou un miroir ovale à fronton sculpté - cherche du côté de L'Atelier du Miroir ou directement en brocante.
 
-Ce registre lumineux doux se retrouve aussi dans certains [salons modernes et élégants](/guides/decoration/salons-modernes-et-elegants-2026/) qui mixent contemporain et éléments romantiques - preuve que les styles peuvent dialoguer.
+Ce registre lumineux doux se retrouve aussi dans certains [salons modernes et élégants](/salons-modernes-et-elegants-2026/) qui mixent contemporain et éléments romantiques - preuve que les styles peuvent dialoguer.
 
 ## Accessoires et détails : l'art du "juste ce qu'il faut"
 
@@ -190,7 +190,7 @@ flowchart LR
 
 **Les livres anciens.** En pile sur une table basse ou sur une étagère, des livres aux couvertures en cuir ou en tissu patiné participent directement à l'ambiance. Et si tu les ranges par couleurs (tons crème, beige, rose pâle), c'est encore plus beau.
 
-Ce style romantique partage certains codes avec la [décoration shabby chic](/guides/decoration/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/) - meubles patinés et palette douce - mais il est plus ancré dans l'héritage français : la toile de Jouy, la faïence, les objets de campagne.
+Ce style romantique partage certains codes avec la [décoration shabby chic](/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/) - meubles patinés et palette douce - mais il est plus ancré dans l'héritage français : la toile de Jouy, la faïence, les objets de campagne.
 
 ## Adapter le style pièce par pièce
 
@@ -234,8 +234,8 @@ Trust me, le style romantique à la française est l'un des moins onéreux à re
 
 ## Sur le meme theme
 
-- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
-- [décoration classique contemporaine](/guides/decoration/decoration-classique-20-images-et-idees-contemporaines/)
+- [décoration art déco](/50-idees-de-decoration-art-deco/)
+- [décoration classique contemporaine](/decoration-classique-20-images-et-idees-contemporaines/)
 
 ## Questions fréquentes
 

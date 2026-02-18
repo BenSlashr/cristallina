@@ -189,7 +189,7 @@ Tant que la porte est démontée, c'est le moment idéal pour vérifier les join
 - Tu sens des courants d'air le long de la porte fermée
 - De la condensation se forme sur le vitrage côté intérieur
 
-Des joints EPDM de remplacement coûtent entre 3 et 8 euros le mètre linéaire. Ils se clipsent dans la gorge du profilé aluminium, sans colle. Si ta véranda a plus de 8 ans et que tu n'as jamais changé les joints, c'est le bon moment. Ca prend 15 minutes de plus et ça améliore l'isolation de la pièce. Si tu veux aller plus loin sur le sujet de l'isolation, jette un oeil à notre guide sur [comment isoler une montée d'escalier](/guides/decoration/comment-isoler-une-montee-descalier/).
+Des joints EPDM de remplacement coûtent entre 3 et 8 euros le mètre linéaire. Ils se clipsent dans la gorge du profilé aluminium, sans colle. Si ta véranda a plus de 8 ans et que tu n'as jamais changé les joints, c'est le bon moment. Ca prend 15 minutes de plus et ça améliore l'isolation de la pièce. Si tu veux aller plus loin sur le sujet de l'isolation, jette un oeil à notre guide sur [comment isoler une montée d'escalier](/comment-isoler-une-montee-descalier/).
 
 > [!TIP]
 > Pour retirer un vieux joint EPDM récalcitrant, utilise un tournevis plat ou un vieux couteau à mastic. Chauffe-le légèrement au sèche-cheveux pour ramollir le caoutchouc, il viendra plus facilement.
@@ -213,7 +213,7 @@ Remplacer les roulettes, c'est bien. Faire en sorte qu'elles durent le plus long
 
 Cette routine te permet de détecter un problème avant qu'il ne s'aggrave. Un galet légèrement usé qui continue de tourner sur un rail sale va se dégrader deux fois plus vite et risque d'abîmer le rail en aluminium - et là, la réparation coûte beaucoup plus cher.
 
-Si tu t'intéresses à l'entretien des mécanismes de porte en général, notre article sur [les portes coulissantes chez Leroy Merlin](/guides/decoration/les-portes-coulissantes-disponible-chez-leroy-merlin/) te donnera des pistes complémentaires.
+Si tu t'intéresses à l'entretien des mécanismes de porte en général, notre article sur [les portes coulissantes chez Leroy Merlin](/les-portes-coulissantes-disponible-chez-leroy-merlin/) te donnera des pistes complémentaires.
 
 ## Combien ça coûte au total ?
 
@@ -229,7 +229,7 @@ Voici un récapitulatif réaliste des coûts pour un remplacement en mode DIY :
 
 Si tu fais appel à un professionnel (menuisier ou entreprise spécialisée comme Sud Roulettes Services), compte 80 à 150 euros main d'oeuvre comprise, déplacement inclus. C'est trois à cinq fois plus cher que de le faire toi-même, mais ça peut valoir le coup si ta porte est très lourde ou si le rail est endommagé.
 
-Pour les portes d'intérieur qui posent aussi des soucis, pense à consulter notre guide sur [comment verrouiller une porte intérieure](/guides/decoration/comment-verouiller-porte-interieur/) - tu y trouveras des conseils sur les mécanismes de portes en général.
+Pour les portes d'intérieur qui posent aussi des soucis, pense à consulter notre guide sur [comment verrouiller une porte intérieure](/comment-verouiller-porte-interieur/) - tu y trouveras des conseils sur les mécanismes de portes en général.
 
 ## Les erreurs à éviter
 
@@ -241,12 +241,12 @@ Quelques pièges classiques que je vois revenir souvent :
 - **Remplacer une seule roulette** : change toujours la paire. Si une roulette est morte, l'autre est en sursis. Tu t'épargneras un second démontage dans trois mois
 - **Utiliser de la graisse** au lieu du lubrifiant silicone : la graisse attire la poussière et finit par former une pâte abrasive dans le rail
 
-Pour le rangement de tes outils après l'intervention, notre article sur [les escaliers silencieux](/guides/decoration/escaliers-silencieux/) peut aussi t'inspirer pour l'entretien de ta maison en général.
+Pour le rangement de tes outils après l'intervention, notre article sur [les escaliers silencieux](/escaliers-silencieux/) peut aussi t'inspirer pour l'entretien de ta maison en général.
 
 
 ## Sur le meme theme
 
-- [décirer un meuble en bois](/guides/decoration/decirer-un-meuble-en-bois-les-astuces-pratiques/)
+- [décirer un meuble en bois](/decirer-un-meuble-en-bois-les-astuces-pratiques/)
 
 ## FAQ
 

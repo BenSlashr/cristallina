@@ -185,7 +185,7 @@ Une fois que tu as bouclé le financement, vient le moment choisi la douche. Et 
 
 C'est la solution la plus demandée dans le cadre des aides, et pour de bonnes raisons. Pas de rebord, entrée de plain-pied, entretien facile. Pour un résultat propre, compte entre 1 500 et 4 000 euros de travaux selon la taille et les finitions.
 
-Si tu veux aller plus loin dans la réflexion sur les revêtements, jette un oeil à notre guide sur le [carrelage pour douche italienne](/guides/salle-de-bain/carrelage-douche-italienne/) - il y a des options très efficaces pour les petits budgets.
+Si tu veux aller plus loin dans la réflexion sur les revêtements, jette un oeil à notre guide sur le [carrelage pour douche italienne](/carrelage-douche-italienne/) - il y a des options très efficaces pour les petits budgets.
 
 ### La douche avec bac à douche
 
@@ -200,7 +200,7 @@ Dans le cadre des aides pour l'adaptation, certains équipements sont pris en ch
 - Robinetterie thermostatique pour éviter les brûlures (Grohe, Hansgrohe, compter 200-400 euros)
 
 > [!TIP]
-> Pour une salle de bain complète avec une esthétique travaillée, regarde aussi notre guide sur le [meuble salle de bain béton ciré](/guides/salle-de-bain/meuble-salle-de-bain-beton-cire/) - un matériau moderne qui s'adapte très bien aux douches à l'italienne et qui coûte moins cher qu'on ne le croit.
+> Pour une salle de bain complète avec une esthétique travaillée, regarde aussi notre guide sur le [meuble salle de bain béton ciré](/meuble-salle-de-bain-beton-cire/) - un matériau moderne qui s'adapte très bien aux douches à l'italienne et qui coûte moins cher qu'on ne le croit.
 
 ## Les arnaques à éviter absolument
 
@@ -234,8 +234,8 @@ Avec MaPrimeAdapt' à 70 % pour les ménages modestes, une douche à l'italienne
 
 ## Sur le meme theme
 
-- [douches italiennes](/guides/salle-de-bain/douches-italiennes-idees/)
-- [receveur pour douche italienne](/guides/salle-de-bain/quel-receveur-pour-douche-italienne/)
+- [douches italiennes](/douches-italiennes-idees/)
+- [receveur pour douche italienne](/quel-receveur-pour-douche-italienne/)
 
 ## Questions fréquentes sur la douche à 1 euro
 
@@ -256,4 +256,4 @@ MaPrimeAdapt' est réservée aux propriétaires occupants. Un locataire doit obt
 
 ---
 
-Si tu envisages aussi de repenser d'autres espaces, notre guide sur la [baignoire japonaise](/guides/salle-de-bain/baignoire-japonaise/) peut t'intéresser - une alternative compacte et zen à la baignoire traditionnelle, qui peut aussi être financée dans certains cas par les aides à l'adaptation.
+Si tu envisages aussi de repenser d'autres espaces, notre guide sur la [baignoire japonaise](/baignoire-japonaise/) peut t'intéresser - une alternative compacte et zen à la baignoire traditionnelle, qui peut aussi être financée dans certains cas par les aides à l'adaptation.

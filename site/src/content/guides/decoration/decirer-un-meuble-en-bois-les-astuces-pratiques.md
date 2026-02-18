@@ -261,8 +261,8 @@ flowchart TD
 
 ## Sur le meme theme
 
-- [remplacer une roulette de véranda](/guides/decoration/remplacer-roulette-veranda/)
-- [table basse japonaise kotatsu](/guides/decoration/table-basse-japonaise-kotatsu/)
+- [remplacer une roulette de véranda](/remplacer-roulette-veranda/)
+- [table basse japonaise kotatsu](/table-basse-japonaise-kotatsu/)
 
 ## FAQ - Décirer un meuble en bois
 

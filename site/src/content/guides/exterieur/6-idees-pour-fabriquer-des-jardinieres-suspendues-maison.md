@@ -23,7 +23,7 @@ Suspendre ses plantes, c'est une solution pratique pour les petits espaces, les 
 
 - **Gagner de la place au sol.** Sur un balcon de 3 m2, trois pots suspendus libèrent l'espace pour une table et une chaise.
 - **Protéger les plantes.** Chats, chiens, limaces : en hauteur, tes plantes sont tranquilles.
-- **Créer du volume visuel.** Des plantes à différentes hauteurs donnent de la profondeur. Les [jardins verticaux](/guides/exterieur/jardins-verticaux-de-40-photos-dinspiration-verte/) poussent le concept encore plus loin.
+- **Créer du volume visuel.** Des plantes à différentes hauteurs donnent de la profondeur. Les [jardins verticaux](/jardins-verticaux-de-40-photos-dinspiration-verte/) poussent le concept encore plus loin.
 - **Mieux capter la lumière.** Près d'une fenêtre haute, une suspension capte un ensoleillement que les plantes au sol n'atteignent pas.
 
 > [!TIP]
@@ -158,7 +158,7 @@ Si tu aimes les travaux manuels, cette idée va te plaire. Tu modèles des petit
 
 **Temps :** 1 heure (modelage + cuisson). **Coût total : 8 à 12 euros pour 3 cornets.**
 
-Pour enrichir ce genre de projet créatif, tu peux aussi jeter un oeil au guide sur [comment réaliser des fleurs en tissu ou en papier](/guides/decoration/comment-realiser-des-fleurs-en-tissu-ou-en-papier-etape-par-etape/) et combiner les deux pour une déco murale végétale et artisanale.
+Pour enrichir ce genre de projet créatif, tu peux aussi jeter un oeil au guide sur [comment réaliser des fleurs en tissu ou en papier](/comment-realiser-des-fleurs-en-tissu-ou-en-papier-etape-par-etape/) et combiner les deux pour une déco murale végétale et artisanale.
 
 ---
 
@@ -259,7 +259,7 @@ Il faut des espèces à port retombant ou compact, qui tolèrent un volume de te
 
 **En extérieur :** pétunias retombants Surfinia (3 euros le godet), lierre, fraisiers remontants (5 euros les 4 plants), lobélia retombant.
 
-Si tu veux intégrer tes suspensions dans un aménagement plus large, le guide pour [créer un jardin zen en 7 étapes](/guides/exterieur/comment-creer-un-jardin-zen-en-7-etapes/) donne de bonnes pistes.
+Si tu veux intégrer tes suspensions dans un aménagement plus large, le guide pour [créer un jardin zen en 7 étapes](/comment-creer-un-jardin-zen-en-7-etapes/) donne de bonnes pistes.
 
 ---
 
@@ -286,8 +286,8 @@ Si tu veux intégrer tes suspensions dans un aménagement plus large, le guide p
 
 ## Sur le meme theme
 
-- [diy jardinière](/guides/exterieur/diy-jardiniere/)
-- [serre tunnel](/guides/exterieur/installer-serre-tunnel/)
+- [diy jardinière](/diy-jardiniere/)
+- [serre tunnel](/installer-serre-tunnel/)
 
 ## FAQ
 

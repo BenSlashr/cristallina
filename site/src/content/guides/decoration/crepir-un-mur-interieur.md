@@ -205,7 +205,7 @@ Quelques pièges dans lesquels presque tout le monde tombe au moins une fois :
 
 **Oublier de protéger le sol et les meubles.** Le crépi est très difficile à enlever une fois sec sur un parquet ou une toile de canapé. Prends 15 minutes pour bien protéger avant de commencer - tu me remercieras plus tard.
 
-Si ta maison a des murs en parpaings que tu cherches à habiller, crépir est une alternative intéressante à [recouvrir les parpaings avec d'autres revêtements](/guides/decoration/recouvrir-parpaings/) - les deux techniques sont complémentaires selon l'effet que tu recherches.
+Si ta maison a des murs en parpaings que tu cherches à habiller, crépir est une alternative intéressante à [recouvrir les parpaings avec d'autres revêtements](/recouvrir-parpaings/) - les deux techniques sont complémentaires selon l'effet que tu recherches.
 
 ## Comment rénover un crépi existant ?
 
@@ -223,9 +223,9 @@ Tu as déjà du crépi mais il est abîmé, jauni ou simplement daté ? Pas beso
 
 ## Sur le meme theme
 
-- [enduire un mur en parpaing](/guides/decoration/comment-enduir-un-mur-en-parpaing/)
-- [pistolet à calfeutrer](/guides/decoration/pistolet-a-calfeutrer/)
-- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [enduire un mur en parpaing](/comment-enduir-un-mur-en-parpaing/)
+- [pistolet à calfeutrer](/pistolet-a-calfeutrer/)
+- [isolation dalle béton](/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
 
 ## Quelques inspirations déco avec le crépi
 
@@ -235,7 +235,7 @@ Le crépi intérieur revient fort dans les tendances déco 2025-2026. Quelques i
 
 **Le crépi peint en couleur.** Un crépi taloché peint en terracotta, vert sauge ou bleu denim donne une profondeur de couleur qu'une peinture classique ne peut pas reproduire. L'irrégularité de la surface crée des variations lumineuses très organiques.
 
-**L'effet béton.** Un crépi fin gris clair, taloché en finition lisse, imite l'effet béton ciré à une fraction du prix. Avec [un sol en lino peint](/guides/decoration/peindre-lino/) dans la même palette, le résultat est vraiment bluffant.
+**L'effet béton.** Un crépi fin gris clair, taloché en finition lisse, imite l'effet béton ciré à une fraction du prix. Avec [un sol en lino peint](/peindre-lino/) dans la même palette, le résultat est vraiment bluffant.
 
 **Le crépi brut nature.** Laissé sans peinture, en beige naturel ou blanc cassé, le crépi apporte une texture artisanale très en accord avec les tendances wabi-sabi et décoration naturelle du moment.
 

@@ -81,7 +81,7 @@ Toutes les plantes ne rentrent pas dans un décor moderne. Il faut des silhouett
 
 ### Les moyennes architecturales (50 cm a 1 m)
 
-- **Monstera deliciosa** : Feuilles découpées iconiques, pousse rapide, s'adapte a la mi-ombre. 20 a 40 EUR en jardinerie. Le [scindapsus pictus](/guides/decoration/entretenir-du-scindapsus-pictus-la-plante-robuste-qui-a-tout-pour-plaire/) est un bon complément pour les zones moins lumineuses.
+- **Monstera deliciosa** : Feuilles découpées iconiques, pousse rapide, s'adapte a la mi-ombre. 20 a 40 EUR en jardinerie. Le [scindapsus pictus](/entretenir-du-scindapsus-pictus-la-plante-robuste-qui-a-tout-pour-plaire/) est un bon complément pour les zones moins lumineuses.
 - **Sansevieria** (langue de belle-mère) : Feuilles verticales en lames, quasi indestructible. Parfaite dans un pot en métal noir. 15 a 25 EUR.
 - **Zamioculcas** : Tiges charnues, feuillage brillant, supporte l'ombre et l'oubli d'arrosage. 15 a 30 EUR.
 
@@ -113,7 +113,7 @@ Une étagère échelle ouverte contre un mur (type IKEA Satsumas a 40 EUR ou Mai
 
 ### 3. Le mur végétal cadré
 
-Un cadre végétal stabilisé de 60 x 40 cm accroché comme un tableau. Pas d'arrosage, pas d'entretien - la mousse et les plantes sont conservées naturellement. Flowerbox propose des cadres a partir de 90 EUR. C'est parfait au-dessus d'un canapé ou dans une entrée. Pour aller plus loin, jette un oeil aux [jardins verticaux](/guides/exterieur/jardins-verticaux-de-40-photos-dinspiration-verte/) qui offrent encore plus de possibilités.
+Un cadre végétal stabilisé de 60 x 40 cm accroché comme un tableau. Pas d'arrosage, pas d'entretien - la mousse et les plantes sont conservées naturellement. Flowerbox propose des cadres a partir de 90 EUR. C'est parfait au-dessus d'un canapé ou dans une entrée. Pour aller plus loin, jette un oeil aux [jardins verticaux](/jardins-verticaux-de-40-photos-dinspiration-verte/) qui offrent encore plus de possibilités.
 
 ### 4. Le terrarium XXL
 
@@ -172,7 +172,7 @@ Le jardin intérieur moderne n'est pas qu'un objet décoratif. Il s'intègre dan
 
 **Bureau.** Deux ou trois petites plantes (pilea, succulentes, petite fougère) sur le bureau réduisent le stress et améliorent la concentration. Plusieurs études menées par l'Université d'Exeter montrent une hausse de 15 % de productivité dans les bureaux végétalisés.
 
-Pour un aménagement extérieur qui prolonge cette atmosphère, découvre les [cours et jardins d'inspiration mexicaine](/guides/exterieur/jardins-et-cours-mexicains-images-et-idees-pour-linspiration/) ou les [jardins zen](/guides/exterieur/comment-creer-un-jardin-zen-en-7-etapes/).
+Pour un aménagement extérieur qui prolonge cette atmosphère, découvre les [cours et jardins d'inspiration mexicaine](/jardins-et-cours-mexicains-images-et-idees-pour-linspiration/) ou les [jardins zen](/comment-creer-un-jardin-zen-en-7-etapes/).
 
 ## Entretien simplifié : la routine qui marche
 
@@ -192,7 +192,7 @@ Le piège classique du jardin d'intérieur, c'est l'arrosage. Soit on noie les p
 
 ## Sur le meme theme
 
-- [conteneur maritime au jardin](/guides/exterieur/comment-transformer-votre-jardin-avec-un-conteneur-maritime/)
+- [conteneur maritime au jardin](/comment-transformer-votre-jardin-avec-un-conteneur-maritime/)
 
 ## FAQ - Jardins intérieurs modernes
 

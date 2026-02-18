@@ -108,7 +108,7 @@ Le salon, c'est la pièce où le vintage prend tout son sens. L'espace de vie, l
 
 **Le tapis berbère.** Pas vintage au sens strict, mais il se marie avec tous les styles d'époque. Les motifs géométriques des tapis Beni Ouarain s'accordent aussi bien avec du mid-century qu'avec du 70s. Budget : 150-500 euros selon la taille.
 
-Pour un mix réussi entre ancien et actuel, tu peux aussi t'inspirer du [style Art Déco](/guides/decoration/50-idees-de-decoration-art-deco/) qui partage avec le vintage ce goût pour les lignes marquées et les matériaux nobles.
+Pour un mix réussi entre ancien et actuel, tu peux aussi t'inspirer du [style Art Déco](/50-idees-de-decoration-art-deco/) qui partage avec le vintage ce goût pour les lignes marquées et les matériaux nobles.
 
 ## La cuisine vintage : couleurs et convivialité
 
@@ -130,7 +130,7 @@ La cuisine est un terrain de jeu formidable pour le vintage. C'est souvent là q
 
 ## La chambre et les autres pièces : inspiration par espace
 
-**La chambre.** Un lit en laiton ou en fer forgé avec une tête de lit travaillée (200-500 euros en brocante), une table de chevet qui était autrefois un tabouret d'atelier, une commode scandinave des années 60. Côté textiles, joue sur les motifs floraux et les couleurs moutarde ou terracotta pour une ambiance 70s cosy. Si tu cherches aussi un style déco avec du caractère pour ta chambre, le [style shabby chic](/guides/decoration/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/) se marie très bien avec le vintage.
+**La chambre.** Un lit en laiton ou en fer forgé avec une tête de lit travaillée (200-500 euros en brocante), une table de chevet qui était autrefois un tabouret d'atelier, une commode scandinave des années 60. Côté textiles, joue sur les motifs floraux et les couleurs moutarde ou terracotta pour une ambiance 70s cosy. Si tu cherches aussi un style déco avec du caractère pour ta chambre, le [style shabby chic](/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/) se marie très bien avec le vintage.
 
 <div class="my-8">
   <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237262325.jpg" alt="Decoration vintage 50 images et idees pour linspiration - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
@@ -173,7 +173,7 @@ flowchart LR
 
 **Les matériaux comme lien.** Le bois, le laiton, le velours, le lin - ces matières traversent les décennies. Un meuble 70s en teck s'associe naturellement à un canapé contemporain en lin. Le laiton d'un luminaire vintage dialogue avec des poignées de porte modernes dans le même métal.
 
-La [décoration française romantique](/guides/decoration/decoration-francaise-idees-et-photos-romantiques/) partage cette approche du mélange maîtrisé - et certaines de ses astuces s'appliquent aussi au vintage.
+La [décoration française romantique](/decoration-francaise-idees-et-photos-romantiques/) partage cette approche du mélange maîtrisé - et certaines de ses astuces s'appliquent aussi au vintage.
 
 > [!IMPORTANT]
 > Évite de mélanger plus de deux décennies vintage dans une même pièce. Années 50 + 70, c'est risqué visuellement. En revanche, 60s + 70s ou 50s + 60s, ça fonctionne parce que les transitions stylistiques sont progressives.
@@ -191,7 +191,7 @@ Voici les meilleurs spots pour trouver du vintage de qualité sans exploser ton 
 | Brocantes de village | Trouvailles imprévisibles | 5-300 euros |
 | Puces de Saint-Ouen | Pièces rares, mobilier design | 100-5000 euros |
 
-Le [mobilier métallique vintage](/guides/decoration/mobilier-metallique-vintage-pour-un-interieur-de-caractere/) est aussi une piste intéressante si tu cherches des pièces de caractère avec un budget maîtrisé.
+Le [mobilier métallique vintage](/mobilier-metallique-vintage-pour-un-interieur-de-caractere/) est aussi une piste intéressante si tu cherches des pièces de caractère avec un budget maîtrisé.
 
 **Astuces de chineur expérimenté :**
 
@@ -216,7 +216,7 @@ L'upcycling, c'est l'art de transformer un objet abîmé en pièce déco. Et c'e
 
 ## Sur le meme theme
 
-- [décoration classique contemporaine](/guides/decoration/decoration-classique-20-images-et-idees-contemporaines/)
+- [décoration classique contemporaine](/decoration-classique-20-images-et-idees-contemporaines/)
 
 ## FAQ
 

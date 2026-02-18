@@ -183,7 +183,7 @@ Les solutions de ventilation :
 
 Si tu cultives des tomates sous serre tunnel (et c'est souvent le projet numéro un), la ventilation est ta priorité. Les tomates détestent l'humidité stagnante - c'est la porte ouverte au mildiou.
 
-Si tu veux aller plus loin dans l'aménagement de ton jardin, jette un oeil à nos idées pour [créer un jardin zen](/guides/exterieur/comment-creer-un-jardin-zen-en-7-etapes/) ou pour [aménager une terrasse sécurisée](/guides/exterieur/renovez-votre-terrasse-pour-la-securite/) juste à côté de ta serre.
+Si tu veux aller plus loin dans l'aménagement de ton jardin, jette un oeil à nos idées pour [créer un jardin zen](/comment-creer-un-jardin-zen-en-7-etapes/) ou pour [aménager une terrasse sécurisée](/renovez-votre-terrasse-pour-la-securite/) juste à côté de ta serre.
 
 ## Entretien et durée de vie
 
@@ -203,7 +203,7 @@ Une serre tunnel bien entretenue dure 8 à 15 ans pour la structure, et 3 à 5 a
 4. **Poser la serre sur un terrain non préparé.** L'herbe sous la serre va pourrir, créer de l'humidité et attirer les limaces. Désherbe, nivelle, et pose un paillage au sol (toile tissée à 0,50 euro le m2 chez Brico Dépôt).
 5. **Sous-dimensionner l'ancrage.** Les petits piquets en plastique fournis avec les kits pas chers, c'est décoratif. Investis dans du vrai ancrage métallique.
 
-Pour le sol à l'intérieur de ta serre, tu peux t'inspirer des techniques de [pose de bordures sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/) pour délimiter tes espaces de culture. Et si tu veux bricoler une [jardinière maison](/guides/exterieur/diy-jardiniere/) pour mettre devant l'entrée, c'est un joli complément.
+Pour le sol à l'intérieur de ta serre, tu peux t'inspirer des techniques de [pose de bordures sans béton](/poser-bordure-jardin-sans-beton/) pour délimiter tes espaces de culture. Et si tu veux bricoler une [jardinière maison](/diy-jardiniere/) pour mettre devant l'entrée, c'est un joli complément.
 
 ## Budget total réaliste
 
@@ -226,7 +226,7 @@ Un investissement qui se rentabilise vite : une famille de 4 personnes économis
 
 ## Sur le meme theme
 
-- [jardinières suspendues diy](/guides/exterieur/6-idees-pour-fabriquer-des-jardinieres-suspendues-maison/)
+- [jardinières suspendues diy](/6-idees-pour-fabriquer-des-jardinieres-suspendues-maison/)
 
 ## FAQ
 

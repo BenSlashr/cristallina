@@ -22,7 +22,7 @@ Le doré n'a jamais vraiment disparu. Mais depuis quelques années, il s'est com
 </div>
 
 
-Ce changement tient à deux tendances de fond. D'abord, le retour du style classique français et des influences romantiques dans la déco (les [appartements modernes](/guides/decoration/appartements-modernes-60-photos-et-conseils-de-decoration/) eux-mêmes intègrent des touches de doré sans complexe). Ensuite, l'émergence des matériaux mats : un robinet doré brossé dans une salle de bain en béton ciré, ça fait une combinaison que même les plus réticents trouvent belle.
+Ce changement tient à deux tendances de fond. D'abord, le retour du style classique français et des influences romantiques dans la déco (les [appartements modernes](/appartements-modernes-60-photos-et-conseils-de-decoration/) eux-mêmes intègrent des touches de doré sans complexe). Ensuite, l'émergence des matériaux mats : un robinet doré brossé dans une salle de bain en béton ciré, ça fait une combinaison que même les plus réticents trouvent belle.
 
 > [!NOTE]
 > Le doré "or brossé" (aussi appelé PVD or dans les catalogues de robinetterie) donne un rendu mat et chaleureux, très différent du laiton brillant des années 80. C'est cette finition qu'on retrouve chez Grohe, Hansgrohe ou encore IKEA dans sa gamme TÖRNVIKEN.
@@ -161,7 +161,7 @@ Pour les appliques murales, la marque Gubi propose de très belles choses autour
 
 ### Les cadres et miroirs dorés
 
-Un miroir avec un cadre doré au-dessus d'une cheminée ou dans une entrée, c'est un classique qui ne vieillit pas. Et c'est une des applications les plus cohérentes avec le style [décoration française romantique](/guides/decoration/decoration-francaise-idees-et-photos-romantiques/) qui revient très fort en ce moment.
+Un miroir avec un cadre doré au-dessus d'une cheminée ou dans une entrée, c'est un classique qui ne vieillit pas. Et c'est une des applications les plus cohérentes avec le style [décoration française romantique](/decoration-francaise-idees-et-photos-romantiques/) qui revient très fort en ce moment.
 
 - **Miroir "Baroque" Maisons du Monde** : cadre doré sculpté, 120-220 € selon la taille
 - **IKEA SÖDERHAMN** avec cadre personnalisé : le miroir de base à 30 € peut être transformé avec de la feuille d'or et du vernis
@@ -218,7 +218,7 @@ graph TD
     classDef secondaire fill:#141D30,stroke:#8B5CF6,color:#F1F5F9
 ```
 
-**Doré + bleu marine** : une des combinaisons les plus élégantes, style marin chic. Pense aux [couleurs du salon 2026](/guides/decoration/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) où le bleu profond avec touches dorées est très présent.
+**Doré + bleu marine** : une des combinaisons les plus élégantes, style marin chic. Pense aux [couleurs du salon 2026](/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) où le bleu profond avec touches dorées est très présent.
 
 **Doré + vert sauge** : tendance nature, très populaire pour les cuisines et salons. Le vert tempère la chaleur du doré.
 
@@ -244,13 +244,13 @@ Quelques pièges que je vois souvent :
 
 ## Sur le meme theme
 
-- [décoration minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/)
+- [décoration minimaliste](/decoration-minimaliste-idees-et-photos-faciles/)
 
 ## Inspiration : 3 ambiances dorées qui fonctionnent
 
 **Ambiance 1 - Bibliothèque chic** : mur d'accent vert bouteille, bibliothèque bois foncé avec détails dorés, fauteuil en velours ocre, lampe laiton. Budget estimé pour refaire le coin lecture : 400-800 €.
 
-**Ambiance 2 - Chambre romantique** : tête de lit velours bleu nuit, appliques murales dorées symétriques, miroir cadre doré, coussins brodés fil d'or. Cohérent avec les tendances [décoration chambre 2026](/guides/chambre/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/), où l'alliance bleu/or est très présente. Budget : 300-600 € selon les marques choisies.
+**Ambiance 2 - Chambre romantique** : tête de lit velours bleu nuit, appliques murales dorées symétriques, miroir cadre doré, coussins brodés fil d'or. Cohérent avec les tendances [décoration chambre 2026](/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/), où l'alliance bleu/or est très présente. Budget : 300-600 € selon les marques choisies.
 
 **Ambiance 3 - Salle à manger dramatique** : mur sombre (noir ou vert profond), suspension Tom Dixon laiton, table en chêne massif, chaises cannées avec pieds dorés. Budget : 800-2000 € selon la taille de la pièce.
 

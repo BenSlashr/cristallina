@@ -177,10 +177,10 @@ Si tu décides de te lancer dans la peinture, voilà une sélection de nuances c
 
 ## Sur le meme theme
 
-- [déco pop chambre](/guides/chambre/guide-pour-une-deco-pop-dans-la-chambre-a-coucher/)
-- [chambre style jungle](/guides/chambre/decorer-une-chambre-dans-un-style-jungle/)
-- [déco chambre harry potter](/guides/chambre/deco-chambre-harry-potter/)
-- [chambre adulte à deux teintes](/guides/chambre/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes/)
+- [déco pop chambre](/guide-pour-une-deco-pop-dans-la-chambre-a-coucher/)
+- [chambre style jungle](/decorer-une-chambre-dans-un-style-jungle/)
+- [déco chambre harry potter](/deco-chambre-harry-potter/)
+- [chambre adulte à deux teintes](/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes/)
 
 ## Budget et priorités : par où commencer ?
 
@@ -198,4 +198,4 @@ L'éclairage, en parlant de ça, c'est souvent ce qui manque dans une chambre te
 
 Une chambre terracotta réussie, c'est une chambre qui te donne envie de t'y poser, de lire un livre, de te coucher tôt. C'est exactement la mission de cette couleur - créer un espace qui ressemble à un vrai repos plutôt qu'à une salle de passage. Et avec les bonnes nuances et les bonnes associations, tu peux y arriver quel que soit ton budget.
 
-Pour aller plus loin dans l'aménagement de ta chambre, jette un oeil à notre article sur les [tendances déco chambre 2026](/guides/chambre/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/) - le terracotta y figure en bonne place parmi les couleurs de l'année.
+Pour aller plus loin dans l'aménagement de ta chambre, jette un oeil à notre article sur les [tendances déco chambre 2026](/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/) - le terracotta y figure en bonne place parmi les couleurs de l'année.

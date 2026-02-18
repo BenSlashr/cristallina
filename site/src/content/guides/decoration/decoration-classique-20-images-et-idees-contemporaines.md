@@ -216,14 +216,14 @@ flowchart LR
 
 Le style classique contemporain a un gros avantage : tu peux le construire progressivement. Commence par un ou deux éléments forts (un miroir doré, un canapé en velours), et ajoute des pièces au fil du temps. Ce n'est pas un style qui demande de tout changer d'un coup.
 
-Si tu veux explorer d'autres registres qui dialoguent bien avec le classique contemporain, le style [décoration française romantique](/guides/decoration/decoration-francaise-idees-et-photos-romantiques/) partage cette même sensibilité pour les matières nobles et les éléments hérités. Et pour un mélange plus audacieux, la [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/) joue aussi sur le contraste entre opulence et géométrie moderne. Tu peux aussi aller chercher du côté du [shabby chic](/guides/decoration/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/) pour des inspirations plus patinées, ou voir comment les [salons modernes et élégants de 2026](/guides/decoration/salons-modernes-et-elegants-2026/) intègrent des touches classiques.
+Si tu veux explorer d'autres registres qui dialoguent bien avec le classique contemporain, le style [décoration française romantique](/decoration-francaise-idees-et-photos-romantiques/) partage cette même sensibilité pour les matières nobles et les éléments hérités. Et pour un mélange plus audacieux, la [décoration art déco](/50-idees-de-decoration-art-deco/) joue aussi sur le contraste entre opulence et géométrie moderne. Tu peux aussi aller chercher du côté du [shabby chic](/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/) pour des inspirations plus patinées, ou voir comment les [salons modernes et élégants de 2026](/salons-modernes-et-elegants-2026/) intègrent des touches classiques.
 
 ---
 
 
 ## Sur le meme theme
 
-- [décoration africaine](/guides/decoration/decoration-africaine-50-photos-et-idees/)
+- [décoration africaine](/decoration-africaine-50-photos-et-idees/)
 
 ## Questions fréquentes
 

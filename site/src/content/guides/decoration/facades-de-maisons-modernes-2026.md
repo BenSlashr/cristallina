@@ -99,7 +99,7 @@ Le noir mat reste safe et moderne, mais ce qui monte vraiment c'est le terracott
 
 Pour les couleurs plus claires, le blanc cassé (creamy white) et le gris lin restent très demandés - parfaits pour les facades avec reliefs, parce que les jeux d'ombre et de lumière ressortent bien sur ces teintes neutres.
 
-Si tu veux aller plus loin sur la question des couleurs pour tes extérieurs, j'ai fait un article entier là-dessus : [couleurs pour les facades et extérieurs de maisons en 2026](/guides/exterieur/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) avec des palettes et des combinaisons testées.
+Si tu veux aller plus loin sur la question des couleurs pour tes extérieurs, j'ai fait un article entier là-dessus : [couleurs pour les facades et extérieurs de maisons en 2026](/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) avec des palettes et des combinaisons testées.
 
 ## Les styles architecturaux qui dominent
 
@@ -116,7 +116,7 @@ L'idée : la maison doit avoir l'air d'appartenir à son environnement, pas d'at
 
 ### La maison container réinventée
 
-La maison container a beaucoup évolué. Ce n'est plus l'empilement de boîtes métalliques "brut de chantier" - c'est devenu une architecture sophistiquée avec des facades habillées, des extensions vitrées et des aménagements très soignés. Si tu es curieuse de ce concept, j'en parle en détail dans mon article sur la [maison container et son architecture moderne](/guides/decoration/maison-container/).
+La maison container a beaucoup évolué. Ce n'est plus l'empilement de boîtes métalliques "brut de chantier" - c'est devenu une architecture sophistiquée avec des facades habillées, des extensions vitrées et des aménagements très soignés. Si tu es curieuse de ce concept, j'en parle en détail dans mon article sur la [maison container et son architecture moderne](/maison-container/).
 
 ### L'architecture bioclimatique visible
 
@@ -167,7 +167,7 @@ Ce sont souvent les petits éléments qu'on ne voit pas sur les photos larges qu
 
 **La végétation intégrée** : Les murs végétaux de facade, les grimpantes guidées sur des structures métalliques, les jardins de devant soignés - le végétal fait partie de la composition architecturale de la facade.
 
-Si tu t'intéresses aux maisons modernes avec ces détails soignés, j'ai compilé des photos et exemples dans mon article sur les [maisons modernes 2026 : images d'extérieur et d'intérieur](/guides/exterieur/maisons-modernes-2026-images-dexterieur-et-dinterieur/) - il y a de vrais cas concrets inspirants.
+Si tu t'intéresses aux maisons modernes avec ces détails soignés, j'ai compilé des photos et exemples dans mon article sur les [maisons modernes 2026 : images d'extérieur et d'intérieur](/maisons-modernes-2026-images-dexterieur-et-dinterieur/) - il y a de vrais cas concrets inspirants.
 
 ## Rénovation vs construction neuve : les contraintes à connaître
 
@@ -181,8 +181,8 @@ Pour une construction neuve, tout passe par le permis de construire - et ton arc
 
 ## Sur le meme theme
 
-- [salons modernes et élégants 2026](/guides/decoration/salons-modernes-et-elegants-2026/)
-- [maisons modernes en adobe](/guides/exterieur/maisons-modernes-en-adobe-images-dinterieurs-et-dexterieurs/)
+- [salons modernes et élégants 2026](/salons-modernes-et-elegants-2026/)
+- [maisons modernes en adobe](/maisons-modernes-en-adobe-images-dinterieurs-et-dexterieurs/)
 
 ## FAQ
 

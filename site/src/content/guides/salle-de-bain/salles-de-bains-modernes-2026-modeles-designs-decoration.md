@@ -86,7 +86,7 @@ Les matériaux naturels et nobles ont le vent en poupe. Marbre, pierre, béton c
 
 **Le marbre** reste une valeur sûre. Blanc avec des veines grises ou noires pour le classique, mais en 2026 on voit aussi du marbre vert, du marbre nude avec des veines dorées. Si le vrai marbre dépasse ton budget, les grandes marques de carrelage comme Porcelanosa ou Marazzi proposent des faïences effet marbre vraiment convaincantes entre 40 et 80 € le m2.
 
-**Le béton ciré** continue sa progression. Il convient parfaitement aux vasques, aux meubles et aux murs. L'avantage : il s'applique sur n'importe quelle surface existante, ce qui en fait une option rénovation intéressante. Compte 80-150 € le m2 en incluant la main d'oeuvre. Si tu veux te lancer en DIY, des kits Béton Ciré Leroy Merlin existent autour de 50-80 € pour une petite surface - je te montre comment faire dans notre guide sur les [meubles salle de bain en béton ciré](/guides/salle-de-bain/meuble-salle-de-bain-beton-cire/).
+**Le béton ciré** continue sa progression. Il convient parfaitement aux vasques, aux meubles et aux murs. L'avantage : il s'applique sur n'importe quelle surface existante, ce qui en fait une option rénovation intéressante. Compte 80-150 € le m2 en incluant la main d'oeuvre. Si tu veux te lancer en DIY, des kits Béton Ciré Leroy Merlin existent autour de 50-80 € pour une petite surface - je te montre comment faire dans notre guide sur les [meubles salle de bain en béton ciré](/meuble-salle-de-bain-beton-cire/).
 
 **La pierre naturelle** (ardoise, travertin, calcaire) apporte une texture authentique qu'aucune imitation ne remplace vraiment. Elle demande un entretien régulier (une imprégnation par an), mais le rendu est incomparable.
 
@@ -106,7 +106,7 @@ Pour les carrelages de douche italienne, les tendances pointent vers :
 - Les zelliges manuels marocains pour un look plus artisanal
 - Le carrelage blanc brillant en format rectangulaire "métro" pour un style intemporel
 
-Pour entrer dans les détails des choix de carrelage, j'ai écrit un guide complet sur le [carrelage pour douche italienne](/guides/salle-de-bain/carrelage-douche-italienne/) avec les prix et les pièges à éviter.
+Pour entrer dans les détails des choix de carrelage, j'ai écrit un guide complet sur le [carrelage pour douche italienne](/carrelage-douche-italienne/) avec les prix et les pièges à éviter.
 
 > [!WARNING]
 > Pour une douche italienne, ne lésine pas sur l'étanchéité. Une bonne membrane d'étanchéité (Schluter Kerdi ou Mapei) c'est 200-400 € de matériau supplémentaire, mais ça peut t'éviter des dégâts des eaux catastrophiques. C'est le poste où tu ne dois vraiment pas chercher à économiser.
@@ -126,7 +126,7 @@ Pour entrer dans les détails des choix de carrelage, j'ai écrit un guide compl
 
 **Les WC lavants** (Washlets japonais style Toto, ou plus accessible la marque Geberit) arrivent enfin en France. Hygiéniques, économiques en papier WC - les Japonais ont raison depuis 30 ans.
 
-Pour les équipements plus exotiques comme la baignoire japonaise (encastrée, profonde, rituels de bain asiatiques), j'ai un guide dédié sur la [baignoire japonaise](/guides/salle-de-bain/baignoire-japonaise/) si tu es curieuse.
+Pour les équipements plus exotiques comme la baignoire japonaise (encastrée, profonde, rituels de bain asiatiques), j'ai un guide dédié sur la [baignoire japonaise](/baignoire-japonaise/) si tu es curieuse.
 
 ```mermaid
 flowchart LR
@@ -155,7 +155,7 @@ flowchart LR
 
 Ce style se caractérise par : du métal noir mat (tubulures apparentes, radiateurs sèche-serviettes en acier noir), du béton ou de la pierre brute, des carrelages métro blancs, et beaucoup de verre. Le tout avec un éclairage de type ampoules filament Edison.
 
-Pour en savoir plus sur ce style et comment le décliner chez toi, le guide [salle de bain industrielle](/guides/salle-de-bain/salle-de-bain-industrielle/) couvre tous les détails - avec des exemples à différents budgets.
+Pour en savoir plus sur ce style et comment le décliner chez toi, le guide [salle de bain industrielle](/salle-de-bain-industrielle/) couvre tous les détails - avec des exemples à différents budgets.
 
 > [!TIP]
 > Le secret pour que le style industriel ne soit pas trop froid : ajouter des éléments naturels (plantes, bois brut, serviettes en coton écru). Le contraste métal froid + matière naturelle chaude, c'est ce qui rend ce style vivable au quotidien.
@@ -215,7 +215,7 @@ La salle de bain idéale en 2026, c'est celle qui te ressemble vraiment. Pas cel
 
 ## Sur le meme theme
 
-- [plantes salle de bains](/guides/salle-de-bain/plantes-salle-de-bains/)
+- [plantes salle de bains](/plantes-salle-de-bains/)
 
 ## FAQ
 

@@ -147,11 +147,11 @@ flowchart LR
 
 ## Sur le meme theme
 
-- [plateau multifonction ikea](/guides/shopping/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
-- [étagère murale ikea](/guides/shopping/ikea-frappe-fort-avec-cette-etagere-design-et-tres-pratique-qui-saccroche-au-mur-tres-facilement/)
-- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
-- [chambre adulte à deux teintes](/guides/chambre/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes/)
-- [canapé ikea 2 places](/guides/decoration/ikea-frappe-fort-avec-son-nouveau-canape-2-places-parfait-pour-les-petits-salons/)
+- [plateau multifonction ikea](/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
+- [étagère murale ikea](/ikea-frappe-fort-avec-cette-etagere-design-et-tres-pratique-qui-saccroche-au-mur-tres-facilement/)
+- [changer les portes d'une cuisine ikea faktum](/changer-portes-cuisines-ikea-faktum/)
+- [chambre adulte à deux teintes](/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes/)
+- [canapé ikea 2 places](/ikea-frappe-fort-avec-son-nouveau-canape-2-places-parfait-pour-les-petits-salons/)
 
 <div class="my-8">
   <img src="/images/pinterest-couleur-salon-2026-peinture-tendance-palette-d-co-1771236057121.jpg" alt="Ikea frappe tres fort avec sa table ronde minimaliste en deux couleurs - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />

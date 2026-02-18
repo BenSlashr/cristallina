@@ -248,7 +248,7 @@ Pour encore plus d'inspiration sur les tendances actuelles, découvre aussi mon 
 
 ## Sur le meme theme
 
-- [décoration petit salon](/guides/decoration/decoration-petit-salon/)
+- [décoration petit salon](/decoration-petit-salon/)
 
 ## FAQ
 

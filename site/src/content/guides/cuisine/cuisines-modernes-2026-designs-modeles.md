@@ -37,13 +37,13 @@ Le style industriel n'a pas disparu, il a mûri. En 2026, on ne parle plus de co
 
 Chez Mobalpa, la collection "Atelier" propose des façades texturées effet métal vieilli qui donnent un caractère dingue a la pièce. Pour un budget plus serré, Leroy Merlin et Castorama ont des crédences adhésives effet béton ou métal qui transforment une cuisine banale pour moins de 150 euros.
 
-Le point central de cette tendance, c'est le mélange métal et bois. Un plan de travail en noyer ou en chêne massif posé sur une structure en acier noir, par exemple. Si tu cherches l'inspiration sur ce duo de matières, va voir [la cuisine verte et bois](/guides/cuisine/la-cuisine-verte-et-bois-une-teinte-elegante-et-moderne/) qui explore ce mariage de textures en profondeur.
+Le point central de cette tendance, c'est le mélange métal et bois. Un plan de travail en noyer ou en chêne massif posé sur une structure en acier noir, par exemple. Si tu cherches l'inspiration sur ce duo de matières, va voir [la cuisine verte et bois](/la-cuisine-verte-et-bois-une-teinte-elegante-et-moderne/) qui explore ce mariage de textures en profondeur.
 
 ### La cuisine ouverte intelligente
 
 Le layout ouvert continue de dominer en 2026, mais avec une évolution claire : on ne se contente plus d'abattre une cloison et de poser un comptoir. La cuisine ouverte moderne intègre des zones de transition pensées - un îlot avec rangements des deux côtés, une banquette intégrée qui fait le lien entre cuisine et salon, ou un meuble colonne qui sert de séparation visuelle sans fermer l'espace.
 
-L'avantage pour toi ? Tu gagnes en luminosité, tu gardes le contact avec le reste de la maison, et si c'est bien conçu, tu ne sacrifies aucun rangement. Les [cuisines avec îlot 2026](/guides/cuisine/cuisines-avec-ilot-2026-designs-et-tendances/) montrent bien comment l'îlot central est devenu la pièce maîtresse de ce type d'agencement.
+L'avantage pour toi ? Tu gagnes en luminosité, tu gardes le contact avec le reste de la maison, et si c'est bien conçu, tu ne sacrifies aucun rangement. Les [cuisines avec îlot 2026](/cuisines-avec-ilot-2026-designs-et-tendances/) montrent bien comment l'îlot central est devenu la pièce maîtresse de ce type d'agencement.
 
 ```mermaid
 flowchart TD
@@ -101,7 +101,7 @@ La bonne dose ? Pas plus de 20 a 25% de surfaces métalliques dans la cuisine. A
 
 ### Les verts profonds
 
-Le vert forêt, le vert sauge, le vert olive - ces teintes continuent leur montée en puissance. Elles apportent de la personnalité sans agresser et se marient a merveille avec le bois et le laiton. Si le sujet t'intéresse, j'ai un guide complet sur [la cuisine couleur olive](/guides/cuisine/cuisine-olive/) qui détaille toutes les combinaisons possibles.
+Le vert forêt, le vert sauge, le vert olive - ces teintes continuent leur montée en puissance. Elles apportent de la personnalité sans agresser et se marient a merveille avec le bois et le laiton. Si le sujet t'intéresse, j'ai un guide complet sur [la cuisine couleur olive](/cuisine-olive/) qui détaille toutes les combinaisons possibles.
 
 ### Le noir mat
 
@@ -152,7 +152,7 @@ Les systèmes Blum (Legrabox, Space Tower) sont la référence en quincaillerie 
 
 Plus de micro-ondes posé sur le comptoir, plus de cafetière en évidence. En 2026, tout est encastré, intégré, masqué. Les fours colonne, les lave-vaisselle avec façade assortie, les hottes escamotables dans le plan de travail - chaque appareil trouve sa place sans rompre la ligne visuelle.
 
-Pour les [petites cuisines modernes](/guides/cuisine/petites-cuisines-modernes-2026-designs-et-modeles/), cette tendance est encore plus importante : chaque centimètre visible compte, et un appareil intégré libère de la surface de travail.
+Pour les [petites cuisines modernes](/petites-cuisines-modernes-2026-designs-et-modeles/), cette tendance est encore plus importante : chaque centimètre visible compte, et un appareil intégré libère de la surface de travail.
 
 > [!TIP]
 > Avant de commander ta cuisine, fais la liste de tous tes appareils (y compris les petits comme le grille-pain ou le blender) et prévois un placard ou une niche fermée pour chacun. C'est le secret des cuisines qui restent rangées sans effort.
@@ -215,7 +215,7 @@ Le poste qui fait le plus varier le prix ? Le plan de travail et l'électroména
 
 ## Sur le meme theme
 
-- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
+- [changer les portes d'une cuisine ikea faktum](/changer-portes-cuisines-ikea-faktum/)
 
 ## FAQ
 

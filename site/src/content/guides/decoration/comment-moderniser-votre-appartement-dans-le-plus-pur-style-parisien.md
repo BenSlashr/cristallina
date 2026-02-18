@@ -94,7 +94,7 @@ flowchart TD
     style I fill:#141D30,stroke:#F59E0B,color:#F1F5F9
 ```
 
-Pour un parquet existant en mauvais état, plusieurs solutions avant de tout changer. Si tu as un [parquet taché](/guides/decoration/parquet-tache/) ou abimé, il est souvent possible de le poncer et de le retravailler plutôt que de le remplacer entièrement - une économie substantielle.
+Pour un parquet existant en mauvais état, plusieurs solutions avant de tout changer. Si tu as un [parquet taché](/parquet-tache/) ou abimé, il est souvent possible de le poncer et de le retravailler plutôt que de le remplacer entièrement - une économie substantielle.
 
 ### Les finitions qui font le style
 
@@ -106,7 +106,7 @@ Le parquet parisien n'est jamais trop brillant. Les finitions tendance :
 
 ## Les couleurs qui définissent le style parisien en 2026
 
-Le style parisien a évolué. La palette traditionnelle blanc/bois/beige reste une base, mais les intérieurs les plus inspirants d'aujourd'hui osent davantage. Si tu cherches des idées précises pour tes murs, les [couleurs du salon 2026](/guides/decoration/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) donnent un aperçu des tendances actuelles qui s'intègrent parfaitement dans cet univers.
+Le style parisien a évolué. La palette traditionnelle blanc/bois/beige reste une base, mais les intérieurs les plus inspirants d'aujourd'hui osent davantage. Si tu cherches des idées précises pour tes murs, les [couleurs du salon 2026](/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) donnent un aperçu des tendances actuelles qui s'intègrent parfaitement dans cet univers.
 
 <div class="my-8">
   <img src="/images/pinterest-appartement-traversant-lumi-re-am-nagement-design-1771234307999.jpg" alt="Comment moderniser votre appartement dans le plus pur style parisien - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
@@ -210,9 +210,9 @@ Quelques éléments suffisent à transformer une salle de bain banale :
 
 Une des forces du style parisien, c'est sa capacité à s'hybrider. Il fonctionne avec la déco scandinave (la neutralité des deux styles se complète bien), avec la déco japonaise (wabi-sabi + patine parisienne = beaucoup de raffinement), mais aussi avec des touches plus romantiques.
 
-Si tu aimes les intérieurs chargés d'histoire avec des détails floraux et des matières luxueuses, la [décoration française romantique](/guides/decoration/decoration-francaise-idees-et-photos-romantiques/) peut te donner des idées à intégrer dans ta version du style parisien. Le résultat est souvent plus personnel et plus chaleureux.
+Si tu aimes les intérieurs chargés d'histoire avec des détails floraux et des matières luxueuses, la [décoration française romantique](/decoration-francaise-idees-et-photos-romantiques/) peut te donner des idées à intégrer dans ta version du style parisien. Le résultat est souvent plus personnel et plus chaleureux.
 
-Pour aller plus loin dans les exemples concrets et les photos d'inspiration, les [appartements modernes](/guides/decoration/appartements-modernes-60-photos-et-conseils-de-decoration/) donnent une bonne vue d'ensemble des intérieurs contemporains qui s'inspirent de cette esthétique.
+Pour aller plus loin dans les exemples concrets et les photos d'inspiration, les [appartements modernes](/appartements-modernes-60-photos-et-conseils-de-decoration/) donnent une bonne vue d'ensemble des intérieurs contemporains qui s'inspirent de cette esthétique.
 
 > [!IMPORTANT]
 > Le style parisien n'est pas un style de magazine à reproduire à l'identique. Son charme vient précisément du fait qu'il reflète la personnalité de celui qui habite dans l'espace. Les "imperfections" - le mur pas tout à fait impeccable, le meuble dépareillé qui vient de chez ta grand-mère - sont des atouts, pas des défauts.
@@ -232,7 +232,7 @@ La clé dans tous les cas : acheter moins mais mieux. Une belle lampe en laiton 
 
 ## Sur le meme theme
 
-- [décoration dorée](/guides/decoration/decoration-doree-sur-les-murs-les-meubles-ou-les-accessoires/)
+- [décoration dorée](/decoration-doree-sur-les-murs-les-meubles-ou-les-accessoires/)
 
 ## Les erreurs à ne pas faire
 

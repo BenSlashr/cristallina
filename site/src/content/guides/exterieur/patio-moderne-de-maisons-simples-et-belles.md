@@ -101,7 +101,7 @@ Un canapé d'extérieur bas, des coussins grand format, une table basse en béto
 
 Les plantes structurent le patio, mais en mode moderne, on évite le fouillis. Des jardinières rectangulaires en fibre-ciment avec des graminées (miscanthus, pennisetum) ou bambous non traçants créent des écrans végétaux légers et graphiques. Un ou deux gros pots avec un olivier nain ou un citronnier apportent une touche méditerranéenne.
 
-Pour aller plus loin sur les solutions de verdure verticale, jette un oeil aux [jardins verticaux et murs végétaux](/guides/exterieur/jardins-verticaux-de-40-photos-dinspiration-verte/) - ça s'adapte parfaitement à un patio en ville.
+Pour aller plus loin sur les solutions de verdure verticale, jette un oeil aux [jardins verticaux et murs végétaux](/jardins-verticaux-de-40-photos-dinspiration-verte/) - ça s'adapte parfaitement à un patio en ville.
 
 ## Les structures : pergola, auvent ou voile ?
 
@@ -114,7 +114,7 @@ Un patio moderne a besoin d'une couverture, même partielle. Sans protection, c'
 
 ### La pergola minimaliste
 
-Poteaux en acier laqué noir ou aluminium anthracite, traverses fines, toile rétractable ou lames orientables. C'est la solution la plus architecturale. Une pergola adossée 3x4 m coûte entre 1 500 et 4 000 euros selon la finition. Le guide sur la [pergola bioclimatique](/guides/exterieur/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) détaille les options haut de gamme avec lames orientables.
+Poteaux en acier laqué noir ou aluminium anthracite, traverses fines, toile rétractable ou lames orientables. C'est la solution la plus architecturale. Une pergola adossée 3x4 m coûte entre 1 500 et 4 000 euros selon la finition. Le guide sur la [pergola bioclimatique](/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) détaille les options haut de gamme avec lames orientables.
 
 ### Les voiles d'ombrage
 
@@ -166,7 +166,7 @@ L'éclairage extérieur, c'est là où la plupart des gens se plantent. Un spot 
 
 **Les guirlandes lumineuses** en ampoules Edison vintage LED apportent une ambiance festive sans kitsch. Tends-les en lignes droites : un câble acier inox entre deux points avec ampoules espacées régulièrement donne un plafond de lumière très réussi.
 
-Pour prolonger la réflexion sur les jeux de lumière en extérieur, tu trouveras d'autres pistes dans le guide sur [comment ombrager sa terrasse](/guides/exterieur/ombrager-terrasse/) - la gestion de la lumière naturelle et artificielle se répond souvent.
+Pour prolonger la réflexion sur les jeux de lumière en extérieur, tu trouveras d'autres pistes dans le guide sur [comment ombrager sa terrasse](/ombrager-terrasse/) - la gestion de la lumière naturelle et artificielle se répond souvent.
 
 ## Le mobilier : moins de pièces, plus d'impact
 
@@ -191,7 +191,7 @@ Les plantes sur un patio moderne ne sont pas là pour "décorer" - elles sont l�
 
 **Les graminées en masse** : pennisetum, stipa tenuissima, carex - en rangées dans des bacs linéaires, elles ondulent avec le vent et apportent du mouvement à l'ensemble.
 
-Si tu as envie de créer toi-même tes contenants, le guide pour [fabriquer des jardinières DIY](/guides/exterieur/diy-jardiniere/) t'aidera à obtenir un résultat personnalisé à moindre coût.
+Si tu as envie de créer toi-même tes contenants, le guide pour [fabriquer des jardinières DIY](/diy-jardiniere/) t'aidera à obtenir un résultat personnalisé à moindre coût.
 
 ## Budget global : combien prévoir ?
 
@@ -229,7 +229,7 @@ Un patio moderne bien pensé, c'est un espace que tu utilises du printemps à l'
 
 ## Sur le meme theme
 
-- [pergola ou tonnelle](/guides/exterieur/difference-pergola-tonnelle/)
+- [pergola ou tonnelle](/difference-pergola-tonnelle/)
 
 ## FAQ
 

@@ -60,9 +60,9 @@ C'est la Rolls de l'ombrage terrasse. Une structure fixe, durable, qui transform
 
 **Pergola aluminium** : légère, résistante, sans entretien. Un kit en alu thermolaqué 3x4 m démarre à 800-1 500 euros (Blooma chez Castorama, Kettler). Les modèles avec toile rétractable intégrée tournent autour de 2 000-3 500 euros. L'aluminium est le meilleur compromis poids/résistance/durabilité.
 
-**Pergola bioclimatique** : le haut de gamme avec lames orientables qui s'adaptent à la course du soleil. Budget : 3 000 à 10 000 euros pose comprise (Biossun, Renson, Azenco). Si tu veux tout savoir sur ce type de structure, j'ai détaillé les avantages dans le [guide complet de la pergola bioclimatique](/guides/exterieur/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/).
+**Pergola bioclimatique** : le haut de gamme avec lames orientables qui s'adaptent à la course du soleil. Budget : 3 000 à 10 000 euros pose comprise (Biossun, Renson, Azenco). Si tu veux tout savoir sur ce type de structure, j'ai détaillé les avantages dans le [guide complet de la pergola bioclimatique](/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/).
 
-Pour bien choisir entre pergola et tonnelle, tu peux aussi consulter le [comparatif pergola vs tonnelle](/guides/exterieur/difference-pergola-tonnelle/) qui détaille les critères de choix.
+Pour bien choisir entre pergola et tonnelle, tu peux aussi consulter le [comparatif pergola vs tonnelle](/difference-pergola-tonnelle/) qui détaille les critères de choix.
 
 ## La tonnelle autoportée : zéro perçage, zéro stress
 
@@ -187,7 +187,7 @@ Plutôt que de miser sur une seule solution, je te recommande de combiner.
 
 **Combo investissement malin (500 à 1 500 euros)** : une pergola kit bois ou alu + une plante grimpante type vigne vierge. En 2-3 ans, tu obtiens un ombrage mixte structure/végétal qui est aussi beau que fonctionnel.
 
-**Combo long terme (2 000 à 5 000 euros)** : une pergola bioclimatique pour la zone principale + un mûrier platane planté à côté pour ombrager une seconde zone. C'est l'aménagement complet qui donne une vraie valeur à ta terrasse. Si tu envisages un aménagement global, jette un oeil à notre guide pour [rénover ta terrasse](/guides/exterieur/renovez-votre-terrasse-pour-la-securite/) en toute sécurité.
+**Combo long terme (2 000 à 5 000 euros)** : une pergola bioclimatique pour la zone principale + un mûrier platane planté à côté pour ombrager une seconde zone. C'est l'aménagement complet qui donne une vraie valeur à ta terrasse. Si tu envisages un aménagement global, jette un oeil à notre guide pour [rénover ta terrasse](/renovez-votre-terrasse-pour-la-securite/) en toute sécurité.
 
 > [!IMPORTANT]
 > Quel que soit ton choix, pense à l'orientation de ta terrasse. Plein sud, il te faut de l'ombre entre 11h et 16h. Plein ouest, c'est le soleil rasant du soir qui pose problème - et là un store latéral ou des plantes en hauteur sont plus efficaces qu'un parasol.
@@ -201,7 +201,7 @@ Si tu es locataire ou que tu ne veux pas toucher à ta façade, voici tes meille
 - **Voile d'ombrage sur mâts plantés** dans des jardinières lestées ou directement en terre
 - **Canisses fixées sur une structure autoportante** type treillage sur pieds
 
-Toutes ces solutions fonctionnent sans la moindre vis dans le mur. Et si tu veux aller plus loin dans l'aménagement de ton extérieur, pense aussi à [construire un pool house](/guides/exterieur/construire-pool-house/) qui intègre souvent une zone couverte.
+Toutes ces solutions fonctionnent sans la moindre vis dans le mur. Et si tu veux aller plus loin dans l'aménagement de ton extérieur, pense aussi à [construire un pool house](/construire-pool-house/) qui intègre souvent une zone couverte.
 
 ```mermaid
 graph TD
@@ -229,7 +229,7 @@ graph TD
 
 ## Sur le meme theme
 
-- [peinture carrelage extérieur terrasse](/guides/exterieur/peinture-pour-carrelage-exterieur-terrasse/)
+- [peinture carrelage extérieur terrasse](/peinture-pour-carrelage-exterieur-terrasse/)
 
 ## FAQ
 

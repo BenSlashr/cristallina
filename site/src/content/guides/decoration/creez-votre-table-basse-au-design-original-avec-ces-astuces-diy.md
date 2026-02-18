@@ -175,7 +175,7 @@ Pas la peine d'investir dans un atelier complet. Pour la plupart de ces projets,
 - **Du papier abrasif** : grains 80, 120 et 150. Un lot de feuilles chez Brico Dépôt coûte 3-4 euros.
 - **Des vis à bois** : 4 x 30 mm pour la plupart des assemblages pieds/plateau. Un sachet de 50 vis coûte moins de 3 euros.
 
-Si tu veux aller plus loin dans les projets DIY mobilier, jette un oeil à notre guide pour [fabriquer un bureau avec des caissons](/guides/decoration/fabriquer-un-bureau-avec-des-caissons/) - la logique de construction est très similaire.
+Si tu veux aller plus loin dans les projets DIY mobilier, jette un oeil à notre guide pour [fabriquer un bureau avec des caissons](/fabriquer-un-bureau-avec-des-caissons/) - la logique de construction est très similaire.
 
 > [!IMPORTANT]
 > Pense toujours à protéger ton sol pendant le ponçage ! Un vieux drap ou une bâche plastique évitera les rayures et simplifiera le nettoyage. Et si tu ponces à l'intérieur, ouvre bien les fenêtres et porte un masque anti-poussière.
@@ -190,7 +190,7 @@ Une table basse brute, c'est déjà beau. Mais avec quelques gestes supplémenta
 
 **Le bois brûlé (Shou Sugi Ban)** - Technique japonaise qui consiste à brûler légèrement la surface du bois au chalumeau, puis à brosser et huiler. Le résultat est noir, texturé, et complètement waterproof. C'est spectaculaire sur un plateau en pin ou en sapin.
 
-**Le pochoir ou le stencil** - Pour une touche graphique, un pochoir mandala ou géométrique peint sur le plateau apporte de l'originalité. Les pochoirs grand format se trouvent entre 5 et 15 euros chez Cultura ou sur Etsy. Si tu as déjà [peint du verre ou du bois](/guides/decoration/peindre-sans-poncer/), la technique est similaire.
+**Le pochoir ou le stencil** - Pour une touche graphique, un pochoir mandala ou géométrique peint sur le plateau apporte de l'originalité. Les pochoirs grand format se trouvent entre 5 et 15 euros chez Cultura ou sur Etsy. Si tu as déjà [peint du verre ou du bois](/peindre-sans-poncer/), la technique est similaire.
 
 ## Erreurs classiques à éviter
 
@@ -224,9 +224,9 @@ flowchart TD
 
 ## Sur le meme theme
 
-- [artisanat recyclé pour la maison](/guides/decoration/artisanat-avec-des-materiaux-recycles-pour-la-maison/)
-- [fabriquer un four à pizza](/guides/decoration/fabriquer-four-a-pizza/)
-- [pneus recyclés pour la déco](/guides/decoration/pneus-recycles-pour-la-decoration/)
+- [artisanat recyclé pour la maison](/artisanat-avec-des-materiaux-recycles-pour-la-maison/)
+- [fabriquer un four à pizza](/fabriquer-four-a-pizza/)
+- [pneus recyclés pour la déco](/pneus-recycles-pour-la-decoration/)
 
 ## FAQ
 

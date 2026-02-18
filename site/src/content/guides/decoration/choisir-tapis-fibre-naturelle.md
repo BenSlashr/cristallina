@@ -176,7 +176,7 @@ Dans ces pièces, tu marches souvent pieds nus. Le jute est le meilleur choix po
 
 La taille compte beaucoup. Pour un salon, ton tapis doit déborder d'au moins 20 cm de chaque côté des assises du canapé. Un format 200x300 cm est souvent le minimum pour un séjour standard. En chambre, un 160x230 cm placé au pied du lit fait bien le travail.
 
-Un tapis naturel se combine très bien avec un [tapis imprimé](/guides/decoration/choisir-tapis-imprime/) superposé dessus en format plus petit - c'est une technique de layering très tendance qui ajoute de la profondeur.
+Un tapis naturel se combine très bien avec un [tapis imprimé](/choisir-tapis-imprime/) superposé dessus en format plus petit - c'est une technique de layering très tendance qui ajoute de la profondeur.
 
 ### Entrée et couloir : résistance obligatoire
 
@@ -187,7 +187,7 @@ Ici, oublie le jute. Il va s'écraser et s'abîmer trop vite. Le sisal est le me
 
 ### Cuisine et salle de bain : le jonc de mer ou rien
 
-La règle est simple : si la pièce voit de l'eau régulièrement, le jonc de mer est ta seule option en fibre naturelle. Sa surface légèrement cireuse repousse les éclaboussures et il ne moisit pas comme le jute ou le sisal. Pour aller plus loin dans l'aménagement de ta salle de bain avec des matières naturelles, jette un oeil à nos idées pour [aménager une salle de bain en 2026](/guides/salle-de-bain/amenager-une-salle-de-bain-en-2026-styles-et-conseils/).
+La règle est simple : si la pièce voit de l'eau régulièrement, le jonc de mer est ta seule option en fibre naturelle. Sa surface légèrement cireuse repousse les éclaboussures et il ne moisit pas comme le jute ou le sisal. Pour aller plus loin dans l'aménagement de ta salle de bain avec des matières naturelles, jette un oeil à nos idées pour [aménager une salle de bain en 2026](/amenager-une-salle-de-bain-en-2026-styles-et-conseils/).
 
 ## Entretien : les bons réflexes
 
@@ -224,11 +224,11 @@ Les tapis en fibres naturelles ont un gros avantage : ils sont neutres. Leur pal
 
 ### Style scandinave et minimaliste
 
-Un tapis en jute naturel posé sur un parquet clair, avec un mobilier en bois blond et des coussins en lin - c'est la combinaison classique qui fonctionne à tous les coups. Si tu veux pousser l'ambiance minimaliste plus loin, tu peux consulter nos [idées de décoration minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/) pour un rendu cohérent.
+Un tapis en jute naturel posé sur un parquet clair, avec un mobilier en bois blond et des coussins en lin - c'est la combinaison classique qui fonctionne à tous les coups. Si tu veux pousser l'ambiance minimaliste plus loin, tu peux consulter nos [idées de décoration minimaliste](/decoration-minimaliste-idees-et-photos-faciles/) pour un rendu cohérent.
 
 ### Style bohème et ethnique
 
-Le jute et le sisal sont les meilleurs amis du style bohème. Superpose un petit kilim coloré sur un grand tapis en jute, ajoute des poufs en cuir, des coussins à franges et des plantes vertes - l'ambiance est posée. Les matières naturelles comme le [rotin et l'osier](/guides/decoration/rotin-osier/) complètent parfaitement ce tableau.
+Le jute et le sisal sont les meilleurs amis du style bohème. Superpose un petit kilim coloré sur un grand tapis en jute, ajoute des poufs en cuir, des coussins à franges et des plantes vertes - l'ambiance est posée. Les matières naturelles comme le [rotin et l'osier](/rotin-osier/) complètent parfaitement ce tableau.
 
 ### Style contemporain et industriel
 
@@ -251,7 +251,7 @@ Quelques pièges classiques quand on achète son premier tapis en fibre naturell
 
 ## Sur le meme theme
 
-- [tapis logo personnalisé](/guides/decoration/choisir-tapis-logo-personnalise/)
+- [tapis logo personnalisé](/choisir-tapis-logo-personnalise/)
 
 ## FAQ
 

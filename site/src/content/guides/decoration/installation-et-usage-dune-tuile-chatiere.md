@@ -177,7 +177,7 @@ Après avoir lu des dizaines de retours de propriétaires et discuté avec des c
 
 **Boucher les chatières après coup.** Certains propriétaires, excédés par les courants d'air dans les combles aménagés, bouchent les chatières. Grosse erreur : ça supprime la ventilation et mène directement à des problèmes de condensation et de pourrissement de charpente. Si tu aménages tes combles, l'isolation doit être conçue pour maintenir la ventilation entre la couverture et l'isolant.
 
-Si ta couverture comporte des zones en [tuile transparente](https://www.cristallina.fr/guides/decoration/tuile-transparente-cout-et-usage/) (garage, véranda), vérifie que la ventilation est aussi assurée dans ces parties - la chaleur s'y accumule encore plus vite.
+Si ta couverture comporte des zones en [tuile transparente](https://www.cristallina.fr/tuile-transparente-cout-et-usage/) (garage, véranda), vérifie que la ventilation est aussi assurée dans ces parties - la chaleur s'y accumule encore plus vite.
 
 ## Entretien et durée de vie
 
@@ -215,18 +215,18 @@ flowchart TD
     style G fill:#F9FAFB,stroke:#6B7280,color:#374151
 ```
 
-Si tu as des soucis d'[isolation au niveau de l'escalier ou de la montée vers les combles](https://www.cristallina.fr/guides/decoration/comment-isoler-une-montee-descalier/), la ventilation de la toiture joue un rôle direct là-dedans. Un toit mal ventilé rend l'isolation moins efficace et augmente la sensation d'inconfort thermique dans les étages.
+Si tu as des soucis d'[isolation au niveau de l'escalier ou de la montée vers les combles](https://www.cristallina.fr/comment-isoler-une-montee-descalier/), la ventilation de la toiture joue un rôle direct là-dedans. Un toit mal ventilé rend l'isolation moins efficace et augmente la sensation d'inconfort thermique dans les étages.
 
-Pour les murs extérieurs en parpaing qui bordent ta toiture, un bon [enduit de protection](https://www.cristallina.fr/guides/decoration/comment-enduir-un-mur-en-parpaing/) complète la stratégie d'étanchéité globale de ta maison.
+Pour les murs extérieurs en parpaing qui bordent ta toiture, un bon [enduit de protection](https://www.cristallina.fr/comment-enduir-un-mur-en-parpaing/) complète la stratégie d'étanchéité globale de ta maison.
 
 
 ## Sur le meme theme
 
-- [tuile transparente](/guides/decoration/tuile-transparente-cout-et-usage/)
-- [toiture shingle](/guides/decoration/toiture-shingle-les-caracteristiques-le-cout-et-le-devis/)
-- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
-- [facades de maisons modernes 2026](/guides/decoration/facades-de-maisons-modernes-2026/)
-- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
+- [tuile transparente](/tuile-transparente-cout-et-usage/)
+- [toiture shingle](/toiture-shingle-les-caracteristiques-le-cout-et-le-devis/)
+- [isolation dalle béton](/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [facades de maisons modernes 2026](/facades-de-maisons-modernes-2026/)
+- [tableau planning et pense-bête](/choisir-tableau-planning-pense-bete/)
 
 ## FAQ - Tuile chatière
 

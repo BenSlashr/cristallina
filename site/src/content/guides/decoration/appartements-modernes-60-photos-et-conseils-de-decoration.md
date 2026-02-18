@@ -84,10 +84,10 @@ Dans un 60m2, le salon est souvent la pièce qui doit tout faire - détente, tra
 
 **Meuble TV mural** : dans un 60m2, un meuble TV bas avec pieds au sol prend de la place visuellement. Opte pour une solution murale - moins cher à l'achat, plus léger à l'oeil. Made.com propose de très belles options entre 200 et 400€.
 
-Si tu cherches de l'inspiration pour ton salon en particulier, les [salons modernes et élégants 2026](/guides/decoration/salons-modernes-et-elegants-2026/) regorgent d'idées concrètes avec des ambiances très différentes.
+Si tu cherches de l'inspiration pour ton salon en particulier, les [salons modernes et élégants 2026](/salons-modernes-et-elegants-2026/) regorgent d'idées concrètes avec des ambiances très différentes.
 
 > [!NOTE]
-> Dans un appartement traversant, l'agencement doit tenir compte des deux sources de lumière. Evite de placer des meubles hauts en plein milieu - tu bloquerais la traversée lumineuse qui est l'un des grands atouts de ce type de bien. Pour aller plus loin sur ce sujet, le guide sur l'[appartement traversant](/guides/decoration/appartement-traversant/) détaille vraiment bien comment exploiter la double exposition.
+> Dans un appartement traversant, l'agencement doit tenir compte des deux sources de lumière. Evite de placer des meubles hauts en plein milieu - tu bloquerais la traversée lumineuse qui est l'un des grands atouts de ce type de bien. Pour aller plus loin sur ce sujet, le guide sur l'[appartement traversant](/appartement-traversant/) détaille vraiment bien comment exploiter la double exposition.
 
 ## Meubles modernes : sélectionner sans se tromper
 
@@ -204,7 +204,7 @@ Pour la cuisine, le minimalisme est roi. Façades sans poignée, plans de travai
 
 Dans les appartements de 60m2, la chambre est souvent la pièce la plus sacrifiée - elle hérite des meubles qui ne rentrent nulle part ailleurs et finit encombrée. Pourtant c'est la pièce où tu passes le plus de temps.
 
-Le guide sur la [décoration de la chambre à coucher 2026](/guides/chambre/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/) détaille toutes les tendances actuelles, mais voici l'essentiel pour une chambre moderne dans un 60m2 :
+Le guide sur la [décoration de la chambre à coucher 2026](/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/) détaille toutes les tendances actuelles, mais voici l'essentiel pour une chambre moderne dans un 60m2 :
 
 **Le lit plateforme** : sans pieds visibles ou avec des pieds très fins, il donne une ligne basse et contemporaine à la chambre. Un lit MALM Ikea à 199€ avec une tête de lit tissu ajoutée remplit parfaitement ce rôle.
 
@@ -218,8 +218,8 @@ Le guide sur la [décoration de la chambre à coucher 2026](/guides/chambre/deco
 
 ## Sur le meme theme
 
-- [décoration petit salon](/guides/decoration/decoration-petit-salon/)
-- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+- [décoration petit salon](/decoration-petit-salon/)
+- [décoration art déco](/50-idees-de-decoration-art-deco/)
 
 ## FAQ : appartements modernes de 60m2
 

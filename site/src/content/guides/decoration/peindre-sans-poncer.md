@@ -197,11 +197,11 @@ Enfin, ne saute pas le temps de séchage entre les couches. Je sais que c'est te
 
 ## Et pour le carrelage et le lino ?
 
-La technique de peindre sans poncer s'applique aussi à d'autres surfaces. Si tu veux [peindre ton carrelage](/guides/couleurs/la-peinture-sur-carrelage-une-methode-pour-renover-votre-interieur/), la préparation est encore plus importante : dégraissant puissant, primaire d'accrochage spécial carrelage, peinture époxy ou résine. Le résultat peut être bluffant dans une salle de bain ou une cuisine.
+La technique de peindre sans poncer s'applique aussi à d'autres surfaces. Si tu veux [peindre ton carrelage](/la-peinture-sur-carrelage-une-methode-pour-renover-votre-interieur/), la préparation est encore plus importante : dégraissant puissant, primaire d'accrochage spécial carrelage, peinture époxy ou résine. Le résultat peut être bluffant dans une salle de bain ou une cuisine.
 
-Pour le sol, [peindre un lino](/guides/decoration/peindre-lino/) sans poncer suit le même principe : nettoyage approfondi, peinture sol spéciale vinyle. Une bonne alternative pour rénover un sol abimé à petit budget.
+Pour le sol, [peindre un lino](/peindre-lino/) sans poncer suit le même principe : nettoyage approfondi, peinture sol spéciale vinyle. Une bonne alternative pour rénover un sol abimé à petit budget.
 
-Pour les murs, si tu cherches une peinture de qualité avec un bon rendu, j'ai comparé plusieurs gammes dont [la peinture Luxens de Leroy Merlin](/guides/couleurs/peinture-luxens/) - un bon rapport qualité-prix pour les murs intérieurs.
+Pour les murs, si tu cherches une peinture de qualité avec un bon rendu, j'ai comparé plusieurs gammes dont [la peinture Luxens de Leroy Merlin](/peinture-luxens/) - un bon rapport qualité-prix pour les murs intérieurs.
 
 > [!IMPORTANT]
 > Sur carrelage ou lino, la résistance de la peinture dépend beaucoup de la circulation. Dans une salle de bain avec eau et vapeur quotidiennes, prévois un entretien plus fréquent et une peinture spécifiquement formulée pour les pièces humides.
@@ -209,8 +209,8 @@ Pour les murs, si tu cherches une peinture de qualité avec un bon rendu, j'ai c
 
 ## Sur le meme theme
 
-- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
-- [enduire un mur en parpaing](/guides/decoration/comment-enduir-un-mur-en-parpaing/)
+- [isolation dalle béton](/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [enduire un mur en parpaing](/comment-enduir-un-mur-en-parpaing/)
 
 ## FAQ
 

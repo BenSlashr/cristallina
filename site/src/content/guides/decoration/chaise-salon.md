@@ -95,7 +95,7 @@ Le choix du matériau impacte le poids, la durabilité et l'entretien de ta chai
 - **Le plastique/polypropylène** : économique, léger, facile à nettoyer. Les chaises en polypropylène type Kartell Masters tournent autour de 70 euros (reproduction) à 300 euros (originale). Parfait pour les familles avec enfants.
 
 > [!NOTE]
-> Le rotin et l'osier sont aussi de bonnes options pour un salon - ils apportent un côté naturel et détente. Si cette matière te tente, jette un oeil à notre guide sur [le rotin et l'osier](/guides/decoration/rotin-osier/) pour tout savoir sur l'entretien et les styles.
+> Le rotin et l'osier sont aussi de bonnes options pour un salon - ils apportent un côté naturel et détente. Si cette matière te tente, jette un oeil à notre guide sur [le rotin et l'osier](/rotin-osier/) pour tout savoir sur l'entretien et les styles.
 
 ### Le revêtement : tissu, cuir ou simili ?
 
@@ -120,7 +120,7 @@ Bois clair (bouleau, frêne), lignes épurées, couleurs douces (blanc cassé, g
 
 ### Style industriel
 
-Structures métal noir ou brut, cuir vieilli, bois recyclé. Les chaises de type "Tolix" (la A-Chair originale autour de 300 euros, les copies à partir de 50 euros) sont parfaites pour ce look. Si tu veux approfondir ce style dans ton intérieur, notre guide sur les [salons modernes et élégants 2026](/guides/decoration/salons-modernes-et-elegants-2026/) te donnera des pistes d'association.
+Structures métal noir ou brut, cuir vieilli, bois recyclé. Les chaises de type "Tolix" (la A-Chair originale autour de 300 euros, les copies à partir de 50 euros) sont parfaites pour ce look. Si tu veux approfondir ce style dans ton intérieur, notre guide sur les [salons modernes et élégants 2026](/salons-modernes-et-elegants-2026/) te donnera des pistes d'association.
 
 ### Style bohème
 
@@ -128,7 +128,7 @@ Rotin, osier, macramé, couleurs chaudes et motifs ethniques. Un fauteuil en rot
 
 ### Style contemporain minimaliste
 
-Formes géométriques, monochromes, peu de décoration. Les chaises en polypropylène aux lignes pures (type Kartell ou Hay) s'intègrent naturellement. Les teintes neutres - noir, blanc, gris anthracite - sont tes alliées. Pour plus d'inspiration sur ce registre, va voir notre article sur la [décoration minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/).
+Formes géométriques, monochromes, peu de décoration. Les chaises en polypropylène aux lignes pures (type Kartell ou Hay) s'intègrent naturellement. Les teintes neutres - noir, blanc, gris anthracite - sont tes alliées. Pour plus d'inspiration sur ce registre, va voir notre article sur la [décoration minimaliste](/decoration-minimaliste-idees-et-photos-faciles/).
 
 ```mermaid
 flowchart LR
@@ -211,7 +211,7 @@ Privilégie les chaises à pieds fins et apparents plutôt que les fauteuils mas
 
 Les poufs et fauteuils poire sont de bonnes options d'appoint - ils se rangent facilement et prennent peu de place visuelle. Un pouf en velours chez La Redoute tourne autour de 60 à 120 euros.
 
-Pour plus d'astuces, notre guide sur la [décoration petit salon](/guides/decoration/decoration-petit-salon/) regorge d'idées applicables.
+Pour plus d'astuces, notre guide sur la [décoration petit salon](/decoration-petit-salon/) regorge d'idées applicables.
 
 > [!NOTE]
 > Dans un petit salon, une seule "vraie" assise supplémentaire suffit en plus du canapé. Mieux vaut une pièce de qualité bien choisie que trois sièges encombrants qui gênent la circulation.
@@ -219,7 +219,7 @@ Pour plus d'astuces, notre guide sur la [décoration petit salon](/guides/decora
 
 ## Sur le meme theme
 
-- [salon brun](/guides/decoration/salons-bruns-idees-et-images/)
+- [salon brun](/salons-bruns-idees-et-images/)
 
 ## FAQ
 

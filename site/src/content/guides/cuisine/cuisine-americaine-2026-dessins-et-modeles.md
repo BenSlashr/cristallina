@@ -76,7 +76,7 @@ Le rectangle classique cède du terrain aux formes organiques. Les ilots avec un
 > [!NOTE]
 > Un ilot aux angles arrondis coûte en moyenne 15 à 25% de plus qu'un modèle rectangulaire standard. L'écart vient surtout du plan de travail, qui doit être taillé sur mesure. Compte 600 a 1200 euros de plus pour un plateau en quartz ou en Dekton avec découpe arrondie.
 
-Si tu veux aller plus loin sur le sujet des ilots, le guide complet sur les [cuisines avec ilot 2026](/guides/cuisine/cuisines-avec-ilot-2026-designs-et-tendances/) détaille toutes les configurations possibles selon ta surface.
+Si tu veux aller plus loin sur le sujet des ilots, le guide complet sur les [cuisines avec ilot 2026](/cuisines-avec-ilot-2026-designs-et-tendances/) détaille toutes les configurations possibles selon ta surface.
 
 ### Dimensions et implantation
 
@@ -167,7 +167,7 @@ En cuisine américaine, le choix de couleur est encore plus important que dans u
 - **Monochrome chaud** : tout en bois naturel (chêne, noyer) avec des touches de laiton et un plan de travail en pierre claire. Sobre, élégant, intemporel.
 - **Color-drenching** : une seule couleur forte (terracotta, bleu nuit, vert forêt) appliquée partout - façades, murs, plafond. Audacieux, mais le résultat dans un espace ouvert est spectaculaire.
 
-Pour creuser les associations de teintes, le guide sur les [couleurs de cuisine 2026](/guides/cuisine/couleurs-de-cuisine-2026/) t'aidera à choisir la palette la plus adaptée à ta configuration.
+Pour creuser les associations de teintes, le guide sur les [couleurs de cuisine 2026](/couleurs-de-cuisine-2026/) t'aidera à choisir la palette la plus adaptée à ta configuration.
 
 ### Le comptoir bar : comment le rendre beau et pratique
 
@@ -187,7 +187,7 @@ Le budget d'une cuisine américaine dépend surtout des travaux d'ouverture (aba
 
 Ajoute 1 500 à 3 000 euros pour l'électroménager si ce n'est pas inclus (four, plaque, lave-vaisselle, hotte). Pour un Quooker ou équivalent, compte 900 à 1 500 euros en plus.
 
-Pour des idées d'agencement sur les [cuisines modernes 2026](/guides/cuisine/cuisines-modernes-2026-designs-modeles/), tu trouveras des inspirations complémentaires qui se marient bien avec le concept de cuisine américaine.
+Pour des idées d'agencement sur les [cuisines modernes 2026](/cuisines-modernes-2026-designs-modeles/), tu trouveras des inspirations complémentaires qui se marient bien avec le concept de cuisine américaine.
 
 ```mermaid
 flowchart TD
@@ -206,8 +206,8 @@ flowchart TD
 
 ## Sur le meme theme
 
-- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
-- [cuisine haut de gamme en seine-et-marne](/guides/cuisine/cuisine-haut-gamme-77-ai-concept/)
+- [changer les portes d'une cuisine ikea faktum](/changer-portes-cuisines-ikea-faktum/)
+- [cuisine haut de gamme en seine-et-marne](/cuisine-haut-gamme-77-ai-concept/)
 
 ## FAQ
 

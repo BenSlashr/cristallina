@@ -211,7 +211,7 @@ Les caves à vin et épiceries fines donnent souvent leurs caisses en bois. Trai
 **Vieux seau en zinc ou arrosoir percé**
 Les brocantes regorgent de vieilles ferrailles à moins de 5 €. Un seau en zinc percé au fond et rempli de terreau accueille très bien les herbes aromatiques ou les petites fleurs. Le rendu rustique et campagnard plaît beaucoup.
 
-Si tu aimes l'idée de transformer des objets du quotidien en éléments de déco jardin, jette un oeil à l'article sur les [pneus recyclés pour la décoration](/guides/decoration/pneus-recycles-pour-la-decoration/). C'est exactement dans cet esprit, et les résultats sont vraiment surprenants.
+Si tu aimes l'idée de transformer des objets du quotidien en éléments de déco jardin, jette un oeil à l'article sur les [pneus recyclés pour la décoration](/pneus-recycles-pour-la-decoration/). C'est exactement dans cet esprit, et les résultats sont vraiment surprenants.
 
 ---
 
@@ -272,15 +272,15 @@ Selon la taille et la profondeur de ta jardinière, les options varient :
 
 **Plus de 30 cm de profondeur :** tomates cerise, courgettes, haricots, carottes courtes, fraisiers, petites herbes vivaces.
 
-Si tu veux aller plus loin dans l'aménagement de ton extérieur, l'article sur la [pose de bordures de jardin sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/) te donnera des idées pour délimiter tes massifs avec style et sans chantier.
+Si tu veux aller plus loin dans l'aménagement de ton extérieur, l'article sur la [pose de bordures de jardin sans béton](/poser-bordure-jardin-sans-beton/) te donnera des idées pour délimiter tes massifs avec style et sans chantier.
 
 ---
 
 
 ## Sur le meme theme
 
-- [jardinières suspendues diy](/guides/exterieur/6-idees-pour-fabriquer-des-jardinieres-suspendues-maison/)
-- [serre tunnel](/guides/exterieur/installer-serre-tunnel/)
+- [jardinières suspendues diy](/6-idees-pour-fabriquer-des-jardinieres-suspendues-maison/)
+- [serre tunnel](/installer-serre-tunnel/)
 
 <div class="my-8">
   <img src="/images/pinterest-maison-rustique-moderne-pierre-bois-authentique-1771236781339.jpg" alt="Diy jardiniere - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
@@ -293,7 +293,7 @@ Si c'est ta première jardinière DIY, commence par le modèle palette verticale
 
 Pour les outils, une visseuse-perceuse suffit pour la plupart des modèles. Pas besoin d'investir dans un atelier complet. Leroy Merlin et Brico Dépôt proposent aussi la découpe sur mesure des planches à la coupe, ce qui t'évite d'acheter une scie si tu n'en as pas.
 
-Et si l'idée de jardiner dehors t'inspire, mais que tu veux aller encore plus loin dans la transformation de ton espace extérieur, l'article sur [comment créer un jardin zen en 7 étapes](/guides/exterieur/comment-creer-un-jardin-zen-en-7-etapes/) te donnera une vision d'ensemble pour un aménagement cohérent et apaisant.
+Et si l'idée de jardiner dehors t'inspire, mais que tu veux aller encore plus loin dans la transformation de ton espace extérieur, l'article sur [comment créer un jardin zen en 7 étapes](/comment-creer-un-jardin-zen-en-7-etapes/) te donnera une vision d'ensemble pour un aménagement cohérent et apaisant.
 
 Alors, lequel des 5 modèles tu essaies en premier ?
 

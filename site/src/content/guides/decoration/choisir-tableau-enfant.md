@@ -130,7 +130,7 @@ Un tableau qui tombe sur un enfant, c'est le scénario à éviter. Vérifie que 
 - Le poids est suffisant pour ne pas basculer au moindre contact
 - Les vis et assemblages ne sont pas accessibles aux petits doigts
 
-Les chevalets en bois (Janod, Ikea) sont globalement plus stables que les modèles tout plastique. Le bois pèse plus lourd, ce qui ancre le tableau au sol. Si tu as déjà aménagé une [salle de jeux pour tes enfants](/guides/decoration/salle-de-jeux-pour-enfants/), tu sais que la stabilité du mobilier est le point de départ de tout.
+Les chevalets en bois (Janod, Ikea) sont globalement plus stables que les modèles tout plastique. Le bois pèse plus lourd, ce qui ancre le tableau au sol. Si tu as déjà aménagé une [salle de jeux pour tes enfants](/salle-de-jeux-pour-enfants/), tu sais que la stabilité du mobilier est le point de départ de tout.
 
 ### Matériaux : bois ou plastique ?
 
@@ -149,7 +149,7 @@ C'est un point que beaucoup de parents négligent à l'achat et regrettent ensui
 
 **Côté blanc :** les feutres effaçables bon marché laissent souvent des résidus après quelques semaines. Investis dans des feutres de marque (Bic Velleda, environ 5 euros les 4) et nettoie la surface chaque semaine avec un spray nettoyant pour tableau blanc (3-5 euros). Un tableau blanc bien entretenu reste impeccable pendant des années.
 
-Si tu cherches des informations plus détaillées sur les tableaux blancs et les feutres effaçables, mon guide sur les [tableaux Velleda et feutres effaçables](/guides/decoration/choisir-tableau-velleda/) couvre ce sujet en profondeur.
+Si tu cherches des informations plus détaillées sur les tableaux blancs et les feutres effaçables, mon guide sur les [tableaux Velleda et feutres effaçables](/choisir-tableau-velleda/) couvre ce sujet en profondeur.
 
 ---
 
@@ -217,19 +217,19 @@ L'emplacement compte autant que le modèle. Un tableau mal placé ne sera pas ut
 
 **Dans la chambre :** près du bureau ou du coin jeu, jamais face au lit (ca stimule au lieu de calmer au moment du coucher). Prévois une protection au sol sous le tableau - un vieux drap ou un tapis lavable - pour les projections de craie.
 
-**Dans la salle de jeux :** l'emplacement idéal. Le tableau fait partie du mobilier de jeu, et le désordre ne dérange personne. Si tu aménages une salle dédiée, pense à la disposition globale comme je l'explique dans le guide sur la [salle de jeux pour enfants](/guides/decoration/salle-de-jeux-pour-enfants/).
+**Dans la salle de jeux :** l'emplacement idéal. Le tableau fait partie du mobilier de jeu, et le désordre ne dérange personne. Si tu aménages une salle dédiée, pense à la disposition globale comme je l'explique dans le guide sur la [salle de jeux pour enfants](/salle-de-jeux-pour-enfants/).
 
 **Dans le salon :** possible si tu choisis un modèle esthétique (bois naturel, Janod ou Vilac) et si tu le replies quand il n'est pas utilisé. Le modèle pliable Ikea Mala se range derrière un meuble en 5 secondes.
 
-Un dernier point sur l'emplacement : évite de mettre le tableau contre un mur que tu veux garder impeccable. Même avec des craies sans poussière, il y aura des traces. Pour accrocher un modèle mural (certains tableaux enfant se fixent au mur comme un vrai tableau), consulte notre guide [bien accrocher un tableau mural](/guides/decoration/bien-accrocher-tableau-mural/) pour les bonnes techniques de fixation.
+Un dernier point sur l'emplacement : évite de mettre le tableau contre un mur que tu veux garder impeccable. Même avec des craies sans poussière, il y aura des traces. Pour accrocher un modèle mural (certains tableaux enfant se fixent au mur comme un vrai tableau), consulte notre guide [bien accrocher un tableau mural](/bien-accrocher-tableau-mural/) pour les bonnes techniques de fixation.
 
 ---
 
 
 ## Sur le meme theme
 
-- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
-- [cadre tableau mural végétal](/guides/decoration/choisir-cadre-tableau-mural-vegetal/)
+- [tableau planning et pense-bête](/choisir-tableau-planning-pense-bete/)
+- [cadre tableau mural végétal](/choisir-cadre-tableau-mural-vegetal/)
 
 ## Questions fréquentes
 
@@ -246,4 +246,4 @@ Les craies classiques ne sont pas toxiques, mais elles produisent de la poussiè
 Pour un enfant de 2-4 ans, une surface de 40x30 cm suffit. A partir de 5 ans, vise au moins 50x40 cm pour qu'il ait de la place pour écrire des mots et dessiner des scènes complètes. Les modèles "grand format" (60x50 cm et plus) conviennent aux fratries qui dessinent ensemble.
 
 **Peut-on fixer un tableau enfant au mur ?**
-Oui, il existe des modèles muraux (Janod mural, Ikea Luns) qui se fixent comme un tableau classique. C'est un gain de place pour les petites chambres. Pour la technique de fixation, suis les conseils de notre guide sur l'[accrochage de tableaux muraux](/guides/decoration/bien-accrocher-tableau-mural/).
+Oui, il existe des modèles muraux (Janod mural, Ikea Luns) qui se fixent comme un tableau classique. C'est un gain de place pour les petites chambres. Pour la technique de fixation, suis les conseils de notre guide sur l'[accrochage de tableaux muraux](/bien-accrocher-tableau-mural/).

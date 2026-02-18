@@ -31,7 +31,7 @@ Son avantage sur le parasol : il libère l'espace au sol. Pas de pied encombrant
 > [!TIP]
 > Choisis une toile de store avec un indice UPF 50+ et une couleur claire (écru, sable, gris clair). Les couleurs foncées absorbent la chaleur au lieu de la rejeter.
 
-Si tu cherches toutes les options d'ombrage possibles, j'ai déjà fait un [comparatif complet des 8 solutions pour ombrager ta terrasse](/guides/exterieur/ombrager-terrasse/) avec les vrais prix.
+Si tu cherches toutes les options d'ombrage possibles, j'ai déjà fait un [comparatif complet des 8 solutions pour ombrager ta terrasse](/ombrager-terrasse/) avec les vrais prix.
 
 ## 2. Créer de l'ombre naturelle avec des arbres
 
@@ -61,7 +61,7 @@ La pergola transforme une zone de ton extérieur en pièce de vie. Et quand il f
 
 **Pergola classique** avec toile rétractable : à partir de 600 euros en kit. Tu gères l'ombre manuellement.
 
-**Pergola bioclimatique** à lames orientables : les lames pivotent pour laisser passer l'air tout en bloquant le soleil direct. Prix : de 3 000 à 10 000 euros pose comprise. J'ai écrit un [guide complet sur la pergola bioclimatique](/guides/exterieur/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) si tu veux creuser le sujet.
+**Pergola bioclimatique** à lames orientables : les lames pivotent pour laisser passer l'air tout en bloquant le soleil direct. Prix : de 3 000 à 10 000 euros pose comprise. J'ai écrit un [guide complet sur la pergola bioclimatique](/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) si tu veux creuser le sujet.
 
 L'atout de la pergola, c'est la ventilation. L'air circule librement sous la structure. Combine-la avec un brumisateur et la température descend de 8 à 10 degrés par rapport au soleil direct.
 
@@ -130,7 +130,7 @@ Les plantes les plus efficaces pour un jardin frais en été :
 - **Agapanthe** : ses grandes tiges fleuries bleu-violet créent du volume et de l'ombre au sol. Elle aime le plein soleil.
 - **Graminées ornementales** (miscanthus, pennisetum) : elles bougent avec le vent et créent une impression de légèreté et de mouvement frais dans le jardin.
 
-Plante-les en masse autour de ta terrasse et le long des allées. Plus tu multiplies les plantes, plus l'effet est perceptible. Pour regrouper tes plantes, j'ai un [guide pas à pas pour fabriquer tes propres jardinières](/guides/exterieur/diy-jardiniere/).
+Plante-les en masse autour de ta terrasse et le long des allées. Plus tu multiplies les plantes, plus l'effet est perceptible. Pour regrouper tes plantes, j'ai un [guide pas à pas pour fabriquer tes propres jardinières](/diy-jardiniere/).
 
 > [!WARNING]
 > Attention à l'arrosage en canicule : arrose tes plantes le soir après 20h ou tôt le matin avant 8h. Un arrosage en plein soleil gaspille jusqu'à 60 % de l'eau par évaporation immédiate et peut brûler le feuillage.
@@ -181,7 +181,7 @@ Place tes zones de vie (table, transats) dans le couloir de vent naturel de ton 
 
 Si ton espace est fermé, un ventilateur d'extérieur sur pied (étanche IP44) crée un flux agréable pour 50 à 120 euros. Certains modèles intègrent un brumisateur pour un double effet frais.
 
-Les haies basses et les claustras à lames orientent le vent sans le bloquer. L'idée, c'est de canaliser l'air vers tes zones de vie. Et pour prolonger tes soirées d'été, consulte le guide sur [l'éclairage extérieur sans fil](/guides/exterieur/installer-eclairage-exterieur-sans-fil/).
+Les haies basses et les claustras à lames orientent le vent sans le bloquer. L'idée, c'est de canaliser l'air vers tes zones de vie. Et pour prolonger tes soirées d'été, consulte le guide sur [l'éclairage extérieur sans fil](/installer-eclairage-exterieur-sans-fil/).
 
 ```mermaid
 graph LR
@@ -255,7 +255,7 @@ graph TD
 
 ## Sur le meme theme
 
-- [pergola ou tonnelle](/guides/exterieur/difference-pergola-tonnelle/)
+- [pergola ou tonnelle](/difference-pergola-tonnelle/)
 
 ## FAQ
 

@@ -203,9 +203,9 @@ En rénovation, ces normes ne sont pas toujours obligatoires, mais les respecter
 
 Si tu es en pleine construction, l'isolation sous dalle est le choix logique : c'est la plus performante et elle ne coûte pas beaucoup plus cher intégrée au chantier. En rénovation, la sous-face est souvent la meilleure option si tu as un accès par en dessous. L'isolation par-dessus reste la solution quand tu n'as pas d'autre choix, mais attention à la perte de hauteur.
 
-Si tu dois aussi intervenir sur les murs en contact avec ta dalle, jette un oeil au guide pour [enduire un mur en parpaing](/guides/decoration/comment-enduir-un-mur-en-parpaing/) - c'est souvent l'occasion de traiter les ponts thermiques aux jonctions mur-sol. Et pour tes murs de cave ou de sous-sol, le guide pour [recouvrir des parpaings](/guides/decoration/recouvrir-parpaings/) te donnera des idées pour combiner isolation et finition esthétique.
+Si tu dois aussi intervenir sur les murs en contact avec ta dalle, jette un oeil au guide pour [enduire un mur en parpaing](/comment-enduir-un-mur-en-parpaing/) - c'est souvent l'occasion de traiter les ponts thermiques aux jonctions mur-sol. Et pour tes murs de cave ou de sous-sol, le guide pour [recouvrir des parpaings](/recouvrir-parpaings/) te donnera des idées pour combiner isolation et finition esthétique.
 
-Si ton projet inclut aussi l'isolation des espaces attenants (cage d'escalier vers la cave, par exemple), pense à consulter le guide sur [l'isolation d'une montée d'escalier](/guides/decoration/comment-isoler-une-montee-descalier/) pour traiter le problème dans sa globalité.
+Si ton projet inclut aussi l'isolation des espaces attenants (cage d'escalier vers la cave, par exemple), pense à consulter le guide sur [l'isolation d'une montée d'escalier](/comment-isoler-une-montee-descalier/) pour traiter le problème dans sa globalité.
 
 > [!IMPORTANT]
 > Pense aux ponts thermiques en périphérie de dalle. L'isolant doit remonter sur les murs de fondation (bandes de rive) pour éviter que le froid passe par les bords. C'est un détail souvent oublié en DIY, mais il peut annuler jusqu'à 30 % du bénéfice de ton isolation si tu le négliges.
@@ -213,8 +213,8 @@ Si ton projet inclut aussi l'isolation des espaces attenants (cage d'escalier ve
 
 ## Sur le meme theme
 
-- [peindre du lino](/guides/decoration/peindre-lino/)
-- [crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/)
+- [peindre du lino](/peindre-lino/)
+- [crépir un mur intérieur](/crepir-un-mur-interieur/)
 
 ## FAQ
 

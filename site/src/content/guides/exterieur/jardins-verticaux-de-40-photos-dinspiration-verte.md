@@ -57,7 +57,7 @@ C'est le système pro, celui des façades d'hôtels, des restaurants et des aér
 
 ### 4. Le jardin vertical en structure bois ou palette
 
-Le plus DIY de tous. Tu recycles une palette ou tu construis une structure en tasseaux, tu y fixes des pots, des gouttières ou des jardinières. C'est le système parfait pour un [potager vertical sur terrasse](/guides/exterieur/diy-jardiniere/) ou un mur d'aromatiques près de la cuisine.
+Le plus DIY de tous. Tu recycles une palette ou tu construis une structure en tasseaux, tu y fixes des pots, des gouttières ou des jardinières. C'est le système parfait pour un [potager vertical sur terrasse](/diy-jardiniere/) ou un mur d'aromatiques près de la cuisine.
 
 **Budget :** Une palette gratuite + un rouleau de géotextile (5 EUR) + du terreau (8 EUR) = moins de 20 EUR. Difficile de faire moins cher.
 
@@ -113,7 +113,7 @@ Le mur végétal intérieur, c'est le truc qui transforme un salon banal en show
 </div>
 
 
-**Style minimaliste** : Un panneau de 1 m2 avec 3 variétés maximum (pothos, fougère, chlorophytum) sur un mur blanc. L'effet est net, contemporain, pas surchargé. Ça se marie bien avec un [intérieur aux couleurs tendance 2026](/guides/couleurs/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/).
+**Style minimaliste** : Un panneau de 1 m2 avec 3 variétés maximum (pothos, fougère, chlorophytum) sur un mur blanc. L'effet est net, contemporain, pas surchargé. Ça se marie bien avec un [intérieur aux couleurs tendance 2026](/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/).
 
 **Style jungle tropicale** : Tout un mur recouvert, du sol au plafond, avec une vingtaine d'espèces mélangées. Monstera, philodendron, calathéa, fougères... C'est généreux, vivant, un peu sauvage. Budget conséquent (500 à 1 500 EUR selon la surface) mais l'impact visuel est maximum.
 
@@ -204,9 +204,9 @@ Le jardin vertical, c'est beau sur les photos, mais il demande un suivi régulie
 
 Pour finir cette galerie, voici les styles qui reviennent le plus souvent dans les réalisations réussies :
 
-**Le mur de mousse stabilisée** : Pas d'entretien du tout (la mousse est morte, préservée chimiquement). Rendu velours très zen, parfait pour un salon ou un [bureau](/guides/decoration/fabriquer-un-bureau-avec-des-caissons/). Budget : 80 à 150 EUR/m2 selon la densité.
+**Le mur de mousse stabilisée** : Pas d'entretien du tout (la mousse est morte, préservée chimiquement). Rendu velours très zen, parfait pour un salon ou un [bureau](/fabriquer-un-bureau-avec-des-caissons/). Budget : 80 à 150 EUR/m2 selon la densité.
 
-**Le jardin vertical en escalier** : Des bacs en bois ou en métal disposés en gradin contre un mur. Chaque étage reçoit la lumière. Idéal pour un potager vertical dans un petit [jardin zen](/guides/exterieur/comment-creer-un-jardin-zen-en-7-etapes/).
+**Le jardin vertical en escalier** : Des bacs en bois ou en métal disposés en gradin contre un mur. Chaque étage reçoit la lumière. Idéal pour un potager vertical dans un petit [jardin zen](/comment-creer-un-jardin-zen-en-7-etapes/).
 
 **Le mur de succulentes en cadre** : Un cadre en bois avec un grillage, rempli de sphaigne et planté d'échévérias, sédums et sempervivums. Se pose à plat pendant 4 semaines le temps que les racines s'installent, puis s'accroche verticalement.
 
@@ -215,7 +215,7 @@ Pour finir cette galerie, voici les styles qui reviennent le plus souvent dans l
 
 ## Sur le meme theme
 
-- [jardins intérieurs modernes](/guides/exterieur/jardins-interieurs-modernes-photos-et-conseils-de-conception/)
+- [jardins intérieurs modernes](/jardins-interieurs-modernes-photos-et-conseils-de-conception/)
 
 ## FAQ - Jardins verticaux
 

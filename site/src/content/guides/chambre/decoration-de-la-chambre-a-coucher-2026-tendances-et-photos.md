@@ -222,11 +222,11 @@ Là, tu peux te faire plaisir avec des pièces fortes :
 
 ## Sur le meme theme
 
-- [chambre adulte à deux teintes](/guides/chambre/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes/)
-- [feng shui chambre à coucher](/guides/chambre/le-feng-shui-dans-la-chambre-a-coucher/)
-- [décorer sa chambre en location](/guides/chambre/decorer-chambre-coucher-location/)
-- [déco pop chambre](/guides/chambre/guide-pour-une-deco-pop-dans-la-chambre-a-coucher/)
-- [chambre style jungle](/guides/chambre/decorer-une-chambre-dans-un-style-jungle/)
+- [chambre adulte à deux teintes](/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes/)
+- [feng shui chambre à coucher](/le-feng-shui-dans-la-chambre-a-coucher/)
+- [décorer sa chambre en location](/decorer-chambre-coucher-location/)
+- [déco pop chambre](/guide-pour-une-deco-pop-dans-la-chambre-a-coucher/)
+- [chambre style jungle](/decorer-une-chambre-dans-un-style-jungle/)
 
 ## Questions fréquentes
 

@@ -74,7 +74,7 @@ Le Milwaukee M12 (environ 120-150€ nu, sans batterie) est la référence chez 
 Si tu as déjà un écosystème de batteries (Makita 18V, DeWalt 20V, Bosch 18V...), regarde d'abord si la marque propose un pistolet compatible. Acheter une batterie et un chargeur en plus, ça fait vite grimper la note.
 
 > [!NOTE]
-> Un pistolet électrique n'est pas réservé aux pros. Si tu rénoves un appartement entier ou que tu [aménages ta salle de bain](https://www.cristallina.fr/guides/salle-de-bain/amenager-une-salle-de-bain-en-2026-styles-et-conseils/), tu vas poser des dizaines de mètres de joints. Le confort d'un modèle électrique change vraiment la donne.
+> Un pistolet électrique n'est pas réservé aux pros. Si tu rénoves un appartement entier ou que tu [aménages ta salle de bain](https://www.cristallina.fr/amenager-une-salle-de-bain-en-2026-styles-et-conseils/), tu vas poser des dizaines de mètres de joints. Le confort d'un modèle électrique change vraiment la donne.
 
 ### Le pistolet pneumatique
 
@@ -121,7 +121,7 @@ Le pistolet, c'est juste le support. Le résultat final dépend surtout du produ
 
 **Mastic-colle hybride** : combine collage et étanchéité. Les produits type "MS polymère" (Sika, Bostik) sont très polyvalents. Se peignent, restent souples, résistent à l'eau. Prix : 10 à 18€.
 
-Si tu travailles sur de l'isolation - par exemple pour [calfeutrer une montée d'escalier](https://www.cristallina.fr/guides/decoration/comment-isoler-une-montee-descalier/) - un mastic acrylique ou polyuréthane sera plus adapté qu'un silicone.
+Si tu travailles sur de l'isolation - par exemple pour [calfeutrer une montée d'escalier](https://www.cristallina.fr/comment-isoler-une-montee-descalier/) - un mastic acrylique ou polyuréthane sera plus adapté qu'un silicone.
 
 ## Comment utiliser un pistolet à calfeutrer : la méthode étape par étape
 
@@ -224,16 +224,16 @@ Voici un récapitulatif des prix constatés en 2026 :
 
 Pour un usage ponctuel, un modèle à 15€ avec décompression automatique est le meilleur rapport qualité-prix. C'est ce que je recommande quand on me demande.
 
-Si tu fais des travaux d'[enduit sur parpaing](https://www.cristallina.fr/guides/decoration/comment-enduir-un-mur-en-parpaing/) ou de [finition murale](https://www.cristallina.fr/guides/decoration/recouvrir-parpaings/), un pistolet à calfeutrer te servira aussi pour boucher les petits trous et les raccords entre matériaux avant la finition.
+Si tu fais des travaux d'[enduit sur parpaing](https://www.cristallina.fr/comment-enduir-un-mur-en-parpaing/) ou de [finition murale](https://www.cristallina.fr/recouvrir-parpaings/), un pistolet à calfeutrer te servira aussi pour boucher les petits trous et les raccords entre matériaux avant la finition.
 
 
 ## Sur le meme theme
 
-- [enduire un mur en parpaing](/guides/decoration/comment-enduir-un-mur-en-parpaing/)
-- [crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/)
-- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
-- [comment recouvrir des parpaings](/guides/decoration/recouvrir-parpaings/)
-- [peindre du lino](/guides/decoration/peindre-lino/)
+- [enduire un mur en parpaing](/comment-enduir-un-mur-en-parpaing/)
+- [crépir un mur intérieur](/crepir-un-mur-interieur/)
+- [isolation dalle béton](/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [comment recouvrir des parpaings](/recouvrir-parpaings/)
+- [peindre du lino](/peindre-lino/)
 
 ## Questions fréquentes
 

@@ -173,11 +173,11 @@ L'olive s'intègre dans plusieurs univers décoratifs, mais elle excelle dans ce
 
 ## Sur le meme theme
 
-- [couleurs de cuisine 2026](/guides/cuisine/couleurs-de-cuisine-2026/)
-- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
-- [cuisines avec îlot 2026](/guides/cuisine/cuisines-avec-ilot-2026-designs-et-tendances/)
-- [cuisine haut de gamme en seine-et-marne](/guides/cuisine/cuisine-haut-gamme-77-ai-concept/)
-- [décoration cuisine](/guides/cuisine/decoration-cuisine/)
+- [couleurs de cuisine 2026](/couleurs-de-cuisine-2026/)
+- [changer les portes d'une cuisine ikea faktum](/changer-portes-cuisines-ikea-faktum/)
+- [cuisines avec îlot 2026](/cuisines-avec-ilot-2026-designs-et-tendances/)
+- [cuisine haut de gamme en seine-et-marne](/cuisine-haut-gamme-77-ai-concept/)
+- [décoration cuisine](/decoration-cuisine/)
 
 ## En résumé : mon plan d'action
 

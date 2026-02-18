@@ -172,9 +172,9 @@ flowchart LR
 
 ### Les couleurs des murs et du sol
 
-Pour les murs, le blanc cassé ou le gris très clair sont les bases. Mais tu peux aussi jouer avec une teinte douce : un bleu poudré, un vert sauge très discret, un taupe chaud. La marque [Luxens chez Leroy Merlin](/guides/couleurs/peinture-luxens/) propose des coloris parfaitement dans le ton nordique à des prix accessibles.
+Pour les murs, le blanc cassé ou le gris très clair sont les bases. Mais tu peux aussi jouer avec une teinte douce : un bleu poudré, un vert sauge très discret, un taupe chaud. La marque [Luxens chez Leroy Merlin](/peinture-luxens/) propose des coloris parfaitement dans le ton nordique à des prix accessibles.
 
-Pour le sol, le carrelage en grande dalle mate (format 60x60 ou 80x80) en gris clair ou en travertin est parfait. Tu peux aussi envisager un [carrelage en chevrons pour ta douche italienne](/guides/salle-de-bain/carrelage-douche-italienne/) si ta salle de bain combine les deux.
+Pour le sol, le carrelage en grande dalle mate (format 60x60 ou 80x80) en gris clair ou en travertin est parfait. Tu peux aussi envisager un [carrelage en chevrons pour ta douche italienne](/carrelage-douche-italienne/) si ta salle de bain combine les deux.
 
 > [!WARNING]
 > Évite le carrelage mosaïque coloré ou les motifs trop chargés sur les murs - cela casse immédiatement l'effet nordique épuré. Si tu veux de la texture, reste sur des formats larges en finition mate avec des joints très fins de la même couleur que le carrelage.
@@ -191,9 +191,9 @@ Pour le sol, le carrelage en grande dalle mate (format 60x60 ou 80x80) en gris c
 
 Pour aller plus loin dans l'univers nordique, pense à ces combinaisons gagnantes :
 
-**Baignoire blanche + meuble vasque béton ciré** : le contraste entre le blanc mat et le béton brossé est superbe. Tu peux découvrir tout ce qu'il y a à savoir sur cette matière dans notre guide sur le [meuble salle de bain béton ciré](/guides/salle-de-bain/meuble-salle-de-bain-beton-cire/).
+**Baignoire blanche + meuble vasque béton ciré** : le contraste entre le blanc mat et le béton brossé est superbe. Tu peux découvrir tout ce qu'il y a à savoir sur cette matière dans notre guide sur le [meuble salle de bain béton ciré](/meuble-salle-de-bain-beton-cire/).
 
-**Baignoire nordique + touche japonaise** : les deux styles partagent une philosophie du dépouillement et du respect des matières. Si tu aimes aussi l'esthétique du pays du soleil levant, notre article sur la [baignoire japonaise](/guides/salle-de-bain/baignoire-japonaise/) te donnera des idées de combinaisons très réussies.
+**Baignoire nordique + touche japonaise** : les deux styles partagent une philosophie du dépouillement et du respect des matières. Si tu aimes aussi l'esthétique du pays du soleil levant, notre article sur la [baignoire japonaise](/baignoire-japonaise/) te donnera des idées de combinaisons très réussies.
 
 **Accessoires** : un bac à sels de bain en bois, une bougie sur le rebord, un livre et un verre de vin blanc à portée de main... Le style nordique célèbre le plaisir simple du bain long et sans culpabilité.
 
@@ -209,7 +209,7 @@ Le modèle "Njord Aegir" (bain froid) est disponible à partir de 1 990 €, le 
 
 ## Sur le meme theme
 
-- [salle de bain rustique moderne](/guides/salle-de-bain/salles-de-bains-rustiques-decoration-et-design-modernes/)
+- [salle de bain rustique moderne](/salles-de-bains-rustiques-decoration-et-design-modernes/)
 
 ## FAQ
 

@@ -99,13 +99,13 @@ Le choix des couleurs va déterminer si ta cuisine penche plutôt "campagne angl
 
 Le blanc cassé, le crème, le beige sable, le terracotta doux, le vert olive - voilà ta palette de base. Ce sont des couleurs qu'on retrouve dans la nature, dans les vieux murs de pierre, dans les façades des maisons de village. Elles se marient entre elles sans effort.
 
-Pour les murs, un blanc chaud type "White Tie" de Farrow & Ball (environ 110 euros les 2,5 litres) donne un fond parfait. Tu peux aussi peindre un seul pan de mur dans un vert sauge ou un bleu gris doux pour créer un point focal. Si tu cherches à approfondir les associations autour du vert, jette un oeil à notre guide sur la [cuisine verte et bois](/guides/cuisine/la-cuisine-verte-et-bois-une-teinte-elegante-et-moderne/) qui détaille toutes les nuances qui marchent.
+Pour les murs, un blanc chaud type "White Tie" de Farrow & Ball (environ 110 euros les 2,5 litres) donne un fond parfait. Tu peux aussi peindre un seul pan de mur dans un vert sauge ou un bleu gris doux pour créer un point focal. Si tu cherches à approfondir les associations autour du vert, jette un oeil à notre guide sur la [cuisine verte et bois](/la-cuisine-verte-et-bois-une-teinte-elegante-et-moderne/) qui détaille toutes les nuances qui marchent.
 
 ### Les façades de meubles
 
 Le bois naturel, évidemment. Mais tu peux aussi opter pour des façades peintes dans des tons sourds : gris chaud, bleu ardoise, vert de gris. L'important est de garder un fini mat ou satin - le brillant tue immédiatement l'esprit rustique.
 
-Si tu veux une teinte plus audacieuse sur tes meubles, l'olive est un choix qui fonctionne à merveille dans un cadre rustique. On en parle en détail dans notre article sur la [cuisine olive](/guides/cuisine/cuisine-olive/).
+Si tu veux une teinte plus audacieuse sur tes meubles, l'olive est un choix qui fonctionne à merveille dans un cadre rustique. On en parle en détail dans notre article sur la [cuisine olive](/cuisine-olive/).
 
 > [!IMPORTANT]
 > Évite le blanc pur (RAL 9010 ou équivalent) pour les meubles d'une cuisine rustique. C'est trop froid, trop clinique. Préfère toujours un blanc cassé, un ivoire ou un blanc lin qui aura plus de profondeur et de chaleur.
@@ -180,13 +180,13 @@ Les façades en stratifié "effet bois noué" ou les poutres en polystyrène, ç
 
 Le rustique chic, c'est pas une brocante. Quelques objets bien choisis (un pichet en grès, un bouquet de fleurs séchées, une planche à pain en bois d'olivier) valent mieux qu'une collection entière de casseroles en cuivre, de pots à confiture et de figurines de poule. La règle : si tu ne l'utilises pas ou ne l'adores pas, ne l'expose pas.
 
-Si tu veux approfondir le sujet de la [peinture pour carrelage](/guides/cuisine/peinture-pour-carrelage-cuisine/) comme solution de rénovation rapide, c'est une option intéressante pour transformer une crédence existante sans tout casser.
+Si tu veux approfondir le sujet de la [peinture pour carrelage](/peinture-pour-carrelage-cuisine/) comme solution de rénovation rapide, c'est une option intéressante pour transformer une crédence existante sans tout casser.
 
 ## Comment adapter le rustique chic à une petite cuisine
 
 Tu te dis peut-être que ce style demande des mètres carrés et une maison de campagne. Pas du tout. Le rustique chic fonctionne aussi en appartement, même dans une cuisine de 6 m2.
 
-La clé : aller au plus simple. Pas besoin de tout faire en bois massif. Un plan de travail en chêne, une crédence en zellige, des poignées en laiton et un bel éclairage suffisent à poser l'ambiance. Si tu as une [petite cuisine](/guides/cuisine/petites-cuisines-modernes-2026-designs-et-modeles/), concentre-toi sur 2 ou 3 éléments forts plutôt que d'essayer de tout changer.
+La clé : aller au plus simple. Pas besoin de tout faire en bois massif. Un plan de travail en chêne, une crédence en zellige, des poignées en laiton et un bel éclairage suffisent à poser l'ambiance. Si tu as une [petite cuisine](/petites-cuisines-modernes-2026-designs-et-modeles/), concentre-toi sur 2 ou 3 éléments forts plutôt que d'essayer de tout changer.
 
 Les étagères ouvertes sont particulièrement adaptées aux petits espaces : elles allègent visuellement le haut des murs et donnent une impression de profondeur que les meubles fermés n'offrent pas.
 
@@ -211,7 +211,7 @@ graph TD
 
 ## Sur le meme theme
 
-- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
+- [changer les portes d'une cuisine ikea faktum](/changer-portes-cuisines-ikea-faktum/)
 
 ## FAQ
 

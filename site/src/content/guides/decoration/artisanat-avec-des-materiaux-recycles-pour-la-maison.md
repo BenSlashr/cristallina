@@ -30,7 +30,7 @@ Le bois de palette reste le chouchou des bricoleurs récup. Il est gratuit (ou p
 
 Découpe deux ou trois planches d'une palette standard (120 x 80 cm). Ponce-les au papier de verre grain 120, puis applique une couche de cire ou de vernis mat. Fixe-les au mur avec des équerres invisibles. Budget total : moins de 10 euros si tu as déjà du papier de verre.
 
-Ces étagères font un effet super dans une cuisine pour poser des bocaux d'épices ou dans un couloir pour les cadres photos. Et si tu veux aller plus loin avec ce matériau, tu peux même [fabriquer un bar en palettes](/guides/decoration/comment-fabriquer-soi-meme-un-bar-en-palettes/) pour ton salon ou ta terrasse.
+Ces étagères font un effet super dans une cuisine pour poser des bocaux d'épices ou dans un couloir pour les cadres photos. Et si tu veux aller plus loin avec ce matériau, tu peux même [fabriquer un bar en palettes](/comment-fabriquer-soi-meme-un-bar-en-palettes/) pour ton salon ou ta terrasse.
 
 ### Jardinière d'intérieur en palette
 
@@ -56,7 +56,7 @@ Le verre est un matériau génial pour la récup déco. Il est beau, solide, et 
 
 Nettoie bien tes bouteilles de vin ou de jus de fruits, retire les étiquettes (30 minutes dans l'eau chaude + un peu de vinaigre blanc). Peins-les avec de la peinture acrylique ou de la peinture en bombe, en deux couches légères. Des bouteilles de tailles différentes regroupées sur un plateau en bois font un centre de table moderne.
 
-Pour des techniques plus détaillées sur la peinture sur verre, jette un oeil à notre guide pour [peindre des bocaux et des bouteilles en verre](/guides/decoration/comment-peindre-des-bocaux-ou-des-bouteilles-en-verre/). Tu y trouveras les bonnes peintures et les étapes de préparation.
+Pour des techniques plus détaillées sur la peinture sur verre, jette un oeil à notre guide pour [peindre des bocaux et des bouteilles en verre](/comment-peindre-des-bocaux-ou-des-bouteilles-en-verre/). Tu y trouveras les bonnes peintures et les étapes de préparation.
 
 > [!NOTE]
 > La peinture en bombe Rust-Oleum Chalk Paint (13 euros environ) donne un fini mat ultra tendance sur le verre. Deux couches fines espacées de 20 minutes suffisent pour un résultat opaque et uniforme.
@@ -117,7 +117,7 @@ On jette des kilos de plastique chaque mois. Certains contenants ont des formes 
 
 Coupe une bouteille en plastique de 1,5 ou 2 litres aux deux tiers de la hauteur. Ponce le bord coupé avec du papier de verre fin pour éviter les bords tranchants. Peins l'extérieur avec de la peinture acrylique (deux couches), perce trois trous de drainage au fond, et remplis de terreau. Ces pots reviennent à 0 euros et sont parfaits pour des herbes aromatiques.
 
-Si tu veux suspendre tes créations, tu peux aussi les intégrer dans des [jardinières suspendues faites maison](/guides/exterieur/6-idees-pour-fabriquer-des-jardinieres-suspendues-maison/) pour un coin verdure sur ton balcon.
+Si tu veux suspendre tes créations, tu peux aussi les intégrer dans des [jardinières suspendues faites maison](/6-idees-pour-fabriquer-des-jardinieres-suspendues-maison/) pour un coin verdure sur ton balcon.
 
 ### Rangement avec des contenants de lait ou de lessive
 
@@ -154,7 +154,7 @@ Les vieux draps, les chutes de tissu, le papier journal et le carton sont aussi 
 
 ### Fleurs en tissu ou en papier
 
-Des chutes de tissu coloré ou du papier de soie deviennent de très belles fleurs décoratives. Un bouquet de fleurs en papier dure des années (pas d'arrosage, pas de flétrissement) et apporte de la couleur à n'importe quelle pièce. Pour la technique complète, consulte le guide pour [réaliser des fleurs en tissu ou en papier étape par étape](/guides/decoration/comment-realiser-des-fleurs-en-tissu-ou-en-papier-etape-par-etape/).
+Des chutes de tissu coloré ou du papier de soie deviennent de très belles fleurs décoratives. Un bouquet de fleurs en papier dure des années (pas d'arrosage, pas de flétrissement) et apporte de la couleur à n'importe quelle pièce. Pour la technique complète, consulte le guide pour [réaliser des fleurs en tissu ou en papier étape par étape](/comment-realiser-des-fleurs-en-tissu-ou-en-papier-etape-par-etape/).
 
 ### Paniers tressés en vieux draps
 
@@ -202,7 +202,7 @@ Quelques astuces qui font la différence entre un résultat amateur et un objet 
 
 ## Sur le meme theme
 
-- [pneus recyclés pour la déco](/guides/decoration/pneus-recycles-pour-la-decoration/)
+- [pneus recyclés pour la déco](/pneus-recycles-pour-la-decoration/)
 
 ## FAQ
 

@@ -61,7 +61,7 @@ L'erreur que je vois souvent, c'est de remplir les cinq tiroirs de la meme manie
 > [!TIP]
 > Ajoute des séparateurs dans le tiroir du haut. Les organiseurs de tiroir IKEA STUK ou meme de simples boites en carton découpées empechent les stylos et petits objets de se balader a chaque ouverture. Ca change la vie au quotidien.
 
-Si tu as un [espace de travail réduit](/guides/decoration/decoration-petit-salon/), un seul caisson ALEX suffit. Positionne-le du coté de ta main dominante pour un acces rapide sans te contorsionner.
+Si tu as un [espace de travail réduit](/decoration-petit-salon/), un seul caisson ALEX suffit. Positionne-le du coté de ta main dominante pour un acces rapide sans te contorsionner.
 
 ## FJÄDERHARV : la mini-commode qui se pose sur le bureau
 
@@ -206,7 +206,7 @@ Place le caisson ALEX sous le bureau, le KUGGIS dans le premier tiroir, la FJÄD
 
 ### 4. Ranger par fréquence d'utilisation
 
-Tout ce que tu utilises quotidiennement reste a portée de main (surface du bureau et tiroir du haut). Le reste va plus loin. C'est la meme logique que pour [organiser un dressing](/guides/rangement/rangement-soutien-gorge/) : les pieces les plus portées devant, le reste derriere.
+Tout ce que tu utilises quotidiennement reste a portée de main (surface du bureau et tiroir du haut). Le reste va plus loin. C'est la meme logique que pour [organiser un dressing](/rangement-soutien-gorge/) : les pieces les plus portées devant, le reste derriere.
 
 ### 5. Maintenir le systeme
 
@@ -242,9 +242,9 @@ Pour d'autres idées de [rangement créatif](/rangement-creatif-optimisation/), 
 
 ## Sur le meme theme
 
-- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
-- [canapé ikea 2 places](/guides/decoration/ikea-frappe-fort-avec-son-nouveau-canape-2-places-parfait-pour-les-petits-salons/)
-- [plateau multifonction ikea](/guides/shopping/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
+- [changer les portes d'une cuisine ikea faktum](/changer-portes-cuisines-ikea-faktum/)
+- [canapé ikea 2 places](/ikea-frappe-fort-avec-son-nouveau-canape-2-places-parfait-pour-les-petits-salons/)
+- [plateau multifonction ikea](/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
 
 ## FAQ
 

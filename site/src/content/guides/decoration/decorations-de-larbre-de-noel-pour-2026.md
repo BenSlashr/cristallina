@@ -47,7 +47,7 @@ Les marques qui se positionnent sur cette tendance en 2026 :
 - **H&M Home** : suspensions en verre soufflé avec reflets irisés, autour de 6-12 € la pièce
 - Pour le tinsel (guirlande lametta), comptez 4-9 € la bobine en grande surface
 
-Ce style correspond bien à une [décoration dorée](/guides/decoration/decoration-doree-sur-les-murs-les-meubles-ou-les-accessoires/) dans le reste de la pièce : les reflets or et argent se répondent entre le sapin et les accessoires du salon.
+Ce style correspond bien à une [décoration dorée](/decoration-doree-sur-les-murs-les-meubles-ou-les-accessoires/) dans le reste de la pièce : les reflets or et argent se répondent entre le sapin et les accessoires du salon.
 
 > [!NOTE]
 > Le crystal glam fonctionne mieux avec un sapin vert foncé dense qu'avec un sapin blanc. La profondeur de couleur fait ressortir les reflets et donne du relief à l'ensemble.
@@ -56,7 +56,7 @@ Ce style correspond bien à une [décoration dorée](/guides/decoration/decorati
 
 Rouge bordeaux, vert sapin, or mat, brun expresso... Les couleurs de Noël classiques font leur retour, mais dans des versions plus raffinées. On est loin des boules plastique des années 90 - ici, on parle de textures velours, de bois peint à la main, de petits animaux polaires en céramique et d'ornements qui racontent une histoire.
 
-Ce courant s'inspire directement de la tradition des Noëls d'anteodors - les veillées autour du feu, la campagne, les vieux jouets. Il se prête bien au style [décoration shabby chic](/guides/decoration/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/) si tu aimes les intérieurs avec du caractère.
+Ce courant s'inspire directement de la tradition des Noëls d'anteodors - les veillées autour du feu, la campagne, les vieux jouets. Il se prête bien au style [décoration shabby chic](/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/) si tu aimes les intérieurs avec du caractère.
 
 Couleurs clés : rouge cerise, bordeaux profond, orangé chaud, vert mousse, or vieilli.
 
@@ -70,7 +70,7 @@ Ornements typiques de cette tendance :
 
 Pour ceux qui préfèrent la sobriété, la tendance minimaliste reste très présente en 2026. Peu d'ornements, un fil directeur de couleur strict (blanc + or, noir + argent, beige + cuivre), et surtout des espaces négatifs assumés qui donnent de l'élégance à l'ensemble.
 
-Ce style est directement lié à l'univers de la [décoration minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/) : si ton intérieur est épuré, ton sapin doit l'être aussi pour ne pas créer un décalage visuel.
+Ce style est directement lié à l'univers de la [décoration minimaliste](/decoration-minimaliste-idees-et-photos-faciles/) : si ton intérieur est épuré, ton sapin doit l'être aussi pour ne pas créer un décalage visuel.
 
 Les règles du sapin minimaliste réussi :
 1. Maximum 3 types d'ornements différents
@@ -172,7 +172,7 @@ flowchart LR
 - **Artisans Etsy** : ornements en verre soufflé bouche, pièces uniques, 15-40 € pièce
 
 > [!TIP]
-> Si tu veux créer des ornements originaux qui sortent du lot, jette un oeil aux techniques de [fleurs en tissu ou en papier](/guides/decoration/comment-realiser-des-fleurs-en-tissu-ou-en-papier-etape-par-etape/) - une guirlande de petites fleurs en papier kraft autour du sapin est à la fois très tendance et très peu chère à fabriquer.
+> Si tu veux créer des ornements originaux qui sortent du lot, jette un oeil aux techniques de [fleurs en tissu ou en papier](/comment-realiser-des-fleurs-en-tissu-ou-en-papier-etape-par-etape/) - une guirlande de petites fleurs en papier kraft autour du sapin est à la fois très tendance et très peu chère à fabriquer.
 
 ## Idées originales pour se démarquer
 
@@ -200,7 +200,7 @@ Pas forcément un style visuel, mais une idée : intègre quelques mini-cadres p
 
 ## Sur le meme theme
 
-- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
+- [salons modernes 2026](/salons-modernes-tendances-2026/)
 
 ## FAQ - Les questions les plus posées sur les décorations de sapin
 

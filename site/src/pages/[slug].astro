@@ -3,68 +3,110 @@ import '@/styles/global.css';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Navbar from '@/components/Navbar.astro';
 import Footer from '@/components/Footer.astro';
-import CrossLinks from '@/components/CrossLinks.astro';
 import { getCollection, render } from 'astro:content';
-import type { LinkGroup } from '@/components/CrossLinks.astro';
+import type { CollectionEntry } from 'astro:content';
 import { articleSchema, breadcrumbSchema } from '@/utils/schema';
 
 export async function getStaticPaths() {
   const now = new Date();
+
+  // Blog posts
   const posts = await getCollection('blog', ({ data }) =>
     data.pubDate.valueOf() <= now.valueOf()
   );
-  return posts.map((post) => ({
+
+  // Guide articles (exclude hubs/index)
+  const allGuides = await getCollection('guides', ({ data }) =>
+    (!data.pubDate || data.pubDate.valueOf() <= now.valueOf()) && data.type === 'guide'
+  );
+
+  const blogPaths = posts.map((post) => ({
     params: { slug: post.id },
-    props: { post },
+    props: { kind: 'blog' as const, post, entry: null as CollectionEntry<'guides'> | null, allPages: [] as CollectionEntry<'guides'>[] },
   }));
+
+  const guidePaths = allGuides.map((entry) => {
+    const slug = entry.id.split('/').pop()!;
+    return {
+      params: { slug },
+      props: { kind: 'guide' as const, post: null as CollectionEntry<'blog'> | null, entry, allPages: allGuides },
+    };
+  });
+
+  return [...blogPaths, ...guidePaths];
 }
 
-const { post } = Astro.props;
-const { Content } = await render(post);
+const { kind, post, entry, allPages } = Astro.props;
 
-// TODO: Customize cross-links for your content silos
-const crossLinkGroups: LinkGroup[] = [
-  {
-    title: 'Guides',
-    links: [
-      { href: '/guides/getting-started', label: 'Bien demarrer' },
-    ],
-  },
-  {
-    title: 'Glossaire',
-    links: [
-      { href: '/glossaire/seo', label: 'SEO' },
-      { href: '/glossaire', label: 'Tous les termes' },
-    ],
-  },
-];
+// Render the right content
+const rendered = kind === 'guide' && entry
+  ? await render(entry)
+  : kind === 'blog' && post
+    ? await render(post)
+    : null;
 
-const formattedDate = new Date(post.data.pubDate).toLocaleDateString('fr-FR', {
-  year: 'numeric',
-  month: 'long',
-  day: 'numeric',
-});
+const Content = rendered?.Content;
+const headings = rendered?.headings || [];
 
-const pageUrl = `/${post.id}/`;
-const schemaArticle = articleSchema({
-  title: post.data.title,
-  description: post.data.description,
-  url: pageUrl,
-  image: post.data.image,
-  datePublished: post.data.pubDate.toISOString(),
-  author: post.data.author,
-});
-const schemaBreadcrumb = breadcrumbSchema([
-  { name: 'Accueil', url: '/' },
-  { name: post.data.title, url: pageUrl },
-]);
+// Build page metadata
+let title = '';
+let description = '';
+let image: string | undefined;
+let pageUrl = '/';
+let schemas: Record<string, unknown>[] = [];
+let readingTime: string | undefined;
+let parentHubTitle: string | undefined;
+let parentHubUrl: string | undefined;
+
+if (kind === 'guide' && entry) {
+  const slug = entry.id.split('/').pop()!;
+  title = entry.data.title;
+  description = entry.data.description;
+  image = entry.data.image;
+  readingTime = entry.data.readingTime;
+  pageUrl = `/${slug}/`;
+
+  const pubDate = entry.data.pubDate ? new Date(entry.data.pubDate).toISOString() : undefined;
+
+  // Find parent hub
+  if (entry.data.parent) {
+    const allEntries = await getCollection('guides');
+    const hub = allEntries.find((p) => p.id === `${entry.data.parent}/index`);
+    if (hub) {
+      parentHubTitle = hub.data.title;
+      parentHubUrl = `/guides/${hub.id.replace(/\/index$/, '')}`;
+    }
+  }
+
+  const breadcrumbItems = [{ name: 'Accueil', url: '/' }];
+  if (parentHubTitle && parentHubUrl) {
+    breadcrumbItems.push({ name: parentHubTitle, url: parentHubUrl });
+  }
+  breadcrumbItems.push({ name: title, url: pageUrl });
+
+  schemas = [
+    articleSchema({ title, description, url: pageUrl, image, datePublished: pubDate }),
+    breadcrumbSchema(breadcrumbItems),
+  ];
+} else if (kind === 'blog' && post) {
+  title = post.data.title;
+  description = post.data.description;
+  image = post.data.image;
+  pageUrl = `/${post.id}/`;
+
+  schemas = [
+    articleSchema({ title, description, url: pageUrl, image, datePublished: post.data.pubDate.toISOString(), author: post.data.author }),
+    breadcrumbSchema([{ name: 'Accueil', url: '/' }, { name: title, url: pageUrl }]),
+  ];
+}
+
 ---
 
 <BaseLayout
-  title={`${post.data.title} | Cristallina`}
-  description={post.data.description}
-  ogImage={post.data.image}
-  jsonLd={[schemaArticle, schemaBreadcrumb]}
+  title={`${title} | Cristallina`}
+  description={description}
+  ogImage={image}
+  jsonLd={schemas}
 >
   <Navbar />
 
@@ -73,68 +115,44 @@ const schemaBreadcrumb = breadcrumbSchema([
       <!-- Breadcrumb -->
       <nav class="flex items-center gap-2 text-sm text-text-muted mb-8" aria-label="Fil d'ariane">
         <a href="/" class="hover:text-primary transition-colors cursor-pointer">Accueil</a>
+        {parentHubTitle && parentHubUrl && (
+          <>
+            <span>/</span>
+            <a href={parentHubUrl} class="hover:text-primary transition-colors cursor-pointer">
+              {parentHubTitle}
+            </a>
+          </>
+        )}
         <span>/</span>
-        <span class="text-text-secondary">{post.data.title}</span>
+        <span class="text-text-secondary">{title}</span>
       </nav>
 
       <!-- Header -->
       <header class="mb-10">
-        <div class="flex items-center gap-3 mb-4">
-          <span class="px-2.5 py-0.5 text-xs font-semibold bg-secondary/10 text-secondary-light rounded-full border border-secondary/20">
-            {post.data.category}
-          </span>
-          {post.data.readingTime && (
-            <span class="text-xs text-text-muted">{post.data.readingTime} de lecture</span>
-          )}
-        </div>
-
+        {readingTime && (
+          <span class="text-xs text-text-muted mb-4 block">{readingTime} de lecture</span>
+        )}
         <h1 class="font-display font-800 text-display leading-[1.1] mb-4 tracking-tight">
-          {post.data.title}
+          {title}
         </h1>
-
-        <p class="text-body-lg text-text-secondary leading-relaxed mb-6">
-          {post.data.description}
+        <p class="text-body-lg text-text-secondary leading-relaxed">
+          {description}
         </p>
-
-        <div class="flex items-center gap-4 text-sm text-text-muted border-t border-border pt-4">
-          <span>Par <strong class="text-text-secondary">{post.data.author}</strong></span>
-          <span>&middot;</span>
-          <time datetime={post.data.pubDate.toISOString()}>{formattedDate}</time>
-        </div>
       </header>
 
       <!-- Hero Image -->
-      {post.data.image && (
+      {image && (
         <div class="mb-10 rounded-card overflow-hidden border border-border">
-          <img
-            src={post.data.image}
-            alt={post.data.title}
-            class="w-full h-auto object-cover aspect-video"
-            loading="eager"
-          />
+          <img src={image} alt={title} class="w-full h-auto object-cover aspect-video" width="1200" height="675" loading="eager" />
         </div>
       )}
 
       <!-- Content -->
       <article class="prose-custom">
-        <Content />
+        {Content && <Content />}
       </article>
-
-      <!-- Cross-links -->
-      <section class="mt-12">
-        <CrossLinks groups={crossLinkGroups} />
-      </section>
-
-      <!-- Disclaimer -->
-      <div class="mt-8 p-4 rounded-card border border-border bg-surface-raised/20">
-        <p class="text-xs text-text-muted leading-relaxed">
-          <!-- TODO: Replace with your disclaimer -->
-          Cet article est publie a titre informatif. Faites vos propres recherches avant toute decision.
-        </p>
-      </div>
     </div>
   </main>
 
   <Footer />
-
 </BaseLayout>

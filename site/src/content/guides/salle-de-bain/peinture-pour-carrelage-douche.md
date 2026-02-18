@@ -57,7 +57,7 @@ L'application demande plus de rigueur : il faut mélanger deux composants (rési
 
 Ce n'est pas une peinture à proprement parler, mais c'est une alternative populaire qui mérite sa place ici. Un enduit béton ciré ou minéral recouvre complètement le carrelage et les joints, pour un rendu monolithique ultra moderne. Les prix varient de 40 à 100 euros le m² en fournitures seules.
 
-Si le look béton ciré te tente pour ta salle de bain, tu peux aller voir mon guide sur les [meubles salle de bain en béton ciré](/guides/salle-de-bain/meuble-salle-de-bain-beton-cire/) pour t'inspirer du rendu global. L'enduit sur le carrelage de douche crée une continuité visuelle avec le reste de la pièce.
+Si le look béton ciré te tente pour ta salle de bain, tu peux aller voir mon guide sur les [meubles salle de bain en béton ciré](/meuble-salle-de-bain-beton-cire/) pour t'inspirer du rendu global. L'enduit sur le carrelage de douche crée une continuité visuelle avec le reste de la pièce.
 
 ```mermaid
 flowchart TD
@@ -168,7 +168,7 @@ Le choix de la couleur, c'est le côté fun du projet. Mais dans une douche, cer
 > [!CAUTION]
 > Évite les finitions mates dans la douche. Elles absorbent les éclaboussures et se salissent plus vite. Privilégie les finitions satinées ou brillantes qui repoussent l'eau et se nettoient d'un coup d'éponge.
 
-Si tu te poses des questions sur les associations de couleurs pour ta salle de bain, mon guide sur le [carrelage de douche italienne](/guides/salle-de-bain/carrelage-douche-italienne/) donne pas mal d'idées de palettes qui fonctionnent aussi avec la peinture.
+Si tu te poses des questions sur les associations de couleurs pour ta salle de bain, mon guide sur le [carrelage de douche italienne](/carrelage-douche-italienne/) donne pas mal d'idées de palettes qui fonctionnent aussi avec la peinture.
 
 ## Entretien et durabilité : faire durer ta peinture
 
@@ -194,7 +194,7 @@ Après avoir accompagné des dizaines de projets déco, je connais les pièges c
 
 **Erreur 4 : oublier de ventiler pendant et après.** Les vapeurs de résine époxy sont irritantes, et l'humidité emprisonnée provoque des défauts d'adhérence. Ventile en continu pendant les 72 premières heures minimum.
 
-**Erreur 5 : peindre le sol de la douche.** Le sol de la douche subit des frottements mécaniques (poids, pieds) que la peinture ne supporte pas longtemps, même la résine époxy. Pour le sol, mieux vaut opter pour un receveur de douche neuf ou un tapis antidérapant. Si tu veux en savoir plus sur les receveurs, consulte mon guide sur le [choix d'un receveur pour douche italienne](/guides/salle-de-bain/quel-receveur-pour-douche-italienne/).
+**Erreur 5 : peindre le sol de la douche.** Le sol de la douche subit des frottements mécaniques (poids, pieds) que la peinture ne supporte pas longtemps, même la résine époxy. Pour le sol, mieux vaut opter pour un receveur de douche neuf ou un tapis antidérapant. Si tu veux en savoir plus sur les receveurs, consulte mon guide sur le [choix d'un receveur pour douche italienne](/quel-receveur-pour-douche-italienne/).
 
 > [!IMPORTANT]
 > Après la dernière couche, attends au minimum 7 jours avant de réutiliser la douche. Ce délai permet à la peinture de polymériser complètement et d'atteindre sa résistance maximale. C'est long, mais ça fait la différence entre un résultat qui dure et un résultat qui s'écaille en trois mois.
@@ -214,12 +214,12 @@ Pour te donner une idée concrète, voici ce que coûte un projet complet de pei
 
 Compare ça aux 1500-3000 euros d'un remplacement complet du carrelage, et le calcul est vite fait. Même si tu dois refaire la peinture tous les 4-5 ans, tu restes largement gagnante sur 10 ans.
 
-Et si tu cherches des idées de rangement pour compléter ta salle de bain rénovée, jette un oeil à mes [astuces rangement salle de bain](/guides/salle-de-bain/idees-de-rangement-et-de-placards-pour-la-salle-de-bains/) - ça vaut le détour.
+Et si tu cherches des idées de rangement pour compléter ta salle de bain rénovée, jette un oeil à mes [astuces rangement salle de bain](/idees-de-rangement-et-de-placards-pour-la-salle-de-bains/) - ça vaut le détour.
 
 
 ## Sur le meme theme
 
-- [peinture carrelage salle de bain](/guides/salle-de-bain/peinture-pour-carrelage-salle-de-bain-les-choses-a-eviter/)
+- [peinture carrelage salle de bain](/peinture-pour-carrelage-salle-de-bain-les-choses-a-eviter/)
 
 ## FAQ
 

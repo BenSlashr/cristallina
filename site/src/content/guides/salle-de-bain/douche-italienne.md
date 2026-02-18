@@ -36,7 +36,7 @@ Honnêtement ? Parce que ça coche beaucoup de cases à la fois.
 </div>
 
 
-**L'esthétique d'abord.** Une douche italienne bien faite, avec un beau carrelage, une niche murale et une robinetterie soignée, c'est visuellement imbattable. Ça donne immédiatement un air "rénovation haut de gamme" à une salle de bain. Et puisqu'on parle de carrelage, tu peux faire des choses magnifiques - découvres les possibilités dans notre guide sur le [carrelage pour douche italienne](/guides/salle-de-bain/carrelage-douche-italienne/) pour vraiment te faire une idée.
+**L'esthétique d'abord.** Une douche italienne bien faite, avec un beau carrelage, une niche murale et une robinetterie soignée, c'est visuellement imbattable. Ça donne immédiatement un air "rénovation haut de gamme" à une salle de bain. Et puisqu'on parle de carrelage, tu peux faire des choses magnifiques - découvres les possibilités dans notre guide sur le [carrelage pour douche italienne](/carrelage-douche-italienne/) pour vraiment te faire une idée.
 
 **L'accessibilité ensuite.** C'est la solution parfaite pour une salle de bain accessible à tous. Plus de bord à enjamber, plus de risque de chute. Si tu anticipes un vieillissement à domicile ou si tu as des personnes à mobilité réduite dans ta famille, c'est un vrai plus à long terme.
 
@@ -109,7 +109,7 @@ Oui, même pour une douche "de plain-pied", il existe des receveurs spéciaux. C
 
 Les receveurs à carreler en Wedi ou en mousse expansée sont très pratiques : ils ont la pente déjà intégrée, l'étanchéité est traitée, tu n'as qu'à coller ton carrelage dessus. Comptez 150 à 500€ selon la taille et la marque.
 
-Les receveurs en résine ultra-plats (type Villeroy & Boch Squaro Infinity ou Kaldewei Superplan Zero) sont une autre option - finition béton ou pierre, très esthétiques, dès 300€ et jusqu'à 1200€. Pour t'aider à choisir la meilleure option pour ton projet, le guide sur [quel receveur pour une douche italienne](/guides/salle-de-bain/quel-receveur-pour-douche-italienne/) détaille tout ça en profondeur.
+Les receveurs en résine ultra-plats (type Villeroy & Boch Squaro Infinity ou Kaldewei Superplan Zero) sont une autre option - finition béton ou pierre, très esthétiques, dès 300€ et jusqu'à 1200€. Pour t'aider à choisir la meilleure option pour ton projet, le guide sur [quel receveur pour une douche italienne](/quel-receveur-pour-douche-italienne/) détaille tout ça en profondeur.
 
 ## Combien ça coûte vraiment ?
 
@@ -179,7 +179,7 @@ Le plus sympa avec une douche italienne, c'est la liberté déco. Le carrelage e
 
 **La robinetterie thermo** : les mitigeurs thermostatiques, c'est le confort absolu - tu règles une fois ta température et tu n'y retouches plus. Grohe et Hansgrohe ont des gammes entre 200 et 600€. Pour les petits budgets, les modèles Leroy Merlin Sensea font le job à partir de 150€.
 
-Pour encore plus d'inspiration, jette un oeil à notre sélection d'[idées pour douches italiennes](/guides/salle-de-bain/douches-italiennes-idees/) - il y a de quoi trouver ton style quelle que soit la superficie de ta salle de bain.
+Pour encore plus d'inspiration, jette un oeil à notre sélection d'[idées pour douches italiennes](/douches-italiennes-idees/) - il y a de quoi trouver ton style quelle que soit la superficie de ta salle de bain.
 
 > [!TIP]
 > Mon combo préféré pour un rendu haut de gamme sans se ruiner : carrelage grand format imitation béton ciré (Castorama en a de très bien autour de 25-35€/m²), joints époxy gris anthracite, robinetterie noire mate (Leroy Merlin propose des gammes noires à partir de 80€ pour le mitigeur). Résultat garanti.
@@ -187,8 +187,8 @@ Pour encore plus d'inspiration, jette un oeil à notre sélection d'[idées pour
 
 ## Sur le meme theme
 
-- [douche à 1 euro](/guides/salle-de-bain/douche-1-euro/)
-- [peinture pour carrelage de douche](/guides/salle-de-bain/peinture-pour-carrelage-douche/)
+- [douche à 1 euro](/douche-1-euro/)
+- [peinture pour carrelage de douche](/peinture-pour-carrelage-douche/)
 
 ## FAQ
 

@@ -91,7 +91,7 @@ Parfait pour un mémo personnel au-dessus du bureau, un petit rappel dans l'entr
 
 C'est le format familial. Tu peux y mettre le planning de la semaine pour toute la famille, une zone pour les menus et une zone pour les listes de courses. C'est aussi la taille idéale si tu travailles de chez toi et que tu as besoin de visualiser tes projets.
 
-Si tu cherches aussi des solutions d'organisation murale avec un côté plus déco, jette un oeil à notre guide sur les [tableaux planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/) qui compare tous les formats.
+Si tu cherches aussi des solutions d'organisation murale avec un côté plus déco, jette un oeil à notre guide sur les [tableaux planning et pense-bête](/choisir-tableau-planning-pense-bete/) qui compare tous les formats.
 
 > [!NOTE]
 > Un tableau de 90x120 cm occupe environ la même surface murale qu'une grande toile déco. Pense à le placer comme tu placerais un cadre : centré au-dessus d'un meuble, avec 15 à 20 cm de marge en bas.
@@ -152,7 +152,7 @@ Certains modèles haut de gamme ont un cadre en bois ou en aluminium brossé qui
 
 L'astuce qui change tout : au lieu de coller un tableau blanc tout seul au milieu d'un mur, crée une composition autour. Un tableau Velleda au centre, un petit panier mural pour le courrier à côté, un crochet pour les clés en dessous, et une petite plante en pot suspendu. Tu transformes un simple outil d'organisation en vrai coin déco fonctionnel.
 
-Pour les règles d'accrochage et les hauteurs idéales, tu trouveras tout dans notre guide [bien accrocher un tableau mural](/guides/decoration/bien-accrocher-tableau-mural/).
+Pour les règles d'accrochage et les hauteurs idéales, tu trouveras tout dans notre guide [bien accrocher un tableau mural](/bien-accrocher-tableau-mural/).
 
 > [!TIP]
 > Mon secret pour un "command center" réussi : aligne tous les éléments sur un axe vertical imaginaire. Le tableau au centre, les accessoires répartis autour avec 5 à 10 cm d'espacement. L'ensemble doit former un rectangle visuel cohérent.
@@ -194,7 +194,7 @@ J'ai vu (et fait) pas mal d'erreurs avec les tableaux blancs. Voici celles que t
 
 **Placer le tableau en plein soleil** - Les UV accélèrent le fantômage et jaunissent les surfaces laquées. Si ton tableau est dans une pièce lumineuse, place-le sur un mur qui ne reçoit pas de lumière directe.
 
-**Oublier la fixation** - Un tableau de 90x120 cm pèse entre 4 et 10 kg selon le modèle. Les languettes adhésives ne suffiront pas. Prévois des vis et des chevilles adaptées à ton type de mur. Si tu hésites sur la méthode, consulte notre guide pour [choisir un tableau mural](/guides/decoration/choisir-tableau-mural/) qui détaille toutes les fixations possibles.
+**Oublier la fixation** - Un tableau de 90x120 cm pèse entre 4 et 10 kg selon le modèle. Les languettes adhésives ne suffiront pas. Prévois des vis et des chevilles adaptées à ton type de mur. Si tu hésites sur la méthode, consulte notre guide pour [choisir un tableau mural](/choisir-tableau-mural/) qui détaille toutes les fixations possibles.
 
 > [!WARNING]
 > Ne laisse jamais un marqueur posé contre la surface du tableau pendant des heures. L'encre peut "marquer" la surface, surtout sur les modèles laqués. Utilise toujours le repose-marqueur ou un petit rebord en bas du tableau.
@@ -236,8 +236,8 @@ flowchart TD
 
 ## Sur le meme theme
 
-- [tableau pour enfant](/guides/decoration/choisir-tableau-enfant/)
-- [cadre tableau mural végétal](/guides/decoration/choisir-cadre-tableau-mural-vegetal/)
+- [tableau pour enfant](/choisir-tableau-enfant/)
+- [cadre tableau mural végétal](/choisir-cadre-tableau-mural-vegetal/)
 
 <div class="my-8">
   <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236869153.jpg" alt="Choisir tableau velleda - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />

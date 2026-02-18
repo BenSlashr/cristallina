@@ -200,10 +200,10 @@ Si tu n'utilises pas ton bain de novembre à mars :
 
 **Utiliser les mêmes produits que pour une piscine extérieure.** Les bains nordiques ont un volume d'eau bien plus faible et une température plus élevée. Les dosages sont différents - lis toujours les instructions spécifiques aux spas et hot tubs.
 
-Si tu aimes l'idée d'un bain relaxant intégré à ton intérieur, jette un oeil à la [baignoire japonaise](/guides/salle-de-bain/baignoire-japonaise/) qui suit une philosophie similaire mais pour l'intérieur. Et si tu hésites encore sur le type de bain nordique à choisir, l'article sur la [baignoire scandinave](/guides/salle-de-bain/baignoire-scandinave/) peut t'aider à faire la différence entre les styles.
+Si tu aimes l'idée d'un bain relaxant intégré à ton intérieur, jette un oeil à la [baignoire japonaise](/baignoire-japonaise/) qui suit une philosophie similaire mais pour l'intérieur. Et si tu hésites encore sur le type de bain nordique à choisir, l'article sur la [baignoire scandinave](/baignoire-scandinave/) peut t'aider à faire la différence entre les styles.
 
 > [!IMPORTANT]
-> Pour limiter la consommation d'eau liée aux vidanges fréquentes, certains propriétaires récupèrent l'eau de vidange pour arroser le jardin. Attention : l'eau traitée au chlore est déconseillée pour les plantes. Laisse-la déchlorer 48 heures à l'air libre avant usage, ou oriente-toi vers d'autres sources comme expliqué dans notre guide sur la [récupération d'eau piscine](/guides/exterieur/recuperation-eau-piscine/).
+> Pour limiter la consommation d'eau liée aux vidanges fréquentes, certains propriétaires récupèrent l'eau de vidange pour arroser le jardin. Attention : l'eau traitée au chlore est déconseillée pour les plantes. Laisse-la déchlorer 48 heures à l'air libre avant usage, ou oriente-toi vers d'autres sources comme expliqué dans notre guide sur la [récupération d'eau piscine](/recuperation-eau-piscine/).
 
 ## Récapitulatif : ton planning d'entretien
 
@@ -240,7 +240,7 @@ En résumé, voilà ce qui compte :
 
 L'entretien d'un bain nordique, c'est 15 minutes deux fois par semaine et une grande vidange toutes les 6 à 8 semaines. C'est très raisonnable pour une installation qui peut durer 15 à 20 ans si elle est bien traitée. Et franchement, quand tu plonges dans une eau parfaitement équilibrée par une soirée fraîche, tu te diras que ces quelques minutes valaient largement la peine.
 
-Si tu cherches d'autres idées pour transformer ta salle de bains en espace de détente, jette un oeil aux [salles de bains modernes 2026](/guides/salle-de-bain/salles-de-bains-modernes-2026-modeles-designs-decoration/) pour te donner des idées de design, ou explore comment les [plantes salle de bains](/guides/salle-de-bain/plantes-salle-de-bains/) peuvent compléter l'ambiance zen de ton espace bien-être.
+Si tu cherches d'autres idées pour transformer ta salle de bains en espace de détente, jette un oeil aux [salles de bains modernes 2026](/salles-de-bains-modernes-2026-modeles-designs-decoration/) pour te donner des idées de design, ou explore comment les [plantes salle de bains](/plantes-salle-de-bains/) peuvent compléter l'ambiance zen de ton espace bien-être.
 
 ---
 

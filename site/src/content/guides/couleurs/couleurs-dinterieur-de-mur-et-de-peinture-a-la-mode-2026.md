@@ -65,7 +65,7 @@ Le vert n'est plus une nouveauté, mais il mûrit. En 2026, il se décline dans 
 
 **Le vert kaki** ou vert olive est la grosse surprise de cette année. Chloé Nègre, décoratrice, le décrit comme "une teinte qui chauffe sans agresser". Il s'associe très bien au marron glacé et au bleu lavande. Chez Tollens, la gamme "Végétal" propose de belles options dans ces tons.
 
-Pour compléter ta palette verte, regarde aussi ce que font les [couleurs ocres pour les murs](/guides/couleurs/couleurs-ocres-pour-les-murs-et-la-decoration/) - elles se marient très bien avec les verts chauds.
+Pour compléter ta palette verte, regarde aussi ce que font les [couleurs ocres pour les murs](/couleurs-ocres-pour-les-murs-et-la-decoration/) - elles se marient très bien avec les verts chauds.
 
 ## Les rouges et bordeaux : la chaleur qui s'impose
 
@@ -164,7 +164,7 @@ Choisir une couleur de mur ne se fait pas en isolation. Elle interagit avec tes 
 
 **Attention aux finitions :** Mat, velours, satin - chaque finition modifie la perception de la couleur. Le mat absorbe la lumière et adoucit les teintes foncées. Pour les couleurs sombres, le velours est souvent le meilleur compromis.
 
-Si tu te demandes comment créer de la profondeur avec les couleurs plutôt que de les poser à plat, l'article sur les [couleurs profondeur mur](/guides/couleurs/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece/) donne des techniques très concrètes.
+Si tu te demandes comment créer de la profondeur avec les couleurs plutôt que de les poser à plat, l'article sur les [couleurs profondeur mur](/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece/) donne des techniques très concrètes.
 
 > [!IMPORTANT]
 > Ne choisis jamais une couleur de peinture uniquement d'après ce que tu vois sur un écran ou dans un catalogue imprimé. Les conditions d'impression et la lumière de ton écran faussent les perceptions. L'échantillon peint sur ton propre mur, dans ta propre lumière, est le seul test valable.
@@ -175,7 +175,7 @@ Si tu te demandes comment créer de la profondeur avec les couleurs plutôt que 
 
 C'est la pièce où tu vas recevoir, te détendre, passer du temps. Les couleurs qui marchent le mieux en 2026 pour les salons sont le bleu profond (sur un mur accent ou en totalité si la pièce est lumineuse), le vert foncé et le bordeaux pour les ambiances chaleureuses. Pour les salons plus clairs, un greige chaud ou un ocre pâle donnent une base très agréable.
 
-Pour plus d'inspiration sur les associations spécifiques au salon, l'article [couleurs du salon 2026](/guides/decoration/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) détaille les palettes complètes avec meubles et accessoires.
+Pour plus d'inspiration sur les associations spécifiques au salon, l'article [couleurs du salon 2026](/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) détaille les palettes complètes avec meubles et accessoires.
 
 ### La chambre
 
@@ -201,7 +201,7 @@ L'entrée est souvent petite et sombre, ce qui décourage beaucoup de gens d'y m
 
 **V33 / Dulux Valentine** (20-35 €/litre) : pour les budgets serrés, ces marques offrent une bonne tenue avec une palette correcte. Moins de profondeur dans les teintes que les marques premium, mais parfaitement honorables.
 
-Si tu veux un avis détaillé sur une marque spécifique, l'[avis peinture spectrum](/guides/couleurs/avis-peinture-spectrum/) donne un regard objectif sur les performances des produits.
+Si tu veux un avis détaillé sur une marque spécifique, l'[avis peinture spectrum](/avis-peinture-spectrum/) donne un regard objectif sur les performances des produits.
 
 ## Finitions et textures : l'autre tendance 2026
 
@@ -217,7 +217,7 @@ Ce n'est pas nécessairement plus cher - un enduit à la chaux en kit autour de 
 
 ## Sur le meme theme
 
-- [couleurs pour la salle à manger](/guides/couleurs/couleurs-pour-la-salle-a-manger-a-peindre-et-a-decorer/)
+- [couleurs pour la salle à manger](/couleurs-pour-la-salle-a-manger-a-peindre-et-a-decorer/)
 
 ## FAQ
 

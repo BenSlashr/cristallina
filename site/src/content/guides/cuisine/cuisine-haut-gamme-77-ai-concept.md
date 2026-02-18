@@ -58,7 +58,7 @@ Sans parler spécifiquement d'un catalogue figé, les cuisinistes haut de gamme 
 
 **Style scandinave** : bois clair, blanc, tons naturels. Sobre, chaleureux, intemporel.
 
-**Style classique modernisé** : moulures, portes avec cadres, tons sourds (vert anglais, bleu pétrole, gris ardoise). C'est un peu ce qu'on appelle la [cuisine olive](/guides/cuisine/cuisine-olive/) - une couleur qui cartonne depuis deux ans et qui donne un résultat absolument élégant.
+**Style classique modernisé** : moulures, portes avec cadres, tons sourds (vert anglais, bleu pétrole, gris ardoise). C'est un peu ce qu'on appelle la [cuisine olive](/cuisine-olive/) - une couleur qui cartonne depuis deux ans et qui donne un résultat absolument élégant.
 
 > [!NOTE]
 > Le style classique modernisé demande plus de budget car les façades avec moulures et les finitions travaillées coûtent plus cher à produire. Compte environ 20 à 30% de plus par rapport à une façade contemporaine standard.
@@ -203,7 +203,7 @@ C'est une question que je me pose souvent. Payer cher ne suffit pas à garantir 
 
 **La pose** : même les plus beaux meubles peuvent être gâchés par une pose bâclée. Un cuisiniste sérieux utilise un niveau laser, ajuste les pieds réglables, et aligne parfaitement les façades.
 
-D'ailleurs, si tu envisages une cuisine dans une teinte tendance, je t'invite à lire l'article sur la [cuisine verte et bois](/guides/cuisine/la-cuisine-verte-et-bois-une-teinte-elegante-et-moderne/) - une combinaison qui cartonne en ce moment et qui trouve très bien sa place dans les maisons seine-et-marnaises avec leurs intérieurs souvent spacieux.
+D'ailleurs, si tu envisages une cuisine dans une teinte tendance, je t'invite à lire l'article sur la [cuisine verte et bois](/la-cuisine-verte-et-bois-une-teinte-elegante-et-moderne/) - une combinaison qui cartonne en ce moment et qui trouve très bien sa place dans les maisons seine-et-marnaises avec leurs intérieurs souvent spacieux.
 
 ## Financement et aides
 
@@ -229,12 +229,12 @@ Ce que je vois chez les clients qui se lancent dans des projets cuisine cette an
 
 **La mixité des matières** : combinaison bois + métal + pierre naturelle. Une façade en chêne avec un plan de travail en marbre et des poignées en cuivre - c'est ce qui donne du caractère.
 
-Si tu aimes les matières naturelles et les finitions artisanales, tu pourrais aussi regarder du côté du [béton ciré pour la salle de bain](/guides/salle-de-bain/meuble-salle-de-bain-beton-cire/) - c'est une matière qui s'étend aussi à la cuisine et qui donne un résultat vraiment unique.
+Si tu aimes les matières naturelles et les finitions artisanales, tu pourrais aussi regarder du côté du [béton ciré pour la salle de bain](/meuble-salle-de-bain-beton-cire/) - c'est une matière qui s'étend aussi à la cuisine et qui donne un résultat vraiment unique.
 
 
 ## Sur le meme theme
 
-- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
+- [changer les portes d'une cuisine ikea faktum](/changer-portes-cuisines-ikea-faktum/)
 
 ## FAQ - Tes questions sur les cuisines haut de gamme en 77
 
@@ -255,6 +255,6 @@ Généralement : 30% à la commande, 30% à la livraison, 40% à la fin de la po
 
 ---
 
-Si tu penses aussi à revoir la déco du reste de ta maison en cohérence avec ta nouvelle cuisine, jette un oeil à l'article sur la [décoration marocaine moderne ou classique](/guides/decoration/decoration-marocaine-moderne-ou-classique/) - les tons chauds et les matières naturelles de ce style se marient vraiment bien avec les cuisines en bois et métal.
+Si tu penses aussi à revoir la déco du reste de ta maison en cohérence avec ta nouvelle cuisine, jette un oeil à l'article sur la [décoration marocaine moderne ou classique](/decoration-marocaine-moderne-ou-classique/) - les tons chauds et les matières naturelles de ce style se marient vraiment bien avec les cuisines en bois et métal.
 
 Un projet cuisine haut de gamme en Seine-et-Marne, c'est un investissement qui dure 15 à 20 ans si les matériaux et la pose sont au niveau. Prends le temps de comparer, de visiter les showrooms, et de poser toutes tes questions avant de signer. La cuisine, c'est vraiment la pièce où ça vaut la peine de ne pas faire d'économies sur ce qui compte.

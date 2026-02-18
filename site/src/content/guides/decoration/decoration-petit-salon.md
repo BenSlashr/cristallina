@@ -34,7 +34,7 @@ Mais "clair" ne veut pas dire "blanc partout". Un salon tout blanc, ça manque d
 
 ### Le mur d'accent : ton meilleur allié
 
-Un seul mur dans une couleur plus soutenue donne de la profondeur sans rétrécir l'espace. Vert sauge, bleu gris, rose poudré, terracotta doux - ces teintes ajoutent du caractère. Peins le mur du fond (celui que tu vois en entrant) pour créer un effet de perspective. Si tu veux aller plus loin sur ce sujet, notre guide sur [les couleurs pour donner de la profondeur à un mur ou à une pièce](/guides/couleurs/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece/) te donne des combinaisons concrètes.
+Un seul mur dans une couleur plus soutenue donne de la profondeur sans rétrécir l'espace. Vert sauge, bleu gris, rose poudré, terracotta doux - ces teintes ajoutent du caractère. Peins le mur du fond (celui que tu vois en entrant) pour créer un effet de perspective. Si tu veux aller plus loin sur ce sujet, notre guide sur [les couleurs pour donner de la profondeur à un mur ou à une pièce](/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece/) te donne des combinaisons concrètes.
 
 > [!TIP]
 > Garde les couleurs foncées pour les murs étroits que tu veux "repousser" visuellement. Les murs latéraux en teinte claire élargiront la pièce.
@@ -130,7 +130,7 @@ Dans un petit salon, le minimalisme n'est pas juste une tendance esthétique. C'
 
 Avant d'acheter quoi que ce soit, fais un tri. Chaque objet qui reste dans ton salon doit répondre à au moins une de ces deux questions : est-ce que ça me sert ? est-ce que ça me rend heureux quand je le regarde ? Si la réponse est non aux deux, dehors.
 
-Si la déco minimaliste t'intéresse vraiment, notre guide complet sur la [décoration minimaliste avec idées et photos](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/) te donne toutes les clés pour un intérieur épuré sans tomber dans le vide.
+Si la déco minimaliste t'intéresse vraiment, notre guide complet sur la [décoration minimaliste avec idées et photos](/decoration-minimaliste-idees-et-photos-faciles/) te donne toutes les clés pour un intérieur épuré sans tomber dans le vide.
 
 ### La règle du 60-30-10
 
@@ -210,16 +210,16 @@ Pour un salon qui fait aussi chambre d'amis, un joli plaid plié sur l'accoudoir
 
 ## Inspiration : un petit salon stylé en 2026
 
-Les tendances actuelles sont plutôt en faveur des petits espaces. L'ambiance japandi (mélange japonais-scandinave), le style warm minimalism, les intérieurs organiques aux courbes douces - tout ça fonctionne bien dans les espaces réduits. Pour voir des exemples concrets de salons tendance, jette un oeil à nos [salons modernes et élégants 2026](/guides/decoration/salons-modernes-et-elegants-2026/).
+Les tendances actuelles sont plutôt en faveur des petits espaces. L'ambiance japandi (mélange japonais-scandinave), le style warm minimalism, les intérieurs organiques aux courbes douces - tout ça fonctionne bien dans les espaces réduits. Pour voir des exemples concrets de salons tendance, jette un oeil à nos [salons modernes et élégants 2026](/salons-modernes-et-elegants-2026/).
 
 Les formes arrondies remplacent les angles droits stricts : une table basse ovale plutôt que rectangulaire, un miroir rond plutôt que carré. Ces courbes adoucissent l'espace et créent une circulation visuelle plus fluide.
 
-Et si tu aimes le charme à la française, notre article sur la [décoration française avec idées et photos romantiques](/guides/decoration/decoration-francaise-idees-et-photos-romantiques/) peut t'inspirer pour un petit salon cosy et élégant.
+Et si tu aimes le charme à la française, notre article sur la [décoration française avec idées et photos romantiques](/decoration-francaise-idees-et-photos-romantiques/) peut t'inspirer pour un petit salon cosy et élégant.
 
 
 ## Sur le meme theme
 
-- [salon chaleureux](/guides/decoration/salon-plus-chaleureux/)
+- [salon chaleureux](/salon-plus-chaleureux/)
 
 ## FAQ
 

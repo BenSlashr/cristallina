@@ -157,7 +157,7 @@ L'intérieur de la porte d'un placard, c'est une surface de rangement souvent ou
 - Un porte-couvercle vertical
 - Un organiseur pour film alimentaire et papier alu
 
-Si tu as une [petite cuisine et que tu cherches à optimiser chaque recoin](/guides/cuisine/petites-cuisines-modernes-2026-designs-et-modeles/), ces solutions sur portes sont un vrai gain de place.
+Si tu as une [petite cuisine et que tu cherches à optimiser chaque recoin](/petites-cuisines-modernes-2026-designs-et-modeles/), ces solutions sur portes sont un vrai gain de place.
 
 ### Ajouter des étagères intermédiaires
 
@@ -243,10 +243,10 @@ flowchart TD
 
 ## Sur le meme theme
 
-- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
-- [couleurs de cuisine 2026](/guides/cuisine/couleurs-de-cuisine-2026/)
-- [cuisine haut de gamme en seine-et-marne](/guides/cuisine/cuisine-haut-gamme-77-ai-concept/)
-- [cuisine olive](/guides/cuisine/cuisine-olive/)
+- [changer les portes d'une cuisine ikea faktum](/changer-portes-cuisines-ikea-faktum/)
+- [couleurs de cuisine 2026](/couleurs-de-cuisine-2026/)
+- [cuisine haut de gamme en seine-et-marne](/cuisine-haut-gamme-77-ai-concept/)
+- [cuisine olive](/cuisine-olive/)
 
 ## FAQ
 

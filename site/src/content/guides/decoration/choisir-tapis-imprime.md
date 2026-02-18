@@ -60,7 +60,7 @@ L'avantage : un motif abstrait n'impose pas de direction, donc il fonctionne aus
 
 ### Ethnique et kilim : chaleur et voyages
 
-Berbère, aztèque, indien, marocain... Ces motifs apportent du caractère et de la chaleur. Ils se marient très bien avec un intérieur aux matières naturelles comme le bois, le rotin ou le lin. Si tu aimes la [décoration marocaine](/guides/decoration/decoration-marocaine-moderne-ou-classique/), un tapis kilim authentique ou inspiré sera un choix évident.
+Berbère, aztèque, indien, marocain... Ces motifs apportent du caractère et de la chaleur. Ils se marient très bien avec un intérieur aux matières naturelles comme le bois, le rotin ou le lin. Si tu aimes la [décoration marocaine](/decoration-marocaine-moderne-ou-classique/), un tapis kilim authentique ou inspiré sera un choix évident.
 
 Budget : un vrai kilim vintage démarre autour de 200-300 euros. Les imitations chez Ikea (gamme PERSISK et ses remplaçantes) tournent autour de 69-149 euros.
 
@@ -98,7 +98,7 @@ Mon secret : avant d'acheter, découpe des feuilles de journal aux dimensions du
 
 ### Chambre
 
-Deux options : un grand tapis (160x230 cm) qui dépasse largement du lit des deux côtés et du pied, ou deux petits tapis de chevet (60x110 cm) placés de chaque côté. Pour une chambre cosy avec un motif qui se répète, la première option est plus harmonieuse. Tu trouveras des idées complémentaires dans notre guide sur les [tendances chambre 2026](/guides/chambre/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/).
+Deux options : un grand tapis (160x230 cm) qui dépasse largement du lit des deux côtés et du pied, ou deux petits tapis de chevet (60x110 cm) placés de chaque côté. Pour une chambre cosy avec un motif qui se répète, la première option est plus harmonieuse. Tu trouveras des idées complémentaires dans notre guide sur les [tendances chambre 2026](/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/).
 
 ### Couloir et entrée
 
@@ -168,7 +168,7 @@ Appliquée au tapis : 60 % de la pièce reste neutre (murs, gros meubles), 30 % 
 
 ### Motif sur motif : oser le mix
 
-Tu as déjà des rideaux à motifs ou des coussins imprimés ? Tu peux quand même poser un tapis imprimé, à condition de varier les échelles. Par exemple : petits motifs sur les coussins, grand motif sur le tapis. Et garde un élément commun - une couleur qui revient dans les deux imprimés. Si tu veux creuser le sujet des bonnes combinaisons, regarde notre article sur les [couleurs tendance pour les murs et la déco en 2026](/guides/couleurs/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/).
+Tu as déjà des rideaux à motifs ou des coussins imprimés ? Tu peux quand même poser un tapis imprimé, à condition de varier les échelles. Par exemple : petits motifs sur les coussins, grand motif sur le tapis. Et garde un élément commun - une couleur qui revient dans les deux imprimés. Si tu veux creuser le sujet des bonnes combinaisons, regarde notre article sur les [couleurs tendance pour les murs et la déco en 2026](/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/).
 
 ### Adapter l'imprimé au style de la pièce
 
@@ -190,7 +190,7 @@ Un tapis imprimé bien entretenu garde ses couleurs 5 à 10 ans sans problème. 
 
 **Traiter les taches immédiatement** : tamponne (ne frotte jamais !) avec un chiffon humide et un peu de savon de Marseille. Pour les taches tenaces sur laine, le bicarbonate de soude laissé 15 minutes puis aspiré fait des miracles.
 
-**Protection solaire** : les UV décolorent les imprimés, surtout les tapis en coton. Si ton tapis est sous une baie vitrée, investis dans un film UV pour les vitres ou tire les rideaux aux heures les plus exposées. Ça rejoint d'ailleurs le sujet des [erreurs courantes avec les rideaux](/guides/decoration/erreurs-rideaux/) - bien gérer la lumière, ça protège aussi ton mobilier.
+**Protection solaire** : les UV décolorent les imprimés, surtout les tapis en coton. Si ton tapis est sous une baie vitrée, investis dans un film UV pour les vitres ou tire les rideaux aux heures les plus exposées. Ça rejoint d'ailleurs le sujet des [erreurs courantes avec les rideaux](/erreurs-rideaux/) - bien gérer la lumière, ça protège aussi ton mobilier.
 
 > [!IMPORTANT]
 > Ne passe jamais un nettoyeur vapeur sur un tapis imprimé en coton ou en laine sans vérifier l'étiquette du fabricant. La chaleur combinée à l'humidité peut faire dégorger les couleurs et déformer les fibres.
@@ -212,7 +212,7 @@ Mon conseil : mets le prix sur le tapis du salon (tu le vois tous les jours, tes
 
 ## Sur le meme theme
 
-- [tapis logo personnalisé](/guides/decoration/choisir-tapis-logo-personnalise/)
+- [tapis logo personnalisé](/choisir-tapis-logo-personnalise/)
 
 ## FAQ
 

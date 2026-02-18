@@ -61,11 +61,11 @@ Creez votre premier article dans `src/content/blog/` en suivant le schema du fro
 
 ## Sur le meme theme
 
-- [enduire un mur en parpaing](/guides/decoration/comment-enduir-un-mur-en-parpaing/)
-- [comment nettoyer une table en céramique](/guides/decoration/comment-nettoyer-une-table-en-ceramique/)
-- [bien accrocher un tableau mural](/guides/decoration/bien-accrocher-tableau-mural/)
-- [tiny house container](/guides/decoration/tiny-house-container/)
-- [crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/)
+- [enduire un mur en parpaing](/comment-enduir-un-mur-en-parpaing/)
+- [comment nettoyer une table en céramique](/comment-nettoyer-une-table-en-ceramique/)
+- [bien accrocher un tableau mural](/bien-accrocher-tableau-mural/)
+- [tiny house container](/tiny-house-container/)
+- [crépir un mur intérieur](/crepir-un-mur-interieur/)
 
 <div class="my-8">
   <img src="/images/pinterest-appartement-moderne-d-coration-design-contemporain-1771236870730.jpg" alt="First steps - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />

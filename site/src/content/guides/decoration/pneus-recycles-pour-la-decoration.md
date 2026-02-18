@@ -132,7 +132,7 @@ Pose ton pneu peint à plat ou incliné. Remplis l'intérieur avec un géotextil
 
 **Jardinière suspendue**
 
-Un pneu de vélo ou de moto, peint en blanc, accroché à un mur avec deux crochets solides : ça fait une jardinière murale très graphique. Parfait pour les zones où tu veux délimiter l'espace - en accord avec l'idée de [poser des bordures dans le jardin](/guides/exterieur/poser-bordure-jardin-sans-beton/), tu peux créer une vraie cohérence visuelle entre tes bordures et tes jardinières DIY.
+Un pneu de vélo ou de moto, peint en blanc, accroché à un mur avec deux crochets solides : ça fait une jardinière murale très graphique. Parfait pour les zones où tu veux délimiter l'espace - en accord avec l'idée de [poser des bordures dans le jardin](/poser-bordure-jardin-sans-beton/), tu peux créer une vraie cohérence visuelle entre tes bordures et tes jardinières DIY.
 
 ```mermaid
 graph LR
@@ -165,7 +165,7 @@ Découpe un pneu dans le sens de l'épaisseur pour obtenir des anneaux. Accroche
 
 **Sculptures de jardin**
 
-Des pneus découpés et assemblés peuvent former des animaux, des fleurs ou des formes abstraites. Le style "upcycling art" est très tendance dans les jardins contemporains - ça s'inscrit bien dans une déco jardin un peu audacieuse, dans l'esprit d'une [décoration marocaine moderne](/guides/decoration/decoration-marocaine-moderne-ou-classique/) qui mélange les textures et les matières brutes avec des formes travaillées.
+Des pneus découpés et assemblés peuvent former des animaux, des fleurs ou des formes abstraites. Le style "upcycling art" est très tendance dans les jardins contemporains - ça s'inscrit bien dans une déco jardin un peu audacieuse, dans l'esprit d'une [décoration marocaine moderne](/decoration-marocaine-moderne-ou-classique/) qui mélange les textures et les matières brutes avec des formes travaillées.
 
 Pour les sculptures, deux outils à avoir : un cutter à lame céramo (type Stanley) et une scie sauteuse avec lame métal. Le caoutchouc est résistant mais se découpe bien avec les bons outils.
 
@@ -183,7 +183,7 @@ Un pneu de moto, rembourré et recouvert de cuir synthétique noir, fait un tabo
 
 **Les bougies et photophores**
 
-Un petit pneu de vélo, posé à plat et peint, fait un socle original pour des bougies piliers ou des photophores. Place-en trois sur une table basse, dans des tailles différentes, avec des bougies parfumées - effet garanti. Si tu aimes les plantes dans ton salon, tu peux aussi glisser un petit pot de [Peperomia Hope](/guides/decoration/la-peperomia-hope/) à l'intérieur d'un petit anneau de pneu pour un effet terrarium vintage.
+Un petit pneu de vélo, posé à plat et peint, fait un socle original pour des bougies piliers ou des photophores. Place-en trois sur une table basse, dans des tailles différentes, avec des bougies parfumées - effet garanti. Si tu aimes les plantes dans ton salon, tu peux aussi glisser un petit pot de [Peperomia Hope](/la-peperomia-hope/) à l'intérieur d'un petit anneau de pneu pour un effet terrarium vintage.
 
 > [!IMPORTANT]
 > N'utilise jamais de pneu à l'intérieur pour un usage permanent si la pièce est mal ventilée. Même si les vieux pneus ne dégagent presque rien à température ambiante, une bonne aération reste une bonne pratique pour toute déco avec des matériaux industriels recyclés.
@@ -218,13 +218,13 @@ Un grand pneu de tracteur (si tu en trouves un) enterré légèrement dans le so
 
 **Potager-jeu**
 
-Des pneus peints en blanc, disposés en carré ou en rond, font un potager enfant parfait. Chaque pneu devient une parcelle avec une plante différente. Les enfants apprennent à jardiner et les pneus délimitent clairement les zones - une idée qui s'associe bien à la création de [bordures de jardin sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/) pour un espace extérieur cohérent et bien organisé.
+Des pneus peints en blanc, disposés en carré ou en rond, font un potager enfant parfait. Chaque pneu devient une parcelle avec une plante différente. Les enfants apprennent à jardiner et les pneus délimitent clairement les zones - une idée qui s'associe bien à la création de [bordures de jardin sans béton](/poser-bordure-jardin-sans-beton/) pour un espace extérieur cohérent et bien organisé.
 
 
 ## Sur le meme theme
 
-- [artisanat recyclé pour la maison](/guides/decoration/artisanat-avec-des-materiaux-recycles-pour-la-maison/)
-- [table basse diy](/guides/decoration/creez-votre-table-basse-au-design-original-avec-ces-astuces-diy/)
+- [artisanat recyclé pour la maison](/artisanat-avec-des-materiaux-recycles-pour-la-maison/)
+- [table basse diy](/creez-votre-table-basse-au-design-original-avec-ces-astuces-diy/)
 
 ## FAQ
 

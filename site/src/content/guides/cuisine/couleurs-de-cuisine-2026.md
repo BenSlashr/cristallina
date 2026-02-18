@@ -26,7 +26,7 @@ Je t'explique les couleurs qui marquent l'année, comment les associer, et surto
 
 Le vert sauge reste le roi incontesté des cuisines en 2026. Cette teinte grisée et douce s'adapte à tous les styles - du contemporain au campagne chic - et elle ne fatigue pas, même au bout de 5 ans. Chez Cuisinella, les facades vert sauge mat sont en top 3 des ventes depuis deux ans. Schmidt le propose dans sa collection Arcos à partir de 6 500 euros pour une cuisine en L.
 
-Ce qui fonctionne si bien avec le sauge, c'est sa polyvalence. Il va avec le bois clair, le laiton, le marbre blanc, le noir mat. C'est la couleur "joker" qui pardonne presque tout. Si tu veux approfondir cette teinte, regarde aussi notre guide sur la [cuisine verte et bois](/guides/cuisine/la-cuisine-verte-et-bois-une-teinte-elegante-et-moderne/) qui détaille toutes les nuances possibles.
+Ce qui fonctionne si bien avec le sauge, c'est sa polyvalence. Il va avec le bois clair, le laiton, le marbre blanc, le noir mat. C'est la couleur "joker" qui pardonne presque tout. Si tu veux approfondir cette teinte, regarde aussi notre guide sur la [cuisine verte et bois](/la-cuisine-verte-et-bois-une-teinte-elegante-et-moderne/) qui détaille toutes les nuances possibles.
 
 ### Le terracotta : la chaleur méditerranéenne
 
@@ -88,7 +88,7 @@ Oublie la cuisine monochrome. En 2026, le bicolore est partout - et c'est ce qui
 </div>
 
 
-**Crème + vert sauge** : Le duo le plus demandé de l'année selon Cuisinella. Le crème en meubles hauts, le sauge en bas. Résultat lumineux, chaleureux, jamais ennuyeux. Si tu veux aussi explorer d'autres combinaisons vertes, jette un oeil a la [cuisine olive](/guides/cuisine/cuisine-olive/) qui joue dans un registre similaire mais plus chaud.
+**Crème + vert sauge** : Le duo le plus demandé de l'année selon Cuisinella. Le crème en meubles hauts, le sauge en bas. Résultat lumineux, chaleureux, jamais ennuyeux. Si tu veux aussi explorer d'autres combinaisons vertes, jette un oeil a la [cuisine olive](/cuisine-olive/) qui joue dans un registre similaire mais plus chaud.
 
 **Blanc cassé + terracotta** : L'association méditerranéenne par excellence. Le blanc cassé calme le côté intense du terracotta et le résultat évoque la Toscane sans effort. Budget pour des facades bicolores chez Ikea (HAVSTORP blanc + Kallarp terracotta) : 3 500-5 500 euros pour une cuisine de 8 m².
 
@@ -141,9 +141,9 @@ Toutes ces tendances c'est bien joli, mais comment savoir ce qui marchera chez t
 
 **L'exposition lumineuse** : Une cuisine exposée nord reçoit une lumière froide et bleutée. Les couleurs chaudes (terracotta, sable, vert olive) compensent et réchauffent l'espace. A l'inverse, une cuisine plein sud baignée de soleil peut accueillir des teintes plus froides (bleu boréal, gris perle, anthracite) sans devenir triste.
 
-**La taille de la pièce** : Dans une [petite cuisine](/guides/cuisine/petites-cuisines-modernes-2026-designs-et-modeles/), les couleurs claires restent plus sûres en dominante - blanc laine, sable, vert sauge clair. Les couleurs profondes fonctionnent en accent (ilot, meubles bas) mais pas partout. Dans une grande cuisine ouverte, tu as plus de liberté.
+**La taille de la pièce** : Dans une [petite cuisine](/petites-cuisines-modernes-2026-designs-et-modeles/), les couleurs claires restent plus sûres en dominante - blanc laine, sable, vert sauge clair. Les couleurs profondes fonctionnent en accent (ilot, meubles bas) mais pas partout. Dans une grande cuisine ouverte, tu as plus de liberté.
 
-**L'ouverture sur les autres pièces** : Si ta cuisine donne sur le salon, les couleurs doivent dialoguer. Un anthracite en cuisine avec un salon tout beige, ça crée une rupture brutale. Pense à une transition douce. Notre guide sur les [couleurs d'intérieur à la mode 2026](/guides/couleurs/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/) t'aidera à construire une palette cohérente pour tout ton intérieur.
+**L'ouverture sur les autres pièces** : Si ta cuisine donne sur le salon, les couleurs doivent dialoguer. Un anthracite en cuisine avec un salon tout beige, ça crée une rupture brutale. Pense à une transition douce. Notre guide sur les [couleurs d'intérieur à la mode 2026](/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/) t'aidera à construire une palette cohérente pour tout ton intérieur.
 
 **Ton style de vie** : Tu cuisines tous les jours et tu as des enfants ? Les couleurs claires et les finitions mates anti-traces seront tes alliées. Tu reçois beaucoup et ta cuisine est aussi ton espace de vie ? Les couleurs affirmées donnent du caractère et tes invités s'en souviendront.
 
@@ -205,7 +205,7 @@ La bonne nouvelle : tu n'as pas besoin de tout changer pour en profiter. Des poi
 
 ## Sur le meme theme
 
-- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
+- [changer les portes d'une cuisine ikea faktum](/changer-portes-cuisines-ikea-faktum/)
 
 ## FAQ
 

@@ -74,7 +74,7 @@ Une guirlande LED d'extérieur à piles ou solaire de 10 à 15 mètres, tendue e
 
 Pour les tables, les lampes nomades rechargeables sont un vrai plaisir. La Fermob Balad (80 euros) se balade partout, tient 10 heures en intensité moyenne, et existe dans 24 coloris. Alternative plus accessible : la lampe Lexon Mina (35 euros), plus petite mais très design.
 
-Si ta terrasse manque aussi de protection solaire, jette un oeil au [guide pour ombrager sa terrasse](/guides/exterieur/ombrager-terrasse/) - un bon éclairage se pense en même temps que l'ombre.
+Si ta terrasse manque aussi de protection solaire, jette un oeil au [guide pour ombrager sa terrasse](/ombrager-terrasse/) - un bon éclairage se pense en même temps que l'ombre.
 
 > [!TIP]
 > Pour une terrasse de 15-20 m2, combine une guirlande LED en hauteur (ambiance générale) avec 2 ou 3 lampes de table nomades (éclairage ponctuel). Ce duo coûte entre 80 et 150 euros et change complètement l'atmosphère des soirées.
@@ -150,7 +150,7 @@ Un interrupteur connecté Legrand Celiane with Netatmo (70 euros) ou Schneider W
 
 Les prises connectées d'extérieur (indice IP44 minimum) comme la Meross Outdoor Smart Plug (25 euros) ou la TP-Link Tapo P110 Outdoor (30 euros) transforment n'importe quel luminaire à prise en objet connecté. Tu branches ta guirlande dessus, tu configures un scénario, et c'est tout.
 
-Si l'idée de piloter ton éclairage depuis ton téléphone te plaît, tu aimeras aussi le [guide sur les tableaux lumineux](/guides/decoration/choisir-tableau-lumineux/) qui marie décoration murale et lumière d'ambiance.
+Si l'idée de piloter ton éclairage depuis ton téléphone te plaît, tu aimeras aussi le [guide sur les tableaux lumineux](/choisir-tableau-lumineux/) qui marie décoration murale et lumière d'ambiance.
 
 ```mermaid
 graph LR
@@ -179,7 +179,7 @@ Voici les pièges les plus fréquents et comment les éviter.
 </div>
 
 
-**Erreur 1 : acheter du solaire pour un jardin ombragé.** Si ta terrasse est sous une [pergola bioclimatique](/guides/exterieur/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) ou un grand arbre, le panneau solaire ne recevra pas assez de lumière. Résultat : 2 heures d'éclairage faiblard au lieu de 8. Passe au rechargeable USB ou au connecté sur secteur dans ces zones.
+**Erreur 1 : acheter du solaire pour un jardin ombragé.** Si ta terrasse est sous une [pergola bioclimatique](/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) ou un grand arbre, le panneau solaire ne recevra pas assez de lumière. Résultat : 2 heures d'éclairage faiblard au lieu de 8. Passe au rechargeable USB ou au connecté sur secteur dans ces zones.
 
 **Erreur 2 : trop de lumière tue la lumière.** Un jardin, ce n'est pas un parking. 50 à 100 lumens par point lumineux suffisent pour de l'ambiance. Réserve les 800-1 200 lumens aux seuls projecteurs de sécurité.
 
@@ -216,12 +216,12 @@ Deux fois par an, 30 minutes max : c'est tout ce qu'il faut pour prolonger la du
 
 **Remplace les batteries solaires** tous les 2-3 ans. Les batteries NiMH perdent leur capacité avec le temps. Une batterie neuve (2 à 5 euros) remet une borne en forme.
 
-Si tu aménages aussi un [patio moderne](/guides/exterieur/patio-moderne-de-maisons-simples-et-belles/), l'éclairage sans fil est le complément parfait pour habiller l'espace sans toucher aux revêtements.
+Si tu aménages aussi un [patio moderne](/patio-moderne-de-maisons-simples-et-belles/), l'éclairage sans fil est le complément parfait pour habiller l'espace sans toucher aux revêtements.
 
 
 ## Sur le meme theme
 
-- [poser des bordures de jardin sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/)
+- [poser des bordures de jardin sans béton](/poser-bordure-jardin-sans-beton/)
 
 ## FAQ
 

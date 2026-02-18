@@ -26,7 +26,7 @@ Ma première cuisine était "fonctionnelle" : meubles blancs standard, plan de t
 
 La cuisine ouverte sur le salon n'est pas nouvelle, mais la façon de traiter cette ouverture a changé. On ne se contente plus d'abattre un mur et de poser un bar. La tendance 2026, c'est de créer des transitions douces : une verrière en verre cannelé, un îlot qui fait office de séparation, ou un changement de revêtement au sol qui dessine naturellement les deux zones.
 
-Si tu cherches de l'inspiration pour ce type de projet, mon guide sur la [cuisine américaine 2026](/guides/cuisine/cuisine-americaine-2026-dessins-et-modeles/) détaille les modèles qui cartonnent cette année avec des plans et des budgets concrets.
+Si tu cherches de l'inspiration pour ce type de projet, mon guide sur la [cuisine américaine 2026](/cuisine-americaine-2026-dessins-et-modeles/) détaille les modèles qui cartonnent cette année avec des plans et des budgets concrets.
 
 ### Le retour des matériaux bruts
 
@@ -113,7 +113,7 @@ Budget : ce style peut coûter assez cher en sur-mesure (15 000 à 25 000 euros 
 
 Couleurs chaudes (terracotta, ocre, olive), carrelage en terre cuite au sol, crédence en faïence peinte à la main, étagères ouvertes en bois brut. Ce style évoque le sud de la France, l'Italie, la Grèce. Il se marie bien avec les vieilles maisons en pierre et les appartements avec du caractère.
 
-Pour aller plus loin sur les palettes, consulte le guide [couleurs de cuisine 2026](/guides/cuisine/couleurs-de-cuisine-2026/) qui décrypte les associations qui marchent cette année.
+Pour aller plus loin sur les palettes, consulte le guide [couleurs de cuisine 2026](/couleurs-de-cuisine-2026/) qui décrypte les associations qui marchent cette année.
 
 > [!WARNING]
 > Le zellige artisanal (crédence très tendance) est magnifique mais fragile. Compte entre 80 et 150 euros le m2 posé. Si tu cuisines beaucoup, protège-le avec un vernis alimentaire transparent (Julien, 25 euros les 500 ml). Sans protection, les taches de graisse s'incrustent dans les irrégularités de la surface.
@@ -175,7 +175,7 @@ Une belle cuisine mal organisée, c'est une cuisine frustrante. L'organisation p
 
 **Le rangement par zone.** Assiettes près du lave-vaisselle, casseroles près des plaques, épices à portée de main de la zone de cuisson. Ça paraît logique, mais beaucoup de cuisines sont organisées au hasard.
 
-**La verticalité.** Meubles hauts jusqu'au plafond, crémaillères murales, tringles magnétiques pour les couteaux. Pour des astuces concrètes, consulte notre guide sur l'[organisation des armoires de cuisine](/guides/cuisine/organisation-armoire-cuisine/).
+**La verticalité.** Meubles hauts jusqu'au plafond, crémaillères murales, tringles magnétiques pour les couteaux. Pour des astuces concrètes, consulte notre guide sur l'[organisation des armoires de cuisine](/organisation-armoire-cuisine/).
 
 > [!IMPORTANT]
 > Les tiroirs sont plus pratiques que les placards à portes battantes. Tu vois tout ce qui est dedans sans te pencher ni fouiller au fond. Chez IKEA, le surcoût pour passer d'une porte battante à un tiroir intérieur est d'environ 40 euros par meuble bas. C'est le meilleur investissement en confort d'usage.
@@ -188,7 +188,7 @@ Le choix de la couleur est personnel, mais quelques règles tiennent la route da
 
 **Les couleurs affirmées** (vert sauge, terracotta, bleu boréal, olive) donnent du caractère. Le bon réflexe : les utiliser sur les meubles bas ou l'îlot, et garder du blanc en hauteur pour éviter l'effet "cave".
 
-**Le bicolore** est la vraie tendance 2026. Meubles bas en couleur, meubles hauts en blanc. Façades en bois, plan de travail contrasté. Pour creuser le sujet des palettes, jette un oeil à notre guide sur la [décoration de cuisine](/guides/cuisine/decoration-cuisine/).
+**Le bicolore** est la vraie tendance 2026. Meubles bas en couleur, meubles hauts en blanc. Façades en bois, plan de travail contrasté. Pour creuser le sujet des palettes, jette un oeil à notre guide sur la [décoration de cuisine](/decoration-cuisine/).
 
 ## Budget : combien ça coûte vraiment ?
 
@@ -219,7 +219,7 @@ Les prix varient beaucoup selon le cuisiniste, les matériaux et la surface. Voi
 
 ## Sur le meme theme
 
-- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
+- [changer les portes d'une cuisine ikea faktum](/changer-portes-cuisines-ikea-faktum/)
 
 ## FAQ
 

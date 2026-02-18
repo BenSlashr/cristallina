@@ -11,7 +11,7 @@ faqSchema: true
 pubDate: 2026-02-17
 ---
 
-Vivre dans 14 ou 28 m² d'acier recyclé, c'est un projet qui attire de plus en plus de monde. La tiny house container, c'est la version compacte et mobile de la [maison container](/guides/decoration/maison-container/) - un seul module transformé en habitation complète, souvent pour moins de 50 000 euros. Mais entre les photos Instagram ultra léchées et la réalité du quotidien dans un espace réduit, il y a un écart. Je t'explique tout ce que tu dois savoir avant de te lancer, avec des prix réels et des retours concrets.
+Vivre dans 14 ou 28 m² d'acier recyclé, c'est un projet qui attire de plus en plus de monde. La tiny house container, c'est la version compacte et mobile de la [maison container](/maison-container/) - un seul module transformé en habitation complète, souvent pour moins de 50 000 euros. Mais entre les photos Instagram ultra léchées et la réalité du quotidien dans un espace réduit, il y a un écart. Je t'explique tout ce que tu dois savoir avant de te lancer, avec des prix réels et des retours concrets.
 
 ## Tiny house container : de quoi on parle exactement ?
 
@@ -104,7 +104,7 @@ Avec 12 mètres de longueur, tu respires davantage :
 > [!TIP]
 > Les meubles sur mesure sont presque obligatoires dans un container. Les dimensions standard ne collent pas avec les 2,2 m de largeur utile. Prévois un budget menuiserie de 3 000 à 8 000 euros, c'est l'investissement qui fait la différence entre un espace serré et un espace intelligent.
 
-Pour l'ambiance intérieure, le style [minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/) s'impose naturellement : peu d'objets, des matériaux bruts, des lignes simples. C'est la philosophie idéale pour un petit volume.
+Pour l'ambiance intérieure, le style [minimaliste](/decoration-minimaliste-idees-et-photos-faciles/) s'impose naturellement : peu d'objets, des matériaux bruts, des lignes simples. C'est la philosophie idéale pour un petit volume.
 
 ## L'isolation : le sujet que tu ne peux pas ignorer
 
@@ -182,11 +182,11 @@ Pour une personne seule ou un couple sans enfant, un container 40 pieds bien am�
 
 ### Location saisonnière type Airbnb
 
-C'est un cas d'usage très rentable. Un container aménagé en gîte atypique attire une clientèle curieuse et prête à payer un premium pour l'expérience. Le retour sur investissement peut se faire en 3 à 5 ans selon la localisation et le taux de remplissage. Si tu as un jardin suffisant, consulte les idées de [transformation de jardin avec un conteneur maritime](/guides/exterieur/comment-transformer-votre-jardin-avec-un-conteneur-maritime/) pour l'intégration paysagère.
+C'est un cas d'usage très rentable. Un container aménagé en gîte atypique attire une clientèle curieuse et prête à payer un premium pour l'expérience. Le retour sur investissement peut se faire en 3 à 5 ans selon la localisation et le taux de remplissage. Si tu as un jardin suffisant, consulte les idées de [transformation de jardin avec un conteneur maritime](/comment-transformer-votre-jardin-avec-un-conteneur-maritime/) pour l'intégration paysagère.
 
 ### Bureau ou atelier en fond de jardin
 
-Un container 20 pieds transformé en bureau, c'est 14 m² d'espace de travail indépendant de la maison. Parfait pour le télétravail ou une activité créative. Budget complet : 15 000 à 30 000 euros. Et si tu cherches aussi un espace détente extérieur pour accompagner le bureau, le guide sur [comment construire un pool house](/guides/exterieur/construire-pool-house/) peut t'inspirer.
+Un container 20 pieds transformé en bureau, c'est 14 m² d'espace de travail indépendant de la maison. Parfait pour le télétravail ou une activité créative. Budget complet : 15 000 à 30 000 euros. Et si tu cherches aussi un espace détente extérieur pour accompagner le bureau, le guide sur [comment construire un pool house](/construire-pool-house/) peut t'inspirer.
 
 ### Habitat off-grid
 
@@ -208,7 +208,7 @@ Le container se prête bien à l'autonomie énergétique : panneaux solaires sur
 
 ## Sur le meme theme
 
-- [enduire un mur en parpaing](/guides/decoration/comment-enduir-un-mur-en-parpaing/)
+- [enduire un mur en parpaing](/comment-enduir-un-mur-en-parpaing/)
 
 ## FAQ
 

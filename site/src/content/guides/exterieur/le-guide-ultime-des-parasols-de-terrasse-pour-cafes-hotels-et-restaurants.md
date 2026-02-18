@@ -150,7 +150,7 @@ Trop petit, il ne couvre pas assez. Trop grand, il dépasse sur le trottoir et l
 
 **Pour une terrasse complète de 40-60 m2** : combine 2 à 3 doubles parasols ou 4 à 6 parasols déportés. La règle empirique : prévois 1,5 m2 de toile par place assise.
 
-Si tu veux une vue d'ensemble sur les solutions d'ombrage pour terrasse (pas seulement les parasols), j'ai aussi comparé [8 solutions d'ombrage selon le budget](/guides/exterieur/ombrager-terrasse/) dans un guide dédié.
+Si tu veux une vue d'ensemble sur les solutions d'ombrage pour terrasse (pas seulement les parasols), j'ai aussi comparé [8 solutions d'ombrage selon le budget](/ombrager-terrasse/) dans un guide dédié.
 
 ## Résistance au vent : le critère que tout le monde sous-estime
 
@@ -178,7 +178,7 @@ Un parasol personnalisé avec ton logo et tes couleurs de marque, c'est de la pu
 
 La personnalisation est possible chez la plupart des fournisseurs pro à partir de 5 à 10 unités. Surcoût : 15 à 25 % par rapport au modèle standard. L'impression en sublimation sur toile acrylique dure plus longtemps et résiste mieux aux UV que la sérigraphie sur polyester.
 
-Tu peux aussi choisir parmi les couleurs RAL standard (blanc, écru, taupe, anthracite, bordeaux, vert foncé) sans surcoût. Si ta terrasse joue la carte du [patio moderne](/guides/exterieur/patio-moderne-de-maisons-simples-et-belles/), les teintes neutres comme le gris perle ou le sable s'intègrent le mieux.
+Tu peux aussi choisir parmi les couleurs RAL standard (blanc, écru, taupe, anthracite, bordeaux, vert foncé) sans surcoût. Si ta terrasse joue la carte du [patio moderne](/patio-moderne-de-maisons-simples-et-belles/), les teintes neutres comme le gris perle ou le sable s'intègrent le mieux.
 
 ## Budget réaliste par gamme
 
@@ -203,7 +203,7 @@ Un parasol bien entretenu dure deux fois plus longtemps. Quelques réflexes à t
 
 **Chaque début de saison** : vérifie coutures, fixations et mécanisme d'ouverture. Graisse les parties mobiles au lubrifiant silicone. Remplace les toiles décolorées - les fournisseurs vendent des toiles de remplacement.
 
-Pour compléter ta terrasse, une [pergola bioclimatique](/guides/exterieur/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) combinée à des parasols mobiles offre une couverture complète, été comme hiver.
+Pour compléter ta terrasse, une [pergola bioclimatique](/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) combinée à des parasols mobiles offre une couverture complète, été comme hiver.
 
 ## Fournisseurs pro en France
 
@@ -220,8 +220,8 @@ Pour compléter ta terrasse, une [pergola bioclimatique](/guides/exterieur/la-pe
 
 ## Sur le meme theme
 
-- [peinture carrelage extérieur terrasse](/guides/exterieur/peinture-pour-carrelage-exterieur-terrasse/)
-- [rénover votre terrasse pour la sécurité](/guides/exterieur/renovez-votre-terrasse-pour-la-securite/)
+- [peinture carrelage extérieur terrasse](/peinture-pour-carrelage-exterieur-terrasse/)
+- [rénover votre terrasse pour la sécurité](/renovez-votre-terrasse-pour-la-securite/)
 
 ## FAQ
 

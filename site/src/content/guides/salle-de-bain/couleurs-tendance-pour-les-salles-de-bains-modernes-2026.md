@@ -74,7 +74,7 @@ Le vert sauge, c'est aussi la couleur la plus facile à vivre parmi les teintes 
 
 D'autres verts à considérer : le vert olive (plus chaud, style méditerranéen), le vert forêt (plus sombre, ambiance luxe), et le vert d'eau (plus frais, esprit bord de mer).
 
-Si tu cherches des idées pour associer ces teintes vertes avec des éléments naturels, notre guide sur les [plantes en salle de bains](/guides/salle-de-bain/plantes-salle-de-bains/) te donnera plein d'inspiration.
+Si tu cherches des idées pour associer ces teintes vertes avec des éléments naturels, notre guide sur les [plantes en salle de bains](/plantes-salle-de-bains/) te donnera plein d'inspiration.
 
 ```mermaid
 flowchart TD
@@ -184,7 +184,7 @@ La couleur tendance c'est bien, mais la couleur qui convient à ton espace c'est
 
 **Ton style de vie** : tu es du genre à vouloir changer ta déco tous les deux ans ? Garde les murs en neutre chaud et joue avec les accessoires colorés. Ça coûte 50 à 150 € pour tout renouveler, contre 500 à 1 500 € pour repeindre.
 
-Pour plus d'idées sur l'aménagement global de ta salle de bain, notre guide complet [aménager une salle de bain en 2026](/guides/salle-de-bain/amenager-une-salle-de-bain-en-2026-styles-et-conseils/) t'aidera à combiner ces couleurs avec les bons matériaux et le bon mobilier.
+Pour plus d'idées sur l'aménagement global de ta salle de bain, notre guide complet [aménager une salle de bain en 2026](/amenager-une-salle-de-bain-en-2026-styles-et-conseils/) t'aidera à combiner ces couleurs avec les bons matériaux et le bon mobilier.
 
 ## Les finitions peinture à connaître
 
@@ -199,7 +199,7 @@ En salle de bain, la finition compte autant que la couleur. Voici les trois opti
 > [!TIP]
 > Toujours utiliser une peinture spéciale salle de bain (anti-moisissure, lessivable). Même si la teinte de la peinture classique te plaît davantage, elle ne tiendra pas dans un environnement humide. Les marques V33, Dulux Valentine et Tollens proposent toutes des gammes dédiées avec beaucoup de choix coloré.
 
-Et si tu t'interroges sur les matériaux qui accompagnent ces couleurs, découvre aussi notre dossier sur les [salles de bains modernes 2026](/guides/salle-de-bain/salles-de-bains-modernes-2026-modeles-designs-decoration/) pour un tour complet des tendances design et matières.
+Et si tu t'interroges sur les matériaux qui accompagnent ces couleurs, découvre aussi notre dossier sur les [salles de bains modernes 2026](/salles-de-bains-modernes-2026-modeles-designs-decoration/) pour un tour complet des tendances design et matières.
 
 ## Les erreurs couleur à éviter
 
@@ -213,7 +213,7 @@ Avant de te lancer, voici les pièges classiques :
 
 **Trop de couleurs** : trois couleurs maximum dans une salle de bain. Au-delà, l'oeil ne sait plus où se poser et l'effet "zen" que tu cherches disparaît.
 
-Pour un aperçu des carrelages qui s'harmonisent avec ces palettes, tu peux aussi jeter un oeil à notre guide sur le [carrelage douche italienne](/guides/salle-de-bain/carrelage-douche-italienne/) qui détaille les formats et associations les plus réussis.
+Pour un aperçu des carrelages qui s'harmonisent avec ces palettes, tu peux aussi jeter un oeil à notre guide sur le [carrelage douche italienne](/carrelage-douche-italienne/) qui détaille les formats et associations les plus réussis.
 
 ```mermaid
 flowchart TD
@@ -233,7 +233,7 @@ flowchart TD
 
 ## Sur le meme theme
 
-- [salle de bain rustique moderne](/guides/salle-de-bain/salles-de-bains-rustiques-decoration-et-design-modernes/)
+- [salle de bain rustique moderne](/salles-de-bains-rustiques-decoration-et-design-modernes/)
 
 ## FAQ
 

@@ -150,7 +150,7 @@ Perceuses sans fil, kits de chevilles, vis assorties, niveaux à bulle... La gam
 
 ### ALFTA : les crochets adhésifs
 
-Pour ceux qui ne veulent pas percer du tout, les crochets ALFTA se collent directement au mur. Ils supportent entre 2 et 5 kg selon le modèle, parfait pour des cadres légers, des torchons de cuisine ou des clés dans l'entrée. Zéro outil requis, zéro trou dans le mur, et ils se retirent sans laisser de trace. Si tu es locataire, c'est une option en or - j'en parle aussi dans mon article sur l'[artisanat recyclé et la déco créative](/guides/decoration/artisanat-recycle-objets-maison/).
+Pour ceux qui ne veulent pas percer du tout, les crochets ALFTA se collent directement au mur. Ils supportent entre 2 et 5 kg selon le modèle, parfait pour des cadres légers, des torchons de cuisine ou des clés dans l'entrée. Zéro outil requis, zéro trou dans le mur, et ils se retirent sans laisser de trace. Si tu es locataire, c'est une option en or - j'en parle aussi dans mon article sur l'[artisanat recyclé et la déco créative](/artisanat-recycle-objets-maison/).
 
 ```mermaid
 flowchart LR
@@ -184,7 +184,7 @@ Quelques astuces tirées de mon expérience pour tirer le maximum de ce petit ki
 
 **La clé à molette remplace plusieurs clés plates.** Plutôt que d'acheter un jeu de clés plates de 8 à 19 mm, la clé à molette du TRIXIG couvre toutes ces tailles. Pour un usage domestique, c'est un gain de place et d'argent.
 
-**Complète le kit avec le temps.** Le TRIXIG est un excellent point de départ, mais au fil des projets, tu sentiras le besoin d'ajouter un mètre ruban, un niveau à bulle, et peut-être une perceuse. La gamme FIXA d'IKEA ou un modèle d'entrée de gamme chez Leroy Merlin feront très bien l'affaire. D'ailleurs, si tu te lances dans des projets d'aménagement plus ambitieux, mon guide sur l'[armoire d'angle IKEA PAX](/guides/shopping/ikea-cartonne-avec-son-armoire-dangle/) te sera utile.
+**Complète le kit avec le temps.** Le TRIXIG est un excellent point de départ, mais au fil des projets, tu sentiras le besoin d'ajouter un mètre ruban, un niveau à bulle, et peut-être une perceuse. La gamme FIXA d'IKEA ou un modèle d'entrée de gamme chez Leroy Merlin feront très bien l'affaire. D'ailleurs, si tu te lances dans des projets d'aménagement plus ambitieux, mon guide sur l'[armoire d'angle IKEA PAX](/ikea-cartonne-avec-son-armoire-dangle/) te sera utile.
 
 > [!IMPORTANT]
 > Si tu perds un embout (ça arrive), tu peux acheter des embouts de tournevis standard au format 1/4 de pouce dans n'importe quelle quincaillerie. Le porte-embout du TRIXIG accepte tous les embouts de ce format, pas seulement ceux d'IKEA.
@@ -193,7 +193,7 @@ Quelques astuces tirées de mon expérience pour tirer le maximum de ce petit ki
 
 Le kit TRIXIG est disponible en magasin IKEA (rayon "Rangement et organisation" ou "Bricolage", selon les enseignes) et sur ikea.fr avec livraison à domicile ou en point relais. En magasin, il se trouve généralement juste avant les caisses, dans la zone du marché où IKEA regroupe les petits accessoires et objets malins du quotidien.
 
-Si tu prévois un passage chez IKEA pour le TRIXIG, profites-en pour jeter un oeil à la [lampe articulée TERTIAL](/guides/shopping/cohue-chez-ikea-avec-cette-lampe-articulee-super-design-a-moins-de-5-euros/) dans le même rayon - à 12,99 euros aussi, c'est le duo parfait pour équiper un bureau ou un atelier à petit budget.
+Si tu prévois un passage chez IKEA pour le TRIXIG, profites-en pour jeter un oeil à la [lampe articulée TERTIAL](/cohue-chez-ikea-avec-cette-lampe-articulee-super-design-a-moins-de-5-euros/) dans le même rayon - à 12,99 euros aussi, c'est le duo parfait pour équiper un bureau ou un atelier à petit budget.
 
 **Astuce commande en ligne :** les frais de livraison IKEA démarrent autour de 5 euros pour un point relais. Pour un kit à 12,99 euros, ça représente presque 40 % du prix en plus. Essaie de grouper ta commande avec d'autres articles pour rentabiliser les frais de port, ou opte pour le click & collect gratuit si ton magasin le propose.
 
@@ -209,8 +209,8 @@ Si tu démarres ta vie en solo, si tu équipes un premier appartement, ou si tu 
 
 ## Sur le meme theme
 
-- [plateau multifonction ikea](/guides/shopping/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
-- [étagères murales ikea](/guides/shopping/cohue-chez-ikea-avec-letagere-murale-prisee-a-prix-imbattable/)
+- [plateau multifonction ikea](/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
+- [étagères murales ikea](/cohue-chez-ikea-avec-letagere-murale-prisee-a-prix-imbattable/)
 
 ## FAQ
 

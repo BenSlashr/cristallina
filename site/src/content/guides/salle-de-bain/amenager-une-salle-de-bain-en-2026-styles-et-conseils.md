@@ -33,7 +33,7 @@ Le sol joue un rôle fort dans ce style : on opte pour des carreaux en grès cé
 > [!TIP]
 > Pour un vrai rendu Japandi sans te ruiner, mise sur un seul élément signature fort - une vasque artisanale en grès, un miroir en bois massif - et garde le reste simple. Tu obtiendras plus d'effet qu'en accumulant des accessoires.
 
-Pour aller plus loin sur ce type d'ambiance minimaliste et naturelle, jette un oeil à notre guide sur la [baignoire scandinave](/guides/salle-de-bain/baignoire-scandinave/) qui s'intègre parfaitement dans ce type d'univers.
+Pour aller plus loin sur ce type d'ambiance minimaliste et naturelle, jette un oeil à notre guide sur la [baignoire scandinave](/baignoire-scandinave/) qui s'intègre parfaitement dans ce type d'univers.
 
 ### Le style industriel revisité : plus chaleureux qu'avant
 
@@ -82,7 +82,7 @@ Le béton ciré reste l'un des choix les plus demandés pour les salles de bain.
 
 Prix réaliste : comptez entre 80 et 150 € le m² pour la fourniture et la pose par un artisan. Des marques comme Mortex ou Marius Aurenti proposent des kits DIY autour de 40-60 € le m² si tu te lances toi-même, mais la pose demande de l'expérience.
 
-Notre guide sur le [meuble salle de bain béton ciré](/guides/salle-de-bain/meuble-salle-de-bain-beton-cire/) détaille tout ce qu'il faut savoir pour choisir et entretenir un meuble dans ce matériau.
+Notre guide sur le [meuble salle de bain béton ciré](/meuble-salle-de-bain-beton-cire/) détaille tout ce qu'il faut savoir pour choisir et entretenir un meuble dans ce matériau.
 
 > [!WARNING]
 > Le béton ciré non traité absorbe l'humidité et tache facilement. Une double couche de cire de protection après application, renouvelée tous les deux ans, est obligatoire dans une salle de bain. Sinon, des auréoles apparaissent rapidement.
@@ -99,7 +99,7 @@ Attention à choisir des finitions adaptées à la salle de bain : les pierres p
 
 Les formats 60x120 ou 120x120 cm réduisent le nombre de joints, donnent une impression d'espace et simplifient l'entretien. Les fabricants espagnols et italiens comme Porcelanosa, Rex ou Fap Ceramiche sont des valeurs sures autour de 40 à 100 € le m².
 
-Pour la douche italienne, ce format crée un très bel effet continu du sol au mur. Notre article sur le [carrelage pour douche italienne](/guides/salle-de-bain/carrelage-douche-italienne/) explore en détail les options et les prix selon les finitions.
+Pour la douche italienne, ce format crée un très bel effet continu du sol au mur. Notre article sur le [carrelage pour douche italienne](/carrelage-douche-italienne/) explore en détail les options et les prix selon les finitions.
 
 ```mermaid
 flowchart LR
@@ -137,7 +137,7 @@ Côté prix, une douche italienne bien faite avec siphon de sol design (Viega Ad
 
 Si tu as la place - à partir de 5 m² bien agencés - associer une baignoire et une douche reste la configuration la plus agréable. La baignoire n'est pas condamnée, elle évolue vers des modèles plus compacts et plus designés.
 
-Les baignoires au format japonais - profondes et de petite emprise - gagnent du terrain. C'est une option très intéressante pour les petites salles de bain qui veulent quand même ce confort du bain. Notre guide sur la [baignoire japonaise](/guides/salle-de-bain/baignoire-japonaise/) te donne tous les détails sur ce format.
+Les baignoires au format japonais - profondes et de petite emprise - gagnent du terrain. C'est une option très intéressante pour les petites salles de bain qui veulent quand même ce confort du bain. Notre guide sur la [baignoire japonaise](/baignoire-japonaise/) te donne tous les détails sur ce format.
 
 ### L'éclairage : souvent négligé, toujours décisif
 
@@ -210,7 +210,7 @@ Cette salle de bain que tu rénoves aujourd'hui, tu vivras avec pendant dix à q
 
 ## Sur le meme theme
 
-- [couleurs tendance salle de bain 2026](/guides/salle-de-bain/couleurs-tendance-pour-les-salles-de-bains-modernes-2026/)
+- [couleurs tendance salle de bain 2026](/couleurs-tendance-pour-les-salles-de-bains-modernes-2026/)
 
 ## FAQ
 

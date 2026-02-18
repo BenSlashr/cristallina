@@ -259,11 +259,11 @@ Pour un [rangement bien organisé](/rangement-creatif-optimisation/) ou un [dres
 
 ## Sur le meme theme
 
-- [enduire un mur en parpaing](/guides/decoration/comment-enduir-un-mur-en-parpaing/)
-- [remplacer une roulette de véranda](/guides/decoration/remplacer-roulette-veranda/)
-- [comment nettoyer une table en céramique](/guides/decoration/comment-nettoyer-une-table-en-ceramique/)
-- [bien accrocher un tableau mural](/guides/decoration/bien-accrocher-tableau-mural/)
-- [tiny house container](/guides/decoration/tiny-house-container/)
+- [enduire un mur en parpaing](/comment-enduir-un-mur-en-parpaing/)
+- [remplacer une roulette de véranda](/remplacer-roulette-veranda/)
+- [comment nettoyer une table en céramique](/comment-nettoyer-une-table-en-ceramique/)
+- [bien accrocher un tableau mural](/bien-accrocher-tableau-mural/)
+- [tiny house container](/tiny-house-container/)
 
 ## FAQ
 

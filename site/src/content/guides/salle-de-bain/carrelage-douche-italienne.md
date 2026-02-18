@@ -192,15 +192,15 @@ Grands formats 90x90 ou plus, zellige artisanal, pierre naturelle (quartzite, tr
 
 **Oublier les finitions de rive.** Les carreaux en bord de douche ont besoin de carreaux de rive (avec une arête arrondie) ou de profilés métal pour une finition propre. Ça se prévoit en amont, pas le jour de la pose.
 
-Si tu réfléchis à l'ensemble de ta salle de bain et pas seulement à la douche, les choix de matériaux pour [le meuble vasque en béton ciré](/guides/salle-de-bain/meuble-salle-de-bain-beton-cire/) peuvent aussi s'accorder avec ton carrelage douche pour un rendu très cohérent.
+Si tu réfléchis à l'ensemble de ta salle de bain et pas seulement à la douche, les choix de matériaux pour [le meuble vasque en béton ciré](/meuble-salle-de-bain-beton-cire/) peuvent aussi s'accorder avec ton carrelage douche pour un rendu très cohérent.
 
 
 ## Sur le meme theme
 
-- [receveur pour douche italienne](/guides/salle-de-bain/quel-receveur-pour-douche-italienne/)
-- [douche italienne : tout savoir avant de se lancer](/guides/salle-de-bain/douche-italienne/)
-- [douche à 1 euro](/guides/salle-de-bain/douche-1-euro/)
-- [carrelage métro salle de bain](/guides/salle-de-bain/carrelage-metro-salle-de-bain/)
+- [receveur pour douche italienne](/quel-receveur-pour-douche-italienne/)
+- [douche italienne : tout savoir avant de se lancer](/douche-italienne/)
+- [douche à 1 euro](/douche-1-euro/)
+- [carrelage métro salle de bain](/carrelage-metro-salle-de-bain/)
 
 ## Ma checklist avant d'acheter
 

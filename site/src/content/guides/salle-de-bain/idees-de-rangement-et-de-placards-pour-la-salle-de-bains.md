@@ -176,7 +176,7 @@ Un banc avec coffre intégré près de l'entrée de la salle de bains ou dans un
 
 Une petite échelle décorative en bois ou métal, ça tient dans un angle de 20 cm de large et tu y accroches serviettes et peignoirs. C'est décoratif, c'est pratique, et ça peut aussi servir d'étagère si tu y poses des petits paniers sur les échelons. Amazon et Leroy Merlin en proposent à partir de 25 euros.
 
-Si tu aimes le style brut et contemporain, un coup d'oeil sur notre guide [salle de bain industrielle](/guides/salle-de-bain/salle-de-bain-industrielle/) te donnera des idées très intéressantes pour associer rangements en métal et surfaces texturées dans une déco cohérente.
+Si tu aimes le style brut et contemporain, un coup d'oeil sur notre guide [salle de bain industrielle](/salle-de-bain-industrielle/) te donnera des idées très intéressantes pour associer rangements en métal et surfaces texturées dans une déco cohérente.
 
 ## Choisir les bons matériaux pour le rangement
 
@@ -202,7 +202,7 @@ flowchart LR
     style I fill:#F9FAFB,stroke:#6B7280,color:#374151
 ```
 
-Le bois traité ou huilé reste très beau, mais assure-toi qu'il est conçu pour les pièces humides. Le béton ciré est une option magnifique pour les meubles vasque - si tu veux explorer cette option, notre article sur les [meubles salle de bain béton ciré](/guides/salle-de-bain/meuble-salle-de-bain-beton-cire/) détaille tout ce qu'il faut savoir sur ce matériau.
+Le bois traité ou huilé reste très beau, mais assure-toi qu'il est conçu pour les pièces humides. Le béton ciré est une option magnifique pour les meubles vasque - si tu veux explorer cette option, notre article sur les [meubles salle de bain béton ciré](/meuble-salle-de-bain-beton-cire/) détaille tout ce qu'il faut savoir sur ce matériau.
 
 ## Entretenir son organisation dans la durée
 
@@ -226,7 +226,7 @@ Si tu ne sais pas par quel bout prendre ce chantier, voilà la séquence qui mar
 3. Résous-les un par un avec les solutions adaptées à ta configuration
 4. Investis progressivement : commence par les organisateurs de tiroirs (pas chers, impact immédiat), puis les étagères, puis éventuellement les meubles
 
-Ces principes valent aussi pour le reste de la maison : notre guide sur [comment ranger sa chambre](/guides/chambre/ranger-chambre/) applique les mêmes logiques avec les spécificités de cet espace.
+Ces principes valent aussi pour le reste de la maison : notre guide sur [comment ranger sa chambre](/ranger-chambre/) applique les mêmes logiques avec les spécificités de cet espace.
 
 L'objectif final n'est pas une salle de bains "parfaite" comme sur Pinterest. C'est une pièce qui te simplifie la vie tous les matins, où chaque chose a sa place. Ça, c'est vraiment à portée de main.
 
@@ -235,8 +235,8 @@ L'objectif final n'est pas une salle de bains "parfaite" comme sur Pinterest. C'
 
 ## Sur le meme theme
 
-- [salle de bain rustique moderne](/guides/salle-de-bain/salles-de-bains-rustiques-decoration-et-design-modernes/)
-- [carrelage métro salle de bain](/guides/salle-de-bain/carrelage-metro-salle-de-bain/)
+- [salle de bain rustique moderne](/salles-de-bains-rustiques-decoration-et-design-modernes/)
+- [carrelage métro salle de bain](/carrelage-metro-salle-de-bain/)
 
 ## Questions fréquentes
 

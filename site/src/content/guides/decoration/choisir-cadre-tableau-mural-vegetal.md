@@ -103,7 +103,7 @@ graph TD
 
 L'idéal pour un grand format. La lumière est souvent bonne, les murs sont secs. Un cadre vivant de 60x80 cm avec des plantes comme le pothos, le philodendron ou la peperomia fonctionne très bien ici. Si tu préfères zéro souci, un tableau stabilisé de même dimension fera exactement le même effet visuel.
 
-Pour l'entrée, je te conseille de regarder du côté de la [décoration minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/) : un tableau végétal bien choisi peut remplacer à lui seul plusieurs éléments décoratifs.
+Pour l'entrée, je te conseille de regarder du côté de la [décoration minimaliste](/decoration-minimaliste-idees-et-photos-faciles/) : un tableau végétal bien choisi peut remplacer à lui seul plusieurs éléments décoratifs.
 
 ### Salle de bains
 
@@ -111,7 +111,7 @@ L'humidité ambiante est un avantage pour les plantes vivantes, mais attention a
 - Un cadre en acier ou en PVC (résistant à l'humidité)
 - Des plantes adaptées : fougères de Boston, sélaginelles, hémigraphis
 
-Si tu as déjà réfléchi à mettre des [plantes en salle de bains](/guides/salle-de-bain/plantes-salle-de-bains/), un tableau végétal est l'étape suivante logique.
+Si tu as déjà réfléchi à mettre des [plantes en salle de bains](/plantes-salle-de-bains/), un tableau végétal est l'étape suivante logique.
 
 > [!WARNING]
 > Évite les tableaux stabilisés en salle de bains. L'humidité constante peut dégrader le traitement chimique et accélérer le jaunissement de la mousse. Les fabricants le précisent rarement, mais c'est un fait vérifié.
@@ -122,7 +122,7 @@ Pour la chambre, le tableau stabilisé est souvent préférable : pas d'arrosage
 
 ### Bureau et espace de travail
 
-Même raisonnement que pour le salon. Un petit format (30x40 cm) posé sur un bureau avec un mini trépied ou fixé directement au mur derrière l'écran ajoute une touche de nature sans encombrer. Les [peperomia hope](/guides/decoration/la-peperomia-hope/) et autres plantes compactes sont parfaites pour les tableaux vivants en format réduit.
+Même raisonnement que pour le salon. Un petit format (30x40 cm) posé sur un bureau avec un mini trépied ou fixé directement au mur derrière l'écran ajoute une touche de nature sans encombrer. Les [peperomia hope](/la-peperomia-hope/) et autres plantes compactes sont parfaites pour les tableaux vivants en format réduit.
 
 ---
 
@@ -156,7 +156,7 @@ flowchart LR
 
 Pour les tableaux jusqu'à 5 kg (petits stabilisés, cadres légers), des strips adhésifs type **Command Damage-Free** (3M) suffisent sur une surface propre et sèche.
 
-Au-delà, il faut percer. Un guide détaillé sur la fixation murale est disponible dans notre article [bien accrocher tableau mural](/guides/decoration/bien-accrocher-tableau-mural/). Les points clés à retenir :
+Au-delà, il faut percer. Un guide détaillé sur la fixation murale est disponible dans notre article [bien accrocher tableau mural](/bien-accrocher-tableau-mural/). Les points clés à retenir :
 
 - Utilise deux points d'accroche minimum pour les formats supérieurs à 50 cm de large
 - Prévois un léger espace entre le mur et l'arrière du cadre pour la circulation d'air (surtout pour les tableaux vivants)
@@ -223,7 +223,7 @@ Le DIY vivant comprend : cadre en bois brut (palette ou caisse), feutre horticol
 
 ## Sur le meme theme
 
-- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
+- [tableau planning et pense-bête](/choisir-tableau-planning-pense-bete/)
 
 <div class="my-8">
   <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238193182.jpg" alt="Choisir cadre tableau mural vegetal - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />

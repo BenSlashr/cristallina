@@ -112,7 +112,7 @@ En B2B, on combine trois types de lumière :
 Un bon plan lumière pro coûte entre 2 000 et 8 000 euros pour un espace de 80 m², pose comprise. C'est un investissement, mais c'est le poste qui a le plus d'impact sur le ressenti de tes clients.
 
 > [!IMPORTANT]
-> Choisis des sources LED avec un IRC (indice de rendu des couleurs) supérieur à 90. En dessous, les couleurs de ta déco et de tes produits paraîtront ternes. C'est vrai aussi pour les teintes murales - un joli [vert olive en cuisine](/guides/cuisine/cuisine-olive/) ou un doré subtil sur les murs perdent tout leur charme sous un éclairage à IRC 80.
+> Choisis des sources LED avec un IRC (indice de rendu des couleurs) supérieur à 90. En dessous, les couleurs de ta déco et de tes produits paraîtront ternes. C'est vrai aussi pour les teintes murales - un joli [vert olive en cuisine](/cuisine-olive/) ou un doré subtil sur les murs perdent tout leur charme sous un éclairage à IRC 80.
 
 ### La signalétique, ce détail qui n'en est pas un
 
@@ -154,7 +154,7 @@ flowchart LR
 
 Pour un budget serré, la stratégie la plus intelligente est d'investir sur les postes visibles (comptoir, éclairage, mur d'accent) et de rester sobre sur le reste. Un mur bien peint avec un bon éclairage et un comptoir en matériau noble donne plus d'effet qu'un mobilier complet mais bas de gamme.
 
-Si tu veux pousser l'idée du [style minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/) dans ton local pro, c'est une approche maline : moins de meubles, mais mieux choisis. Ton budget va plus loin et le résultat est souvent plus impressionnant.
+Si tu veux pousser l'idée du [style minimaliste](/decoration-minimaliste-idees-et-photos-faciles/) dans ton local pro, c'est une approche maline : moins de meubles, mais mieux choisis. Ton budget va plus loin et le résultat est souvent plus impressionnant.
 
 ## Les erreurs que tout le monde fait (et comment les éviter)
 
@@ -173,7 +173,7 @@ La solution : inspire-toi du résidentiel pour l'ambiance, mais choisis des mat�
 
 Dans un open space ou un restaurant, le bruit est l'ennemi numéro un du confort. Et pourtant, c'est le dernier poste auquel les pros pensent. Résultat : des espaces magnifiques visuellement mais invivables au quotidien.
 
-Des solutions simples existent : panneaux acoustiques muraux (à partir de 30 euros/m² chez **Baux** ou **Felt Right**), plafonds suspendus absorbants, tapis et rideaux épais. Même des [tableaux muraux](/guides/decoration/bien-accrocher-tableau-mural/) avec des supports en feutre acoustique peuvent améliorer le confort sonore.
+Des solutions simples existent : panneaux acoustiques muraux (à partir de 30 euros/m² chez **Baux** ou **Felt Right**), plafonds suspendus absorbants, tapis et rideaux épais. Même des [tableaux muraux](/bien-accrocher-tableau-mural/) avec des supports en feutre acoustique peuvent améliorer le confort sonore.
 
 ### Erreur 3 : commander sans échantillon
 
@@ -192,7 +192,7 @@ Cette année, plusieurs tendances fortes se dégagent dans l'aménagement profes
 
 **Les espaces modulables.** Fini les agencements figés. Le mobilier sur roulettes, les cloisons amovibles, les assises empilables permettent de reconfigurer un espace selon les besoins : réunion le matin, coworking l'après-midi, événement le soir. Des marques comme **Vitra** ou **Steelcase** proposent des gammes entières dédiées à cette flexibilité.
 
-**Le style "résidentiel chic" en milieu pro.** La grande tendance, c'est justement de casser les codes du bureau froid et impersonnel. Les espaces de coworking comme **WeWork** ou **Wojo** ont montré la voie : canapés moelleux, bibliothèques décoratives, luminaires d'esprit résidentiel. L'idée est de créer un lieu où les gens se sentent comme chez eux. Si tu veux creuser cette direction, jette un oeil à notre article sur les [salons modernes et élégants en 2026](/guides/decoration/salons-modernes-et-elegants-2026/) pour trouver de l'inspiration adaptable au pro.
+**Le style "résidentiel chic" en milieu pro.** La grande tendance, c'est justement de casser les codes du bureau froid et impersonnel. Les espaces de coworking comme **WeWork** ou **Wojo** ont montré la voie : canapés moelleux, bibliothèques décoratives, luminaires d'esprit résidentiel. L'idée est de créer un lieu où les gens se sentent comme chez eux. Si tu veux creuser cette direction, jette un oeil à notre article sur les [salons modernes et élégants en 2026](/salons-modernes-et-elegants-2026/) pour trouver de l'inspiration adaptable au pro.
 
 ```mermaid
 flowchart TD
@@ -216,7 +216,7 @@ flowchart TD
 
 ## Sur le meme theme
 
-- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
+- [salons modernes 2026](/salons-modernes-tendances-2026/)
 
 ## FAQ
 

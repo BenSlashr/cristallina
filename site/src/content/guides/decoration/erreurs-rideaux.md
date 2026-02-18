@@ -91,7 +91,7 @@ Un rideau en velours épais dans une cuisine ouverte ? Un voilage transparent da
 
 ### Quel tissu pour quelle pièce
 
-**Salon** : le lin (39-89 euros le mètre chez Ikea à Maison du Monde), le coton épais ou le velours pour les ambiances cocooning. Le lin a ce tombé naturel un peu froissé qui fonctionne dans tous les styles - du scandinave au [shabby chic](/guides/decoration/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/).
+**Salon** : le lin (39-89 euros le mètre chez Ikea à Maison du Monde), le coton épais ou le velours pour les ambiances cocooning. Le lin a ce tombé naturel un peu froissé qui fonctionne dans tous les styles - du scandinave au [shabby chic](/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/).
 
 **Chambre** : privilégie un tissu occultant ou un doublage occultant. Ikea propose la série MAJGULL (dès 29,99 euros) qui bloque 99% de la lumière. Pour du plus haut de gamme, les rideaux occultants AM.PM sur La Redoute sont autour de 60-120 euros le panneau et ont un tombé vraiment classe.
 
@@ -115,7 +115,7 @@ Si ta pièce est déjà chargée en motifs (coussin, tapis, papier peint d'accen
 Pour la couleur, deux approches fonctionnent :
 
 1. **Ton sur ton** : le rideau reprend une couleur déjà présente dans la pièce (un coussin, le tapis, un objet déco). Ça unifie l'ensemble sans risque.
-2. **Contraste maîtrisé** : le rideau introduit une couleur complémentaire. Par exemple, un rideau vert sauge dans un salon aux tons chauds (beige, bois, terracotta). Si les palettes couleurs te passionnent, je te conseille notre guide sur les [couleurs du salon 2026](/guides/decoration/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) - il y a plein d'idées de combinaisons.
+2. **Contraste maîtrisé** : le rideau introduit une couleur complémentaire. Par exemple, un rideau vert sauge dans un salon aux tons chauds (beige, bois, terracotta). Si les palettes couleurs te passionnent, je te conseille notre guide sur les [couleurs du salon 2026](/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) - il y a plein d'idées de combinaisons.
 
 > [!NOTE]
 > En cas de doute, les tons neutres sont toujours un choix sûr : blanc cassé, beige, gris perle, taupe. Ils fonctionnent dans 95% des intérieurs et tu peux les accessoiriser avec des embrasses colorées si tu veux un peu de peps.
@@ -183,7 +183,7 @@ Pour ne plus jamais te tromper, voilà les questions à te poser avant de sortir
 5. **Quelle couleur ?** Regarde ce qui existe déjà dans la pièce. Unis si motifs partout, motifs si déco sobre.
 6. **La doublure ?** Oui, sauf pour un simple voilage décoratif.
 
-Si tu veux aller plus loin dans l'habillage de tes murs et de tes fenêtres, jette un oeil à notre article sur [comment bien accrocher un tableau mural](/guides/decoration/bien-accrocher-tableau-mural/) - parce que l'équilibre entre les rideaux et les cadres, ça compte aussi.
+Si tu veux aller plus loin dans l'habillage de tes murs et de tes fenêtres, jette un oeil à notre article sur [comment bien accrocher un tableau mural](/bien-accrocher-tableau-mural/) - parce que l'équilibre entre les rideaux et les cadres, ça compte aussi.
 
 ```mermaid
 flowchart TD
@@ -206,7 +206,7 @@ flowchart TD
 
 ## Sur le meme theme
 
-- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
+- [salons modernes 2026](/salons-modernes-tendances-2026/)
 
 ## FAQ
 
@@ -222,4 +222,4 @@ Il te faut entre 180 et 240 cm de tissu au total (soit 1,5 à 2 fois la largeur 
 
 La doublure est ta meilleure alliée. Un rideau doublé avec une couche de protection anti-UV en polyester blanc va résister beaucoup plus longtemps. Tu peux aussi ajouter un film UV sur la fenêtre (à partir de 8 euros le mètre chez Leroy Merlin) ou choisir des tissus teints dans la masse plutôt qu'imprimés en surface.
 
-Et si tu cherches d'autres idées pour transformer ton intérieur, notre guide sur la [décoration minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/) montre bien comment des rideaux simples et bien choisis peuvent sublimer un espace épuré.
+Et si tu cherches d'autres idées pour transformer ton intérieur, notre guide sur la [décoration minimaliste](/decoration-minimaliste-idees-et-photos-faciles/) montre bien comment des rideaux simples et bien choisis peuvent sublimer un espace épuré.

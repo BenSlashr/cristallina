@@ -52,14 +52,14 @@ Côté prix, une table en chêne massif chez **Maisons du Monde** tourne autour 
 
 La pierre apporte l'authenticité. Que ce soit un mur en pierre apparente, un évier en vasque de pierre ou un plan de travail en granit brut, elle ancre l'espace dans quelque chose de solide et intemporel.
 
-Le béton ciré est l'alternative moderne qui colle parfaitement à ce style : il apporte la même minéralité avec une finition plus lisse. En cuisine ou en salle de bain, l'effet est bluffant. Les [meubles salle de bain en béton ciré](/guides/decoration/crepir-un-mur-interieur/) ont d'ailleurs le vent en poupe pour ça.
+Le béton ciré est l'alternative moderne qui colle parfaitement à ce style : il apporte la même minéralité avec une finition plus lisse. En cuisine ou en salle de bain, l'effet est bluffant. Les [meubles salle de bain en béton ciré](/crepir-un-mur-interieur/) ont d'ailleurs le vent en poupe pour ça.
 
 ### Lin, laine et jute
 
 Les textiles naturels sont aussi importants que les matières dures. Un jeté en laine bouillie (**Merci Paris**, 89 €), un tapis en jute (**But**, 49-120 € selon la taille), des coussins en lin lavé (**Zara Home**, 25-35 €) - ces petites touches font toute la différence pour réchauffer un intérieur.
 
 > [!TIP]
-> Pour habiller un mur de façon économique, les enduits à la chaux ou le [crépi intérieur](/guides/decoration/crepir-un-mur-interieur/) sont une alternative authentique à la pierre. Comptez 15-30 €/m² en produit, et le rendu rappelle parfaitement les vieilles fermes rénovées.
+> Pour habiller un mur de façon économique, les enduits à la chaux ou le [crépi intérieur](/crepir-un-mur-interieur/) sont une alternative authentique à la pierre. Comptez 15-30 €/m² en produit, et le rendu rappelle parfaitement les vieilles fermes rénovées.
 
 ## Palette de couleurs : jouer sur les neutres chauds
 
@@ -104,7 +104,7 @@ C'est la pièce centrale de l'expression du style. Les ingrédients qui font mou
 
 **L'éclairage** : fuis les spots encastrés froids. Opte pour une suspension en rotin ou en métal rouillé, des lampes à abat-jour en tissu naturel. **Renaissence** et **Serax** ont des références sympas à 50-150 €.
 
-Pour les [salons modernes et élégants](/guides/decoration/salons-modernes-et-elegants-2026/), l'ajout d'une cheminée ou d'un poêle à bois est l'accessoire ultime du rustique moderne - rien de plus authentique.
+Pour les [salons modernes et élégants](/salons-modernes-et-elegants-2026/), l'ajout d'une cheminée ou d'un poêle à bois est l'accessoire ultime du rustique moderne - rien de plus authentique.
 
 > [!WARNING]
 > Attention à ne pas surcharger. Le rustique moderne, c'est aussi de la retenue. Si tu accumules trop de bibelots vintage, tu bascules dans le "brocante décor" qui manque d'air. Trois éléments forts valent mieux que dix petits accessoires éparpillés.
@@ -171,9 +171,9 @@ Le style rustique moderne peut vite partir dans le mauvais sens. Les pièges les
 
 Le style rustique moderne a des cousins proches qui peuvent t'apporter d'autres idées :
 
-La [décoration marocaine moderne](/guides/decoration/decoration-marocaine-moderne-ou-classique/) partage plusieurs codes avec le rustique moderne : les matières naturelles, les couleurs terracotta, la valorisation de l'artisanat. Si tu aimes les deux univers, tu peux les marier avec subtilité - une zellige dans une cuisine rustique, c'est un mariage qui fonctionne très bien.
+La [décoration marocaine moderne](/decoration-marocaine-moderne-ou-classique/) partage plusieurs codes avec le rustique moderne : les matières naturelles, les couleurs terracotta, la valorisation de l'artisanat. Si tu aimes les deux univers, tu peux les marier avec subtilité - une zellige dans une cuisine rustique, c'est un mariage qui fonctionne très bien.
 
-Du côté des extérieurs, les [maisons modernes 2026](/guides/exterieur/maisons-modernes-2026-images-dexterieur-et-dinterieur/) montrent comment le style rustique moderne s'applique aussi à la façade : bardage bois, enduit à la chaux, pierres apparentes - l'intérieur et l'extérieur peuvent parler le même langage.
+Du côté des extérieurs, les [maisons modernes 2026](/maisons-modernes-2026-images-dexterieur-et-dinterieur/) montrent comment le style rustique moderne s'applique aussi à la façade : bardage bois, enduit à la chaux, pierres apparentes - l'intérieur et l'extérieur peuvent parler le même langage.
 
 ## Budget : à partir de combien ?
 
@@ -207,7 +207,7 @@ Le rustique moderne, c'est finalement un style honnête. Il ne cherche pas à im
 
 ## Sur le meme theme
 
-- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
+- [salons modernes 2026](/salons-modernes-tendances-2026/)
 
 ## Questions fréquentes
 

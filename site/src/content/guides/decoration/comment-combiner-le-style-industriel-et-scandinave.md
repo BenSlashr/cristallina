@@ -46,7 +46,7 @@ Ajoute du noir par petites touches - pieds de meubles, luminaires, cadres - pour
 
 ### Les accents de couleur
 
-Pour éviter la monotonie, injecte une ou deux couleurs d'accent. Le terracotta fonctionne très bien dans ce registre. Le vert sauge aussi, comme on le voit dans les [salons modernes et élégants en 2026](/guides/decoration/salons-modernes-et-elegants-2026/). L'idée, c'est d'utiliser ces touches par petites doses : un coussin, un vase, une affiche.
+Pour éviter la monotonie, injecte une ou deux couleurs d'accent. Le terracotta fonctionne très bien dans ce registre. Le vert sauge aussi, comme on le voit dans les [salons modernes et élégants en 2026](/salons-modernes-et-elegants-2026/). L'idée, c'est d'utiliser ces touches par petites doses : un coussin, un vase, une affiche.
 
 > [!TIP]
 > La règle du 60-30-10 aide beaucoup ici : 60 % de couleur dominante (blanc, gris clair), 30 % de couleur secondaire (bois clair, beige) et 10 % de couleur d'accent (noir, terracotta ou vert). Ce ratio crée un équilibre visuel presque automatique.
@@ -92,7 +92,7 @@ Quelques repères de prix :
 
 Acier noir mat, fer forgé, fonte - le métal industriel est brut, assumé, graphique. Il se décline en pieds de table, suspensions, étagères ouvertes, cadres de miroirs. Pour un look scandi-indus réussi, choisis du métal noir ou du métal brut gris foncé. Évite le chrome brillant, qui tire trop vers le contemporain classique.
 
-L'association la plus simple et la plus efficace : une table avec un plateau en chêne clair et des pieds en métal noir. Ce meuble résiste à toutes les modes et incarne parfaitement le croisement des deux styles. Tu trouveras plus d'idées sur le sujet dans notre guide sur [le mobilier métallique comme tendance déco](/guides/decoration/le-mobilier-metallique-une-tendance-deco-sure/).
+L'association la plus simple et la plus efficace : une table avec un plateau en chêne clair et des pieds en métal noir. Ce meuble résiste à toutes les modes et incarne parfaitement le croisement des deux styles. Tu trouveras plus d'idées sur le sujet dans notre guide sur [le mobilier métallique comme tendance déco](/le-mobilier-metallique-une-tendance-deco-sure/).
 
 ### Les matières complémentaires
 
@@ -157,7 +157,7 @@ flowchart LR
 
 C'est la pièce où le mix fonctionne le mieux. Commence par un canapé en lin ou en tissu gris clair - la base scandinave. Ajoute une table basse avec un plateau en bois massif et des pieds en métal. Au mur, une étagère ouverte en métal noir avec des objets triés sur le volet : plantes vertes, bouquins, quelques bougies.
 
-Pour le sol, un parquet clair est idéal. Si tu as du carrelage ou un sol foncé, un grand tapis en laine écru ou beige fera l'affaire pour adoucir l'ensemble. Tu trouveras d'autres inspirations dans notre article sur la [décoration minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/) : le minimalisme est un pont naturel entre les deux styles.
+Pour le sol, un parquet clair est idéal. Si tu as du carrelage ou un sol foncé, un grand tapis en laine écru ou beige fera l'affaire pour adoucir l'ensemble. Tu trouveras d'autres inspirations dans notre article sur la [décoration minimaliste](/decoration-minimaliste-idees-et-photos-faciles/) : le minimalisme est un pont naturel entre les deux styles.
 
 ### La cuisine
 
@@ -171,7 +171,7 @@ Ici, le scandinave doit dominer - la chambre est un espace de repos, pas un atel
 
 ### Le bureau
 
-Si tu travailles de chez toi, le mix scandi-indus est parfait pour un espace productif et agréable. Un bureau en bois clair et métal, une chaise ergonomique dans des tons neutres, des rangements en métal noir au mur. L'ambiance industrielle donne du sérieux à l'espace, tandis que le scandinave le rend accueillant. Va jeter un oeil à notre guide pour [fabriquer un bureau avec des caissons](/guides/decoration/fabriquer-un-bureau-avec-des-caissons/) si tu veux un projet DIY dans cet esprit.
+Si tu travailles de chez toi, le mix scandi-indus est parfait pour un espace productif et agréable. Un bureau en bois clair et métal, une chaise ergonomique dans des tons neutres, des rangements en métal noir au mur. L'ambiance industrielle donne du sérieux à l'espace, tandis que le scandinave le rend accueillant. Va jeter un oeil à notre guide pour [fabriquer un bureau avec des caissons](/fabriquer-un-bureau-avec-des-caissons/) si tu veux un projet DIY dans cet esprit.
 
 ## Les erreurs à éviter
 
@@ -219,7 +219,7 @@ Quelques achats malins pour démarrer :
 
 ## Sur le meme theme
 
-- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+- [décoration art déco](/50-idees-de-decoration-art-deco/)
 
 ## FAQ
 

@@ -102,7 +102,7 @@ La nuance : un container a souvent été traité avec des peintures industrielle
 Tu peux commencer avec un module de 28 m², puis en ajouter un deuxième deux ans plus tard. C'est une logique d'extension assez souple qui s'adapte à l'évolution d'une famille.
 
 > [!TIP]
-> Pour les façades, les containers se prêtent à tous les styles : bardage bois pour un rendu chalet, béton ciré pour un effet industriel, végétalisation pour quelque chose de plus organique. Jette un oeil aux [couleurs et matériaux pour les façades en 2026](/guides/exterieur/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) pour t'inspirer avant de choisir.
+> Pour les façades, les containers se prêtent à tous les styles : bardage bois pour un rendu chalet, béton ciré pour un effet industriel, végétalisation pour quelque chose de plus organique. Jette un oeil aux [couleurs et matériaux pour les façades en 2026](/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) pour t'inspirer avant de choisir.
 
 ## Ce qu'on ne te dit pas toujours
 
@@ -176,7 +176,7 @@ Pour une famille de 4, compte 3 containers minimum, soit 80-100 m². Budget tota
 
 C'est peut-être le cas d'usage le plus rentable. Un container 20 pieds transformé en bureau ou chambre d'amis, posé sur plots dans ton jardin, c'est 15 000-30 000 € tout compris. Selon ta commune et la surface, tu peux être en déclaration préalable simple plutôt que permis de construire.
 
-Pour les travaux d'isolation et d'aménagement intérieur de ce genre d'espace, les guides sur [comment crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/) et [comment isoler une montée d'escalier](/guides/decoration/comment-isoler-une-montee-descalier/) peuvent t'aider pour les finitions.
+Pour les travaux d'isolation et d'aménagement intérieur de ce genre d'espace, les guides sur [comment crépir un mur intérieur](/crepir-un-mur-interieur/) et [comment isoler une montée d'escalier](/comment-isoler-une-montee-descalier/) peuvent t'aider pour les finitions.
 
 ## Choisir son constructeur container
 
@@ -195,7 +195,7 @@ Quelques noms reconnus en France : Ma Construction Container (MCC), RG Conceptio
 
 ## Sur le meme theme
 
-- [tiny house container](/guides/decoration/tiny-house-container/)
+- [tiny house container](/tiny-house-container/)
 
 ## Ce que ça donne au quotidien
 
@@ -208,7 +208,7 @@ Les retours d'expérience des habitants de maisons container sont globalement po
 
 Les points de vigilance soulevés le plus souvent : la condensation si la ventilation n'est pas bien gérée, le bruit de la pluie sur la toiture métallique (que certains adorent, d'autres non), et les démarches administratives parfois longues selon les communes.
 
-Pour l'extérieur, une maison container accepte très bien les créations originales. Si tu veux pousser le concept plus loin, les [maisons modernes en 2026](/guides/exterieur/maisons-modernes-2026-images-dexterieur-et-dinterieur/) donnent plein d'idées d'architectures qui se marient bien avec l'esprit container.
+Pour l'extérieur, une maison container accepte très bien les créations originales. Si tu veux pousser le concept plus loin, les [maisons modernes en 2026](/maisons-modernes-2026-images-dexterieur-et-dinterieur/) donnent plein d'idées d'architectures qui se marient bien avec l'esprit container.
 
 ---
 

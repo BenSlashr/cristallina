@@ -176,7 +176,7 @@ Parfois, le problème n'est pas une jonction qui grince mais une marche qui flé
 
 La solution : ajouter un tasseau support en dessous de la marche (si accessible) ou coller une baguette d'angle en bois sous le nez de marche pour rigidifier.
 
-Si tu travailles sur ton escalier, c'est aussi le bon moment pour penser à l'isolation thermique de la montée d'escalier. Un escalier bien isolé phoniquement et thermiquement, ça change vraiment le confort au quotidien - et tu trouveras des conseils détaillés dans notre guide sur [comment isoler une montée d'escalier](/guides/decoration/comment-isoler-une-montee-descalier/).
+Si tu travailles sur ton escalier, c'est aussi le bon moment pour penser à l'isolation thermique de la montée d'escalier. Un escalier bien isolé phoniquement et thermiquement, ça change vraiment le confort au quotidien - et tu trouveras des conseils détaillés dans notre guide sur [comment isoler une montée d'escalier](/comment-isoler-une-montee-descalier/).
 
 ## Entretenir son escalier pour éviter que ça revienne
 
@@ -188,11 +188,11 @@ Une fois que tu as réglé le problème, quelques gestes simples permettent de g
 
 **Vérifie les vis et tasseaux** chaque automne, avant la saison de chauffe. Un léger resserrement préventif vaut mieux qu'une réparation en urgence à minuit.
 
-Si tu refais aussi d'autres surfaces en même temps, pense à la cohérence des matériaux. Un sol en lino récemment peint peut être traité avec des produits similaires à ceux pour l'escalier. Notre guide sur [peindre le lino](/guides/decoration/peindre-lino/) donne de bonnes bases sur la préparation des surfaces bois et vinyle.
+Si tu refais aussi d'autres surfaces en même temps, pense à la cohérence des matériaux. Un sol en lino récemment peint peut être traité avec des produits similaires à ceux pour l'escalier. Notre guide sur [peindre le lino](/peindre-lino/) donne de bonnes bases sur la préparation des surfaces bois et vinyle.
 
 ## Et si ton parquet aussi grince ?
 
-La même logique s'applique au parquet. Si tu as ce problème ailleurs dans la maison, sache que les techniques sont proches : talc, colle à bois dans les interstices, vissage discret. Notre article sur [les taches sur parquet](/guides/decoration/parquet-tache/) traite aussi des problèmes courants du parquet en bois massif.
+La même logique s'applique au parquet. Si tu as ce problème ailleurs dans la maison, sache que les techniques sont proches : talc, colle à bois dans les interstices, vissage discret. Notre article sur [les taches sur parquet](/parquet-tache/) traite aussi des problèmes courants du parquet en bois massif.
 
 ## Les solutions pros pour les grincements persistants
 
@@ -223,7 +223,7 @@ Pour les escaliers en bois dans un immeuble (cage d'escalier commune), l'isolati
 
 ## Sur le meme theme
 
-- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
+- [tableau planning et pense-bête](/choisir-tableau-planning-pense-bete/)
 
 ## Ce que je ferais dans ma situation
 
@@ -231,6 +231,6 @@ Si c'est juste 1 ou 2 marches qui grincent, je commence par le graphite en poudr
 
 Pour un escalier entier qui grince sur 5 marches ou plus, je visse directement. Le temps passé à tâtonner avec les solutions temporaires n'en vaut pas la peine.
 
-Et si tu veux aller plus loin dans la rénovation de ta maison, notre guide sur [crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/) aborde un autre chantier que beaucoup hésitent à se lancer seuls - et qui est pourtant très accessible.
+Et si tu veux aller plus loin dans la rénovation de ta maison, notre guide sur [crépir un mur intérieur](/crepir-un-mur-interieur/) aborde un autre chantier que beaucoup hésitent à se lancer seuls - et qui est pourtant très accessible.
 
 Un escalier silencieux, c'est une maison plus sereine. Et ça, ça n'a pas de prix - enfin si, entre 6 et 25€ dans la grande majorité des cas.

@@ -82,7 +82,7 @@ La LED a gagné la partie sur a peu pres tous les criteres.
 </div>
 
 
-**Pas de chaleur (ou presque).** Une LED chauffe entre 30 et 40 degres en surface. La chaleur abime les impressions sur toile, fait jaunir le papier et déforme les supports plastiques. Un halogene monte a 150-200 degres - un risque réel pour un tableau décoratif. Si tu as d'autres oeuvres sur tes murs, notre guide pour [bien accrocher un tableau mural](/guides/decoration/bien-accrocher-tableau-mural/) t'aidera a les protéger.
+**Pas de chaleur (ou presque).** Une LED chauffe entre 30 et 40 degres en surface. La chaleur abime les impressions sur toile, fait jaunir le papier et déforme les supports plastiques. Un halogene monte a 150-200 degres - un risque réel pour un tableau décoratif. Si tu as d'autres oeuvres sur tes murs, notre guide pour [bien accrocher un tableau mural](/bien-accrocher-tableau-mural/) t'aidera a les protéger.
 
 **Durée de vie longue.** Les LED de qualité tiennent 30 000 a 50 000 heures, soit 20 a 35 ans a raison de 4 heures par jour. Les néons classiques durent 10 000 a 15 000 heures et perdent en luminosité bien avant.
 
@@ -103,7 +103,7 @@ Le bon tableau dépend aussi de la piece. Chaque espace a ses contraintes.
 
 C'est l'endroit ou l'impact est le plus fort. Au-dessus du canapé ou de la console TV, un panneau rétroéclairé grand format (80x120 cm ou plus) crée un point focal saisissant le soir. Vise 10-20W pour une lumiere d'ambiance qui ne rivalise pas avec l'éclairage principal.
 
-Si ton salon est plutot [déco minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/), un seul tableau lumineux bien placé suffit. Pas la peine d'en mettre trois.
+Si ton salon est plutot [déco minimaliste](/decoration-minimaliste-idees-et-photos-faciles/), un seul tableau lumineux bien placé suffit. Pas la peine d'en mettre trois.
 
 ### Chambre
 
@@ -117,7 +117,7 @@ La piece oubliée de la déco. Un tableau lumineux y remplit deux fonctions : d�
 
 ### Bureau et espace de travail
 
-Pour un bureau, évite les couleurs vives ou les animations qui distraient. Un panneau LED blanc chaud avec une image apaisante (nature, architecture) ou un néon discret sont de meilleurs choix. Si tu aménages un [coin gaming](/guides/decoration/comment-creer-une-station-de-gaming/), la, tu peux sortir les RGB et les effets dynamiques.
+Pour un bureau, évite les couleurs vives ou les animations qui distraient. Un panneau LED blanc chaud avec une image apaisante (nature, architecture) ou un néon discret sont de meilleurs choix. Si tu aménages un [coin gaming](/comment-creer-une-station-de-gaming/), la, tu peux sortir les RGB et les effets dynamiques.
 
 ```mermaid
 flowchart LR
@@ -243,8 +243,8 @@ Voici les points a vérifier avant d'acheter.
 
 ## Sur le meme theme
 
-- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
-- [choisir un tableau mural](/guides/decoration/choisir-tableau-mural/)
+- [tableau planning et pense-bête](/choisir-tableau-planning-pense-bete/)
+- [choisir un tableau mural](/choisir-tableau-mural/)
 
 <div class="my-8">
   <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771236532997.jpg" alt="Choisir tableau lumineux - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />

@@ -57,7 +57,7 @@ Ce qui frappe en premier dans les images de maisons modernes en adobe, c'est la 
 À Los Angeles, Dutton Architects a restauré une maison adobe historique signée John Byers, architecte phare du début du XXe siècle en Californie. L'approche était de conserver l'esprit originel tout en intégrant les usages contemporains. Sur les images, les murs épais aux angles arrondis créent une silhouette douce, presque sculptée. Rien de raide ni d'agressif - une architecture qui semble issue du sol.
 
 > [!TIP]
-> Pour harmoniser les façades en adobe avec ton jardin, mise sur des plantations aux tons chauds : lavandes, herbes aromatiques, graminées dorées, agaves. Ils renforcent le lien visuel entre le bâti et le paysage. Consulte aussi nos idées sur les [couleurs pour les extérieurs et façades de maisons en 2026](/guides/exterieur/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) pour affiner ta palette.
+> Pour harmoniser les façades en adobe avec ton jardin, mise sur des plantations aux tons chauds : lavandes, herbes aromatiques, graminées dorées, agaves. Ils renforcent le lien visuel entre le bâti et le paysage. Consulte aussi nos idées sur les [couleurs pour les extérieurs et façades de maisons en 2026](/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) pour affiner ta palette.
 
 ### Toits plats et volumes simples
 
@@ -93,7 +93,7 @@ graph LR
 
 La finition intérieure joue beaucoup sur le résultat final. Un enduit à la chaux donne une surface légèrement brillante et très blanche. Un enduit à la terre conserve les tons chauds et mate de la cuisine. Certains propriétaires laissent les briques apparentes dans certaines pièces, pour un effet très graphique. Les images les plus réussies jouent sur ce contraste entre la rusticité du matériau et la sophistication du mobilier.
 
-Si tu aimes ce style d'enduit naturel, tu peux aussi t'inspirer de la technique du [crépissage pour un mur intérieur](/guides/decoration/crepir-un-mur-interieur/) qui partage la même philosophie de matériau vivant et texturé.
+Si tu aimes ce style d'enduit naturel, tu peux aussi t'inspirer de la technique du [crépissage pour un mur intérieur](/crepir-un-mur-interieur/) qui partage la même philosophie de matériau vivant et texturé.
 
 > [!TIP]
 > Pour meubler un intérieur en adobe, opte pour des matières naturelles : bois brut, lin, coton, osier. Les canapés en velours côtelé ou les tapis berbères s'y intègrent à merveille. Évite les meubles trop brillants ou les finitions plastifiées qui cassent l'harmonie du matériau.
@@ -111,7 +111,7 @@ Les architectes qui travaillent l'adobe contemporain en jouent énormément. Des
 
 Les images de cuisines en adobe sont parmi les plus appréciées. On y retrouve souvent des plans de travail en pierre naturelle, des crédences en zellige ou en carreaux de ciment, des étagères ouvertes en bois massif. La marque Fired Earth propose des carreaux en terre cuite artisanale très adaptés, entre 35 et 80€/m² selon les finitions. Les appareils électroménagers, eux, sont souvent intégrés derrière des facades en bois brut pour ne pas rompre l'ambiance.
 
-Pour les salles de bain, l'adobe se marie superbement avec le tadelakt (enduit marocain lisse et imperméable), les vasques en pierre ou les baignoires îlot en résine matte. Une douche à l'italienne avec sol en galets naturels, des murs en enduit argile teinté - c'est l'esthétique très recherchée qu'on voit souvent dans les images de maisons en adobe au Maroc ou en Espagne. Si tu es attirée par cette esthétique orientale, tu trouveras d'autres idées dans notre article sur la [décoration marocaine moderne ou classique](/guides/decoration/decoration-marocaine-moderne-ou-classique/).
+Pour les salles de bain, l'adobe se marie superbement avec le tadelakt (enduit marocain lisse et imperméable), les vasques en pierre ou les baignoires îlot en résine matte. Une douche à l'italienne avec sol en galets naturels, des murs en enduit argile teinté - c'est l'esthétique très recherchée qu'on voit souvent dans les images de maisons en adobe au Maroc ou en Espagne. Si tu es attirée par cette esthétique orientale, tu trouveras d'autres idées dans notre article sur la [décoration marocaine moderne ou classique](/decoration-marocaine-moderne-ou-classique/).
 
 ## Combien coûte une maison en adobe ?
 
@@ -156,12 +156,12 @@ Même si tu n'as pas de projet de construction en adobe, tu peux tout à fait t'
 - **Mobilier et objets** : poteries brutes, bols en terre cuite, textiles en laine naturelle non teinte. Des marques comme Zara Home ou La Redoute Intérieurs proposent des pièces dans cet esprit entre 20 et 150€.
 - **Côté extérieur**, un badigeon à la chaux teinté dans les tons sable ou terra cotta peut transformer une façade banale. La gamme Tollens Tecta offre des teintes très proches des vraies facades adobe, autour de 25-35€/L.
 
-Pour aller plus loin côté extérieur, notre guide sur les [maisons modernes 2026 : images d'extérieur et d'intérieur](/guides/exterieur/maisons-modernes-2026-images-dexterieur-et-dinterieur/) regroupe d'autres sources d'inspiration pour des projets contemporains.
+Pour aller plus loin côté extérieur, notre guide sur les [maisons modernes 2026 : images d'extérieur et d'intérieur](/maisons-modernes-2026-images-dexterieur-et-dinterieur/) regroupe d'autres sources d'inspiration pour des projets contemporains.
 
 
 ## Sur le meme theme
 
-- [couleur porte d'entrée](/guides/exterieur/couleurs-des-portes-exterieures-comment-choisir-la-couleur/)
+- [couleur porte d'entrée](/couleurs-des-portes-exterieures-comment-choisir-la-couleur/)
 
 ## Ce que disent les images : ce qu'il faut retenir
 

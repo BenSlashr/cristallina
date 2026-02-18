@@ -244,11 +244,11 @@ J'ai vu pas mal de projets béton ciré qui tournent mal. Voici les pièges clas
 
 ## Sur le meme theme
 
-- [salle de bain rustique moderne](/guides/salle-de-bain/salles-de-bains-rustiques-decoration-et-design-modernes/)
-- [carrelage métro salle de bain](/guides/salle-de-bain/carrelage-metro-salle-de-bain/)
-- [couleurs tendance salle de bain 2026](/guides/salle-de-bain/couleurs-tendance-pour-les-salles-de-bains-modernes-2026/)
-- [rénovation salle de bain](/guides/salle-de-bain/les-points-importants-a-renover-dans-une-salle-de-bain/)
-- [entretenir un bain nordique](/guides/salle-de-bain/comment-entretenir-un-bain-nordique/)
+- [salle de bain rustique moderne](/salles-de-bains-rustiques-decoration-et-design-modernes/)
+- [carrelage métro salle de bain](/carrelage-metro-salle-de-bain/)
+- [couleurs tendance salle de bain 2026](/couleurs-tendance-pour-les-salles-de-bains-modernes-2026/)
+- [rénovation salle de bain](/les-points-importants-a-renover-dans-une-salle-de-bain/)
+- [entretenir un bain nordique](/comment-entretenir-un-bain-nordique/)
 
 ## Questions fréquentes
 

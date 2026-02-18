@@ -140,7 +140,7 @@ C'est là que ça devient vraiment fun. L'intérieur de ton armoire d'angle, tu 
 - Range-chaussures : **15 à 25 EUR**
 - Crochet à sacs ou foulards : **5 à 8 EUR**
 
-Si tu galères avec l'organisation de ta lingerie, j'ai aussi un guide dédié au [rangement des sous-vêtements](/guides/rangement/rangement-soutien-gorge/) qui complète bien ce que je te raconte ici.
+Si tu galères avec l'organisation de ta lingerie, j'ai aussi un guide dédié au [rangement des sous-vêtements](/rangement-soutien-gorge/) qui complète bien ce que je te raconte ici.
 
 ### Étape 5 : les accessoires qui changent tout
 
@@ -187,7 +187,7 @@ flowchart LR
 
 3. **Zone fond** : les affaires hors saison, les valises, les sacs à main que tu sors une fois par mois. La tringle extractible est ton alliée ici - elle te permet de tirer les vêtements vers toi sans plonger le bras au fond de l'armoire.
 
-Pour un système de rangement chambre encore plus poussé, tu peux aussi regarder mes conseils pour [ranger ta chambre efficacement](/guides/chambre/ranger-chambre/).
+Pour un système de rangement chambre encore plus poussé, tu peux aussi regarder mes conseils pour [ranger ta chambre efficacement](/ranger-chambre/).
 
 ## Le budget complet : combien ça coûte vraiment
 
@@ -282,9 +282,9 @@ flowchart TD
 
 ## Sur le meme theme
 
-- [séchoir ikea à moins de 6 euros](/guides/shopping/ikea-cet-indispensable-pour-secher-son-linge-meme-en-automne-a-moins-de-6-euros/)
-- [plateau multifonction ikea](/guides/shopping/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
-- [étagères murales ikea](/guides/shopping/cohue-chez-ikea-avec-letagere-murale-prisee-a-prix-imbattable/)
+- [séchoir ikea à moins de 6 euros](/ikea-cet-indispensable-pour-secher-son-linge-meme-en-automne-a-moins-de-6-euros/)
+- [plateau multifonction ikea](/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
+- [étagères murales ikea](/cohue-chez-ikea-avec-letagere-murale-prisee-a-prix-imbattable/)
 
 ## FAQ
 

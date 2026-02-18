@@ -80,7 +80,7 @@ Pour les vérandas, le polycarbonate alvéolaire ou le verre sont utilisés en c
 
 ### Sur les avancées de toit et les terrasses couvertes
 
-Une avancée de toit transparente au-dessus d'une terrasse permet de garder la lumière tout en se protégeant de la pluie. C'est une option souvent moins chère qu'un store bioclimatique, et elle s'intègre mieux sur les maisons avec une couverture en tuiles. Si tu t'interroges sur les couleurs et l'aspect extérieur de ta maison, notre guide sur les [couleurs pour les extérieurs et les facades de maisons en 2026](/guides/exterieur/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) peut t'aider à choisir une esthétique cohérente.
+Une avancée de toit transparente au-dessus d'une terrasse permet de garder la lumière tout en se protégeant de la pluie. C'est une option souvent moins chère qu'un store bioclimatique, et elle s'intègre mieux sur les maisons avec une couverture en tuiles. Si tu t'interroges sur les couleurs et l'aspect extérieur de ta maison, notre guide sur les [couleurs pour les extérieurs et les facades de maisons en 2026](/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) peut t'aider à choisir une esthétique cohérente.
 
 ## Prix des tuiles transparentes : ce que tu vas vraiment payer
 
@@ -161,7 +161,7 @@ Pour une véranda complète avec vitrage en polycarbonate, le budget total (stru
 **L'esthétique.** Quelques tuiles translucides mélangées à une toiture en tuile terre cuite, ça peut faire "rustique assumé". Mais 20 % de la surface en transparent, ça commence à changer l'aspect extérieur de la maison. À doser avec soin.
 
 > [!NOTE]
-> Pour les combles, si tu ajoutes des tuiles translucides, pense aussi à l'isolation thermique globale. Une toiture bien isolée avec quelques points de lumière naturelle est bien plus confortable qu'un espace lumineux mais froid en hiver. Notre guide sur l'[isolation d'une montée d'escalier](/guides/decoration/comment-isoler-une-montee-descalier/) donne des pistes utiles pour traiter les zones de déperdition thermique.
+> Pour les combles, si tu ajoutes des tuiles translucides, pense aussi à l'isolation thermique globale. Une toiture bien isolée avec quelques points de lumière naturelle est bien plus confortable qu'un espace lumineux mais froid en hiver. Notre guide sur l'[isolation d'une montée d'escalier](/comment-isoler-une-montee-descalier/) donne des pistes utiles pour traiter les zones de déperdition thermique.
 
 ## Pose et entretien : les bons réflexes
 
@@ -222,16 +222,16 @@ Quelques points à retenir pour choisir :
 - Pour une véranda : le polycarbonate alvéolaire ou le verre feuilleté selon le budget
 - Vérifie toujours la compatibilité avec ton modèle de tuile avant d'acheter
 
-Si tu envisages aussi des travaux sur les murs intérieurs - enduit, crépissage ou finitions - tu peux consulter notre guide sur [comment crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/) pour compléter la rénovation de tes espaces.
+Si tu envisages aussi des travaux sur les murs intérieurs - enduit, crépissage ou finitions - tu peux consulter notre guide sur [comment crépir un mur intérieur](/crepir-un-mur-interieur/) pour compléter la rénovation de tes espaces.
 
-Et si tu as une toiture avec des gouttières en zinc à entretenir en même temps que tu poses tes tuiles translucides, nos [instructions pour souder une gouttière en zinc](/guides/decoration/instructions-pour-souder-une-gouttiere-en-zinc/) t'éviteront quelques mauvaises surprises sur le chantier.
+Et si tu as une toiture avec des gouttières en zinc à entretenir en même temps que tu poses tes tuiles translucides, nos [instructions pour souder une gouttière en zinc](/instructions-pour-souder-une-gouttiere-en-zinc/) t'éviteront quelques mauvaises surprises sur le chantier.
 
 ---
 
 
 ## Sur le meme theme
 
-- [toiture shingle](/guides/decoration/toiture-shingle-les-caracteristiques-le-cout-et-le-devis/)
+- [toiture shingle](/toiture-shingle-les-caracteristiques-le-cout-et-le-devis/)
 
 ## Foire aux questions
 

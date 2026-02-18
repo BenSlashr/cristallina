@@ -26,7 +26,7 @@ La première raison, c'est le prix. L'eau du robinet coûte en moyenne 4 à 5 eu
 
 La deuxième raison, c'est que l'eau de pluie est douce par nature. Elle contient peu de calcaire, ce qui réduit les dépôts sur tes parois et ta filtration. Concrètement, tu consommes moins de produits d'entretien et ton filtre tient plus longtemps. C'est du bonus.
 
-Et la troisième raison : ton jardin te remercie aussi. Si tu installes un système bien dimensionné, tu peux utiliser le trop-plein de cuve pour arroser. Si tu fais partie de ceux qui aménagent leurs espaces avec soin - comme quand on pense à [un jardin zen bien conçu](/guides/exterieur/comment-creer-un-jardin-zen-en-7-etapes/) - autant que tout soit cohérent et durable.
+Et la troisième raison : ton jardin te remercie aussi. Si tu installes un système bien dimensionné, tu peux utiliser le trop-plein de cuve pour arroser. Si tu fais partie de ceux qui aménagent leurs espaces avec soin - comme quand on pense à [un jardin zen bien conçu](/comment-creer-un-jardin-zen-en-7-etapes/) - autant que tout soit cohérent et durable.
 
 > [!NOTE]
 > En France, l'amortissement d'une installation de récupération d'eau de pluie pour piscine se fait généralement sur 6 à 10 ans selon la taille de ton bassin et ta pluviométrie locale. Dans les régions très arrosées (Bretagne, Normandie, Alsace), c'est plus vite rentabilisé.
@@ -168,7 +168,7 @@ Concrètement :
 
 Résultat : une piscine qui tourne presque en autonomie sur l'eau. C'est atteignable, vraiment.
 
-Si tu es dans une logique globale d'aménagement extérieur malin, cette réflexion s'intègre bien avec d'autres projets comme une [pergola bioclimatique](/guides/exterieur/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) qui peut aussi récupérer l'eau de pluie de son toit pour alimenter le même système.
+Si tu es dans une logique globale d'aménagement extérieur malin, cette réflexion s'intègre bien avec d'autres projets comme une [pergola bioclimatique](/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) qui peut aussi récupérer l'eau de pluie de son toit pour alimenter le même système.
 
 > [!IMPORTANT]
 > En France, la réglementation autorise l'utilisation d'eau de pluie pour les usages extérieurs dont la piscine. L'eau de pluie ne doit en revanche pas être connectée au réseau d'eau potable sans un disconnecteur agréé. Si tu fais installer un système avec bascule automatique eau de ville / eau de pluie, vérifie que le plombier utilise bien un disconnecteur conforme (norme NF EN 1717).
@@ -198,13 +198,13 @@ Pour un système complet eau de pluie + piscine, voilà une fourchette réaliste
 Pour une piscine de 50 m3 avec un coût d'eau à 4,50 euros le m3, tu économises environ 225 euros par remplissage complet. Avec les appoints de saison (15 à 20 m3 en moyenne), on est sur 70 à 90 euros d'économie supplémentaire par an. L'amortissement du système de base intervient en 3 à 5 saisons.
 
 > [!TIP]
-> Si tu as un grand jardin, pense à dimensionner ta cuve pour qu'elle serve aussi l'arrosage. Un système à 10 000 litres qui alimente à la fois la piscine et tes massifs, c'est une logique globale qui accélère l'amortissement. Pour les jardins aménagés avec plusieurs zones, comme quand on travaille à [transformer un espace extérieur en zone de vie](/guides/exterieur/comment-transformer-votre-jardin-avec-un-conteneur-maritime/), ce type d'investissement s'intègre naturellement.
+> Si tu as un grand jardin, pense à dimensionner ta cuve pour qu'elle serve aussi l'arrosage. Un système à 10 000 litres qui alimente à la fois la piscine et tes massifs, c'est une logique globale qui accélère l'amortissement. Pour les jardins aménagés avec plusieurs zones, comme quand on travaille à [transformer un espace extérieur en zone de vie](/comment-transformer-votre-jardin-avec-un-conteneur-maritime/), ce type d'investissement s'intègre naturellement.
 
 
 ## Sur le meme theme
 
-- [construire un pool house](/guides/exterieur/construire-pool-house/)
-- [patio moderne](/guides/exterieur/patio-moderne-de-maisons-simples-et-belles/)
+- [construire un pool house](/construire-pool-house/)
+- [patio moderne](/patio-moderne-de-maisons-simples-et-belles/)
 
 ## Les questions qu'on se pose souvent
 

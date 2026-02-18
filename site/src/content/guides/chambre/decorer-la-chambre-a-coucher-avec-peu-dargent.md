@@ -234,7 +234,7 @@ Si tu veux explorer d'autres styles pour ta chambre, jette un oeil à mon articl
 
 ## Sur le meme theme
 
-- [décorer sa chambre en location](/guides/chambre/decorer-chambre-coucher-location/)
+- [décorer sa chambre en location](/decorer-chambre-coucher-location/)
 
 ## FAQ
 

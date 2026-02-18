@@ -121,7 +121,7 @@ Si ton garde-corps échoue à l'un de ces tests, la priorité c'est le renforcem
 
 **L'acier galvanisé ou inox** est la solution la plus durable. Un garde-corps inox brossé 316L résiste parfaitement à la corrosion même en bord de mer. Comptez 200 à 400 euros par mètre linéaire posé, selon le design (barreaux, câble, verre).
 
-**Le verre feuilleté sécurit** donne un rendu ultra contemporain et laisse passer la lumière - parfait pour ne pas "couper" une belle vue. Attention au prix : 350 à 600 euros du mètre linéaire posé. Si tu veux du beau, c'est l'option. Tu peux d'ailleurs t'inspirer du style des [façades de maisons modernes 2026](/guides/decoration/facades-de-maisons-modernes-2026/) pour assortir le garde-corps à l'architecture de ta maison.
+**Le verre feuilleté sécurit** donne un rendu ultra contemporain et laisse passer la lumière - parfait pour ne pas "couper" une belle vue. Attention au prix : 350 à 600 euros du mètre linéaire posé. Si tu veux du beau, c'est l'option. Tu peux d'ailleurs t'inspirer du style des [façades de maisons modernes 2026](/facades-de-maisons-modernes-2026/) pour assortir le garde-corps à l'architecture de ta maison.
 
 **L'aluminium laqué** est plus accessible (150 à 250 euros le mètre) et disponible dans des dizaines de coloris RAL. Il ne rouille pas, ne se déforme pas, nécessite zéro entretien. Très populaire pour les terrasses contemporaines.
 
@@ -165,7 +165,7 @@ Les spots encastrés dans les marches d'escalier sont LA solution la plus effica
 
 Le long des cheminements et des bordures, des spots encastrés dans les dalles ou des bornes solaires balisent les zones de passage. Les bornes solaires avec détecteur de mouvement (Lumisky chez Leroy Merlin, environ 25 euros pièce) sont zéro contrainte - pas de câble, pas de consommation électrique.
 
-Si tu réfléchis à un aménagement plus complet avec une structure couverte, les [pergolas bioclimatiques](/guides/exterieur/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) intègrent souvent un système d'éclairage LED dans les poteaux - une très bonne solution pour sécuriser la zone sous la pergola.
+Si tu réfléchis à un aménagement plus complet avec une structure couverte, les [pergolas bioclimatiques](/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) intègrent souvent un système d'éclairage LED dans les poteaux - une très bonne solution pour sécuriser la zone sous la pergola.
 
 ## Budget récapitulatif : ce que ça coûte vraiment
 
@@ -213,7 +213,7 @@ graph LR
 
 **Ce qu'il vaut mieux confier à un pro :** tout ce qui touche à l'électricité encastrée, la pose d'un garde-corps (pour la garantie et la conformité aux normes), et le rejointoiement en périphérie de maison qui touche à l'étanchéité.
 
-Si tu repenses aussi l'aspect esthétique global de ta maison en même temps que la terrasse, jette un oeil aux tendances en matière de [maisons modernes en 2026](/guides/exterieur/maisons-modernes-2026-images-dexterieur-et-dinterieur/) - les matériaux et couleurs qui marchent bien en façade fonctionnent souvent très bien en continuité sur la terrasse.
+Si tu repenses aussi l'aspect esthétique global de ta maison en même temps que la terrasse, jette un oeil aux tendances en matière de [maisons modernes en 2026](/maisons-modernes-2026-images-dexterieur-et-dinterieur/) - les matériaux et couleurs qui marchent bien en façade fonctionnent souvent très bien en continuité sur la terrasse.
 
 ---
 
@@ -222,8 +222,8 @@ La sécurité de ta terrasse, c'est un investissement qui te donnera de la tranq
 
 ## Sur le meme theme
 
-- [peinture carrelage extérieur terrasse](/guides/exterieur/peinture-pour-carrelage-exterieur-terrasse/)
-- [parasols de terrasse pour cafés et restaurants](/guides/exterieur/le-guide-ultime-des-parasols-de-terrasse-pour-cafes-hotels-et-restaurants/)
+- [peinture carrelage extérieur terrasse](/peinture-pour-carrelage-exterieur-terrasse/)
+- [parasols de terrasse pour cafés et restaurants](/le-guide-ultime-des-parasols-de-terrasse-pour-cafes-hotels-et-restaurants/)
 
 ## Questions fréquentes
 

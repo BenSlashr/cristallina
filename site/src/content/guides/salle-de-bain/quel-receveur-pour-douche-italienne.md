@@ -57,7 +57,7 @@ Résultat : ta douche s'intègre parfaitement au reste du sol. Si tu utilises le
 
 Le prix d'entrée est plus élevé : compte **300 à 800€** pour le système seul (bac + bonde linéaire), plus le carrelage, plus la pose si tu ne le fais pas toi-même. Des marques comme **Wedi, Schluter (Kerdi-Shower) ou Lazer** sont les références sur ce segment.
 
-Le gros avantage aussi : la personnalisation totale des dimensions. Tu peux faire une douche de 120x200 cm, en angle, ou d'une forme atypique. [Pour choisir le bon carrelage pour ta douche italienne](/guides/salle-de-bain/carrelage-douche-italienne/), je t'ai fait un guide complet - l'antidérapant et le format ont une influence directe sur le confort et la sécurité.
+Le gros avantage aussi : la personnalisation totale des dimensions. Tu peux faire une douche de 120x200 cm, en angle, ou d'une forme atypique. [Pour choisir le bon carrelage pour ta douche italienne](/carrelage-douche-italienne/), je t'ai fait un guide complet - l'antidérapant et le format ont une influence directe sur le confort et la sécurité.
 
 > [!WARNING]
 > Le receveur à carreler demande une pose soignée. Si l'étanchéité n'est pas parfaite (bande de doublage, étanchéité sous carrelage), tu risques des infiltrations qui passent inaperçues pendant des mois... et qui font des dégâts catastrophiques. Fais appel à un professionnel si tu n'es pas à l'aise avec la pose de carrelage en milieu humide.
@@ -110,7 +110,7 @@ La question du format arrive toujours trop tard dans la réflexion. Pourtant, le
 
 **100x100 ou 80x120 cm** : le sweet spot confort/encombrement. Je recommande cette taille si tu as la place - ça change vraiment la sensation de la douche.
 
-**120x80, 120x90 ou plus grand** : pour les douches "de rêve". Plus c'est grand, plus l'effet spa est présent. C'est aussi la taille qu'on retrouve dans les [douches italiennes inspirantes qu'on adore parcourir](/guides/salle-de-bain/douches-italiennes-idees/) - les grandes surfaces avec paroi de verre, ça en jette.
+**120x80, 120x90 ou plus grand** : pour les douches "de rêve". Plus c'est grand, plus l'effet spa est présent. C'est aussi la taille qu'on retrouve dans les [douches italiennes inspirantes qu'on adore parcourir](/douches-italiennes-idees/) - les grandes surfaces avec paroi de verre, ça en jette.
 
 **Forme** : rectangulaire reste le classique le plus facile à trouver. Mais un receveur à carreler te donne accès aux formes sur-mesure - angle de 45°, forme en L, douche d'angle.
 
@@ -120,8 +120,8 @@ La question du format arrive toujours trop tard dans la réflexion. Pourtant, le
 
 ## Sur le meme theme
 
-- [douche à 1 euro](/guides/salle-de-bain/douche-1-euro/)
-- [carrelage métro salle de bain](/guides/salle-de-bain/carrelage-metro-salle-de-bain/)
+- [douche à 1 euro](/douche-1-euro/)
+- [carrelage métro salle de bain](/carrelage-metro-salle-de-bain/)
 
 <div class="my-8">
   <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771237480882.jpg" alt="Quel receveur pour douche italienne - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
@@ -183,7 +183,7 @@ Ne fais pas l'erreur de regarder uniquement le prix du receveur. Le coût total 
 
 Pour une douche italienne complète en rénovation - receveur extra-plat + paroi fixe + carrelage autour - compte un budget réaliste de **1500 à 3500€** tous travaux compris. Pour un receveur à carreler avec finition haut de gamme, tu peux monter à 5000-8000€.
 
-Si tu envisages aussi de repenser complètement ta salle de bain, va voir l'article sur la [baignoire japonaise](/guides/salle-de-bain/baignoire-japonaise/) - parfois la question n'est pas "quel receveur" mais "douche ou bain", et les deux peuvent cohabiter dans un espace bien pensé.
+Si tu envisages aussi de repenser complètement ta salle de bain, va voir l'article sur la [baignoire japonaise](/baignoire-japonaise/) - parfois la question n'est pas "quel receveur" mais "douche ou bain", et les deux peuvent cohabiter dans un espace bien pensé.
 
 > [!IMPORTANT]
 > Ne skippe pas l'étanchéité sous prétexte d'économiser 100-200€. Une infiltration non détectée peut coûter 5000 à 20000€ de réparation (parquet, plafond de l'étage dessous, structure...). C'est l'investissement le plus rentable de tout ton chantier douche.

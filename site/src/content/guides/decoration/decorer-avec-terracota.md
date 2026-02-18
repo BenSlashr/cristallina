@@ -48,9 +48,9 @@ C'est la combinaison star des intérieurs 2025-2026. Le vert sauge désaturé (c
 
 ### Terracotta + bleu canard ou indigo = le contraste audacieux
 
-Si tu veux quelque chose de plus affirmé, le bleu profond est ton meilleur allié. Cette association, très présente dans la [décoration marocaine](/guides/decoration/decoration-marocaine-moderne-ou-classique/), donne une énergie incroyable à un salon ou une cuisine. Utilise le bleu en petites touches - coussins, vase, cadres - pour ne pas trop charger.
+Si tu veux quelque chose de plus affirmé, le bleu profond est ton meilleur allié. Cette association, très présente dans la [décoration marocaine](/decoration-marocaine-moderne-ou-classique/), donne une énergie incroyable à un salon ou une cuisine. Utilise le bleu en petites touches - coussins, vase, cadres - pour ne pas trop charger.
 
-Pour aller plus loin sur les combinaisons qui fonctionnent avec les tons chauds, jette un oeil aux [couleurs compatibles avec l'orange](/guides/couleurs/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) - la terracotta partage beaucoup d'affinités avec les orangés.
+Pour aller plus loin sur les combinaisons qui fonctionnent avec les tons chauds, jette un oeil aux [couleurs compatibles avec l'orange](/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) - la terracotta partage beaucoup d'affinités avec les orangés.
 
 ```mermaid
 graph TD
@@ -147,7 +147,7 @@ Pour une chambre sereine, associe :
 - Des rideaux en coton épais couleur sable ou vert kaki
 - Une ou deux plantes (un ficus lyrata ou un philodendron apportent le vert naturel sans accessoire)
 
-Si tu veux aller plus loin dans la déco chambre terracotta, consulte notre guide dédié à la [déco terracotta chambre](/guides/chambre/deco-terracotta-chambre/) pour des idées plus poussées sur le mobilier et la literie.
+Si tu veux aller plus loin dans la déco chambre terracotta, consulte notre guide dédié à la [déco terracotta chambre](/deco-terracotta-chambre/) pour des idées plus poussées sur le mobilier et la literie.
 
 > [!WARNING]
 > Dans une chambre d'enfant, dose la terracotta avec prudence. Une pièce trop saturée en tons chauds peut rendre le sommeil difficile. Préfère des touches légères : un mobile en céramique terracotta, un coussin, plutôt qu'un mur entier.
@@ -167,7 +167,7 @@ Tu n'es pas prêt(e) à peindre un mur ? Pas de problème. Les accessoires terra
 
 **Cadres et tableaux** : les cadres en terre cuite ou en résine imitation terracotta sont tendance. IKEA (gamme RIBBA avec moulure terracotta peinte) ou des boutiques comme Desenio proposent des cadres adaptés à moins de 20€.
 
-Les tons ocres et terracotta s'inscrivent dans une palette plus large que tu peux explorer dans notre guide sur les [couleurs ocres pour les murs et la décoration](/guides/couleurs/couleurs-ocres-pour-les-murs-et-la-decoration/), très utile pour coordonner l'ensemble de tes pièces.
+Les tons ocres et terracotta s'inscrivent dans une palette plus large que tu peux explorer dans notre guide sur les [couleurs ocres pour les murs et la décoration](/couleurs-ocres-pour-les-murs-et-la-decoration/), très utile pour coordonner l'ensemble de tes pièces.
 
 ## Les erreurs courantes à éviter
 
@@ -200,7 +200,7 @@ Pour les peintures murales terracotta, une finition velouté ou satin est plus r
 
 ## Sur le meme theme
 
-- [salon brun](/guides/decoration/salons-bruns-idees-et-images/)
+- [salon brun](/salons-bruns-idees-et-images/)
 
 ## FAQ
 

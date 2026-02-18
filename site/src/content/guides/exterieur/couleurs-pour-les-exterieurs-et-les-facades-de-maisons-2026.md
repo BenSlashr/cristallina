@@ -230,11 +230,11 @@ Et pour aménager le reste de ton extérieur après le ravalement, découvre nos
 
 ## Sur le meme theme
 
-- [facades de maisons modernes 2026](/guides/decoration/facades-de-maisons-modernes-2026/)
-- [maisons modernes en adobe](/guides/exterieur/maisons-modernes-en-adobe-images-dinterieurs-et-dexterieurs/)
-- [maisons modernes 2026](/guides/exterieur/maisons-modernes-2026-images-dexterieur-et-dinterieur/)
-- [couleur porte d'entrée](/guides/exterieur/couleurs-des-portes-exterieures-comment-choisir-la-couleur/)
-- [construire un pool house](/guides/exterieur/construire-pool-house/)
+- [facades de maisons modernes 2026](/facades-de-maisons-modernes-2026/)
+- [maisons modernes en adobe](/maisons-modernes-en-adobe-images-dinterieurs-et-dexterieurs/)
+- [maisons modernes 2026](/maisons-modernes-2026-images-dexterieur-et-dinterieur/)
+- [couleur porte d'entrée](/couleurs-des-portes-exterieures-comment-choisir-la-couleur/)
+- [construire un pool house](/construire-pool-house/)
 
 ## FAQ : les questions que tu te poses
 

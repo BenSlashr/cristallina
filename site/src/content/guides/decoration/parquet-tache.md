@@ -110,7 +110,7 @@ graph TD
 
 ### Taches de peinture, colle ou vernis
 
-Si tu fais des travaux chez toi (ou si tu as suivi notre guide pour [crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/)), tu as peut-etre laissé tomber une goutte de peinture sur ton parquet.
+Si tu fais des travaux chez toi (ou si tu as suivi notre guide pour [crépir un mur intérieur](/crepir-un-mur-interieur/)), tu as peut-etre laissé tomber une goutte de peinture sur ton parquet.
 
 **Peinture fraiche :** essuie immédiatement avec un chiffon humide. La peinture acrylique (a l'eau) part très facilement tant qu'elle n'a pas séché.
 
@@ -191,13 +191,13 @@ Parfois, la tache est trop profonde ou trop étendue pour un traitement maison. 
 
 Le tarif moyen d'un ponçage-vitrification par un pro se situe entre 25 et 45 euros/m2, selon ta région. Pour une pièce de 20 m2, compte entre 500 et 900 euros. C'est un investissement, mais ton parquet repartira comme neuf pour 10-15 ans.
 
-Si tu rénoves plus largement et que tu t'attaques aussi a tes [murs en parpaings](/guides/decoration/recouvrir-parpaings/), pense a bien protéger ton parquet avec une bache épaisse et du ruban de masquage pendant les travaux.
+Si tu rénoves plus largement et que tu t'attaques aussi a tes [murs en parpaings](/recouvrir-parpaings/), pense a bien protéger ton parquet avec une bache épaisse et du ruban de masquage pendant les travaux.
 
 
 ## Sur le meme theme
 
-- [décirer un meuble en bois](/guides/decoration/decirer-un-meuble-en-bois-les-astuces-pratiques/)
-- [volets en bois](/guides/decoration/volets-en-bois/)
+- [décirer un meuble en bois](/decirer-un-meuble-en-bois-les-astuces-pratiques/)
+- [volets en bois](/volets-en-bois/)
 
 ## FAQ - Les questions que tout le monde se pose
 
@@ -220,4 +220,4 @@ Le bicarbonate est légèrement abrasif, mais utilisé en pate humide il ne raye
 > [!IMPORTANT]
 > Avant tout traitement, fais toujours un test dans un endroit discret (sous un meuble, dans un coin). Meme les produits naturels peuvent réagir différemment selon la finition de ton parquet.
 
-Ton parquet a une tache ? Maintenant tu sais quoi faire. Le plus important reste la rapidité d'intervention : plus tu agis vite, moins la tache a le temps de s'incruster. Et si tu veux un sol beau et facile a entretenir sur le long terme, pense a l'entretien régulier - c'est la meilleure protection qui existe. Si tu te lances dans un projet de rénovation de sol, jette aussi un oeil a notre article sur [peindre du lino](/guides/decoration/peindre-lino/) pour une alternative économique au remplacement complet.
+Ton parquet a une tache ? Maintenant tu sais quoi faire. Le plus important reste la rapidité d'intervention : plus tu agis vite, moins la tache a le temps de s'incruster. Et si tu veux un sol beau et facile a entretenir sur le long terme, pense a l'entretien régulier - c'est la meilleure protection qui existe. Si tu te lances dans un projet de rénovation de sol, jette aussi un oeil a notre article sur [peindre du lino](/peindre-lino/) pour une alternative économique au remplacement complet.

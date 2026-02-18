@@ -24,7 +24,7 @@ Le parpaing brut, c'est poreux, irrégulier, et pas du tout étanche. L'enduit j
 </div>
 
 
-Pour un mur extérieur, c'est aussi une protection contre les intempéries. Pour un mur intérieur, ça permet d'obtenir une surface lisse sur laquelle tu pourras peindre, poser du papier peint ou appliquer un [enduit décoratif type crépi](https://www.cristallina.fr/guides/decoration/crepir-un-mur-interieur/).
+Pour un mur extérieur, c'est aussi une protection contre les intempéries. Pour un mur intérieur, ça permet d'obtenir une surface lisse sur laquelle tu pourras peindre, poser du papier peint ou appliquer un [enduit décoratif type crépi](https://www.cristallina.fr/crepir-un-mur-interieur/).
 
 Les parpaings de béton sont classés Rt3 (résistance à l'arrachement élevée), ce qui signifie que tous les types d'enduits - OC1, OC2, OC3 - sont compatibles. Tu as donc le choix.
 
@@ -145,7 +145,7 @@ Pendant que cette couche est encore fraîche, tu lisses avec la lisseuse (une ta
 
 Pour un rendu texturé style crépi, tu travailles la surface avec une taloche rustique en bois ou en éponge pendant que l'enduit est encore frais. Tu obtiendras une texture proche de ce qu'on voit sur les murs extérieurs.
 
-Si tu envisages de [recouvrir le parpaing avec une autre méthode](https://www.cristallina.fr/guides/decoration/recouvrir-parpaings/), comme du lambris ou des panneaux, l'enduit n'est pas toujours obligatoire - mais il reste une bonne base.
+Si tu envisages de [recouvrir le parpaing avec une autre méthode](https://www.cristallina.fr/recouvrir-parpaings/), comme du lambris ou des panneaux, l'enduit n'est pas toujours obligatoire - mais il reste une bonne base.
 
 ```mermaid
 graph LR
@@ -194,7 +194,7 @@ Une fois le mur enduit et sec, les possibilités sont nombreuses.
 
 **Carrelage ou faïence** : l'enduit sert alors de sous-couche. Vérifie que l'épaisseur est régulière et que la surface est bien plane avant de coller.
 
-Si tu as un [parquet taché par des projections de mortier pendant les travaux](https://www.cristallina.fr/guides/decoration/parquet-tache/), traite ça dès que possible avant que le mortier durcisse complètement.
+Si tu as un [parquet taché par des projections de mortier pendant les travaux](https://www.cristallina.fr/parquet-tache/), traite ça dès que possible avant que le mortier durcisse complètement.
 
 ## Budget récapitulatif
 
@@ -215,11 +215,11 @@ Le DIY est vraiment rentable ici, surtout si tu as plusieurs murs à traiter.
 
 ## Sur le meme theme
 
-- [crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/)
-- [pistolet à calfeutrer](/guides/decoration/pistolet-a-calfeutrer/)
-- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
-- [comment recouvrir des parpaings](/guides/decoration/recouvrir-parpaings/)
-- [peindre du lino](/guides/decoration/peindre-lino/)
+- [crépir un mur intérieur](/crepir-un-mur-interieur/)
+- [pistolet à calfeutrer](/pistolet-a-calfeutrer/)
+- [isolation dalle béton](/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [comment recouvrir des parpaings](/recouvrir-parpaings/)
+- [peindre du lino](/peindre-lino/)
 
 ## Questions fréquentes
 

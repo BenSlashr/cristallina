@@ -15,7 +15,7 @@ Tu craques pour les lignes géométriques, les matières précieuses et cette am
 
 ## Les codes de l'Art Déco : comprendre le style
 
-L'Art Déco est né à Paris lors de l'Exposition internationale des arts décoratifs de 1925. Son ADN tient en quelques mots : géométrie, symétrie, matériaux nobles et couleurs contrastées. On est loin du [style shabby chic tout en patine douce](/guides/decoration/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/). Ici, on assume le luxe, la précision et l'audace.
+L'Art Déco est né à Paris lors de l'Exposition internationale des arts décoratifs de 1925. Son ADN tient en quelques mots : géométrie, symétrie, matériaux nobles et couleurs contrastées. On est loin du [style shabby chic tout en patine douce](/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/). Ici, on assume le luxe, la précision et l'audace.
 
 <div class="my-8">
   <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237900937.jpg" alt="50 idees de decoration art deco - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />
@@ -185,13 +185,13 @@ C'est dans les détails que l'Art Déco prend toute sa dimension.
 
 Tu n'es pas obligée de tout refaire d'un coup.
 
-**Le salon** : un canapé en velours sombre, une table basse ronde en marbre, un miroir sunburst au-dessus du canapé. Pour les couleurs, pense à la palette [dorée qu'on détaille dans notre guide dédié](/guides/decoration/decoration-doree-sur-les-murs-les-meubles-ou-les-accessoires/). Le duo or et vert émeraude est parfait pour un salon Art Déco.
+**Le salon** : un canapé en velours sombre, une table basse ronde en marbre, un miroir sunburst au-dessus du canapé. Pour les couleurs, pense à la palette [dorée qu'on détaille dans notre guide dédié](/decoration-doree-sur-les-murs-les-meubles-ou-les-accessoires/). Le duo or et vert émeraude est parfait pour un salon Art Déco.
 
 **La chambre** : tête de lit capitonnée en velours, lampes de chevet symétriques en laiton, parure de lit en satin. Un papier peint éventail derrière le lit complète le tableau.
 
 **La salle de bain** : robinetterie laiton brossé, miroir en arche, carrelage géométrique noir et blanc. Le style Art Déco marche très bien ici parce que les surfaces brillantes reflètent la lumière comme dans les grands hôtels des années 30.
 
-**L'entrée** : console demi-cercle, miroir doré, porte-manteau en laiton. Trois éléments qui transforment un couloir banal en hall glamour. Tu peux aussi t'inspirer de nos conseils pour [moderniser un appartement dans le style parisien](/guides/decoration/comment-moderniser-votre-appartement-dans-le-plus-pur-style-parisien/).
+**L'entrée** : console demi-cercle, miroir doré, porte-manteau en laiton. Trois éléments qui transforment un couloir banal en hall glamour. Tu peux aussi t'inspirer de nos conseils pour [moderniser un appartement dans le style parisien](/comment-moderniser-votre-appartement-dans-le-plus-pur-style-parisien/).
 
 ## Art Déco avec un petit budget
 
@@ -208,7 +208,7 @@ La brocante reste ton alliée : les meubles authentiques des années 30-40 se tr
 
 ## Art Déco et styles voisins
 
-L'Art Déco se marie bien avec d'autres courants. Avec le style [minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/), un miroir sunburst et quelques accessoires en laiton suffisent. Le contraste entre l'épure et le glamour fonctionne très bien.
+L'Art Déco se marie bien avec d'autres courants. Avec le style [minimaliste](/decoration-minimaliste-idees-et-photos-faciles/), un miroir sunburst et quelques accessoires en laiton suffisent. Le contraste entre l'épure et le glamour fonctionne très bien.
 
 Avec le style contemporain, l'Art Déco apporte du caractère. Un salon aux lignes modernes prend une autre dimension avec un tapis géométrique et des coussins en velours.
 
@@ -232,7 +232,7 @@ flowchart TD
 
 ## Sur le meme theme
 
-- [décoration classique contemporaine](/guides/decoration/decoration-classique-20-images-et-idees-contemporaines/)
+- [décoration classique contemporaine](/decoration-classique-20-images-et-idees-contemporaines/)
 
 ## FAQ
 

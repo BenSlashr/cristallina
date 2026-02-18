@@ -35,7 +35,7 @@ Le modèle star du moment, c'est la LACK en effet chêne blanchi de 190x26 cm. U
 
 La MOSSLANDA est une cimaise : une étagère fine avec un rebord frontal qui retient les cadres posés contre le mur. Tu changes tes photos ou tes affiches quand tu veux, sans refaire de trous. 115 cm de long, 12 cm de profondeur, en blanc ou bouleau. Prix : environ 10 euros.
 
-Pour créer une galerie murale réussie, combine-la avec les techniques de mon guide pour [bien accrocher un tableau mural](/guides/decoration/bien-accrocher-tableau-mural/).
+Pour créer une galerie murale réussie, combine-la avec les techniques de mon guide pour [bien accrocher un tableau mural](/bien-accrocher-tableau-mural/).
 
 ### BURHULT - le prix plancher à 4 euros
 
@@ -62,7 +62,7 @@ L'EKET, c'est le LEGO des étagères murales IKEA. Le système se compose de cub
 
 Ce qui rend l'EKET aussi populaire, c'est sa modularité. Tu commences avec deux cubes et tu en ajoutes plus tard. Tu les disposes en ligne, en escalier, en damier - tu fais ce que tu veux. Les couleurs sont bien pensées : blanc, gris clair, gris-vert, bleu pâle, bois. Tu peux mixer pour un résultat unique.
 
-Pour un petit salon où chaque centimètre compte, l'EKET est un choix malin. Il fait rangement et déco en même temps, sans prendre de place au sol. Si ça t'intéresse, regarde aussi mes idées pour la [décoration d'un petit salon](/guides/decoration/decoration-petit-salon/) - les étagères murales y jouent un rôle central.
+Pour un petit salon où chaque centimètre compte, l'EKET est un choix malin. Il fait rangement et déco en même temps, sans prendre de place au sol. Si ça t'intéresse, regarde aussi mes idées pour la [décoration d'un petit salon](/decoration-petit-salon/) - les étagères murales y jouent un rôle central.
 
 ### NORDHÄGG - le pin brut pour les fans de naturel
 
@@ -114,7 +114,7 @@ Les étagères murales IKEA fonctionnent partout, mais chaque pièce demande un 
 
 ### Dans le salon
 
-La LACK en grande taille (190 cm) fait une longue ligne horizontale au-dessus du canapé. Pose dessus 2-3 cadres, une plante verte retombante et un petit objet déco - le rendu est propre et aéré. L'EKET, en composition de 3 à 4 cubes asymétriques, remplace avantageusement un meuble TV dans un [petit salon](/guides/decoration/decoration-petit-salon/) où chaque mètre carré est précieux.
+La LACK en grande taille (190 cm) fait une longue ligne horizontale au-dessus du canapé. Pose dessus 2-3 cadres, une plante verte retombante et un petit objet déco - le rendu est propre et aéré. L'EKET, en composition de 3 à 4 cubes asymétriques, remplace avantageusement un meuble TV dans un [petit salon](/decoration-petit-salon/) où chaque mètre carré est précieux.
 
 ### Dans la chambre
 
@@ -166,7 +166,7 @@ flowchart LR
 
 5. **Fixe les supports et pose l'étagère.** La LACK se clipse sur ses fixations cachées, la BURHULT se pose sur ses équerres.
 
-Mon guide sur [l'accrochage de tableaux muraux](/guides/decoration/bien-accrocher-tableau-mural/) détaille aussi les types de murs et les charges maximales.
+Mon guide sur [l'accrochage de tableaux muraux](/bien-accrocher-tableau-mural/) détaille aussi les types de murs et les charges maximales.
 
 > [!TIP]
 > Si tu es locataire et que tu ne veux pas percer, les bandes adhésives Command de 3M supportent jusqu'à 3-4 kg. C'est assez pour une petite étagère LACK de 30 cm avec des objets légers. Teste toujours la bande sur un coin de mur discret pour vérifier qu'elle ne tire pas la peinture en l'enlevant.
@@ -196,15 +196,15 @@ Après avoir testé pas mal de configurations, voici les trois combos que je rec
 
 **Combo salon/chambre (environ 30 euros)** : 1 MOSSLANDA en cimaise + 1 LACK 110 cm. La MOSSLANDA pour les cadres, la LACK au-dessus pour les plantes et les petits objets. C'est une composition murale complète pour trois fois rien.
 
-**Combo modulaire (à partir de 60 euros)** : EKET en configuration personnalisée. C'est l'option la plus aboutie pour un rangement mural qui a de la gueule. Idéal si tu as un mur entier à habiller sans poser de meuble au sol. Si tu es fan du système PAX pour les dressings, l'EKET en est la version murale - j'en parle aussi dans mon article sur [l'armoire d'angle IKEA](/guides/shopping/ikea-cartonne-avec-son-armoire-dangle/).
+**Combo modulaire (à partir de 60 euros)** : EKET en configuration personnalisée. C'est l'option la plus aboutie pour un rangement mural qui a de la gueule. Idéal si tu as un mur entier à habiller sans poser de meuble au sol. Si tu es fan du système PAX pour les dressings, l'EKET en est la version murale - j'en parle aussi dans mon article sur [l'armoire d'angle IKEA](/ikea-cartonne-avec-son-armoire-dangle/).
 
 ---
 
 
 ## Sur le meme theme
 
-- [plateau multifonction ikea](/guides/shopping/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
-- [séchoir ikea à moins de 6 euros](/guides/shopping/ikea-cet-indispensable-pour-secher-son-linge-meme-en-automne-a-moins-de-6-euros/)
+- [plateau multifonction ikea](/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
+- [séchoir ikea à moins de 6 euros](/ikea-cet-indispensable-pour-secher-son-linge-meme-en-automne-a-moins-de-6-euros/)
 
 ## Questions fréquentes
 

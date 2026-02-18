@@ -181,9 +181,9 @@ L'isolation des façades est souvent hétérogène : côté nord, les murs sont 
 
 Pour les fenêtres, double ou triple vitrage est particulièrement important sur la façade exposée aux bruits. Côté cour silencieuse, tu peux parfois garder un simple vitrage sans trop souffrir - mais pas côté rue passante.
 
-L'humidité mérite une attention particulière lors de l'état des lieux. La bonne circulation d'air réduit les problèmes, mais si l'appartement a été vacant longtemps avec des fenêtres fermées, des traces peuvent apparaître dans les angles. Regarde aussi l'état du parquet si l'appart en a un - l'humidité peut faire gonfler le bois, et une réfection de [parquet taché](/guides/decoration/parquet-tache/) peut vite chiffrer.
+L'humidité mérite une attention particulière lors de l'état des lieux. La bonne circulation d'air réduit les problèmes, mais si l'appartement a été vacant longtemps avec des fenêtres fermées, des traces peuvent apparaître dans les angles. Regarde aussi l'état du parquet si l'appart en a un - l'humidité peut faire gonfler le bois, et une réfection de [parquet taché](/parquet-tache/) peut vite chiffrer.
 
-La montée d'escalier mérite aussi une vérification si tu es au dernier étage - elle peut concentrer la chaleur en été. Notre guide sur [l'isolation d'une montée d'escalier](/guides/decoration/comment-isoler-une-montee-descalier/) peut t'aider à comprendre les options.
+La montée d'escalier mérite aussi une vérification si tu es au dernier étage - elle peut concentrer la chaleur en été. Notre guide sur [l'isolation d'une montée d'escalier](/comment-isoler-une-montee-descalier/) peut t'aider à comprendre les options.
 
 ---
 
@@ -205,8 +205,8 @@ Si en revanche tu achètes pour louer et que ton locataire cible est plutôt pre
 
 ## Sur le meme theme
 
-- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
-- [tapis en fibre naturelle : guide pour bien choisir](/guides/decoration/choisir-tapis-fibre-naturelle/)
+- [tableau planning et pense-bête](/choisir-tableau-planning-pense-bete/)
+- [tapis en fibre naturelle : guide pour bien choisir](/choisir-tapis-fibre-naturelle/)
 
 ## FAQ : appartement traversant
 
@@ -224,7 +224,7 @@ Non. Un appartement à double séjour a deux pièces de vie (un salon et un séj
 
 **La climatisation est-elle utile dans un traversant ?**
 
-Moins que dans un non-traversant, grâce à la ventilation naturelle. Mais par vagues de chaleur à plus de 35°C, même la meilleure ventilation a ses limites. Si tu vis dans une ville du sud ou si tu as un côté ouest très exposé, un [poêle à granulés suspendu](/guides/decoration/poele-a-granules-suspendu/) ou un système de climatisation réversible peut rester pertinent.
+Moins que dans un non-traversant, grâce à la ventilation naturelle. Mais par vagues de chaleur à plus de 35°C, même la meilleure ventilation a ses limites. Si tu vis dans une ville du sud ou si tu as un côté ouest très exposé, un [poêle à granulés suspendu](/poele-a-granules-suspendu/) ou un système de climatisation réversible peut rester pertinent.
 
 **Comment savoir si un appartement est vraiment traversant lors d'une visite ?**
 

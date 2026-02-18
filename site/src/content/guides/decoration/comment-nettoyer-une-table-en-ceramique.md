@@ -189,15 +189,15 @@ Si tu remarques de légères rayures superficielles sur l'émail, un polish pour
 
 Quand j'ai choisi ma table, j'ai longtemps hésité entre céramique, marbre et bois. Et honnêtement, l'entretien a pesé dans ma décision. La céramique est clairement la plus simple à vivre au quotidien.
 
-Pour le parquet ou les sols bois par exemple, les taches peuvent être bien plus problématiques à traiter - si tu as eu des soucis de taches sur du parquet, [notre guide sur le parquet taché](/guides/decoration/parquet-tache/) te donnera toutes les solutions. La céramique a l'avantage d'être imperméable, ce que le bois n'est pas naturellement.
+Pour le parquet ou les sols bois par exemple, les taches peuvent être bien plus problématiques à traiter - si tu as eu des soucis de taches sur du parquet, [notre guide sur le parquet taché](/parquet-tache/) te donnera toutes les solutions. La céramique a l'avantage d'être imperméable, ce que le bois n'est pas naturellement.
 
-Côté salle de bain, les règles d'entretien du carrelage sont assez proches - si tu veux des conseils similaires pour ton [carrelage de douche italienne](/guides/salle-de-bain/carrelage-douche-italienne/), on a aussi un article dédié.
+Côté salle de bain, les règles d'entretien du carrelage sont assez proches - si tu veux des conseils similaires pour ton [carrelage de douche italienne](/carrelage-douche-italienne/), on a aussi un article dédié.
 
 
 ## Sur le meme theme
 
-- [éclairage cave à vin](/guides/decoration/conseils-pour-leclairage-dune-cave-a-vin/)
-- [enduire un mur en parpaing](/guides/decoration/comment-enduir-un-mur-en-parpaing/)
+- [éclairage cave à vin](/conseils-pour-leclairage-dune-cave-a-vin/)
+- [enduire un mur en parpaing](/comment-enduir-un-mur-en-parpaing/)
 
 ## Questions fréquentes
 
@@ -238,6 +238,6 @@ Pour résumer, voilà ce que j'ai dans mon placard pour entretenir ma table :
 
 Total du kit : environ 20€, de quoi entretenir ta table pendant des années. Bien moins que le coût d'une réparation ou d'un remplacement.
 
-Si tu as envie d'aller plus loin dans l'entretien de ton intérieur, jette un oeil à [notre guide sur les meubles de salle de bain en béton ciré](/guides/salle-de-bain/meuble-salle-de-bain-beton-cire/) - une autre surface qui demande quelques précautions spécifiques.
+Si tu as envie d'aller plus loin dans l'entretien de ton intérieur, jette un oeil à [notre guide sur les meubles de salle de bain en béton ciré](/meuble-salle-de-bain-beton-cire/) - une autre surface qui demande quelques précautions spécifiques.
 
 Ce qu'il faut retenir : microfibre + eau tiède + liquide vaisselle pour le quotidien, séchage immédiat pour éviter les traces, et on oublie les abrasifs. Ta table te remerciera pendant des années.

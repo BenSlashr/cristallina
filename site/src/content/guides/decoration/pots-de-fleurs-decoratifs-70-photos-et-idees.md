@@ -40,7 +40,7 @@ En plus de l'esthétique, le matériau du pot influence la santé de la plante. 
 
 La terracotta, c'est LE matériau du moment. Brut, chaleureux, pas cher. Un pot en terre cuite simple commence à 3 euros en jardinerie (Botanic, Truffaut, Gamm vert). Et le charme de la terracotta, c'est qu'elle vieillit bien : les taches blanches de calcaire et les traces de mousse lui donnent du caractère avec le temps.
 
-Pour un look plus travaillé, les pots en terracotta avec des reliefs géométriques ou des motifs végétaux se trouvent chez Maisons du Monde (à partir de 12 euros) ou chez H&M Home (autour de 10-15 euros). Le style [terracotta dans la déco](/guides/decoration/decorer-avec-terracota/) s'adapte aussi bien à un balcon qu'à un salon.
+Pour un look plus travaillé, les pots en terracotta avec des reliefs géométriques ou des motifs végétaux se trouvent chez Maisons du Monde (à partir de 12 euros) ou chez H&M Home (autour de 10-15 euros). Le style [terracotta dans la déco](/decorer-avec-terracota/) s'adapte aussi bien à un balcon qu'à un salon.
 
 > [!TIP]
 > La terracotta brute absorbe l'eau et sèche vite. Si tu as des plantes tropicales qui aiment l'humidité (pothos, calathea), applique une couche de vernis mat à l'intérieur du pot pour limiter l'évaporation. Un pot de vernis Syntilor à 8 euros suffit pour traiter 10 pots.
@@ -55,7 +55,7 @@ Le grès japonais (tokoname) représente le haut du panier pour les amateurs de 
 
 Le béton est devenu un allié des intérieurs modernes. Il apporte une touche industrielle tout en mettant la plante en valeur par contraste. Les petits pots en béton faits main se trouvent sur Etsy à partir de 8 euros. En GSB, la marque Nortene propose des jardinières en béton fibré à partir de 20 euros.
 
-Pour les fans de [déco minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/), un pot en béton gris clair avec un cactus ou un Sansevieria, c'est le combo parfait. Simple, efficace, zéro risque de faux pas.
+Pour les fans de [déco minimaliste](/decoration-minimaliste-idees-et-photos-faciles/), un pot en béton gris clair avec un cactus ou un Sansevieria, c'est le combo parfait. Simple, efficace, zéro risque de faux pas.
 
 ### Fibres naturelles : rotin, osier, jute
 
@@ -105,7 +105,7 @@ flowchart TD
 
 ### Le pot cylindrique droit
 
-C'est la forme la plus polyvalente. Elle passe partout, du sol à l'étagère. Le cylindre haut (type pot colonne) met particulièrement bien en valeur les plantes retombantes comme le [Scindapsus pictus](/guides/decoration/entretenir-du-scindapsus-pictus-la-plante-robuste-qui-a-tout-pour-plaire/) ou le pothos.
+C'est la forme la plus polyvalente. Elle passe partout, du sol à l'étagère. Le cylindre haut (type pot colonne) met particulièrement bien en valeur les plantes retombantes comme le [Scindapsus pictus](/entretenir-du-scindapsus-pictus-la-plante-robuste-qui-a-tout-pour-plaire/) ou le pothos.
 
 ### Le pot évasé "tulipe"
 
@@ -160,7 +160,7 @@ Tu n'as pas besoin de dépenser des fortunes pour avoir des pots qui ont du cara
 
 ### Peindre un pot en terracotta
 
-La technique la plus accessible. Il te faut de la peinture acrylique (Pébéo, Liquitex, ou même de la peinture pour murs restante) et un pinceau. Tu peux faire des motifs géométriques au masking tape, des dégradés, ou simplement peindre la moitié inférieure dans une couleur contrastée (le "dip dye"). Pour les techniques de peinture sur différentes surfaces, l'article sur [peindre des bocaux en verre](/guides/decoration/comment-peindre-des-bocaux-ou-des-bouteilles-en-verre/) te donnera plein d'astuces transposables.
+La technique la plus accessible. Il te faut de la peinture acrylique (Pébéo, Liquitex, ou même de la peinture pour murs restante) et un pinceau. Tu peux faire des motifs géométriques au masking tape, des dégradés, ou simplement peindre la moitié inférieure dans une couleur contrastée (le "dip dye"). Pour les techniques de peinture sur différentes surfaces, l'article sur [peindre des bocaux en verre](/comment-peindre-des-bocaux-ou-des-bouteilles-en-verre/) te donnera plein d'astuces transposables.
 
 ```mermaid
 flowchart LR
@@ -220,7 +220,7 @@ Pour les grands espaces, les bacs à plantes en bois (pin autoclave ou acacia) s
 
 ## Sur le meme theme
 
-- [plantes salle de bains](/guides/salle-de-bain/plantes-salle-de-bains/)
+- [plantes salle de bains](/plantes-salle-de-bains/)
 
 ## FAQ
 

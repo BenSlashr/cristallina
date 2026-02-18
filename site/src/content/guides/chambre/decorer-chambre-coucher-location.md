@@ -107,7 +107,7 @@ Les textiles sont le moyen le plus rapide de personnaliser une chambre. Aucun tr
 
 **Un jeté de lit** posé en bout de lit ou sur un fauteuil apporte la couche finale. Le plaid INGABRITTA d'IKEA reste un classique à 15 euros.
 
-Pour d'autres idées de transformation à petit prix, mon guide pour [décorer sa chambre avec peu d'argent](/guides/chambre/decorer-la-chambre-a-coucher-avec-peu-dargent/) détaille des astuces qui marchent aussi en location.
+Pour d'autres idées de transformation à petit prix, mon guide pour [décorer sa chambre avec peu d'argent](/decorer-la-chambre-a-coucher-avec-peu-dargent/) détaille des astuces qui marchent aussi en location.
 
 ## 5. Un miroir pour agrandir et illuminer
 
@@ -178,7 +178,7 @@ Envie de cadres, d'affiches, de photos aux murs ? Pas besoin de percer.
 
 **Les cartes postales et photos** se fixent avec du masking tape coloré ou des pinces en bois collées au mur. Simple, beau, personnel.
 
-Pour suivre les tendances actuelles et choisir un style cohérent, jette un oeil à mon guide sur les [tendances chambre 2026](/guides/chambre/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/).
+Pour suivre les tendances actuelles et choisir un style cohérent, jette un oeil à mon guide sur les [tendances chambre 2026](/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/).
 
 ```mermaid
 flowchart LR
@@ -231,12 +231,12 @@ Les couleurs neutres - beige, crème, gris clair - s'intègrent partout. Et tu e
 
 Tu n'as pas besoin de tout faire d'un coup. Commence par les textiles et l'éclairage - c'est ce qui change le plus l'ambiance pour le moins d'argent. Le reste, tu l'ajoutes au fil des mois.
 
-Et si ta chambre manque de lumière naturelle, mon guide sur les [chambres sans fenêtre](/guides/chambre/chambre-sans-fenetre/) regorge d'astuces pour compenser le manque de clarté. Pour trouver ta palette idéale, consulte aussi mon article sur [les couleurs pour une chambre adulte à deux teintes](/guides/chambre/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes/).
+Et si ta chambre manque de lumière naturelle, mon guide sur les [chambres sans fenêtre](/chambre-sans-fenetre/) regorge d'astuces pour compenser le manque de clarté. Pour trouver ta palette idéale, consulte aussi mon article sur [les couleurs pour une chambre adulte à deux teintes](/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes/).
 
 
 ## Sur le meme theme
 
-- [chambre style jungle](/guides/chambre/decorer-une-chambre-dans-un-style-jungle/)
+- [chambre style jungle](/decorer-une-chambre-dans-un-style-jungle/)
 
 ## FAQ
 

@@ -91,7 +91,7 @@ La plupart des fabricants livrent la structure sans fondations. Tu dois prévoir
 
 Un bureau de jardin en bois naturel, ça demande une lasure ou une peinture tous les 2-3 ans, surtout si tu habites dans une région humide. Le bois non traité se fissure, se grise, et peut prendre l'humidité. Si tu choisis un modèle bardage bois, pense à l'entretien dans ton budget total.
 
-Pour la question des couleurs de l'extérieur et l'intégration dans ton jardin, ça vaut le coup de jeter un oeil à notre guide sur les [couleurs pour les extérieurs et les façades de maisons 2026](/guides/exterieur/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) - les mêmes logiques s'appliquent pour choisir la teinte de ton bureau de jardin.
+Pour la question des couleurs de l'extérieur et l'intégration dans ton jardin, ça vaut le coup de jeter un oeil à notre guide sur les [couleurs pour les extérieurs et les façades de maisons 2026](/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) - les mêmes logiques s'appliquent pour choisir la teinte de ton bureau de jardin.
 
 > [!TIP]
 > Pour limiter l'entretien du bois extérieur, opte pour une teinte foncée (gris anthracite ou brun profond) qui masque mieux le grisaillement et les traces. Une lasure de qualité comme Cetol HLS de Sikkens sur un bois sec tient facilement 3-4 ans avant de retraiter.
@@ -150,7 +150,7 @@ flowchart LR
     style F fill:#FFF0F5,stroke:#E879F9,color:#701A75
 ```
 
-Si tu penses à aménager plutôt l'intérieur de ta maison, notre article sur [comment isoler une montée d'escalier](/guides/decoration/comment-isoler-une-montee-descalier/) peut t'ouvrir des pistes pour récupérer des espaces existants sans construire.
+Si tu penses à aménager plutôt l'intérieur de ta maison, notre article sur [comment isoler une montée d'escalier](/comment-isoler-une-montee-descalier/) peut t'ouvrir des pistes pour récupérer des espaces existants sans construire.
 
 ## Mes vraies recommandations si tu te lances
 
@@ -166,7 +166,7 @@ Si après tout ça tu es décidé.e à te lancer, voilà ma liste des points à 
 
 **5. La ventilation** - Une VMC simple flux d'entrée de gamme (comme les modèles Aldes ou Atlantic à 80-120 euros) change tout en termes de qualité d'air et d'humidité dans un espace confiné.
 
-Si tu aménages aussi les abords du bureau - terrasse, délimitation avec le reste du jardin - pense à lire notre guide sur comment [poser une bordure de jardin sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/) pour séparer proprement les zones sans travaux lourds.
+Si tu aménages aussi les abords du bureau - terrasse, délimitation avec le reste du jardin - pense à lire notre guide sur comment [poser une bordure de jardin sans béton](/poser-bordure-jardin-sans-beton/) pour séparer proprement les zones sans travaux lourds.
 
 ## Mon verdict final
 
@@ -174,14 +174,14 @@ Le bureau de jardin de 5m2, c'est une bonne idée mal vendue. Sur le papier, le 
 
 Ce n'est pas un mauvais concept en soi - c'est un concept qui demande un vrai budget (minimum 6 000 - 8 000 euros tout compris pour que ça soit vraiment agréable), une bonne préparation de terrain, et une réflexion sérieuse sur ton usage réel. Les gens qui en sont contents sont ceux qui ont bien calculé en amont. Les déçus sont ceux qui ont acheté la structure la moins chère en pensant que ça suffirait.
 
-Si tu es dans ce dernier cas et que tu cherches un coin bureau sympa à l'intérieur à la place, nos guides sur la déco intérieure peuvent t'aider à trouver des alternatives malins. Et si tu t'y es mis mais que tu peines à chauffer l'espace en hiver, va lire notre article sur le [poêle à granulés suspendu](/guides/decoration/poele-a-granules-suspendu/) - c'est une option à envisager même dans un petit espace comme un bureau de jardin.
+Si tu es dans ce dernier cas et que tu cherches un coin bureau sympa à l'intérieur à la place, nos guides sur la déco intérieure peuvent t'aider à trouver des alternatives malins. Et si tu t'y es mis mais que tu peines à chauffer l'espace en hiver, va lire notre article sur le [poêle à granulés suspendu](/poele-a-granules-suspendu/) - c'est une option à envisager même dans un petit espace comme un bureau de jardin.
 
 ---
 
 
 ## Sur le meme theme
 
-- [éclairage extérieur sans fil](/guides/exterieur/installer-eclairage-exterieur-sans-fil/)
+- [éclairage extérieur sans fil](/installer-eclairage-exterieur-sans-fil/)
 
 ## Questions fréquentes
 

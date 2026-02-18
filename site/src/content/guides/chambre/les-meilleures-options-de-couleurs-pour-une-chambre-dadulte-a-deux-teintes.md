@@ -74,7 +74,7 @@ Les couleurs chaudes - rose, terracotta, ocre jaune, rouge brique - demandent pl
 
 La clé, c'est de les associer à un neutre chaud, jamais froid. Pas de blanc pur avec du terracotta - ça crée un contraste trop brutal. Préfère du blanc cassé, du lin, du sable.
 
-**Terracotta + écru ou beige** : une des combinaisons les plus réussies en ce moment pour une chambre adulte avec caractère. Si tu veux en savoir plus sur comment intégrer cette palette dans ta déco, j'ai un guide complet sur la [déco terracotta pour la chambre](/guides/chambre/deco-terracotta-chambre/) qui développe tout ça.
+**Terracotta + écru ou beige** : une des combinaisons les plus réussies en ce moment pour une chambre adulte avec caractère. Si tu veux en savoir plus sur comment intégrer cette palette dans ta déco, j'ai un guide complet sur la [déco terracotta pour la chambre](/deco-terracotta-chambre/) qui développe tout ça.
 
 **Rose poudré + blanc cassé** : chambre adulte romantique et lumineuse. Le rose poudré de Dulux Valentine (gamme "Nuancier Inspiration", teinte "Pivoine douce") est autour de 38 euros le 2,5 L. Attention à choisir un rose vraiment dépigmenté, pas un rose vif qui ferait trop "chambre d'enfant".
 
@@ -145,7 +145,7 @@ flowchart LR
 
 **Farrow & Ball** : chers mais la qualité de la pigmentation est vraiment là. Les couleurs sont profondes, les finitions "Moderne Emulsion" ou "Estate Emulsion" ont un rendu mat velouté. Compte environ 55-65 euros le litre. C'est cher, mais pour un seul mur accent, ça vaut l'investissement.
 
-**Peinture Luxens** : la gamme de Leroy Merlin positionnée en milieu-haut de gamme. Les pigments sont plus riches que la gamme Tollens, le rendu mat est vraiment beau. Autour de 32-38 euros le 2,5 L. Si tu cherches à approfondir le sujet des peintures Luxens, j'ai un article dédié sur [la peinture Luxens et ses meilleures teintes](/guides/couleurs/peinture-luxens/).
+**Peinture Luxens** : la gamme de Leroy Merlin positionnée en milieu-haut de gamme. Les pigments sont plus riches que la gamme Tollens, le rendu mat est vraiment beau. Autour de 32-38 euros le 2,5 L. Si tu cherches à approfondir le sujet des peintures Luxens, j'ai un article dédié sur [la peinture Luxens et ses meilleures teintes](/peinture-luxens/).
 
 **Zingana (Castorama)** : bon rapport qualité-prix, palette de couleurs bien pensée. Environ 30-35 euros le 2,5 L.
 
@@ -175,7 +175,7 @@ Vert sauge + blanc cassé, ou ocre + lin. Beaucoup de textures (macramé, rotin,
 
 ### Style cosy/hygge
 
-Deux teintes chaudes et enveloppantes : taupe foncé + beige, ou bordeaux doux + blanc crème. L'objectif est que la chambre ressemble à un refuge. Pour aller plus loin sur les tendances déco chambre, jette un oeil à notre article sur la [décoration de chambre à coucher 2026](/guides/chambre/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/).
+Deux teintes chaudes et enveloppantes : taupe foncé + beige, ou bordeaux doux + blanc crème. L'objectif est que la chambre ressemble à un refuge. Pour aller plus loin sur les tendances déco chambre, jette un oeil à notre article sur la [décoration de chambre à coucher 2026](/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/).
 
 ### Style contemporain
 
@@ -187,7 +187,7 @@ Une fois tes deux couleurs murales choisies, il reste à habiller la chambre. La
 
 Par exemple, pour une chambre bleu nuit + blanc cassé : des coussins en bleu marine (plus foncé) et des draps en coton blanc. Un ou deux accents en laiton ou en naturel (bois, osier) pour réchauffer l'ensemble.
 
-Si tu travailles avec des couleurs chaudes comme l'orange ou le terracotta, tu peux explorer les associations de teintes avec [notre guide sur les couleurs compatibles avec l'orange en déco](/guides/couleurs/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) pour trouver des idées d'accents qui vont avec.
+Si tu travailles avec des couleurs chaudes comme l'orange ou le terracotta, tu peux explorer les associations de teintes avec [notre guide sur les couleurs compatibles avec l'orange en déco](/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) pour trouver des idées d'accents qui vont avec.
 
 ```mermaid
 flowchart TD
@@ -217,7 +217,7 @@ flowchart TD
 
 ## Sur le meme theme
 
-- [feng shui chambre à coucher](/guides/chambre/le-feng-shui-dans-la-chambre-a-coucher/)
+- [feng shui chambre à coucher](/le-feng-shui-dans-la-chambre-a-coucher/)
 
 ## Avant de te lancer : les questions à te poser
 

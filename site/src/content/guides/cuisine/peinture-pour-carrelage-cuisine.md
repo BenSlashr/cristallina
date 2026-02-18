@@ -145,7 +145,7 @@ Il existe des stylos de rénovation joints (Fuginator, HG Joint Pen - 8-15€) q
 
 Si tu peins tout en blanc ou en couleur uniforme, le rouleau mousse passe sur les joints sans problème. Mais si tu veux garder tes joints visibles dans une autre couleur, tape d'abord les joints, puis pose du ruban sur chaque joint avant de peindre les carreaux.
 
-Pour aller plus loin sur les techniques de peinture qui transforment l'intérieur sans travaux lourds, je t'invite à lire [cet article complet sur la peinture sur carrelage](/guides/couleurs/la-peinture-sur-carrelage-une-methode-pour-renover-votre-interieur/) - il couvre aussi la salle de bain et les sols.
+Pour aller plus loin sur les techniques de peinture qui transforment l'intérieur sans travaux lourds, je t'invite à lire [cet article complet sur la peinture sur carrelage](/la-peinture-sur-carrelage-une-methode-pour-renover-votre-interieur/) - il couvre aussi la salle de bain et les sols.
 
 ## Couleurs et effets tendance pour la cuisine
 
@@ -171,11 +171,11 @@ graph LR
     style E fill:#F9FAFB,stroke:#6B7280,color:#374151
 ```
 
-Le vert sauge est vraiment la couleur du moment pour les cuisines - ça se marie super bien avec le bois clair et les façades blanches. Si ta cuisine est déjà dans des tons verts ou naturels, tu peux même retrouver les nuances dans notre guide sur [la cuisine olive](/guides/cuisine/cuisine-olive/) pour assortir l'ensemble.
+Le vert sauge est vraiment la couleur du moment pour les cuisines - ça se marie super bien avec le bois clair et les façades blanches. Si ta cuisine est déjà dans des tons verts ou naturels, tu peux même retrouver les nuances dans notre guide sur [la cuisine olive](/cuisine-olive/) pour assortir l'ensemble.
 
 Le noir mat sur carrelage blanc crée un effet graphique fort - mais attention, le noir sur carrelage en finition mate montre beaucoup les traces de doigts. Le satiné est plus pratique au quotidien.
 
-Pour l'inspiration couleurs avec des marques accessibles, la gamme [Peinture Luxens de Leroy Merlin](/guides/couleurs/peinture-luxens/) propose de belles teintes pour carrelage à prix raisonnables.
+Pour l'inspiration couleurs avec des marques accessibles, la gamme [Peinture Luxens de Leroy Merlin](/peinture-luxens/) propose de belles teintes pour carrelage à prix raisonnables.
 
 ## Budget et comparatif des produits
 
@@ -235,8 +235,8 @@ La durée de vie dépend aussi beaucoup de ton usage - une cuisine de famille av
 
 ## Sur le meme theme
 
-- [peinture carrelage extérieur terrasse](/guides/exterieur/peinture-pour-carrelage-exterieur-terrasse/)
-- [peinture pour carrelage de douche](/guides/salle-de-bain/peinture-pour-carrelage-douche/)
+- [peinture carrelage extérieur terrasse](/peinture-pour-carrelage-exterieur-terrasse/)
+- [peinture pour carrelage de douche](/peinture-pour-carrelage-douche/)
 
 ## FAQ - Peinture pour carrelage cuisine
 

@@ -53,7 +53,7 @@ Le marbre vrai, c'est beau mais ça coûte cher à l'entretien (entretien régul
 
 **Budget** : Chez Leroy Merlin, la série "Statuario" de Coem tourne autour de 45-55 €/m². Sur une douche de 2 m², tu restes sous 300 € de carrelage.
 
-Pour aller plus loin sur les choix de revêtement, consulte notre guide sur le [carrelage pour douche italienne](/guides/salle-de-bain/carrelage-douche-italienne/).
+Pour aller plus loin sur les choix de revêtement, consulte notre guide sur le [carrelage pour douche italienne](/carrelage-douche-italienne/).
 
 ### 3. Le béton ciré
 
@@ -170,14 +170,14 @@ Une tête de pluie encastrée dans le plafond (rain shower), un mitigeur mural t
 
 Tu as une vieille baignoire que tu n'utilises plus ? La transformer en douche italienne est l'un des projets de renovation les plus populaires et les plus rentables (en confort au quotidien comme en valeur à la revente).
 
-Pour comprendre comment ça marche niveau accessibilité et aides financières, consulte notre guide sur la [douche à 1 euro](/guides/salle-de-bain/douche-1-euro/) - il y a des dispositifs d'aide pour ce type de travaux.
+Pour comprendre comment ça marche niveau accessibilité et aides financières, consulte notre guide sur la [douche à 1 euro](/douche-1-euro/) - il y a des dispositifs d'aide pour ce type de travaux.
 
 **Budget** : Entre 2 000 et 5 000 € selon l'état de l'existant et les finitions choisies. La majeure partie du budget va à la reprise du sol (évacuation, étanchéité, carrelage).
 
 
 ## Sur le meme theme
 
-- [salle de bain rustique moderne](/guides/salle-de-bain/salles-de-bains-rustiques-decoration-et-design-modernes/)
+- [salle de bain rustique moderne](/salles-de-bains-rustiques-decoration-et-design-modernes/)
 
 <div class="my-8">
   <img src="/images/pinterest-salle-bain-moderne-2026-design-luxe-contemporain-1771235964216.jpg" alt="Douches italiennes idees - idees et tendances" class="w-full rounded-lg shadow-sm" loading="lazy" />
@@ -227,7 +227,7 @@ flowchart TD
 
 **Parois et sol qui ne s'accordent pas** : C'est souvent l'erreur numéro un en DIY. Si tu changes le sol mais gardes les murs anciens, le résultat est incohérent. Prévois d'harmoniser au moins 1 à 2 murs de la douche.
 
-Si tu cherches aussi à rénover les meubles ou les finitions autour de ta douche, notre guide sur le [meuble salle de bain béton ciré](/guides/salle-de-bain/meuble-salle-de-bain-beton-cire/) présente des options pour créer un style cohérent dans toute la pièce. Et si tu veux intégrer un espace bain complet, la [baignoire japonaise](/guides/salle-de-bain/baignoire-japonaise/) peut cohabiter très bien avec une douche italienne dans une grande salle de bain.
+Si tu cherches aussi à rénover les meubles ou les finitions autour de ta douche, notre guide sur le [meuble salle de bain béton ciré](/meuble-salle-de-bain-beton-cire/) présente des options pour créer un style cohérent dans toute la pièce. Et si tu veux intégrer un espace bain complet, la [baignoire japonaise](/baignoire-japonaise/) peut cohabiter très bien avec une douche italienne dans une grande salle de bain.
 
 > [!IMPORTANT]
 > Fais toujours etablir 2 ou 3 devis par des artisans qualifiés (label RGE ou Qualibat pour la rénovation salle de bain). Les prix varient énormément selon les régions et les entreprises. Un devis trop bas cache souvent une économie sur l'étanchéité ou la qualité des matériaux.
@@ -250,7 +250,7 @@ Principalement les joints de carrelage et la vitre si tu as une paroi. Les joint
 
 **La douche italienne convient-elle aux personnes agées ou PMR ?**
 
-C'est un de ses gros avantages : sans bac à enjamber, l'accès est facilité. Avec des barres de maintien, un siège rabattable et un carrelage antidérapant R11, elle devient vraiment accessible. C'est d'ailleurs pour cela qu'il existe des aides financières pour ce type de transformation (voir [douche à 1 euro](/guides/salle-de-bain/douche-1-euro/)).
+C'est un de ses gros avantages : sans bac à enjamber, l'accès est facilité. Avec des barres de maintien, un siège rabattable et un carrelage antidérapant R11, elle devient vraiment accessible. C'est d'ailleurs pour cela qu'il existe des aides financières pour ce type de transformation (voir [douche à 1 euro](/douche-1-euro/)).
 
 **Peut-on poser la douche italienne soi-même ?**
 

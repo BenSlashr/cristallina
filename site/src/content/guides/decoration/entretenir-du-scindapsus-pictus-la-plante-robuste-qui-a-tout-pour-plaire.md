@@ -174,13 +174,13 @@ Le Scindapsus est assez résistant mais peut attirer araignées rouges (en air t
 
 Le Scindapsus pictus est une plante caméléon décorative. Quelques idées selon les styles :
 
-**Style jungle** : mix avec d'autres plantes à feuillage contrasté. Ses mouchetures argentées tranchent bien à côté d'une [peperomia hope](/guides/decoration/la-peperomia-hope/) aux feuilles rondes et lisses.
+**Style jungle** : mix avec d'autres plantes à feuillage contrasté. Ses mouchetures argentées tranchent bien à côté d'une [peperomia hope](/la-peperomia-hope/) aux feuilles rondes et lisses.
 
-**Style minimaliste** : un seul pot blanc mat, en hauteur sur une étagère, avec les tiges qui retombent librement. Il suffit à animer tout un mur nu. Pour aller plus loin dans ce style, jette un oeil à nos idées de [décoration minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/).
+**Style minimaliste** : un seul pot blanc mat, en hauteur sur une étagère, avec les tiges qui retombent librement. Il suffit à animer tout un mur nu. Pour aller plus loin dans ce style, jette un oeil à nos idées de [décoration minimaliste](/decoration-minimaliste-idees-et-photos-faciles/).
 
-**Salle de bain** : si tu as un peu de lumière naturelle, c'est un emplacement de choix. Il adore l'humidité et apporte une touche végétale bienvenue dans une pièce souvent négligée. Nos conseils sur les [plantes salle de bains](/guides/salle-de-bain/plantes-salle-de-bains/) peuvent t'aider à choisir le bon emplacement.
+**Salle de bain** : si tu as un peu de lumière naturelle, c'est un emplacement de choix. Il adore l'humidité et apporte une touche végétale bienvenue dans une pièce souvent négligée. Nos conseils sur les [plantes salle de bains](/plantes-salle-de-bains/) peuvent t'aider à choisir le bon emplacement.
 
-**Mur végétal** : si tu veux aller plus loin dans la déco murale, le Scindapsus s'intègre bien dans une composition encadrée. Pour t'inspirer, regarde comment [choisir un cadre tableau mural végétal](/guides/decoration/choisir-cadre-tableau-mural-vegetal/) qui mette en valeur ce type de feuillage.
+**Mur végétal** : si tu veux aller plus loin dans la déco murale, le Scindapsus s'intègre bien dans une composition encadrée. Pour t'inspirer, regarde comment [choisir un cadre tableau mural végétal](/choisir-cadre-tableau-mural-vegetal/) qui mette en valeur ce type de feuillage.
 
 Pour lui donner plus d'ampleur, laisse les tiges pousser longues (certains atteignent 1 mètre 50 ou plus en appartement) et pincer les pointes en été pour densifier le port.
 
@@ -197,7 +197,7 @@ La variété 'Argyraeus' est la plus facile à trouver. 'Silvery Ann' a des feui
 
 ## Sur le meme theme
 
-- [pots de fleurs décoratifs](/guides/decoration/pots-de-fleurs-decoratifs-70-photos-et-idees/)
+- [pots de fleurs décoratifs](/pots-de-fleurs-decoratifs-70-photos-et-idees/)
 
 ## Ce qu'il faut retenir
 

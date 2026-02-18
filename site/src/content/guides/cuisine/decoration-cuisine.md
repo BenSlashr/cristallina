@@ -29,7 +29,7 @@ Les affiches culinaires rétro sont un classique qui marche à tous les coups : 
 Si tu veux quelque chose de plus personnel, encadre une recette de famille écrite à la main, ou accroche une belle planche à découper en bois brut comme élément décoratif. Ça ne coûte rien et ça raconte une histoire.
 
 > [!TIP]
-> Évite d'accrocher des cadres juste au-dessus de la plaque de cuisson : la vapeur et la graisse les abîment vite. Privilégie le mur face à la cuisine ou la zone repas. Pour les techniques d'accrochage, consulte notre [guide pour accrocher un tableau mural](/guides/decoration/bien-accrocher-tableau-mural/).
+> Évite d'accrocher des cadres juste au-dessus de la plaque de cuisson : la vapeur et la graisse les abîment vite. Privilégie le mur face à la cuisine ou la zone repas. Pour les techniques d'accrochage, consulte notre [guide pour accrocher un tableau mural](/bien-accrocher-tableau-mural/).
 
 ## 2. Un tapis de cuisine qui change tout
 
@@ -86,14 +86,14 @@ Le point important : choisis des ampoules en blanc chaud (2700-3000K). Le blanc 
 
 ## 5. Jouer avec les couleurs sans tout repeindre
 
-Tu n'as pas envie de refaire toute ta cuisine en vert sauge ou en olive (même si les [cuisines olive](/guides/cuisine/cuisine-olive/) sont magnifiques) ? Pas de souci. Tu peux injecter de la couleur par petites touches qui font une grosse différence.
+Tu n'as pas envie de refaire toute ta cuisine en vert sauge ou en olive (même si les [cuisines olive](/cuisine-olive/) sont magnifiques) ? Pas de souci. Tu peux injecter de la couleur par petites touches qui font une grosse différence.
 
 <div class="my-8">
   <img src="/images/pinterest-cuisine-couleur-olive-vert-sauge-d-coration-moderne-1771234043960.jpg" alt="Decoration cuisine - decoration interieure" class="w-full rounded-lg shadow-sm" loading="lazy" />
 </div>
 
 
-Un mur d'accent, c'est le plus simple : un seul mur peint dans une teinte forte (terracotta, bleu canard, vert forêt) pendant que les autres restent neutres. Un pot de peinture Dulux Valentine ou V33 coûte 25-35 euros pour 2,5 litres, largement assez pour un mur. Pour choisir la bonne teinte, jette un oeil à notre guide sur les [couleurs de cuisine 2026](/guides/cuisine/couleurs-de-cuisine-2026/) qui détaille les associations qui marchent.
+Un mur d'accent, c'est le plus simple : un seul mur peint dans une teinte forte (terracotta, bleu canard, vert forêt) pendant que les autres restent neutres. Un pot de peinture Dulux Valentine ou V33 coûte 25-35 euros pour 2,5 litres, largement assez pour un mur. Pour choisir la bonne teinte, jette un oeil à notre guide sur les [couleurs de cuisine 2026](/couleurs-de-cuisine-2026/) qui détaille les associations qui marchent.
 
 Autre option encore plus simple : changer les accessoires visibles. Un grille-pain rouge, une bouilloire cuivrée, des torchons à motifs, un saladier en céramique colorée. Habitat, Maisons du Monde ou même Action proposent des collections déco cuisine complètes à partir de 3-5 euros l'objet.
 
@@ -128,7 +128,7 @@ L'organisation peut devenir décorative. Un porte-couteaux magnétique en bois f
 
 Les bocaux alignés sur un plan de travail, avec des étiquettes en ardoise (lot de 12 pour 8 euros chez Amazon), ça transforme tes ingrédients du quotidien en éléments de déco. Farine, sucre, riz, pâtes : tout devient beau quand c'est dans un contenant en verre transparent.
 
-Pour aller plus loin dans l'organisation, notre guide sur l'[organisation des armoires de cuisine](/guides/cuisine/organisation-armoire-cuisine/) te donne toutes les astuces pour des placards qui ont autant de style que l'extérieur.
+Pour aller plus loin dans l'organisation, notre guide sur l'[organisation des armoires de cuisine](/organisation-armoire-cuisine/) te donne toutes les astuces pour des placards qui ont autant de style que l'extérieur.
 
 ## 8. La crédence comme pièce maîtresse
 
@@ -136,7 +136,7 @@ Si tu ne dois changer qu'une seule chose dans ta cuisine, change la crédence. C
 
 Les crédences adhésives (Smart Tiles, Crearreda) permettent de transformer le look sans travaux : tu colles par-dessus l'ancien carrelage et tu retires quand tu veux. Parfait en location. Budget : 20-40 euros le m2. Pour une crédence de 2 m2, ça revient à 40-80 euros et une heure de pose.
 
-Si tu veux peindre ta crédence existante, c'est aussi possible avec les bonnes peintures - notre guide sur la [peinture pour carrelage cuisine](/guides/cuisine/peinture-pour-carrelage-cuisine/) t'explique tout le process étape par étape.
+Si tu veux peindre ta crédence existante, c'est aussi possible avec les bonnes peintures - notre guide sur la [peinture pour carrelage cuisine](/peinture-pour-carrelage-cuisine/) t'explique tout le process étape par étape.
 
 ## 9. Changer les poignées et la robinetterie
 

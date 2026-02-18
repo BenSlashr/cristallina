@@ -69,7 +69,7 @@ Ces couleurs sont ce qu'on appelle des "non-couleurs" - elles ont du caractère 
 
 Le vert sauge en particulier est partout. Sur les portes de cuisine, les boiseries, les murs des salles à manger. Si tu cherches quelque chose de la couleur du moment qui ne se démodera pas dans deux ans, c'est lui.
 
-Leroy Merlin propose une belle gamme dans ces tons naturels avec leur peinture Multi-Supports, autour de 30-40 euros le pot de 2,5L. Pour quelque chose de plus qualitatif, regarde du côté de [la peinture Luxens](/guides/couleurs/peinture-luxens/) qui offre d'excellentes finitions mates dans ces teintes tendance.
+Leroy Merlin propose une belle gamme dans ces tons naturels avec leur peinture Multi-Supports, autour de 30-40 euros le pot de 2,5L. Pour quelque chose de plus qualitatif, regarde du côté de [la peinture Luxens](/peinture-luxens/) qui offre d'excellentes finitions mates dans ces teintes tendance.
 
 ## Quelle finition choisir : mat, satin ou brillant ?
 
@@ -128,7 +128,7 @@ Peindre les deux tiers inférieurs du mur (souvent séparés par une corniche ou
 Si tu oses une couleur forte partout, elle doit être parfaitement choisie et bien éclairée. Mais quand ça marche, l'effet est incroyable. Un vert bottle partout avec un plafond blanc, c'est magique.
 
 > [!NOTE]
-> Pour harmoniser ta salle à manger avec le reste de ta maison, regarde comment les tendances 2026 traitent les espaces ouverts : [palettes de couleurs pour le salon 2026](/guides/decoration/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) te donnera des clés pour créer une cohérence visuelle entre les pièces.
+> Pour harmoniser ta salle à manger avec le reste de ta maison, regarde comment les tendances 2026 traitent les espaces ouverts : [palettes de couleurs pour le salon 2026](/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) te donnera des clés pour créer une cohérence visuelle entre les pièces.
 
 ### La règle des trois couleurs
 
@@ -167,7 +167,7 @@ pie title "Règle des 3 couleurs dans une salle à manger"
 
 **Grande salle à manger (plus de 15m2) :** Les grandes pièces peuvent sembler froides ou impersonnelles avec des couleurs trop claires. N'hésite pas à aller vers des tons plus chauds et enveloppants. Tu peux aussi casser l'espace avec des bandes de couleurs différentes pour créer des zones distinctes si la pièce est très ouverte.
 
-Si tu envisages de repeindre et que tu n'es pas sûre de quelle marque choisir, les [avis sur la peinture Spectrum](/guides/couleurs/avis-peinture-spectrum/) peuvent t'aider à évaluer les options disponibles en magasin avant de te décider.
+Si tu envisages de repeindre et que tu n'es pas sûre de quelle marque choisir, les [avis sur la peinture Spectrum](/avis-peinture-spectrum/) peuvent t'aider à évaluer les options disponibles en magasin avant de te décider.
 
 ## Mon plan d'action concret
 
@@ -209,8 +209,8 @@ La salle à manger que tu as envie d'avoir - celle où les gens s'attardent, où
 
 ## Sur le meme theme
 
-- [couleurs ocres pour les murs et la décoration](/guides/couleurs/couleurs-ocres-pour-les-murs-et-la-decoration/)
-- [couleurs qui se marient avec le violet](/guides/couleurs/quelles-sont-les-couleurs-qui-se-marient-bien-avec-le-violet-en-decoration/)
+- [couleurs ocres pour les murs et la décoration](/couleurs-ocres-pour-les-murs-et-la-decoration/)
+- [couleurs qui se marient avec le violet](/quelles-sont-les-couleurs-qui-se-marient-bien-avec-le-violet-en-decoration/)
 
 ## FAQ
 

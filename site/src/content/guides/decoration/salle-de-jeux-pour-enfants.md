@@ -33,7 +33,7 @@ Avant d'acheter quoi que ce soit, pose-toi la question : qu'est-ce que tu veux q
 > [!TIP]
 > Implique tes enfants dans le choix du thème et des couleurs. Un enfant qui participe à la conception de sa salle de jeux y passera beaucoup plus de temps - et la rangera plus volontiers.
 
-Pour les petits espaces, la logique de [décorer un petit salon](/guides/decoration/decoration-petit-salon/) s'applique ici aussi : chaque meuble doit servir à plusieurs choses, et on privilégie la verticalité.
+Pour les petits espaces, la logique de [décorer un petit salon](/decoration-petit-salon/) s'applique ici aussi : chaque meuble doit servir à plusieurs choses, et on privilégie la verticalité.
 
 ## La sécurité : le socle de tout l'aménagement
 
@@ -150,7 +150,7 @@ C'est le moment fun. Le thème, ca transforme une pièce banale en univers magiq
 
 ### Les thèmes qui marchent en 2026
 
-- **Jungle / animaux** : stickers muraux géants (à partir de 15 euros chez Vertbaudet ou Amazon), teintes vertes et ocres. Si tu veux pousser le concept, jette un oeil à notre guide sur [la décoration chambre style jungle](/guides/chambre/decorer-une-chambre-dans-un-style-jungle/) pour des idées transposables.
+- **Jungle / animaux** : stickers muraux géants (à partir de 15 euros chez Vertbaudet ou Amazon), teintes vertes et ocres. Si tu veux pousser le concept, jette un oeil à notre guide sur [la décoration chambre style jungle](/decorer-une-chambre-dans-un-style-jungle/) pour des idées transposables.
 - **Espace / planètes** : fond bleu nuit, stickers phosphorescents (10 euros le lot), mobile de planètes. Le plafond étoilé avec des guirlandes LED fait son petit effet.
 - **Pirates / aventure** : coffre en bois déco, carte au trésor géante au mur, filet de pêche décoratif.
 - **Arc-en-ciel / couleurs** : très tendance, ca convient à tous les ages et ca vieillit bien. Des bandes de couleur peintes au mur ou un grand arc-en-ciel en macramé (30-50 euros chez Etsy).
@@ -240,9 +240,9 @@ Quand ton enfant grandit, la salle de jeux peut se transformer en coin gaming, e
 
 ## Sur le meme theme
 
-- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
-- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
-- [peindre des bocaux ou bouteilles en verre](/guides/decoration/comment-peindre-des-bocaux-ou-des-bouteilles-en-verre/)
+- [salons modernes 2026](/salons-modernes-tendances-2026/)
+- [décoration art déco](/50-idees-de-decoration-art-deco/)
+- [peindre des bocaux ou bouteilles en verre](/comment-peindre-des-bocaux-ou-des-bouteilles-en-verre/)
 
 ## FAQ
 

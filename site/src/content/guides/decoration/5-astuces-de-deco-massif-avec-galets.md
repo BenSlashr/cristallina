@@ -99,7 +99,7 @@ Une couche de 2 à 3 cm de galets suffit. Pas besoin d'en mettre plus - ça alou
 
 Certaines plantes se marient particulièrement bien avec ce type de mulch minéral :
 
-- La **Peperomia Hope**, avec ses petites feuilles rondes, prend un aspect presque zen posée dans un pot recouvert de galets blancs. Si tu ne la connais pas encore, va jeter un oeil à notre article sur [la Peperomia Hope](/guides/decoration/la-peperomia-hope/) - c'est une plante vraiment facile à entretenir.
+- La **Peperomia Hope**, avec ses petites feuilles rondes, prend un aspect presque zen posée dans un pot recouvert de galets blancs. Si tu ne la connais pas encore, va jeter un oeil à notre article sur [la Peperomia Hope](/la-peperomia-hope/) - c'est une plante vraiment facile à entretenir.
 - Les succulentes et cactus adorent ce type d'environnement minéral.
 - Les ficus, les dracaenas et les sansevières aussi.
 
@@ -153,7 +153,7 @@ La salle de bain est l'endroit où les galets trouvent peut-être leur place la 
 
 **Autour de la baignoire**
 
-Poser des galets plats et blancs autour du rebord d'une baignoire ou dans la zone de relaxation, c'est simple et très efficace visuellement. Si tu t'intéresses aux ambiances bain zen, tu trouveras aussi beaucoup d'inspiration dans notre article sur la [baignoire japonaise](/guides/salle-de-bain/baignoire-japonaise/) - les galets s'y marient parfaitement.
+Poser des galets plats et blancs autour du rebord d'une baignoire ou dans la zone de relaxation, c'est simple et très efficace visuellement. Si tu t'intéresses aux ambiances bain zen, tu trouveras aussi beaucoup d'inspiration dans notre article sur la [baignoire japonaise](/baignoire-japonaise/) - les galets s'y marient parfaitement.
 
 **Sur le sol de douche**
 
@@ -234,21 +234,21 @@ Les galets blancs attirent la poussière et peuvent jaunir avec le temps si tu n
 
 ## Pour aller plus loin dans ta déco naturelle
 
-Les galets s'inscrivent dans une tendance plus large de la déco naturelle et minérale qui est très forte en ce moment. Si tu aimes cette direction, tu peux aussi regarder du côté du recyclage créatif - par exemple avec les [pneus recyclés en déco](/guides/decoration/pneus-recycles-pour-la-decoration/), une autre façon d'intégrer des matières brutes et inattendues dans ton intérieur.
+Les galets s'inscrivent dans une tendance plus large de la déco naturelle et minérale qui est très forte en ce moment. Si tu aimes cette direction, tu peux aussi regarder du côté du recyclage créatif - par exemple avec les [pneus recyclés en déco](/pneus-recycles-pour-la-decoration/), une autre façon d'intégrer des matières brutes et inattendues dans ton intérieur.
 
 <div class="my-8">
   <img src="/images/pinterest-d-coration-fran-aise-romantique-campagne-chic-authentique-1771237465493.jpg" alt="5 astuces de deco massif avec galets - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />
 </div>
 
 
-Et si tu veux prolonger l'expérience galets vers l'extérieur, notre guide sur la façon de [poser une bordure de jardin sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/) te donnera plein d'idées pour créer des massifs délimités avec des galets dans ton jardin aussi.
+Et si tu veux prolonger l'expérience galets vers l'extérieur, notre guide sur la façon de [poser une bordure de jardin sans béton](/poser-bordure-jardin-sans-beton/) te donnera plein d'idées pour créer des massifs délimités avec des galets dans ton jardin aussi.
 
 ---
 
 
 ## Sur le meme theme
 
-- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+- [décoration art déco](/50-idees-de-decoration-art-deco/)
 
 ## FAQ : Galets en déco d'intérieur
 

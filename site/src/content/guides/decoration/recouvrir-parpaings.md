@@ -11,11 +11,11 @@ pubDate: 2026-03-24
 
 ## Sur le meme theme
 
-- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
-- [enduire un mur en parpaing](/guides/decoration/comment-enduir-un-mur-en-parpaing/)
-- [peindre du lino](/guides/decoration/peindre-lino/)
-- [crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/)
-- [peindre sans poncer](/guides/decoration/peindre-sans-poncer/)
+- [isolation dalle béton](/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [enduire un mur en parpaing](/comment-enduir-un-mur-en-parpaing/)
+- [peindre du lino](/peindre-lino/)
+- [crépir un mur intérieur](/crepir-un-mur-interieur/)
+- [peindre sans poncer](/peindre-sans-poncer/)
 
 <div class="my-8">
   <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771237481925.jpg" alt="Recouvrir parpaings - inspiration decoration" class="w-full rounded-lg shadow-sm" loading="lazy" />

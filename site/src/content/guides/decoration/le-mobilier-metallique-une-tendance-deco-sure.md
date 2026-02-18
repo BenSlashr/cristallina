@@ -98,7 +98,7 @@ graph TD
 
 Le salon, c'est LA pièce où le métal fait le plus d'effet. Une table basse avec une structure en métal et un plateau en bois ou en marbre devient le point central de la pièce. Les étagères métalliques ouvertes remplacent les bibliothèques massives et allègent visuellement l'espace.
 
-Mon conseil : si tu débutes avec le métal, commence par les pieds de table. C'est le changement le plus simple et le plus impactant. Un plateau en chêne posé sur des pieds en acier noir - c'est beau, c'est sobre, et ça modernise n'importe quel salon. Pour aller plus loin dans cette direction, jette un oeil à nos idées de [salons modernes et élégants en 2026](/guides/decoration/salons-modernes-et-elegants-2026/) - tu y trouveras des combinaisons de matières qui fonctionnent bien.
+Mon conseil : si tu débutes avec le métal, commence par les pieds de table. C'est le changement le plus simple et le plus impactant. Un plateau en chêne posé sur des pieds en acier noir - c'est beau, c'est sobre, et ça modernise n'importe quel salon. Pour aller plus loin dans cette direction, jette un oeil à nos idées de [salons modernes et élégants en 2026](/salons-modernes-et-elegants-2026/) - tu y trouveras des combinaisons de matières qui fonctionnent bien.
 
 ### La salle à manger
 
@@ -110,14 +110,14 @@ Le mix chaises métal + table bois massif, c'est une valeur sûre. Ça crée un 
 
 En chambre, le métal se fait plus discret. Un cadre de lit en fer forgé ou en acier donne une silhouette légère et aérienne à la pièce. Les tables de chevet en métal ajouré ou filaire sont très tendance : elles laissent passer la lumière et évitent l'effet "bloc" des chevets traditionnels.
 
-Si tu aimes les ambiances cocooning pour ta chambre, le laiton et le cuivre seront tes meilleurs alliés. Un miroir en laiton vieilli posé contre le mur, une lampe de chevet en cuivre mat - ces touches réchauffent la pièce sans effort. Regarde aussi nos inspirations pour la [décoration de chambre 2026](/guides/chambre/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/) pour d'autres idées.
+Si tu aimes les ambiances cocooning pour ta chambre, le laiton et le cuivre seront tes meilleurs alliés. Un miroir en laiton vieilli posé contre le mur, une lampe de chevet en cuivre mat - ces touches réchauffent la pièce sans effort. Regarde aussi nos inspirations pour la [décoration de chambre 2026](/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/) pour d'autres idées.
 
 > [!IMPORTANT]
 > En chambre, évite le total look métal. Deux à trois éléments métalliques maximum dans la pièce. Le reste doit être en matières douces (lin, velours, bois) pour garder une ambiance propice au repos.
 
 ### La cuisine et la salle de bain
 
-La cuisine, c'est le terrain naturel du métal. Les étagères ouvertes en acier, les dessertes sur roulettes, les tabourets de bar en métal - tout ça fonctionne parfaitement. Si tu as une [salle de bain style industriel](/guides/salle-de-bain/salle-de-bain-industrielle/), le métal y trouvera sa place tout aussi facilement : porte-serviettes en acier noir, miroir en métal vieilli, étagère d'angle en fer forgé.
+La cuisine, c'est le terrain naturel du métal. Les étagères ouvertes en acier, les dessertes sur roulettes, les tabourets de bar en métal - tout ça fonctionne parfaitement. Si tu as une [salle de bain style industriel](/salle-de-bain-industrielle/), le métal y trouvera sa place tout aussi facilement : porte-serviettes en acier noir, miroir en métal vieilli, étagère d'angle en fer forgé.
 
 ## Comment mixer le métal avec d'autres matières
 
@@ -245,8 +245,8 @@ Le métal, ça s'entretient. Pas beaucoup, mais un minimum. Voici les gestes qui
 
 ## Sur le meme theme
 
-- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
-- [déco avec galets](/guides/decoration/5-astuces-de-deco-massif-avec-galets/)
+- [décoration art déco](/50-idees-de-decoration-art-deco/)
+- [déco avec galets](/5-astuces-de-deco-massif-avec-galets/)
 
 ## FAQ
 

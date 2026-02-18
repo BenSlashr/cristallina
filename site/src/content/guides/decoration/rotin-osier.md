@@ -99,7 +99,7 @@ C'est l'achat le plus courant, et souvent le premier. Le fauteuil "Emmanuelle" (
 
 ### La tete de lit en rotin
 
-C'est la tendance qui ne faiblit pas. Une tete de lit en rotin tressé ou cannage apporte immédiatement un coté chaleureux et naturel a la chambre, sans surcharger. Ca marche aussi bien avec du linge de lit en lin blanc qu'avec des [textiles colorés et douillets](/guides/decoration/textiles-maison-cosy/).
+C'est la tendance qui ne faiblit pas. Une tete de lit en rotin tressé ou cannage apporte immédiatement un coté chaleureux et naturel a la chambre, sans surcharger. Ca marche aussi bien avec du linge de lit en lin blanc qu'avec des [textiles colorés et douillets](/textiles-maison-cosy/).
 
 Chez **La Redoute**, la tete de lit Rattan coute entre 150 et 280 euros selon la largeur. Chez **Maisons du Monde**, compte 180-350 euros. En DIY, tu peux acheter un panneau de cannage (30-60 euros le metre chez Leroy Merlin) et le monter toi-meme sur un cadre en bois.
 
@@ -113,7 +113,7 @@ Pour les étageres, le rotin se prete bien aux formes géométriques : étageres
 
 Le cannage, c'est du rotin tressé en treillis fin. On le retrouve sur les portes de meubles (buffets, commodes), les dossiers de chaises, les panneaux décoratifs. C'est la maniere la plus discrète d'intégrer le rotin chez toi.
 
-Le buffet en cannage est devenu la star des intérieurs d'inspiration [scandinave](/guides/decoration/mobilier-scandinave-design-nordique/) et [française classique](/guides/decoration/decoration-francaise-idees-et-photos-romantiques/). Chez Maisons du Monde, les buffets cannage démarrent a 350 euros. Chez AM.PM (La Redoute), compte 400-700 euros pour des modeles en chene et cannage naturel.
+Le buffet en cannage est devenu la star des intérieurs d'inspiration [scandinave](/mobilier-scandinave-design-nordique/) et [française classique](/decoration-francaise-idees-et-photos-romantiques/). Chez Maisons du Monde, les buffets cannage démarrent a 350 euros. Chez AM.PM (La Redoute), compte 400-700 euros pour des modeles en chene et cannage naturel.
 
 ## Les accessoires en osier qui changent tout
 
@@ -209,7 +209,7 @@ Un brin cassé ? Pas de panique. Tu peux le remplacer en achetant du rotin de re
 
 **La terrasse ou le balcon** - Le rotin synthétique (résine tressée) résiste aux intempéries. Chez Ikea (gamme SOLLERON), un salon de jardin coute entre 400 et 800 euros. Pour un balcon, un fauteuil et une petite table suffisent - budget 150-300 euros.
 
-**Le bureau nature** - Un fauteuil de bureau en rotin avec un bureau en bois clair et des accessoires en osier (pot a crayons, corbeille a courrier) pour un [style qui mélange les époques avec élégance](/guides/decoration/mobilier-metallique-vintage-pour-un-interieur-de-caractere/).
+**Le bureau nature** - Un fauteuil de bureau en rotin avec un bureau en bois clair et des accessoires en osier (pot a crayons, corbeille a courrier) pour un [style qui mélange les époques avec élégance](/mobilier-metallique-vintage-pour-un-interieur-de-caractere/).
 
 **Le cache-pot géant** - Un grand panier en osier tressé (50-70 cm de haut) pour une grande plante verte - ficus, monstera, palmier d'intérieur. L'association plante verte + osier est l'une des plus efficaces en déco. Budget : 20-50 euros chez Jardiland ou Truffaut.
 
@@ -226,7 +226,7 @@ Un brin cassé ? Pas de panique. Tu peux le remplacer en achetant du rotin de re
 
 ## Sur le meme theme
 
-- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
+- [salons modernes 2026](/salons-modernes-tendances-2026/)
 
 ## FAQ
 

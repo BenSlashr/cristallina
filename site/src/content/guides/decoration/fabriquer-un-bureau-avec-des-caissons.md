@@ -29,7 +29,7 @@ Avec des caissons comme support, tu contrôles tout : la largeur du plateau, la 
 L'autre avantage ? Tu peux démonter et reconfigurer si tu déménages ou si tes besoins changent. J'ai déplacé mon bureau trois fois dans le même appartement sans perdre un seul élément.
 
 > [!TIP]
-> Si tu rénoves aussi ton sol en ce moment, jette un oeil à l'article sur le [parquet taché](/guides/decoration/parquet-tache/) - les deux projets peuvent se combiner pour une pièce complètement relookée.
+> Si tu rénoves aussi ton sol en ce moment, jette un oeil à l'article sur le [parquet taché](/parquet-tache/) - les deux projets peuvent se combiner pour une pièce complètement relookée.
 
 ## Les différents types de caissons à utiliser
 
@@ -155,7 +155,7 @@ Une fois tout assemblé, il reste les détails qui font la différence :
 - Patins feutres sous les caissons pour ne pas rayer ton sol
 
 > [!TIP]
-> Si tu peins ton plateau en MDF, applique deux couches d'apprêt avant la peinture. Le MDF absorbe énormément et sans apprêt, ta peinture partira en quelques semaines. Pour une finition impeccable, essaie la [peinture Luxens](/guides/couleurs/peinture-luxens/) - la gamme meuble est très bien adaptée à ce type de projet.
+> Si tu peins ton plateau en MDF, applique deux couches d'apprêt avant la peinture. Le MDF absorbe énormément et sans apprêt, ta peinture partira en quelques semaines. Pour une finition impeccable, essaie la [peinture Luxens](/peinture-luxens/) - la gamme meuble est très bien adaptée à ce type de projet.
 
 ## Personnalisation et idées de configuration
 
@@ -189,7 +189,7 @@ Deux caissons Alex de chaque côté (4 caissons en tout !), plateau 200 cm, surf
 
 ### Version créative avec caisses récupérées
 
-Des caisses de vin empilées, fixées entre elles avec des équerres intérieures, un plateau de bois massif. Un petit [relooking du sol en lino](/guides/decoration/peindre-lino/) sous le bureau pour unifier l'espace, et tu obtiens un coin de travail qui ressemble à quelque chose qu'on trouverait dans un magazine de déco.
+Des caisses de vin empilées, fixées entre elles avec des équerres intérieures, un plateau de bois massif. Un petit [relooking du sol en lino](/peindre-lino/) sous le bureau pour unifier l'espace, et tu obtiens un coin de travail qui ressemble à quelque chose qu'on trouverait dans un magazine de déco.
 
 ## Les erreurs à ne pas faire
 
@@ -212,14 +212,14 @@ Un bureau DIY bien construit dure aussi longtemps qu'un bureau acheté, à condi
 
 Pour le bois massif ou les caisses traitées, une petite couche d'huile par an suffit à garder le bois nourri et protégé des taches. Pour les plateaux mélaminés, une simple serpillère légèrement humide fait l'affaire.
 
-Si ton bureau est dans une pièce où le sol peut être un peu pris, pense à protéger les sols sensibles. Un article sur le [traitement des escaliers en bois](/guides/decoration/escaliers-silencieux/) donne des bonnes pistes sur la protection du bois en intérieur - les mêmes principes s'appliquent aux pieds de tes caissons.
+Si ton bureau est dans une pièce où le sol peut être un peu pris, pense à protéger les sols sensibles. Un article sur le [traitement des escaliers en bois](/escaliers-silencieux/) donne des bonnes pistes sur la protection du bois en intérieur - les mêmes principes s'appliquent aux pieds de tes caissons.
 
 Les caissons Ikea (Kallax, Alex) ont une structure solide mais les glissières de tiroirs peuvent s'user avec le temps. Des pièces de rechange sont disponibles sur le site d'Ikea ou en GSB à moins de 5 € pièce.
 
 
 ## Sur le meme theme
 
-- [table basse diy](/guides/decoration/creez-votre-table-basse-au-design-original-avec-ces-astuces-diy/)
+- [table basse diy](/creez-votre-table-basse-au-design-original-avec-ces-astuces-diy/)
 
 ## Questions fréquentes
 

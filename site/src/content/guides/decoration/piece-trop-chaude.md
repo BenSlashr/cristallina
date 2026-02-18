@@ -54,7 +54,7 @@ Les volets roulants ou les stores banne restent les champions toutes catégories
 
 ### Les protections intérieures - le plan B
 
-Si tu ne peux rien installer dehors, les rideaux thermiques sont ton meilleur allié. Pas les petits voilages légers - on parle de vrais [rideaux occultants avec doublure isolante](/guides/decoration/erreurs-rideaux/). Ikea en propose de très corrects (gamme HILLEBORG à 35-50 euros la paire) et Moondream fait des rideaux thermiques certifiés qui bloquent jusqu'à 46 % de la chaleur pour 50-80 euros le panneau.
+Si tu ne peux rien installer dehors, les rideaux thermiques sont ton meilleur allié. Pas les petits voilages légers - on parle de vrais [rideaux occultants avec doublure isolante](/erreurs-rideaux/). Ikea en propose de très corrects (gamme HILLEBORG à 35-50 euros la paire) et Moondream fait des rideaux thermiques certifiés qui bloquent jusqu'à 46 % de la chaleur pour 50-80 euros le panneau.
 
 > [!WARNING]
 > Les rideaux de couleur foncée absorbent la chaleur au lieu de la renvoyer. Pour un effet rafraîchissant, choisis toujours des rideaux clairs (blanc, beige, gris pâle) avec un dos réflecteur argenté.
@@ -95,7 +95,7 @@ Le lin est le roi des fibres d'été. Il absorbe l'humidité, sèche vite et pro
 Pour le canapé, jette un plaid en lin ou en coton léger sur l'assise. C'est rapide, ça change tout au toucher, et tu retrouves ton velours douillet dès l'automne.
 
 > [!NOTE]
-> La couleur de tes textiles influence aussi la température ressentie. Des housses de coussin blanches ou bleu clair donnent visuellement une impression de fraîcheur, même à température égale. Le cerveau associe ces teintes à l'eau et au froid - [les couleurs ont un vrai pouvoir en déco](/guides/couleurs/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece/).
+> La couleur de tes textiles influence aussi la température ressentie. Des housses de coussin blanches ou bleu clair donnent visuellement une impression de fraîcheur, même à température égale. Le cerveau associe ces teintes à l'eau et au froid - [les couleurs ont un vrai pouvoir en déco](/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece/).
 
 ## 4. Les plantes qui refroidissent l'air
 
@@ -129,7 +129,7 @@ On n'y pense pas assez, mais ton intérieur fabrique sa propre chaleur. Et pas q
 - **Le four** : un four à 200 °C pendant 1h augmente la température de la cuisine de 2 à 4 °C. En été, privilégie les salades, les plats froids, ou le micro-ondes (qui dégage beaucoup moins de chaleur).
 - **Le sèche-linge** : c'est un radiateur déguisé. Fais sécher ton linge dehors ou sur un étendoir.
 - **L'éclairage** : les ampoules à incandescence et les halogènes transforment 90 % de l'énergie en chaleur. Passe aux LED - elles chauffent 5 fois moins et consomment 80 % d'électricité en moins.
-- **L'ordinateur** : un PC de bureau dégage entre 100 et 300 watts de chaleur. Si tu bosses de chez toi, déplace ton bureau dans la pièce la plus fraîche, ou [pense à repenser ton espace de travail](/guides/decoration/fabriquer-un-bureau-avec-des-caissons/).
+- **L'ordinateur** : un PC de bureau dégage entre 100 et 300 watts de chaleur. Si tu bosses de chez toi, déplace ton bureau dans la pièce la plus fraîche, ou [pense à repenser ton espace de travail](/fabriquer-un-bureau-avec-des-caissons/).
 
 > [!IMPORTANT]
 > Coupe tous les appareils en veille. Un décodeur TV, une box internet, un chargeur branché à vide - tout ça produit de la chaleur 24h/24. Branche-les sur une multiprise avec interrupteur pour tout couper d'un geste.
@@ -239,12 +239,12 @@ Quelques réflexes spécifiques pour la chambre :
 - **Douche tiède avant le coucher** : pas froide (ça fait remonter la température du corps par réaction), tiède pour aider le corps à évacuer la chaleur
 - **La bouillotte inversée** : remplis ta bouillotte d'eau froide ou mets-la au congélateur 2h avant le coucher. Glisse-la dans le lit 30 minutes avant d'y aller
 
-La température idéale pour bien dormir se situe entre 16 et 19 °C. Si tu n'arrives pas à descendre sous 24 °C malgré tout, un [aménagement malin de la chambre](/guides/chambre/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/) et un ventilateur silencieux (moins de 40 dB) brassé sur toi toute la nuit feront la différence.
+La température idéale pour bien dormir se situe entre 16 et 19 °C. Si tu n'arrives pas à descendre sous 24 °C malgré tout, un [aménagement malin de la chambre](/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/) et un ventilateur silencieux (moins de 40 dB) brassé sur toi toute la nuit feront la différence.
 
 
 ## Sur le meme theme
 
-- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+- [décoration art déco](/50-idees-de-decoration-art-deco/)
 
 ## FAQ
 

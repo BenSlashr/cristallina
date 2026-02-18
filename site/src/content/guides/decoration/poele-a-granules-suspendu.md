@@ -267,11 +267,11 @@ En résumé : si tu veux du pratique et du programmable, va vers les granulés. 
 
 ## Sur le meme theme
 
-- [table basse japonaise kotatsu](/guides/decoration/table-basse-japonaise-kotatsu/)
-- [peindre sans poncer](/guides/decoration/peindre-sans-poncer/)
-- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
-- [facades de maisons modernes 2026](/guides/decoration/facades-de-maisons-modernes-2026/)
-- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
+- [table basse japonaise kotatsu](/table-basse-japonaise-kotatsu/)
+- [peindre sans poncer](/peindre-sans-poncer/)
+- [isolation dalle béton](/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [facades de maisons modernes 2026](/facades-de-maisons-modernes-2026/)
+- [tableau planning et pense-bête](/choisir-tableau-planning-pense-bete/)
 
 ## FAQ - Poêle à granulés suspendu
 

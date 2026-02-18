@@ -96,7 +96,7 @@ Le tissu, c'est plus accessible et plus doux au toucher. Un canapé en velours b
 - **Canapé d'angle** : parfait si tu as la place. En cuir brun, c'est un vrai statement piece.
 - **Canapé modulable** : tendance 2026. Tu peux réorganiser les modules selon tes envies. Tediber propose un modèle brun à partir de 1490 euros.
 
-Si tu cherches aussi des idées pour [moderniser ton appartement dans un style parisien](/guides/decoration/comment-moderniser-votre-appartement-dans-le-plus-pur-style-parisien/), le canapé brun en cuir est un élément clé de ce look.
+Si tu cherches aussi des idées pour [moderniser ton appartement dans un style parisien](/comment-moderniser-votre-appartement-dans-le-plus-pur-style-parisien/), le canapé brun en cuir est un élément clé de ce look.
 
 ## Les murs bruns : oser ou doser ?
 
@@ -109,7 +109,7 @@ Peindre un mur en brun, ça fait peur à beaucoup de monde. Et c'est normal - ma
 
 ### La règle du mur unique
 
-Ne peins jamais les quatre murs en brun foncé. La bonne stratégie, c'est un seul mur d'accent dans un brun profond (chocolat, moka, terre brûlée), et les trois autres en blanc chaud, crème ou beige très clair. Ça crée de la profondeur sans étouffer l'espace. Pour aller plus loin sur le sujet des couleurs qui créent de la profondeur, jette un oeil à notre article sur les [couleurs pour donner de la profondeur à un mur ou à une pièce](/guides/couleurs/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece/).
+Ne peins jamais les quatre murs en brun foncé. La bonne stratégie, c'est un seul mur d'accent dans un brun profond (chocolat, moka, terre brûlée), et les trois autres en blanc chaud, crème ou beige très clair. Ça crée de la profondeur sans étouffer l'espace. Pour aller plus loin sur le sujet des couleurs qui créent de la profondeur, jette un oeil à notre article sur les [couleurs pour donner de la profondeur à un mur ou à une pièce](/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece/).
 
 ### Peinture ou papier peint ?
 
@@ -145,7 +145,7 @@ C'est le combo le plus sûr. Un canapé brun foncé, des murs blancs chauds, du 
 
 ### Brun + vert : la connexion nature
 
-Le brun et le vert, c'est la combinaison la plus naturelle qui soit - littéralement. Pense à la forêt, aux troncs et aux feuilles. Un salon avec du mobilier brun et des touches de vert (plantes, coussins vert olive, mur vert sauge) respire l'harmonie. Si les [couleurs du salon 2026](/guides/decoration/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) t'intéressent, tu verras que le vert et le brun sont au coeur de plusieurs palettes tendance cette année.
+Le brun et le vert, c'est la combinaison la plus naturelle qui soit - littéralement. Pense à la forêt, aux troncs et aux feuilles. Un salon avec du mobilier brun et des touches de vert (plantes, coussins vert olive, mur vert sauge) respire l'harmonie. Si les [couleurs du salon 2026](/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) t'intéressent, tu verras que le vert et le brun sont au coeur de plusieurs palettes tendance cette année.
 
 ### Brun + bleu canard : le contraste chic
 
@@ -186,7 +186,7 @@ Canapé en velours chocolat, plaid en laine écru, coussins camel et moutarde, t
 
 ### 2. Le salon brun contemporain
 
-Canapé en cuir cognac, table basse en métal noir et bois, mur gris-brun clair, lampadaire arc doré, coussins graphiques noir et blanc. Si tu veux aller dans cette direction, les [salons modernes et élégants 2026](/guides/decoration/salons-modernes-et-elegants-2026/) te donneront plein d'idées complémentaires.
+Canapé en cuir cognac, table basse en métal noir et bois, mur gris-brun clair, lampadaire arc doré, coussins graphiques noir et blanc. Si tu veux aller dans cette direction, les [salons modernes et élégants 2026](/salons-modernes-et-elegants-2026/) te donneront plein d'idées complémentaires.
 
 ### 3. Le salon brun nature
 
@@ -216,7 +216,7 @@ Tu n'as pas forcément besoin de racheter un canapé pour intégrer le brun dans
 
 ## Sur le meme theme
 
-- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
+- [salons modernes 2026](/salons-modernes-tendances-2026/)
 
 ## FAQ
 

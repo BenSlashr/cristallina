@@ -62,7 +62,7 @@ Les housses en coton jacquard géométrique se trouvent en lot de 4 sur Amazon e
 
 ### Le jute et les fibres naturelles
 
-Pour les coussins de sol, le jute et le chanvre donnent un rendu brut et authentique, parfait pour un style bohème. Ces matières sont plus rigides - pas idéal pour s'y blottir longtemps. Combine un coussin jute avec un tapis dans la même veine : notre guide sur les [tapis en fibre naturelle](/guides/decoration/choisir-tapis-fibre-naturelle/) te donnera des idées.
+Pour les coussins de sol, le jute et le chanvre donnent un rendu brut et authentique, parfait pour un style bohème. Ces matières sont plus rigides - pas idéal pour s'y blottir longtemps. Combine un coussin jute avec un tapis dans la même veine : notre guide sur les [tapis en fibre naturelle](/choisir-tapis-fibre-naturelle/) te donnera des idées.
 
 > [!WARNING]
 > Évite le polyester bas de gamme à tout prix. Oui, il est pas cher (5-8 euros le coussin), mais il se déforme vite, il peluche et surtout il donne un aspect "cheap" à toute ta déco. Mieux vaut deux bons coussins que six mauvais.
@@ -113,7 +113,7 @@ Ne prends pas tous tes coussins identiques - c'est l'erreur classique. Mixe en g
 3. **Varie les tailles** : du plus grand au fond vers le plus petit devant
 4. **Garde un élément commun** : même famille de couleurs, même style de motifs ou même matière dans des teintes différentes
 
-Si tu cherches l'inspiration pour la palette couleur de tout ton salon, notre guide sur les [couleurs du salon 2026](/guides/decoration/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) te donnera plein d'idées d'associations.
+Si tu cherches l'inspiration pour la palette couleur de tout ton salon, notre guide sur les [couleurs du salon 2026](/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) te donnera plein d'idées d'associations.
 
 > [!NOTE]
 > Un coussin rectangulaire (30x50 cm) placé devant un coussin carré donne immédiatement un rendu "décoré" à ton canapé. C'est le petit détail qu'on voit chez les décorateurs et qui change tout, pour seulement 10 à 20 euros.
@@ -133,7 +133,7 @@ Pour un fauteuil classique (bergère ou club), un coussin carré de 40x40 ou 45x
 
 Pour les fauteuils de terrasse, les coussins d'assise outdoor (40x40 ou 45x45 cm) se vendent en lot de 4 entre 30 et 60 euros chez IKEA ou Amazon. Choisis des housses déperlantes et anti-UV.
 
-Si tu réfléchis au fauteuil lui-même, nos conseils pour [choisir ta chaise de salon](/guides/decoration/chaise-salon/) t'aideront à trouver la bonne combinaison.
+Si tu réfléchis au fauteuil lui-même, nos conseils pour [choisir ta chaise de salon](/chaise-salon/) t'aideront à trouver la bonne combinaison.
 
 ### Couleur du coussin vs couleur du fauteuil
 
@@ -158,7 +158,7 @@ Il existe trois grandes familles :
 
 ### Où placer tes coussins de sol ?
 
-Le meilleur spot : près d'une fenêtre avec de la lumière naturelle, sur un tapis, avec une caisse en bois à côté pour poser une tasse. Si tu veux pousser l'ambiance, un style [décoration minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/) avec coussins de sol en lin et tapis jute, c'est l'harmonie parfaite.
+Le meilleur spot : près d'une fenêtre avec de la lumière naturelle, sur un tapis, avec une caisse en bois à côté pour poser une tasse. Si tu veux pousser l'ambiance, un style [décoration minimaliste](/decoration-minimaliste-idees-et-photos-faciles/) avec coussins de sol en lin et tapis jute, c'est l'harmonie parfaite.
 
 ```mermaid
 flowchart LR
@@ -211,7 +211,7 @@ Un coussin bien entretenu dure 3 à 5 ans sans problème. Voici les gestes essen
 
 **Regonfler le garnissage** : secoue tes coussins chaque semaine. Si le garnissage s'aplatit, ajoute de la ouate en vrac (5-10 euros le kilo chez Mondial Tissus).
 
-**Protéger du soleil** : les coussins près d'une fenêtre exposée décolorent avec le temps. Tourne-les régulièrement ou utilise des rideaux filtrants. D'ailleurs, consulte nos conseils sur les [erreurs de rideaux à éviter](/guides/decoration/erreurs-rideaux/) pour harmoniser ta fenêtre.
+**Protéger du soleil** : les coussins près d'une fenêtre exposée décolorent avec le temps. Tourne-les régulièrement ou utilise des rideaux filtrants. D'ailleurs, consulte nos conseils sur les [erreurs de rideaux à éviter](/erreurs-rideaux/) pour harmoniser ta fenêtre.
 
 ```mermaid
 graph TD

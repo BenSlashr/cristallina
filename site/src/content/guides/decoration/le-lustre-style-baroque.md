@@ -29,7 +29,7 @@ Le modèle emblématique reste la Galerie des Glaces à Versailles : 20 000 boug
 > [!NOTE]
 > Le cristal de roche utilisé dans les premiers lustres baroques (17e siècle) était taillé à la main, pièce par pièce. C'est au 18e siècle que le cristal au plomb - moins cher et plus brillant - a permis de démocratiser les lustres à pampilles.
 
-Pourquoi ce retour en 2026 ? On sort d'une longue période minimaliste. Après des années de suspensions filaires et de lampes scandinaves, l'envie de remettre du caractère dans les intérieurs s'impose. Le lustre baroque répond à ca : volume, reflet, personnalité. Et la tendance du [classique contemporain](/guides/decoration/decoration-classique-20-images-et-idees-contemporaines/) joue en sa faveur - on assume le mélange ancien-moderne sans complexe.
+Pourquoi ce retour en 2026 ? On sort d'une longue période minimaliste. Après des années de suspensions filaires et de lampes scandinaves, l'envie de remettre du caractère dans les intérieurs s'impose. Le lustre baroque répond à ca : volume, reflet, personnalité. Et la tendance du [classique contemporain](/decoration-classique-20-images-et-idees-contemporaines/) joue en sa faveur - on assume le mélange ancien-moderne sans complexe.
 
 ## Les différents types de lustres baroques
 
@@ -96,7 +96,7 @@ C'est là que ca se joue. Un lustre baroque dans le mauvais contexte donne un ef
 
 ### Règle 1 : le contraste est ton ami
 
-Le lustre baroque est orné, chargé. Pour qu'il respire, il a besoin d'un décor sobre autour de lui : murs blancs, gris clair ou béton brut, mobilier aux lignes droites. Pas de tapis persan ni de rideaux en velours bordeaux à côté - sauf si tu assumes le total look classique (voir [déco classique contemporaine](/guides/decoration/decoration-classique-20-images-et-idees-contemporaines/)).
+Le lustre baroque est orné, chargé. Pour qu'il respire, il a besoin d'un décor sobre autour de lui : murs blancs, gris clair ou béton brut, mobilier aux lignes droites. Pas de tapis persan ni de rideaux en velours bordeaux à côté - sauf si tu assumes le total look classique (voir [déco classique contemporaine](/decoration-classique-20-images-et-idees-contemporaines/)).
 
 L'idée : le lustre est le seul élément "chargé" de la pièce. Tout le reste se met en retrait.
 
@@ -115,7 +115,7 @@ Pour un salon de 4 x 5 mètres : (4 + 5) x 10 = 90 cm de diamètre. Ca te donne 
 
 Le choix de la finition change tout. Un lustre en laiton doré brillant donne un effet classique pur. Le meme modèle en noir mat ou chrome brossé bascule dans le contemporain.
 
-En 2026, les finitions qui fonctionnent le mieux pour un mix baroque-moderne : le laiton brossé (or mat), le noir mat, et le bronze patiné. Si tu aimes les [touches dorées dans ta déco](/guides/decoration/decoration-doree-sur-les-murs-les-meubles-ou-les-accessoires/), le lustre baroque est l'un des meilleurs supports pour ca.
+En 2026, les finitions qui fonctionnent le mieux pour un mix baroque-moderne : le laiton brossé (or mat), le noir mat, et le bronze patiné. Si tu aimes les [touches dorées dans ta déco](/decoration-doree-sur-les-murs-les-meubles-ou-les-accessoires/), le lustre baroque est l'un des meilleurs supports pour ca.
 
 ### Règle 4 : l'éclairage, pas juste la déco
 
@@ -151,7 +151,7 @@ Le salon est le choix évident, mais pas le seul emplacement possible.
 
 ### Au-dessus de la table à manger
 
-C'est peut-etre le meilleur emplacement. Le lustre crée un centre de gravité visuel au-dessus de la table, la lumière des pampilles habille les repas d'une ambiance chaleureuse. Dans un salon [moderne et épuré](/guides/decoration/salons-modernes-et-elegants-2026/), il devient LE point focal de la pièce.
+C'est peut-etre le meilleur emplacement. Le lustre crée un centre de gravité visuel au-dessus de la table, la lumière des pampilles habille les repas d'une ambiance chaleureuse. Dans un salon [moderne et épuré](/salons-modernes-et-elegants-2026/), il devient LE point focal de la pièce.
 
 ### Dans l'entrée
 
@@ -159,7 +159,7 @@ Un lustre baroque dans l'entrée, meme petit (40 à 60 cm de diamètre), donne l
 
 ### Dans la chambre
 
-Ca peut surprendre, mais un lustre baroque en chambre - modèle translucide ou aux teintes douces - apporte un côté romantique réussi. On retrouve ce choix dans la [déco française romantique](/guides/decoration/decoration-francaise-idees-et-photos-romantiques/), avec des draps en lin et des murs pastel.
+Ca peut surprendre, mais un lustre baroque en chambre - modèle translucide ou aux teintes douces - apporte un côté romantique réussi. On retrouve ce choix dans la [déco française romantique](/decoration-francaise-idees-et-photos-romantiques/), avec des draps en lin et des murs pastel.
 
 ### Dans la salle de bain (oui, vraiment)
 
@@ -226,7 +226,7 @@ pie title Repartition budget lustre baroque
 
 ## Sur le meme theme
 
-- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
+- [salons modernes 2026](/salons-modernes-tendances-2026/)
 
 ## FAQ - Lustre baroque
 

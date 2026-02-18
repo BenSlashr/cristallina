@@ -74,7 +74,7 @@ Les lampes en papier japonais diffusent une lumière douce et chaude qui change 
 
 ### 4. Une table basse au ras du sol
 
-L'assise basse est typique du quotidien japonais. Une table de 30-35 cm de hauteur, des coussins zabuton au sol, et ton salon prend une toute autre dimension. Si tu veux aller plus loin, notre guide sur la [table basse japonaise kotatsu](/guides/decoration/table-basse-japonaise-kotatsu/) te donne toutes les pistes pour un coin ultra cosy en hiver.
+L'assise basse est typique du quotidien japonais. Une table de 30-35 cm de hauteur, des coussins zabuton au sol, et ton salon prend une toute autre dimension. Si tu veux aller plus loin, notre guide sur la [table basse japonaise kotatsu](/table-basse-japonaise-kotatsu/) te donne toutes les pistes pour un coin ultra cosy en hiver.
 
 ### 5. Du bambou partout où tu peux
 
@@ -85,7 +85,7 @@ Le bambou est le matériau roi de la déco japonaise. Stores en bambou pour les 
 
 ### 6. Un jardin zen miniature sur la table basse
 
-Les jardins zen de bureau (karesansui miniature) se trouvent entre 15 et 40 euros. Un plateau de sable fin, quelques galets, un râteau miniature. C'est décoratif et méditatif à la fois. Pour d'autres idées avec des galets, va voir nos [astuces de déco massif avec galets](/guides/decoration/5-astuces-de-deco-massif-avec-galets/).
+Les jardins zen de bureau (karesansui miniature) se trouvent entre 15 et 40 euros. Un plateau de sable fin, quelques galets, un râteau miniature. C'est décoratif et méditatif à la fois. Pour d'autres idées avec des galets, va voir nos [astuces de déco massif avec galets](/5-astuces-de-deco-massif-avec-galets/).
 
 ### 7. Des rideaux noren à l'entrée des pièces
 
@@ -149,7 +149,7 @@ L'ikebana, c'est l'art japonais de disposer les fleurs. Pas un gros bouquet fois
 
 ### 17. Le Japandi : le mix nippo-scandinave
 
-Le Japandi marie l'esthétique japonaise avec le design scandinave. Bois clair, lignes pures, palette neutre, touches de noir. C'est la tendance déco qui ne vieillit pas, parce qu'elle combine le meilleur des deux mondes. Pour explorer d'autres styles épurés, notre article sur la [décoration minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/) va dans la même direction.
+Le Japandi marie l'esthétique japonaise avec le design scandinave. Bois clair, lignes pures, palette neutre, touches de noir. C'est la tendance déco qui ne vieillit pas, parce qu'elle combine le meilleur des deux mondes. Pour explorer d'autres styles épurés, notre article sur la [décoration minimaliste](/decoration-minimaliste-idees-et-photos-faciles/) va dans la même direction.
 
 ### 18. Des rangements invisibles et intégrés
 
@@ -157,7 +157,7 @@ La maison japonaise cache ses affaires. Pas de bibelots sur les étagères, pas 
 
 ### 19. Un ofuro ou baignoire profonde
 
-La salle de bain japonaise est un sanctuaire. Si tu as de la place, une baignoire profonde style ofuro (en bois de cyprès ou en céramique moderne) transforme tes bains en rituel. C'est un investissement (500 euros et plus), mais l'expérience est incomparable. Le guide sur la [baignoire japonaise](/guides/salle-de-bain/baignoire-japonaise/) détaille toutes les options.
+La salle de bain japonaise est un sanctuaire. Si tu as de la place, une baignoire profonde style ofuro (en bois de cyprès ou en céramique moderne) transforme tes bains en rituel. C'est un investissement (500 euros et plus), mais l'expérience est incomparable. Le guide sur la [baignoire japonaise](/baignoire-japonaise/) détaille toutes les options.
 
 ### 20. Le parfum d'intérieur au yuzu ou au hinoki
 
@@ -224,7 +224,7 @@ Prends le temps. La déco japonaise n'est pas un makeover du week-end. C'est une
 
 ## Sur le meme theme
 
-- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+- [décoration art déco](/50-idees-de-decoration-art-deco/)
 
 ## Questions fréquentes sur la décoration japonaise
 

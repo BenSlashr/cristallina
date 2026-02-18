@@ -158,7 +158,7 @@ graph LR
 
 **Trop d'étain d'un coup** - Si tu déposes trop de fil d'un seul coup, tu obtiens une grosse goutte froide qui masque les défauts. Dépose-le progressivement, en petites quantités.
 
-Si tu es en train de rénover ta façade en même temps, je te renvoie à notre article sur les [couleurs pour les extérieurs et façades de maisons en 2026](/guides/exterieur/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) pour coordonner l'ensemble. Et si tu profites de l'occasion pour rafraîchir aussi l'intérieur, nos guides sur [comment crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/) et sur [comment recouvrir des parpaings](/guides/decoration/recouvrir-parpaings/) pourront t'être utiles.
+Si tu es en train de rénover ta façade en même temps, je te renvoie à notre article sur les [couleurs pour les extérieurs et façades de maisons en 2026](/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) pour coordonner l'ensemble. Et si tu profites de l'occasion pour rafraîchir aussi l'intérieur, nos guides sur [comment crépir un mur intérieur](/crepir-un-mur-interieur/) et sur [comment recouvrir des parpaings](/recouvrir-parpaings/) pourront t'être utiles.
 
 ## Choisir le bon type de soudure selon le projet
 
@@ -206,7 +206,7 @@ En termes de temps : comptez 1h30 à 2h pour une première réparation, dont la 
 
 ## Sur le meme theme
 
-- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [isolation dalle béton](/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
 
 ## Les précautions à ne jamais ignorer
 
@@ -217,7 +217,7 @@ Le zinc et les produits chimiques liés (flux, décapants) demandent le respect 
 - Ne jamais travailler seul sur une échelle haute sans point d'ancrage
 - Si tu travailles sur une gouttière en hauteur, une ceinture de sécurité accrochée à un point fixe est la règle de base
 
-Et si tu remarques que ton zinc présente des taches blanches poudreuses importantes ou des zones très aminces, ça peut indiquer une corrosion avancée. Dans ce cas, [peindre le lino](/guides/decoration/peindre-lino/) de la même façon que tu tenterais de "patcher" un zinc très abîmé avec de la peinture n'est pas une solution - la soudure ne tiendra pas sur du zinc en mauvais état. Un remplacement s'impose.
+Et si tu remarques que ton zinc présente des taches blanches poudreuses importantes ou des zones très aminces, ça peut indiquer une corrosion avancée. Dans ce cas, [peindre le lino](/peindre-lino/) de la même façon que tu tenterais de "patcher" un zinc très abîmé avec de la peinture n'est pas une solution - la soudure ne tiendra pas sur du zinc en mauvais état. Un remplacement s'impose.
 
 ---
 

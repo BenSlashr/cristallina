@@ -201,11 +201,11 @@ Si tu as une maison préférée, autant jouer la carte jusqu'au bout - mais subt
 
 ## Sur le meme theme
 
-- [déco terracotta chambre](/guides/chambre/deco-terracotta-chambre/)
-- [décorer sa chambre en location](/guides/chambre/decorer-chambre-coucher-location/)
-- [déco pop chambre](/guides/chambre/guide-pour-une-deco-pop-dans-la-chambre-a-coucher/)
-- [chambre style jungle](/guides/chambre/decorer-une-chambre-dans-un-style-jungle/)
-- [chambre sans fenêtre](/guides/chambre/chambre-sans-fenetre/)
+- [déco terracotta chambre](/deco-terracotta-chambre/)
+- [décorer sa chambre en location](/decorer-chambre-coucher-location/)
+- [déco pop chambre](/guide-pour-une-deco-pop-dans-la-chambre-a-coucher/)
+- [chambre style jungle](/decorer-une-chambre-dans-un-style-jungle/)
+- [chambre sans fenêtre](/chambre-sans-fenetre/)
 
 ## Budget et priorités
 

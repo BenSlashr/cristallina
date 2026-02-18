@@ -75,7 +75,7 @@ La TARVA, c'est un peu la toile blanche du catalogue IKEA. Fabriquée en pin mas
 - Un tiroir et un compartiment ouvert en dessous
 - Compatible avec toutes les teintes et peintures pour bois
 
-Le gros avantage de la TARVA par rapport à la KULLEN, c'est la matière. Le pin massif vieillit mieux que le panneau de particules, et tu peux le poncer et le re-teinter quand tu veux changer de style. Si tu t'intéresses aux [tendances chambre 2026](/guides/chambre/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/), le bois naturel est clairement dans la liste des valeurs sûres.
+Le gros avantage de la TARVA par rapport à la KULLEN, c'est la matière. Le pin massif vieillit mieux que le panneau de particules, et tu peux le poncer et le re-teinter quand tu veux changer de style. Si tu t'intéresses aux [tendances chambre 2026](/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/), le bois naturel est clairement dans la liste des valeurs sûres.
 
 ```mermaid
 flowchart TD
@@ -153,7 +153,7 @@ Sois honnête avec toi-même. Si ta table de nuit accumule les livres, les câbl
 
 ### Critère 3 : le style de ta chambre
 
-Pour une chambre minimaliste ou industrielle, la KNARREVIK en métal noir est parfaite. Pour un style scandinave ou naturel, la TARVA en pin brut s'impose. Pour un look plus classique ou contemporain, la MALM ou la TONSTAD en blanc cassé feront le job. Si tu as besoin d'inspiration pour [décorer ta chambre avec un petit budget](/guides/chambre/decorer-la-chambre-a-coucher-avec-peu-dargent/), les tables de nuit IKEA sont un excellent point de départ.
+Pour une chambre minimaliste ou industrielle, la KNARREVIK en métal noir est parfaite. Pour un style scandinave ou naturel, la TARVA en pin brut s'impose. Pour un look plus classique ou contemporain, la MALM ou la TONSTAD en blanc cassé feront le job. Si tu as besoin d'inspiration pour [décorer ta chambre avec un petit budget](/decorer-la-chambre-a-coucher-avec-peu-dargent/), les tables de nuit IKEA sont un excellent point de départ.
 
 ```mermaid
 flowchart LR
@@ -185,7 +185,7 @@ Une table de nuit IKEA basique peut devenir un vrai élément de décoration ave
 
 **4. Superposer les matières.** Un petit plateau en marbre ou en bois sur le dessus, un panier tressé en dessous, une plante verte à côté - la superposition de textures donne du caractère à n'importe quelle table de nuit basique.
 
-**5. Créer un duo asymétrique.** Qui a dit que les deux tables de nuit devaient être identiques ? Essaie une KNARREVIK d'un côté du lit et une TARVA de l'autre. Le contraste métal-bois crée une ambiance déco bien plus intéressante qu'un duo parfaitement assorti. Pour d'autres idées d'association, jette un oeil à mon article sur l'[armoire d'angle IKEA](/guides/shopping/ikea-cartonne-avec-son-armoire-dangle/) qui aborde aussi la question de la cohérence dans une chambre.
+**5. Créer un duo asymétrique.** Qui a dit que les deux tables de nuit devaient être identiques ? Essaie une KNARREVIK d'un côté du lit et une TARVA de l'autre. Le contraste métal-bois crée une ambiance déco bien plus intéressante qu'un duo parfaitement assorti. Pour d'autres idées d'association, jette un oeil à mon article sur l'[armoire d'angle IKEA](/ikea-cartonne-avec-son-armoire-dangle/) qui aborde aussi la question de la cohérence dans une chambre.
 
 > [!TIP]
 > Pour la TARVA, applique une couche de fond bloqueur (type Zinsser BIN) avant de peindre. Le pin brut est poreux et absorbe beaucoup de peinture. Sans fond bloqueur, tu vas utiliser trois fois plus de peinture et le résultat sera moins uniforme.
@@ -207,8 +207,8 @@ Une table de nuit IKEA basique peut devenir un vrai élément de décoration ave
 
 ## Sur le meme theme
 
-- [lampe articulée ikea à petit prix](/guides/shopping/cohue-chez-ikea-avec-cette-lampe-articulee-super-design-a-moins-de-5-euros/)
-- [plateau multifonction ikea](/guides/shopping/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
+- [lampe articulée ikea à petit prix](/cohue-chez-ikea-avec-cette-lampe-articulee-super-design-a-moins-de-5-euros/)
+- [plateau multifonction ikea](/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
 
 ## FAQ
 

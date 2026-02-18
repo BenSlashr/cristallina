@@ -45,7 +45,7 @@ Les quatre piliers du style industriel en salle de bain :
 
 Le béton ciré est probablement la matière la plus associée au style industriel en salle de bain. Il peut habiller les murs, le sol, le plan vasque ou même une baignoire autoportante. Sa texture légèrement granuleuse et ses variations naturelles de teinte donnent immédiatement cette atmosphère d'atelier chic.
 
-Pour un [meuble salle de bain en béton ciré](/guides/salle-de-bain/meuble-salle-de-bain-beton-cire/), tu as deux options : acheter du mobilier spécialisé (Tikamoon propose des modèles autour de 400-800€) ou faire appliquer du béton ciré sur un meuble existant par un professionnel (compter 200-400€ de main d'oeuvre). Le résultat est bluffant dans les deux cas.
+Pour un [meuble salle de bain en béton ciré](/meuble-salle-de-bain-beton-cire/), tu as deux options : acheter du mobilier spécialisé (Tikamoon propose des modèles autour de 400-800€) ou faire appliquer du béton ciré sur un meuble existant par un professionnel (compter 200-400€ de main d'oeuvre). Le résultat est bluffant dans les deux cas.
 
 Le béton ciré demande un entretien adapté : une cire protectrice à appliquer une à deux fois par an, et des produits de nettoyage neutres sans acide. Bien entretenu, il dure des décennies.
 
@@ -85,7 +85,7 @@ Le combo gagnant : plan en béton ciré + vasque à poser ronde en ciment + robi
 
 ### La douche à l'italienne dans un esprit industriel
 
-Une [douche italienne avec carrelage sombre](/guides/salle-de-bain/carrelage-douche-italienne/) colle parfaitement au style industriel. Grand format (60x60 ou 80x80 minimum), carreaux de ciment ou imitation béton, ou même un bac à douche en résine imitant le béton.
+Une [douche italienne avec carrelage sombre](/carrelage-douche-italienne/) colle parfaitement au style industriel. Grand format (60x60 ou 80x80 minimum), carreaux de ciment ou imitation béton, ou même un bac à douche en résine imitant le béton.
 
 Les parois de douche jouent aussi un rôle important. Dans l'esprit industriel, opte pour :
 - Du verre clair avec profilés en métal noir (Kinedo ou Lapeyre, entre 300 et 600€)
@@ -185,7 +185,7 @@ Oui, et souvent spectaculaire. Une baignoire autoportante en fonte émaillée no
 
 La baignoire autoportante n'est pas donnée (entre 500€ pour du bas de gamme et 2000€ pour de la vraie fonte), mais elle peut être l'élément central autour duquel tout le reste s'articule. Si tu as la place et le budget, c'est un investissement qui vaut vraiment le coup dans un intérieur industriel.
 
-Pour les petits espaces, une [baignoire scandinave avec sa forme compacte et ses lignes épurées](/guides/salle-de-bain/baignoire-scandinave/) peut aussi s'intégrer dans un esprit industriel doux si tu misez sur des finitions mates et un environnement béton/bois.
+Pour les petits espaces, une [baignoire scandinave avec sa forme compacte et ses lignes épurées](/baignoire-scandinave/) peut aussi s'intégrer dans un esprit industriel doux si tu misez sur des finitions mates et un environnement béton/bois.
 
 > [!IMPORTANT]
 > Une baignoire autoportante en fonte pèse entre 80 et 120 kg vide. Avant de l'installer, fais vérifier la résistance de ton plancher, particulièrement en appartement ou dans une maison ancienne. Une dalle insuffisamment renforcée peut poser des problèmes à terme.
@@ -213,7 +213,7 @@ Si tu pars d'une salle de bain classique et que tu veux migrer vers l'industriel
 2. **Deuxième étape (200-500€)** : change le miroir pour un modèle rond ou rectangulaire à monture métal, et installe un ou deux luminaires de style atelier
 3. **Troisième étape (500€ et plus)** : attaque les surfaces - carrelage imitation béton, peinture effet béton sur les murs, ou remplacement du meuble vasque
 
-Si tu fais une rénovation complète, le carrelage est ton premier levier. Un [carrelage grand format pour ta douche italienne](/guides/salle-de-bain/carrelage-douche-italienne/) dans des teintes ardoise ou béton posera immédiatement les bases de l'atmosphère industrielle.
+Si tu fais une rénovation complète, le carrelage est ton premier levier. Un [carrelage grand format pour ta douche italienne](/carrelage-douche-italienne/) dans des teintes ardoise ou béton posera immédiatement les bases de l'atmosphère industrielle.
 
 La salle de bain industrielle est l'un des styles les plus durables en déco intérieure - à la différence des tendances éphémères, il ne se démode pas. Son ancrage dans les matières authentiques lui donne une forme d'intemporalité. Et son côté DIY-friendly le rend accessible même avec un budget serré.
 
@@ -222,8 +222,8 @@ La salle de bain industrielle est l'un des styles les plus durables en déco int
 
 ## Sur le meme theme
 
-- [salle de bain rustique moderne](/guides/salle-de-bain/salles-de-bains-rustiques-decoration-et-design-modernes/)
-- [carrelage métro salle de bain](/guides/salle-de-bain/carrelage-metro-salle-de-bain/)
+- [salle de bain rustique moderne](/salles-de-bains-rustiques-decoration-et-design-modernes/)
+- [carrelage métro salle de bain](/carrelage-metro-salle-de-bain/)
 
 ## Questions fréquentes
 

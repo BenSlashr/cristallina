@@ -65,7 +65,7 @@ graph LR
 
 ### La terracotta adoucie
 
-Moins orangée qu'il y a deux ans, la terracotta version 2026 tire vers la brique douce, le rose poudré chaud, la rouille atténuée. Elle s'intègre par petites touches dans les coussins, les vases, les cadres muraux, et se marie parfaitement avec le beige et le vert. Si tu aimes cette approche, tu trouveras des idées concrètes dans notre guide sur [la décoration terracotta](/guides/decoration/decorer-avec-terracota/).
+Moins orangée qu'il y a deux ans, la terracotta version 2026 tire vers la brique douce, le rose poudré chaud, la rouille atténuée. Elle s'intègre par petites touches dans les coussins, les vases, les cadres muraux, et se marie parfaitement avec le beige et le vert. Si tu aimes cette approche, tu trouveras des idées concrètes dans notre guide sur [la décoration terracotta](/decorer-avec-terracota/).
 
 > [!NOTE]
 > Règle simple pour une palette salon réussie : une couleur dominante (murs et gros meubles), une couleur secondaire (textiles et petits meubles), une couleur d'accent (objets et accessoires). Pas plus de trois familles de teintes.
@@ -117,7 +117,7 @@ C'est LA pièce déco du salon en 2026. La table basse n'est plus un simple plat
 
 ### Les meubles vintage chinés
 
-La tendance vintage ne faiblit pas. Mixer des meubles neufs et des pièces chinées donne au salon un look unique et une vraie authenticité. Un fauteuil en cuir des années 70, un guéridon en métal rétro, une étagère en bois patinée - ces éléments apportent cette petite dose d'imprévu qui empêche un intérieur d'avoir l'air sorti d'un catalogue. Pour aller plus loin sur ce sujet, jette un oeil à notre guide [décoration vintage : 50 images et idées](/guides/decoration/decoration-vintage-50-images-et-idees-pour-linspiration/).
+La tendance vintage ne faiblit pas. Mixer des meubles neufs et des pièces chinées donne au salon un look unique et une vraie authenticité. Un fauteuil en cuir des années 70, un guéridon en métal rétro, une étagère en bois patinée - ces éléments apportent cette petite dose d'imprévu qui empêche un intérieur d'avoir l'air sorti d'un catalogue. Pour aller plus loin sur ce sujet, jette un oeil à notre guide [décoration vintage : 50 images et idées](/decoration-vintage-50-images-et-idees-pour-linspiration/).
 
 ```mermaid
 flowchart TD
@@ -158,7 +158,7 @@ Les luminaires deviennent des objets déco à part entière. Lampadaires sculptu
 
 Le mur blanc vide, c'est terminé. En 2026, on habille ses murs avec une approche réfléchie : un ensemble de cadres dépareillés mais harmonieux, un miroir aux formes organiques, des étagères murales pour exposer des objets, un grand tableau ou une tenture murale en tissu. Le mur devient un espace d'expression au même titre que le mobilier.
 
-Pour des idées concrètes d'agencement mural, consulte notre guide pour [bien accrocher un tableau mural](/guides/decoration/bien-accrocher-tableau-mural/).
+Pour des idées concrètes d'agencement mural, consulte notre guide pour [bien accrocher un tableau mural](/bien-accrocher-tableau-mural/).
 
 > [!TIP]
 > Astuce de pro pour une composition murale réussie : dispose tes cadres au sol d'abord, prends une photo avec ton téléphone, et ajuste avant de percer. Tu gagneras du temps et tu éviteras les trous inutiles.
@@ -169,7 +169,7 @@ A l'opposé du minimalisme vivant, le maximalisme contrôlé fait son grand reto
 
 Un salon maximaliste réussi joue sur l'accumulation de matières (velours, bois, métal, céramique), les motifs (un tapis à motifs + des coussins imprimés + un papier peint), et les époques (un canapé contemporain + une lampe vintage + un miroir ancien). La clé, c'est la cohérence de la palette de couleurs qui unifie le tout.
 
-Ce style demande un bon oeil et un peu d'audace, mais le résultat est un intérieur avec une vraie personnalité. Si le sujet t'intéresse, notre article sur [les couleurs du salon 2026](/guides/decoration/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) te donnera les palettes idéales pour composer un look maximaliste sans faute de goût.
+Ce style demande un bon oeil et un peu d'audace, mais le résultat est un intérieur avec une vraie personnalité. Si le sujet t'intéresse, notre article sur [les couleurs du salon 2026](/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) te donnera les palettes idéales pour composer un look maximaliste sans faute de goût.
 
 ```mermaid
 flowchart LR
@@ -198,7 +198,7 @@ Les designers intègrent cette dimension directement dans leurs collections : bo
 
 ## Sur le meme theme
 
-- [salons modernes et élégants 2026](/guides/decoration/salons-modernes-et-elegants-2026/)
+- [salons modernes et élégants 2026](/salons-modernes-et-elegants-2026/)
 
 ## FAQ : tes questions sur les salons modernes 2026
 

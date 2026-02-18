@@ -81,7 +81,7 @@ Le vert est partout cette année. Vert sauge, vert olive, vert forêt, vert d'ea
 - Made.com Orson velours vert forêt : 999 euros, ultra élégant
 - Maisons du Monde Canapé Roma vert amande : 549 euros
 
-Le vert sauge en particulier s'associe à merveille avec des murs blancs chauds, du bois clair et des touches de laiton. Si tu veux aller plus loin dans les associations, jette un oeil à mon guide sur les [couleurs tendance 2026 pour les murs](/guides/couleurs/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/) - le vert y tient une belle place.
+Le vert sauge en particulier s'associe à merveille avec des murs blancs chauds, du bois clair et des touches de laiton. Si tu veux aller plus loin dans les associations, jette un oeil à mon guide sur les [couleurs tendance 2026 pour les murs](/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/) - le vert y tient une belle place.
 
 ### Le bleu : du doux au dramatique
 
@@ -111,7 +111,7 @@ Le terracotta, le cognac, le brique, le rouille - ces teintes sont revenues en f
 - Made.com Tubby velours rouille : 649 euros
 - AM.PM Nelia en lin teinte terracotta : 1 490 euros, somptueux
 
-Si le terracotta t'attire, regarde aussi les [associations avec l'orange en déco](/guides/couleurs/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) - beaucoup de palettes fonctionnent pareil.
+Si le terracotta t'attire, regarde aussi les [associations avec l'orange en déco](/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) - beaucoup de palettes fonctionnent pareil.
 
 ## Comment choisir selon ta pièce
 
@@ -211,7 +211,7 @@ Voici mes combinaisons préférées, testées et approuvées :
 
 **Canapé terracotta + murs beige sable** : chaleur méditerranéenne garantie. Du bois foncé et des plantes vertes pour équilibrer.
 
-Pour aller plus loin dans les palettes murales, mon article sur les [couleurs qui donnent de la profondeur à une pièce](/guides/couleurs/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece/) te donnera plein d'idées complémentaires.
+Pour aller plus loin dans les palettes murales, mon article sur les [couleurs qui donnent de la profondeur à une pièce](/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece/) te donnera plein d'idées complémentaires.
 
 > [!IMPORTANT]
 > Teste toujours la couleur du canapé en magasin ou avec un échantillon de tissu chez toi. Les écrans d'ordinateur déforment les teintes - un "vert sauge" sur Instagram peut être un "vert kaki" dans la réalité. Demande systématiquement des échantillons gratuits (la plupart des marques en proposent).
@@ -232,12 +232,12 @@ Si tu hésites entre deux couleurs, pose-toi cette question : "De laquelle je me
 
 Et rappelle-toi : un canapé, ça se change moins facilement qu'un mur de peinture. Si tu veux jouer la sécurité sur le canapé, tu peux toujours compenser avec des murs plus audacieux. C'est ma stratégie préférée : canapé neutre + murs avec du caractère. Comme ça, le jour où tu veux changer d'ambiance, tu reprends juste la peinture.
 
-Si tu cherches de l'inspiration pour les murs justement, mon guide sur les [couleurs pour la salle à manger](/guides/couleurs/couleurs-pour-la-salle-a-manger-a-peindre-et-a-decorer/) te montrera comment peinture et mobilier peuvent raconter la même histoire.
+Si tu cherches de l'inspiration pour les murs justement, mon guide sur les [couleurs pour la salle à manger](/couleurs-pour-la-salle-a-manger-a-peindre-et-a-decorer/) te montrera comment peinture et mobilier peuvent raconter la même histoire.
 
 
 ## Sur le meme theme
 
-- [chaise de salon](/guides/decoration/chaise-salon/)
+- [chaise de salon](/chaise-salon/)
 
 ## FAQ
 

@@ -54,7 +54,7 @@ C'est LE projet qui explose depuis le télétravail. Un conteneur 20 pieds donne
 
 Pour un bureau fonctionnel, prévois : isolation par l'intérieur (laine de roche ou panneaux de mousse rigide), bardage intérieur en bois ou placos, climatisation réversible pour l'été, velux ou fenêtres coupées dans les parois pour la lumière naturelle.
 
-Si tu es curieuse de voir ce que ça donne concrètement, j'ai écrit un article détaillé sur [les bureaux de jardin compacts et leurs limites](/guides/exterieur/bureau-de-jardin-de-5m2-un-mauvais-concept-qui-etait-cense-etre-sympa/) - avec les pièges à éviter et les vraies questions à se poser avant de commencer.
+Si tu es curieuse de voir ce que ça donne concrètement, j'ai écrit un article détaillé sur [les bureaux de jardin compacts et leurs limites](/bureau-de-jardin-de-5m2-un-mauvais-concept-qui-etait-cense-etre-sympa/) - avec les pièges à éviter et les vraies questions à se poser avant de commencer.
 
 Budget bureau complet avec isolation et électricité : entre 5 000 et 12 000 euros selon les finitions.
 
@@ -81,7 +81,7 @@ Pour le barbecue ou le foyer central, la clé c'est la ventilation : une ouvertu
 
 Deux conteneurs alignés avec une piscine hors-sol ou enterrée entre eux : c'est l'une des architectures les plus recherchées du moment. Les conteneurs servent de vestiaires, de douche extérieure, de rangement pour les équipements et de coin ombrage. Le rendu est super architecturé sans être froid.
 
-Pour ce type de projet, tu peux t'inspirer de l'univers [maison container](/guides/decoration/maison-container/) qui va bien plus loin dans l'intégration architecturale - certains propriétaires construisent des maisons entières avec des conteneurs empilés.
+Pour ce type de projet, tu peux t'inspirer de l'univers [maison container](/maison-container/) qui va bien plus loin dans l'intégration architecturale - certains propriétaires construisent des maisons entières avec des conteneurs empilés.
 
 ### 7. Le foyer et la salle de feu
 
@@ -176,7 +176,7 @@ Pour intégrer le conteneur dans le jardin, quelques plantes grimpantes font des
 > [!TIP]
 > Pour le sol autour du conteneur, évite le béton nu - c'est froid et ça durcit l'ensemble. Préfère des dalles de terrasse en béton ciré, des lames de bois composite ou du gravier décoratif. Ça crée une transition naturelle entre le conteneur et le jardin.
 
-Et si tu aimes cuisiner en extérieur, le conteneur peut aussi accueillir un vrai coin cuisine d'été, voire [un four à pizza fait maison](/guides/decoration/fabriquer-four-a-pizza/) dans l'espace adjacent - le genre de projet qui transforme définitivement ton jardin en lieu de vie.
+Et si tu aimes cuisiner en extérieur, le conteneur peut aussi accueillir un vrai coin cuisine d'été, voire [un four à pizza fait maison](/fabriquer-four-a-pizza/) dans l'espace adjacent - le genre de projet qui transforme définitivement ton jardin en lieu de vie.
 
 ## Budget global selon les projets
 
@@ -201,8 +201,8 @@ Prends le temps de bien définir l'usage avant tout - c'est lui qui déterminera
 
 ## Sur le meme theme
 
-- [jardins intérieurs modernes](/guides/exterieur/jardins-interieurs-modernes-photos-et-conseils-de-conception/)
-- [jardins et cours mexicains](/guides/exterieur/jardins-et-cours-mexicains-images-et-idees-pour-linspiration/)
+- [jardins intérieurs modernes](/jardins-interieurs-modernes-photos-et-conseils-de-conception/)
+- [jardins et cours mexicains](/jardins-et-cours-mexicains-images-et-idees-pour-linspiration/)
 
 ## Questions fréquentes
 

@@ -81,11 +81,11 @@ Si tu aimes le style scandinave, cette association est faite pour toi. Le bois c
 
 C'est l'association reine du style art déco. Bleu profond (marine ou nuit) combiné à des touches dorées - pieds de lampe en laiton, miroir à cadre doré, table basse avec structure métal doré. Le contraste entre le bleu froid et le doré chaud crée une tension visuelle sublime. Pas besoin de beaucoup de doré, quelques éléments suffisent pour que tout s'éclaire.
 
-Si tu aimes cette direction, jette un oeil à notre guide sur les [idées de décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/) pour pousser le style encore plus loin.
+Si tu aimes cette direction, jette un oeil à notre guide sur les [idées de décoration art déco](/50-idees-de-decoration-art-deco/) pour pousser le style encore plus loin.
 
 ### Bleu + terracotta : le duo audacieux
 
-Plus original et très tendance en ce moment. Le bleu (canard ou marine) associé à la terracotta crée un contraste chaud-froid saisissant. Des coussins terracotta sur un canapé bleu canard, un vase en terre cuite sur une étagère peinte en bleu marine - ça vibre et ça donne de l'énergie à la pièce sans la surcharger. On en parle aussi dans notre article sur les [couleurs du salon 2026](/guides/decoration/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) si tu veux approfondir les palettes tendance.
+Plus original et très tendance en ce moment. Le bleu (canard ou marine) associé à la terracotta crée un contraste chaud-froid saisissant. Des coussins terracotta sur un canapé bleu canard, un vase en terre cuite sur une étagère peinte en bleu marine - ça vibre et ça donne de l'énergie à la pièce sans la surcharger. On en parle aussi dans notre article sur les [couleurs du salon 2026](/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) si tu veux approfondir les palettes tendance.
 
 ```mermaid
 graph LR
@@ -117,7 +117,7 @@ Un canapé en velours bleu canard, c'est une déclaration. C'est souvent le meil
 
 ### Les rideaux bleus
 
-Les rideaux, c'est la touche de bleu la plus douce. Des rideaux en lin bleu pastel ou bleu gris filtrent la lumière et ajoutent de la couleur sans dominer. Ils créent aussi un joli cadre autour de la fenêtre. Si tu veux éviter les erreurs classiques sur le choix et la pose, consulte notre guide sur les [erreurs de rideaux à ne pas commettre](/guides/decoration/erreurs-rideaux/).
+Les rideaux, c'est la touche de bleu la plus douce. Des rideaux en lin bleu pastel ou bleu gris filtrent la lumière et ajoutent de la couleur sans dominer. Ils créent aussi un joli cadre autour de la fenêtre. Si tu veux éviter les erreurs classiques sur le choix et la pose, consulte notre guide sur les [erreurs de rideaux à ne pas commettre](/erreurs-rideaux/).
 
 > [!NOTE]
 > Les rideaux en lin bleu foncent légèrement au lavage. Achète une nuance un tout petit peu plus claire que ce que tu vises et lave-les une fois avant de les accrocher pour stabiliser la teinte.
@@ -141,7 +141,7 @@ Bleu pastel ou bleu grisé + bois clair + blanc + lin. L'ambiance est douce, lum
 
 ### Style bord de mer
 
-Bleu ciel, bleu marine, blanc pur, bois flotté, corde, matières naturelles. C'est la palette "vacances éternelles". On peut aller du très sobre (un seul élément bleu dans un décor blanc et bois) au très affirmé (murs bleu ciel, voilages blancs, mobilier bois brut). Pour approfondir ce style, regarde notre article sur la [décoration maritime moderne](/guides/decoration/decoration-maritime-50-photos-et-idees-modernes/).
+Bleu ciel, bleu marine, blanc pur, bois flotté, corde, matières naturelles. C'est la palette "vacances éternelles". On peut aller du très sobre (un seul élément bleu dans un décor blanc et bois) au très affirmé (murs bleu ciel, voilages blancs, mobilier bois brut). Pour approfondir ce style, regarde notre article sur la [décoration maritime moderne](/decoration-maritime-50-photos-et-idees-modernes/).
 
 ### Style art déco
 
@@ -195,7 +195,7 @@ Une couleur bleu sur un écran et cette même couleur sur ton mur, ce n'est jama
 
 ## Sur le meme theme
 
-- [salon brun](/guides/decoration/salons-bruns-idees-et-images/)
+- [salon brun](/salons-bruns-idees-et-images/)
 
 ## FAQ - Le bleu dans le salon
 

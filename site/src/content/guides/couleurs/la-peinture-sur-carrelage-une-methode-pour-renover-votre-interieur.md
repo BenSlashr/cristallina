@@ -140,7 +140,7 @@ C'est là où beaucoup font des erreurs. La peinture est sèche au toucher en qu
 
 Attends au moins 48h avant de remettre des objets sur un plan de travail peint, et 72h avant de marcher sur un sol, même en chaussettes.
 
-Si tu as envie de voir le résultat rapidement, c'est le bon moment pour te faire un thé et regarder [comment bien choisir une peinture murale de qualité pour le reste de ta pièce](/guides/couleurs/peinture-luxens/).
+Si tu as envie de voir le résultat rapidement, c'est le bon moment pour te faire un thé et regarder [comment bien choisir une peinture murale de qualité pour le reste de ta pièce](/peinture-luxens/).
 
 ## Sol ou mur : les différences importantes
 
@@ -169,7 +169,7 @@ C'est plus exigeant. Le carrelage de sol subit des frottements constants, des ch
 
 Pour les couloirs et les cuisines, le vernis est indispensable. Pour une chambre avec peu de passage, on peut s'en passer mais c'est un risque.
 
-Si tu veux d'autres idées de rénovation de sol à budget limité, j'ai aussi un article sur [peindre un lino pour lui donner une seconde vie](/guides/decoration/peindre-lino/).
+Si tu veux d'autres idées de rénovation de sol à budget limité, j'ai aussi un article sur [peindre un lino pour lui donner une seconde vie](/peindre-lino/).
 
 ## Les erreurs courantes et comment les éviter
 
@@ -212,7 +212,7 @@ Avec une bonne préparation et une peinture époxy de qualité, tu peux compter 
 
 L'entretien est simple : évite les produits abrasifs et les éponges grattantes. Un nettoyant multi-surfaces doux suffit. Et si un jour tu veux changer de couleur, une légère préparation et tu repasses une couche.
 
-Pour aller plus loin dans la rénovation de ta déco avec les bonnes couleurs, tu peux jeter un oeil à notre [comparatif des meilleures gammes de peinture murale](/guides/couleurs/avis-peinture-spectrum/) - les critères de choix sont souvent les mêmes.
+Pour aller plus loin dans la rénovation de ta déco avec les bonnes couleurs, tu peux jeter un oeil à notre [comparatif des meilleures gammes de peinture murale](/avis-peinture-spectrum/) - les critères de choix sont souvent les mêmes.
 
 > [!IMPORTANT]
 > Si ton carrelage est carré et en bon état structurel, la peinture est une excellente solution. Si le carrelage se décolle, présente des fissures traversantes ou est posé sur un support humide, la peinture sera une solution provisoire au mieux. Dans ce cas, mieux vaut traiter le problème de fond.
@@ -230,8 +230,8 @@ Le rapport effort-résultat est imbattable pour ce type de rénovation. Et franc
 
 ## Sur le meme theme
 
-- [peinture pour carrelage cuisine](/guides/cuisine/peinture-pour-carrelage-cuisine/)
-- [peinture carrelage extérieur terrasse](/guides/exterieur/peinture-pour-carrelage-exterieur-terrasse/)
+- [peinture pour carrelage cuisine](/peinture-pour-carrelage-cuisine/)
+- [peinture carrelage extérieur terrasse](/peinture-pour-carrelage-exterieur-terrasse/)
 
 ## Questions fréquentes
 

@@ -207,10 +207,10 @@ flowchart LR
 
 ## Et pour les autres matériaux de ta déco ?
 
-Si tu travailles sur le nettoyage de ta maison en général, j'ai aussi des guides sur d'autres surfaces. Le principe est souvent le même : produits doux, gestes délicats, et surtout tester avant d'attaquer. Pour le parquet qui a pris des taches, le guide sur [les taches sur parquet](/guides/decoration/parquet-tache/) t'explique les bons réflexes. Et si tu veux rafraichir ta table du salon en même temps que ton canapé, j'ai détaillé [comment nettoyer une table en céramique](/guides/decoration/comment-nettoyer-une-table-en-ceramique/) sans la rayer.
+Si tu travailles sur le nettoyage de ta maison en général, j'ai aussi des guides sur d'autres surfaces. Le principe est souvent le même : produits doux, gestes délicats, et surtout tester avant d'attaquer. Pour le parquet qui a pris des taches, le guide sur [les taches sur parquet](/parquet-tache/) t'explique les bons réflexes. Et si tu veux rafraichir ta table du salon en même temps que ton canapé, j'ai détaillé [comment nettoyer une table en céramique](/comment-nettoyer-une-table-en-ceramique/) sans la rayer.
 
 > [!NOTE]
-> Si tu rénoves ton salon en même temps, jette un oeil à nos idées pour les [salons modernes et élégants en 2026](/guides/decoration/salons-modernes-et-elegants-2026/) - ça peut donner envie de renouveler toute la pièce autour de ce canapé tout propre.
+> Si tu rénoves ton salon en même temps, jette un oeil à nos idées pour les [salons modernes et élégants en 2026](/salons-modernes-et-elegants-2026/) - ça peut donner envie de renouveler toute la pièce autour de ce canapé tout propre.
 
 ---
 
@@ -231,8 +231,8 @@ Si tu travailles sur le nettoyage de ta maison en général, j'ai aussi des guid
 
 ## Sur le meme theme
 
-- [canapé ikea 2 places](/guides/decoration/ikea-frappe-fort-avec-son-nouveau-canape-2-places-parfait-pour-les-petits-salons/)
-- [semer du gazon sans rouleau](/guides/decoration/comment-peut-on-semer-du-gazon-sans-rouleau/)
+- [canapé ikea 2 places](/ikea-frappe-fort-avec-son-nouveau-canape-2-places-parfait-pour-les-petits-salons/)
+- [semer du gazon sans rouleau](/comment-peut-on-semer-du-gazon-sans-rouleau/)
 
 ## FAQ : vos questions les plus fréquentes
 

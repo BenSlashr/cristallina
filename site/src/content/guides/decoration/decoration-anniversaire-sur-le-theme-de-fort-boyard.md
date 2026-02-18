@@ -30,7 +30,7 @@ Avant de foncer acheter des ballons, prends une minute pour bien cerner l'univer
 Garde ces codes en tête pour que chaque élément de ta déco parle le même langage. L'or est vraiment la couleur pivot - elle unifie tout sans que ça fasse brouillon.
 
 > [!TIP]
-> Commence par poser une palette de 3 couleurs max : noir + or + orange. Tu peux ensuite ajouter du bordeaux en accent sans que ça devienne surchargé. C'est la même logique qu'une déco murale réussie - comme quand on travaille une [déco terracotta dans une chambre](/guides/chambre/deco-terracotta-chambre/), les nuances chaudes fonctionnent ensemble.
+> Commence par poser une palette de 3 couleurs max : noir + or + orange. Tu peux ensuite ajouter du bordeaux en accent sans que ça devienne surchargé. C'est la même logique qu'une déco murale réussie - comme quand on travaille une [déco terracotta dans une chambre](/deco-terracotta-chambre/), les nuances chaudes fonctionnent ensemble.
 
 ## Les invitations : le premier contact avec l'aventure
 
@@ -185,7 +185,7 @@ Voici une estimation réaliste selon les niveaux de budget :
 | Coffre + lots | 15 euros | 30 euros |
 | **Total** | **75 euros** | **165 euros** |
 
-Pour 10 à 12 enfants, c'est tout à fait raisonnable. La bonne nouvelle, c'est que la plupart des éléments de déco DIY - comme pour un projet de [crépissage d'un mur intérieur](/guides/decoration/crepir-un-mur-interieur/) - demandent plus de temps que d'argent.
+Pour 10 à 12 enfants, c'est tout à fait raisonnable. La bonne nouvelle, c'est que la plupart des éléments de déco DIY - comme pour un projet de [crépissage d'un mur intérieur](/crepir-un-mur-interieur/) - demandent plus de temps que d'argent.
 
 > [!IMPORTANT]
 > Garde toujours une petite réserve de 15 à 20 euros pour les imprévus : une bougie torche qui lâche, un ballon qui éclate, ou un lot de remplacement pour une épreuve qu'on improvise au dernier moment.
@@ -198,7 +198,7 @@ Pour 10 à 12 enfants, c'est tout à fait raisonnable. La bonne nouvelle, c'est 
 
 **Pour les adultes et ados** : hausse le niveau des énigmes. Pense à des puzzles logiques, des codes binaires, des rébus complexes. Une touche d'humour avec des références à l'émission originale (années 90) plaira aux adultes nostalgiques.
 
-Si tu veux explorer d'autres thèmes forts en déco, la [déco chambre Harry Potter](/guides/chambre/deco-chambre-harry-potter/) suit la même logique : un univers fort, des codes couleur clairs, et des détails qui font tout le travail d'ambiance.
+Si tu veux explorer d'autres thèmes forts en déco, la [déco chambre Harry Potter](/deco-chambre-harry-potter/) suit la même logique : un univers fort, des codes couleur clairs, et des détails qui font tout le travail d'ambiance.
 
 ## Le photobooth : les souvenirs en images
 
@@ -210,7 +210,7 @@ Un coin photobooth Fort Boyard, c'est simple à installer et les photos sont le 
 
 Pose les accessoires dans un panier en osier à l'entrée du photobooth. Les enfants se servent seuls. Le résultat est toujours meilleur que prévu.
 
-Pour les familles qui aiment les thèmes déco culturels et historiques, jette un oeil à la [décoration marocaine moderne](/guides/decoration/decoration-marocaine-moderne-ou-classique/) - on y retrouve cette même façon de jouer avec les textures, les dorures et les bougies pour créer une ambiance forte.
+Pour les familles qui aiment les thèmes déco culturels et historiques, jette un oeil à la [décoration marocaine moderne](/decoration-marocaine-moderne-ou-classique/) - on y retrouve cette même façon de jouer avec les textures, les dorures et les bougies pour créer une ambiance forte.
 
 ```mermaid
 timeline
@@ -238,7 +238,7 @@ Un anniversaire Fort Boyard réussi repose sur trois piliers : une déco cohére
 
 ## Sur le meme theme
 
-- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+- [décoration art déco](/50-idees-de-decoration-art-deco/)
 
 ## Questions fréquentes
 

@@ -54,7 +54,7 @@ C'est LE modèle qui a lancé la tendance. La TERTIAL est une lampe de bureau ar
 - Pas de variateur intégré (mais tu peux ajouter une ampoule LED dimmable)
 - Le design est volontairement brut, ce qui ne plaira pas à tout le monde
 
-La TERTIAL marche très bien sur un bureau, un plan de travail en cuisine, ou même fixée à une étagère au-dessus d'un fauteuil de lecture. Si tu cherches des idées pour aménager un espace bureau avec un style [industriel-scandinave](/guides/decoration/industriel-scandinave/), elle s'intègre à merveille.
+La TERTIAL marche très bien sur un bureau, un plan de travail en cuisine, ou même fixée à une étagère au-dessus d'un fauteuil de lecture. Si tu cherches des idées pour aménager un espace bureau avec un style [industriel-scandinave](/industriel-scandinave/), elle s'intègre à merveille.
 
 ### FADO - la lampe globe à 19,99 euros
 
@@ -73,7 +73,7 @@ La FADO, c'est l'autre coup de coeur viral. Pas articulée celle-ci, mais elle m
 - Pas de variateur non plus (même astuce : ampoule dimmable)
 - Assez fragile à cause du verre - attention si tu as des enfants en bas âge
 
-La FADO est parfaite pour créer une ambiance cosy dans un [petit salon](/guides/decoration/decoration-petit-salon/) ou une chambre. Posée sur un meuble bas ou une console d'entrée, elle donne immédiatement un air sophistiqué à l'espace.
+La FADO est parfaite pour créer une ambiance cosy dans un [petit salon](/decoration-petit-salon/) ou une chambre. Posée sur un meuble bas ou une console d'entrée, elle donne immédiatement un air sophistiqué à l'espace.
 
 ### KUDDLAVA - la petite plissée à 9,99 euros
 
@@ -168,7 +168,7 @@ La FADO ou la KUDDLAVA sont parfaites ici. La FADO donne une lumière enveloppan
 
 ### Pour le salon
 
-Tout dépend de l'effet recherché. Si tu veux un point lumineux d'ambiance, la FADO posée sur un meuble bas ou une console crée un bel îlot de lumière. Pour un éclairage de lecture à côté du canapé, la TERTIAL fixée sur une étagère fait le job. Et pour un éclairage général d'ambiance, le lampadaire NYMO/SKAFTET apporte une vraie présence décorative. Pour aller plus loin sur l'éclairage de ton salon, tu peux aussi découvrir comment [bien choisir un tableau lumineux](/guides/decoration/choisir-tableau-lumineux/) qui comblera les zones d'ombre de manière originale.
+Tout dépend de l'effet recherché. Si tu veux un point lumineux d'ambiance, la FADO posée sur un meuble bas ou une console crée un bel îlot de lumière. Pour un éclairage de lecture à côté du canapé, la TERTIAL fixée sur une étagère fait le job. Et pour un éclairage général d'ambiance, le lampadaire NYMO/SKAFTET apporte une vraie présence décorative. Pour aller plus loin sur l'éclairage de ton salon, tu peux aussi découvrir comment [bien choisir un tableau lumineux](/choisir-tableau-lumineux/) qui comblera les zones d'ombre de manière originale.
 
 ```mermaid
 graph LR
@@ -230,8 +230,8 @@ J'ai fait quelques bourdes au fil des années, alors autant que tu en profites.
 
 ## Sur le meme theme
 
-- [tables de nuit ikea à petit prix](/guides/shopping/ikea-frappe-fort-sa-nouvelle-table-de-nuit-a-9-e-en-edition-limitee/)
-- [support casque ikea gaming](/guides/shopping/ikea-lance-son-nouveau-support-pour-casque-design-a-un-prix-totalement-fou/)
+- [tables de nuit ikea à petit prix](/ikea-frappe-fort-sa-nouvelle-table-de-nuit-a-9-e-en-edition-limitee/)
+- [support casque ikea gaming](/ikea-lance-son-nouveau-support-pour-casque-design-a-un-prix-totalement-fou/)
 
 ## FAQ - Lampes articulées IKEA
 

@@ -53,7 +53,7 @@ C'est le produit qui m'a le plus surprise. Ce support mural permet d'accrocher u
 - Deux manettes maximum par support
 - Pas de système de charge intégré
 
-Ce support fonctionne très bien au-dessus d'un bureau gaming, mais aussi dans un salon où tu veux garder tes manettes à portée de main sans qu'elles traînent sur la table basse. Si ton espace a un esprit [industriel-scandinave](/guides/decoration/industriel-scandinave/), l'acier noir mat se fond parfaitement dans le décor.
+Ce support fonctionne très bien au-dessus d'un bureau gaming, mais aussi dans un salon où tu veux garder tes manettes à portée de main sans qu'elles traînent sur la table basse. Si ton espace a un esprit [industriel-scandinave](/industriel-scandinave/), l'acier noir mat se fond parfaitement dans le décor.
 
 ### L'accessoire roulettes pour tour PC - environ 10 euros
 
@@ -129,7 +129,7 @@ En parallèle de la gamme UPPSPEL, IKEA développe la collection Teklan, centré
 </div>
 
 
-Les barres LED Teklan se placent derrière le moniteur et diffusent une lumière d'ambiance qui réduit la fatigue oculaire pendant les sessions longues. Le prix tourne entre 15 et 30 euros selon la longueur, avec un contrôle via l'appli IKEA Home Smart. Pour un éclairage d'appoint dans ton espace, tu peux aussi voir comment [choisir un tableau lumineux](/guides/decoration/choisir-tableau-lumineux/) qui apporte de la personnalité au mur.
+Les barres LED Teklan se placent derrière le moniteur et diffusent une lumière d'ambiance qui réduit la fatigue oculaire pendant les sessions longues. Le prix tourne entre 15 et 30 euros selon la longueur, avec un contrôle via l'appli IKEA Home Smart. Pour un éclairage d'appoint dans ton espace, tu peux aussi voir comment [choisir un tableau lumineux](/choisir-tableau-lumineux/) qui apporte de la personnalité au mur.
 
 Les enceintes Teklan sont conçues pour se poser sur les étagères UPPSPEL, avec un design compact et une connectique pensée pour le gaming (Bluetooth 5.0, prise jack 3,5 mm). Le son est correct pour du gaming casual, sans prétendre remplacer un vrai système hi-fi.
 
@@ -142,7 +142,7 @@ En dehors du gaming, IKEA sort la cimaise DAGGKAPRIFOL à 8 euros, une solution 
 </div>
 
 
-Je la mentionne ici parce qu'elle peut compléter un setup gaming : accroche des photos de tes jeux préférés, des prints d'artistes ou même un petit casque léger. Le style guide 2026 d'IKEA pousse d'ailleurs vers ce genre de solutions modulables qui permettent de changer la déco sans abîmer les murs. Si tu cherches d'autres inspirations murales, j'ai aussi testé [une lampe articulée IKEA à moins de 5 euros](/guides/shopping/cohue-chez-ikea-avec-cette-lampe-articulee-super-design-a-moins-de-5-euros/) qui peut se fixer au-dessus du bureau.
+Je la mentionne ici parce qu'elle peut compléter un setup gaming : accroche des photos de tes jeux préférés, des prints d'artistes ou même un petit casque léger. Le style guide 2026 d'IKEA pousse d'ailleurs vers ce genre de solutions modulables qui permettent de changer la déco sans abîmer les murs. Si tu cherches d'autres inspirations murales, j'ai aussi testé [une lampe articulée IKEA à moins de 5 euros](/cohue-chez-ikea-avec-cette-lampe-articulee-super-design-a-moins-de-5-euros/) qui peut se fixer au-dessus du bureau.
 
 ## Comment intégrer un setup gaming dans ta déco
 
@@ -180,8 +180,8 @@ graph LR
 
 ## Sur le meme theme
 
-- [plateau multifonction ikea](/guides/shopping/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
-- [étagères murales ikea](/guides/shopping/cohue-chez-ikea-avec-letagere-murale-prisee-a-prix-imbattable/)
+- [plateau multifonction ikea](/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison/)
+- [étagères murales ikea](/cohue-chez-ikea-avec-letagere-murale-prisee-a-prix-imbattable/)
 
 ## FAQ - Accessoires gaming IKEA UPPSPEL
 

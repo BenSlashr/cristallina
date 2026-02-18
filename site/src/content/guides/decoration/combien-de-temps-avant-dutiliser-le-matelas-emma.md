@@ -147,7 +147,7 @@ Le choix du support influe directement sur la durée de vie et le confort de ton
 - **Lit plateforme** (base plate)
 - **Sol** (tatami, tapis épais)
 
-Si tu as une [chambre à coucher à redécorer pour 2026](/guides/chambre/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/), c'est le bon moment pour choisir un sommier adapté et penser à l'ensemble de ton espace nuit en même temps que ton nouveau matelas.
+Si tu as une [chambre à coucher à redécorer pour 2026](/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/), c'est le bon moment pour choisir un sommier adapté et penser à l'ensemble de ton espace nuit en même temps que ton nouveau matelas.
 
 Le prix d'un bon sommier à lattes pour un 160x200 cm tourne autour de 150 à 400 euros selon les marques. IKEA propose des sommiers compatibles Emma à partir de 150 euros environ (le LEIRSUND par exemple). Si tu optes pour un lit à plateforme, assure-toi que la surface est bien plane et ventilée.
 
@@ -170,9 +170,9 @@ Enfin, un point souvent oublié : lave ta housse amovible Emma régulièrement. 
 
 ## Sur le meme theme
 
-- [pistolet à calfeutrer](/guides/decoration/pistolet-a-calfeutrer/)
-- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
-- [facades de maisons modernes 2026](/guides/decoration/facades-de-maisons-modernes-2026/)
+- [pistolet à calfeutrer](/pistolet-a-calfeutrer/)
+- [isolation dalle béton](/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [facades de maisons modernes 2026](/facades-de-maisons-modernes-2026/)
 
 ## Récap : tout ce qu'il faut retenir
 
@@ -186,6 +186,6 @@ Pour résumer en quelques points clés :
 - Mets une **alèse respirante** dès la première nuit.
 - Si ton matelas ne reprend pas sa forme après une semaine, contacte Emma (garantie 10 ans + 100 nuits d'essai).
 
-Prendre ces 48 à 72 heures de patience te permettra de profiter pleinement du confort de ton Emma dès la première nuit. Et si tu es en pleine réorganisation de ta chambre, que tu penses à des solutions de rangement ou à une nouvelle déco, n'oublie pas de jeter un oeil à nos conseils sur l'[entretien du parquet taché](/guides/decoration/parquet-tache/) - pendant que tu réaménages, autant en profiter pour remettre tout votre sol en état aussi !
+Prendre ces 48 à 72 heures de patience te permettra de profiter pleinement du confort de ton Emma dès la première nuit. Et si tu es en pleine réorganisation de ta chambre, que tu penses à des solutions de rangement ou à une nouvelle déco, n'oublie pas de jeter un oeil à nos conseils sur l'[entretien du parquet taché](/parquet-tache/) - pendant que tu réaménages, autant en profiter pour remettre tout votre sol en état aussi !
 
 Un bon matelas, un bon support, un peu de patience... et des nuits de qualité pour les années à venir. C'est tout ce qu'on veut, non ?

@@ -55,7 +55,7 @@ La base doit être solide, stable et à la bonne hauteur. 80-90 cm de hauteur de
 
 Commence par **une dalle béton de fondation** de 15-20 cm d'épaisseur, armée, sur sol stabilisé. Elle doit dépasser le tablier d'au moins 20 cm tout autour pour l'isolation. Laisse sécher 48h minimum.
 
-Monte ensuite le tablier en parpaings creux 20 x 20 x 50 cm, montés avec du mortier bâtiment classique. Prévois une **case de stockage** pour le bois à l'avant : c'est pratique et ça fait beau. Tu peux t'inspirer des mêmes techniques que pour [poser une bordure de jardin sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/) pour les finitions extérieures - la gestion des niveaux et des joints est similaire.
+Monte ensuite le tablier en parpaings creux 20 x 20 x 50 cm, montés avec du mortier bâtiment classique. Prévois une **case de stockage** pour le bois à l'avant : c'est pratique et ça fait beau. Tu peux t'inspirer des mêmes techniques que pour [poser une bordure de jardin sans béton](/poser-bordure-jardin-sans-beton/) pour les finitions extérieures - la gestion des niveaux et des joints est similaire.
 
 Une fois le tablier monté, coule une dalle de béton réfractaire de 10 cm pour la platine (le plancher sur lequel reposera la sole). Ou utilise des dalles béton standard 5 cm + une couche de sable réfractaire tassé.
 
@@ -129,7 +129,7 @@ Une fois la voûte terminée et sèche, applique une couche d'isolation extérie
 </div>
 
 
-Applique-la en deux passes de 6-7 cm chacune, laisse sécher 24h entre les couches. Une fois sec, tu peux finir avec un crépi coloré - ça donne un rendu soigné et protège de l'humidité. Si tu veux en savoir plus sur les techniques de finition murale, l'article sur [crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/) donne de bons repères sur la gestion des couches et des temps de séchage.
+Applique-la en deux passes de 6-7 cm chacune, laisse sécher 24h entre les couches. Une fois sec, tu peux finir avec un crépi coloré - ça donne un rendu soigné et protège de l'humidité. Si tu veux en savoir plus sur les techniques de finition murale, l'article sur [crépir un mur intérieur](/crepir-un-mur-interieur/) donne de bons repères sur la gestion des couches et des temps de séchage.
 
 ```mermaid
 flowchart LR
@@ -182,7 +182,7 @@ Pousse les braises sur le côté (jamais directement sous la pizza), attends 5 m
 | Finitions + cheminée | Crépi + tube inox | 30-50 € |
 | **Total** | | **360-490 €** |
 
-Les variations de prix viennent surtout de la taille du four et des finitions extérieures. Pour le côté déco du tablier, tu peux t'inspirer de l'article sur les [pneus recyclés pour la décoration](/guides/decoration/pneus-recycles-pour-la-decoration/) - la même logique de récup et de matières texturées peut donner un look original au bas du four. Et si tu hésites encore sur la couleur de ton crépi extérieur, jette un oeil à notre guide sur les [couleurs pour les extérieurs et facades en 2026](/guides/exterieur/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/).
+Les variations de prix viennent surtout de la taille du four et des finitions extérieures. Pour le côté déco du tablier, tu peux t'inspirer de l'article sur les [pneus recyclés pour la décoration](/pneus-recycles-pour-la-decoration/) - la même logique de récup et de matières texturées peut donner un look original au bas du four. Et si tu hésites encore sur la couleur de ton crépi extérieur, jette un oeil à notre guide sur les [couleurs pour les extérieurs et facades en 2026](/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/).
 
 ```mermaid
 pie title Budget construction four à pizza
@@ -198,7 +198,7 @@ pie title Budget construction four à pizza
 
 ## Sur le meme theme
 
-- [table basse diy](/guides/decoration/creez-votre-table-basse-au-design-original-avec-ces-astuces-diy/)
+- [table basse diy](/creez-votre-table-basse-au-design-original-avec-ces-astuces-diy/)
 
 ## FAQ
 

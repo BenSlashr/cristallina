@@ -139,7 +139,7 @@ Pour l'accompagner, pense à :
 - Des **bougies** et une lumière tamisée - une guirlande lumineuse dans la bibliothèque à côté fait des merveilles
 - Une **plante verte** dans un coin pour rappeler la nature
 
-Si tu as déjà adopté une déco terracotta dans d'autres pièces comme dans notre guide sur la [déco terracotta en chambre](/guides/chambre/deco-terracotta-chambre/), tu peux créer un lien visuel avec des coussins terracotta autour du kotatsu - ça chauffe visuellement la pièce avant même d'allumer le chauffage.
+Si tu as déjà adopté une déco terracotta dans d'autres pièces comme dans notre guide sur la [déco terracotta en chambre](/deco-terracotta-chambre/), tu peux créer un lien visuel avec des coussins terracotta autour du kotatsu - ça chauffe visuellement la pièce avant même d'allumer le chauffage.
 
 ### La couverture comme élément déco
 
@@ -162,7 +162,7 @@ Le kotatsu n'est pas réservé aux intérieurs zen épurés. Il s'adapte à plus
 
 **Style bohème** : coussins colorés au sol, petits tapis superposés, luminaires ethniques - ça marche aussi, surtout si tu aimes les intérieurs qui racontent une histoire voyageuse.
 
-Pour une déco à l'ambiance marocaine, tu peux même jouer la carte du métissage comme on le montre dans notre article sur la [décoration marocaine moderne](/guides/decoration/decoration-marocaine-moderne-ou-classique/) - un kotatsu avec des coussins en kilim et une lanterne en métal ajouré, c'est surprenant mais ça fonctionne vraiment.
+Pour une déco à l'ambiance marocaine, tu peux même jouer la carte du métissage comme on le montre dans notre article sur la [décoration marocaine moderne](/decoration-marocaine-moderne-ou-classique/) - un kotatsu avec des coussins en kilim et une lanterne en métal ajouré, c'est surprenant mais ça fonctionne vraiment.
 
 ## Utilisation au quotidien
 
@@ -198,12 +198,12 @@ Il y a quelque chose de philosophique dans le kotatsu que j'aime beaucoup. Il in
 
 C'est une leçon de déco autant qu'une leçon de vie : la maison est au service du bien-être, pas l'inverse.
 
-Cette philosophie de l'espace pensé pour le corps et le confort se retrouve d'ailleurs dans d'autres éléments de la culture japonaise, comme la [baignoire japonaise](/guides/salle-de-bain/baignoire-japonaise/) - le bain rituel profond qui réchauffe de l'intérieur comme le kotatsu réchauffe de l'extérieur.
+Cette philosophie de l'espace pensé pour le corps et le confort se retrouve d'ailleurs dans d'autres éléments de la culture japonaise, comme la [baignoire japonaise](/baignoire-japonaise/) - le bain rituel profond qui réchauffe de l'intérieur comme le kotatsu réchauffe de l'extérieur.
 
 
 ## Sur le meme theme
 
-- [table basse diy](/guides/decoration/creez-votre-table-basse-au-design-original-avec-ces-astuces-diy/)
+- [table basse diy](/creez-votre-table-basse-au-design-original-avec-ces-astuces-diy/)
 
 ## FAQ sur le kotatsu
 
@@ -227,6 +227,6 @@ Oui et c'est assez simple. Table basse IKEA (LACK ou basse de la gamme LISABO) +
 
 ---
 
-Si tu as une maison avec du parquet bois et que tu remarques des taches ou des zones usées, notre guide sur le [parquet tâché](/guides/decoration/parquet-tache/) peut t'aider à les traiter avant d'installer ton coin kotatsu.
+Si tu as une maison avec du parquet bois et que tu remarques des taches ou des zones usées, notre guide sur le [parquet tâché](/parquet-tache/) peut t'aider à les traiter avant d'installer ton coin kotatsu.
 
 Le kotatsu, c'est finalement ça : un meuble qui transforme un angle de pièce en invitation à s'asseoir, rester, et prendre le temps. Et en hiver, il n'en faut pas plus pour changer l'ambiance de tout un appartement.

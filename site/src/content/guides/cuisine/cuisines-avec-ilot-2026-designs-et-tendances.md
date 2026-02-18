@@ -111,7 +111,7 @@ Chez Cuisinella, la gamme Oxygène propose cette combinaison en prêt-à-poser. 
 
 ### Blanc cassé et terracotta
 
-Pour ceux qui veulent de la chaleur sans tomber dans l'orange vif. L'îlot en terracotta mat (une sorte de terre cuite douce) avec le reste de la cuisine en blanc cassé crée un contraste méditerranéen très séduisant. Si tu cherches des idées dans cette direction, [la cuisine verte et bois](/guides/cuisine/la-cuisine-verte-et-bois-une-teinte-elegante-et-moderne/) explore aussi cette logique de teintes naturelles qui fonctionnent avec le bois.
+Pour ceux qui veulent de la chaleur sans tomber dans l'orange vif. L'îlot en terracotta mat (une sorte de terre cuite douce) avec le reste de la cuisine en blanc cassé crée un contraste méditerranéen très séduisant. Si tu cherches des idées dans cette direction, [la cuisine verte et bois](/la-cuisine-verte-et-bois-une-teinte-elegante-et-moderne/) explore aussi cette logique de teintes naturelles qui fonctionnent avec le bois.
 
 ### Gris perle et bois miel
 
@@ -164,7 +164,7 @@ La règle d'or : il faut au minimum 90 cm de passage libre tout autour de l'îlo
 
 **Cuisine de 15 à 20 m²** : îlot standard de 180 x 90 cm. Tu peux y intégrer une plaque de cuisson et un coin repas 3 places. Budget meubles : 3 000 à 8 000 euros selon la marque.
 
-**Cuisine de 20 m² et plus** : îlot généreux de 240 x 100 cm ou plus. Place pour la cuisson, l'évier, un bar 4 places, des rangements des deux côtés. Budget meubles : 5 000 à 15 000 euros et au-delà. Pour cette gamme, regarde du côté de [nos inspirations cuisine haut de gamme](/guides/cuisine/cuisine-haut-gamme-77-ai-concept/) qui détaille les matériaux et finitions premium.
+**Cuisine de 20 m² et plus** : îlot généreux de 240 x 100 cm ou plus. Place pour la cuisson, l'évier, un bar 4 places, des rangements des deux côtés. Budget meubles : 5 000 à 15 000 euros et au-delà. Pour cette gamme, regarde du côté de [nos inspirations cuisine haut de gamme](/cuisine-haut-gamme-77-ai-concept/) qui détaille les matériaux et finitions premium.
 
 > [!IMPORTANT]
 > Avant de commander un îlot, fais un test simple : découpe un carton aux dimensions prévues et pose-le dans ta cuisine pendant une semaine. Tu verras vite si la circulation est fluide ou si tu passes ton temps à le contourner.
@@ -194,13 +194,13 @@ La personnalisation, c'est ce qui distingue un îlot générique d'un meuble qui
 
 **Les accessoires intégrés** : bac à herbes aromatiques encastré, refroidissement intégré pour les bouteilles, ou encore station de charge sans fil. Comera propose des modules de refroidissement intégrés qui se glissent dans le caisson de l'îlot pour environ 350 euros.
 
-Si tu cherches d'autres idées pour une [petite cuisine moderne avec îlot compact](/guides/cuisine/petites-cuisines-modernes-2026-designs-et-modeles/), on a un guide dédié qui couvre les configurations réduites en détail.
+Si tu cherches d'autres idées pour une [petite cuisine moderne avec îlot compact](/petites-cuisines-modernes-2026-designs-et-modeles/), on a un guide dédié qui couvre les configurations réduites en détail.
 
 
 ## Sur le meme theme
 
-- [cuisines modernes 2026](/guides/cuisine/cuisines-modernes-2026-designs-modeles/)
-- [couleurs de cuisine 2026](/guides/cuisine/couleurs-de-cuisine-2026/)
+- [cuisines modernes 2026](/cuisines-modernes-2026-designs-modeles/)
+- [couleurs de cuisine 2026](/couleurs-de-cuisine-2026/)
 
 ## FAQ
 

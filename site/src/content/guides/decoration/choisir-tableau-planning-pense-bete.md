@@ -111,7 +111,7 @@ C'est là où beaucoup de gens se plantent. Un tableau blanc en plastique dans u
 
 La règle est simple : **ton tableau doit reprendre au moins un matériau ou une couleur déjà présente dans la pièce**. Si ton entrée est en tons chauds avec du bois, choisis un panneau en liège avec cadre bois. Si ta cuisine est moderne avec du métal et du verre, un tableau magnétique en verre sera parfait.
 
-Pour t'inspirer sur les harmonies de matières, tu peux jeter un oeil à nos idées de [décoration minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/) ou de [salons modernes 2026](/guides/decoration/salons-modernes-et-elegants-2026/).
+Pour t'inspirer sur les harmonies de matières, tu peux jeter un oeil à nos idées de [décoration minimaliste](/decoration-minimaliste-idees-et-photos-faciles/) ou de [salons modernes 2026](/salons-modernes-et-elegants-2026/).
 
 ---
 
@@ -191,7 +191,7 @@ Si tu veux un pegboard en bois naturel (bien plus joli que la version plastique)
 4. Insère les tourillons là où tu veux poser des accessoires
 5. Fixe au mur
 
-Temps : 1 à 2 heures. Coût total : 20 à 35 euros. Si tu aimes ce type de projet, nos astuces pour [fabriquer un bureau avec des caissons](/guides/decoration/fabriquer-un-bureau-avec-des-caissons/) peuvent aussi t'intéresser.
+Temps : 1 à 2 heures. Coût total : 20 à 35 euros. Si tu aimes ce type de projet, nos astuces pour [fabriquer un bureau avec des caissons](/fabriquer-un-bureau-avec-des-caissons/) peuvent aussi t'intéresser.
 
 > [!TIP]
 > Pour un look encore plus soigné, applique une huile de lin ou un vernis mat sur ton pegboard en bois. Ça protège la surface et ça donne un rendu plus "meuble" que "chantier".
@@ -212,7 +212,7 @@ Le centre du tableau doit être à hauteur des yeux, soit environ 150-160 cm du 
 
 ### Oublier l'éclairage
 
-Un tableau planning installé dans un coin sombre de l'entrée, personne ne le regarde. Si tu n'as pas de lumière naturelle suffisante, ajoute une petite réglette LED (10-15 euros) au-dessus. Ça fait aussi un bel effet déco le soir. Pour mieux comprendre comment la lumière change tout dans une pièce, consulte notre guide sur [les décorations dorées pour murs et meubles](/guides/decoration/decoration-doree-sur-les-murs-les-meubles-ou-les-accessoires/) qui aborde aussi les jeux de lumière.
+Un tableau planning installé dans un coin sombre de l'entrée, personne ne le regarde. Si tu n'as pas de lumière naturelle suffisante, ajoute une petite réglette LED (10-15 euros) au-dessus. Ça fait aussi un bel effet déco le soir. Pour mieux comprendre comment la lumière change tout dans une pièce, consulte notre guide sur [les décorations dorées pour murs et meubles](/decoration-doree-sur-les-murs-les-meubles-ou-les-accessoires/) qui aborde aussi les jeux de lumière.
 
 ### Multiplier les supports
 
@@ -266,7 +266,7 @@ Mon conseil : utilise les deux en complément. Les rendez-vous et rappels dans l
 
 ## Sur le meme theme
 
-- [tableau pour enfant](/guides/decoration/choisir-tableau-enfant/)
+- [tableau pour enfant](/choisir-tableau-enfant/)
 
 ## En résumé : quel format pour quel profil ?
 

@@ -177,7 +177,7 @@ Si tu veux juste rénover une pelouse un peu clairsemée plutôt que de créer u
 
 Le principe : tu semmes directement sur ton gazon existant après une tonte courte et un scarifiage léger. Les graines tombent entre les brins d'herbe déjà en place, et ceux-ci servent de "filet" naturel qui les retient. L'ancien gazon maintient l'humidité du sol, ce qui favorise la germination.
 
-Pour les extérieurs, si tu cherches des idées pour [aménager les abords de ta maison](/guides/exterieur/maisons-modernes-2026-images-dexterieur-et-dinterieur/), sache que la qualité de ta pelouse change vraiment l'impression générale. Un gazon dense et homogène valorise même les façades les plus simples.
+Pour les extérieurs, si tu cherches des idées pour [aménager les abords de ta maison](/maisons-modernes-2026-images-dexterieur-et-dinterieur/), sache que la qualité de ta pelouse change vraiment l'impression générale. Un gazon dense et homogène valorise même les façades les plus simples.
 
 > [!IMPORTANT]
 > Pour le sursemis, tonds ton gazon existant à 3-4 cm avant de semer. Une hauteur inférieure à ça expose trop le sol et risque de brûler les nouvelles pousses. Une hauteur supérieure empêche les graines de toucher la terre.
@@ -192,7 +192,7 @@ Pour les extérieurs, si tu cherches des idées pour [aménager les abords de ta
 
 **Piétiner pendant la germination** : une fois que tu as semé et tassé, évite de marcher sur la zone pendant au moins 3 semaines, le temps que les racines s'installent.
 
-Pour d'autres projets de jardin qui peuvent se faire sans outils complexes, la pose de [bordures de jardin sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/) est un bel exemple de travaux accessibles avec les moyens du bord.
+Pour d'autres projets de jardin qui peuvent se faire sans outils complexes, la pose de [bordures de jardin sans béton](/poser-bordure-jardin-sans-beton/) est un bel exemple de travaux accessibles avec les moyens du bord.
 
 ## Le calendrier de suivi semaine par semaine
 
@@ -207,7 +207,7 @@ Pour d'autres projets de jardin qui peuvent se faire sans outils complexes, la p
 
 La patience est vraiment de mise ici. Si tu sembles au printemps ou en automne dans de bonnes conditions, tu devrais voir tes premières pousses en une à deux semaines selon les variétés et la température.
 
-Si tu as d'autres projets de rénovation intérieure en parallèle, tu peux par exemple consulter notre guide sur [crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/) pour donner un coup de neuf à ta façade pendant que ton gazon pousse.
+Si tu as d'autres projets de rénovation intérieure en parallèle, tu peux par exemple consulter notre guide sur [crépir un mur intérieur](/crepir-un-mur-interieur/) pour donner un coup de neuf à ta façade pendant que ton gazon pousse.
 
 > [!TIP]
 > Prends une photo de ta pelouse le jour du semis puis une photo par semaine au même endroit et à la même heure. Tu vas adorer observer la progression, et ça t'aide aussi à identifier les zones où la germination est moins bonne pour une intervention rapide.
@@ -223,8 +223,8 @@ Pour les petites et moyennes surfaces, les méthodes "débrouille" fonctionnent 
 
 ## Sur le meme theme
 
-- [isolation dalle béton](/guides/decoration/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
-- [peindre des bocaux ou bouteilles en verre](/guides/decoration/comment-peindre-des-bocaux-ou-des-bouteilles-en-verre/)
+- [isolation dalle béton](/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout/)
+- [peindre des bocaux ou bouteilles en verre](/comment-peindre-des-bocaux-ou-des-bouteilles-en-verre/)
 
 ## FAQ
 

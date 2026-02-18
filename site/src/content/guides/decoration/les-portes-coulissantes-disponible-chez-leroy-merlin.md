@@ -117,7 +117,7 @@ Si tes dimensions sortent du standard, Leroy Merlin propose la découpe sur mesu
 | Verre atelier noir | 350-550 EUR | Produit vitres | Industriel, tendance |
 | Alu + verre | 400-600 EUR | Très facile | Design, contemporain |
 
-Mon conseil : si tu hésites, le MDF peint est un super point de départ. Tu peux toujours le peindre dans la couleur de ton choix pour 15-20 euros de peinture. Et si tu veux un look [décoration minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/), une porte blanche mate sur rail noir fait un effet canon.
+Mon conseil : si tu hésites, le MDF peint est un super point de départ. Tu peux toujours le peindre dans la couleur de ton choix pour 15-20 euros de peinture. Et si tu veux un look [décoration minimaliste](/decoration-minimaliste-idees-et-photos-faciles/), une porte blanche mate sur rail noir fait un effet canon.
 
 ## Poser une porte coulissante en applique : le tuto pas à pas
 
@@ -223,7 +223,7 @@ J'en ai vu passer, des projets ratés à cause de détails qu'on oublie. Voici l
 > [!TIP]
 > Avant de te déplacer en magasin, utilise le configurateur en ligne de Leroy Merlin. Tu rentres tes dimensions, ton type de cloison et ton budget, et il te propose les kits compatibles. Ça t'évite un aller-retour inutile.
 
-Si tu veux un intérieur qui respire tout en gardant la possibilité de fermer tes espaces, la porte coulissante est un des meilleurs investissements déco que tu puisses faire. Ça marche entre un [salon moderne](/guides/decoration/salons-modernes-et-elegants-2026/) et une cuisine, pour fermer un placard dans une [chambre](/guides/chambre/) sans perdre de place, ou même pour créer une séparation élégante dans un [appartement](/guides/decoration/appartements-modernes-60-photos-et-conseils-de-decoration/).
+Si tu veux un intérieur qui respire tout en gardant la possibilité de fermer tes espaces, la porte coulissante est un des meilleurs investissements déco que tu puisses faire. Ça marche entre un [salon moderne](/salons-modernes-et-elegants-2026/) et une cuisine, pour fermer un placard dans une [chambre](/guides/chambre/) sans perdre de place, ou même pour créer une séparation élégante dans un [appartement](/appartements-modernes-60-photos-et-conseils-de-decoration/).
 
 ## FAQ
 

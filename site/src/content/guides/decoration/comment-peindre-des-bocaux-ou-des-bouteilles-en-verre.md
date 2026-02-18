@@ -155,7 +155,7 @@ Pour les peintures acryliques classiques, applique 2 couches d'un vernis pour ve
 
 ### 1. Vases coordonnés pour un coin salon
 
-Récupère trois bouteilles de tailles différentes (bouteille de vin, d'huile, de sauce). Peins-les dans trois tons du même camaïeu - par exemple blanc cassé, rose poudré et terracotta. Le résultat ressemble à une collection achetée en boutique. Place-les sur une étagère avec quelques branches séchées et tu as une composition digne d'un compte Pinterest. Si tu cherches d'autres idées de mise en scène autour des couleurs, l'article sur la [peinture Luxens](/guides/couleurs/peinture-luxens/) donne de bonnes pistes sur les associations de teintes tendance.
+Récupère trois bouteilles de tailles différentes (bouteille de vin, d'huile, de sauce). Peins-les dans trois tons du même camaïeu - par exemple blanc cassé, rose poudré et terracotta. Le résultat ressemble à une collection achetée en boutique. Place-les sur une étagère avec quelques branches séchées et tu as une composition digne d'un compte Pinterest. Si tu cherches d'autres idées de mise en scène autour des couleurs, l'article sur la [peinture Luxens](/peinture-luxens/) donne de bonnes pistes sur les associations de teintes tendance.
 
 ### 2. Photophores graphiques
 
@@ -167,11 +167,11 @@ Peins des bocaux en blanc mat ou en couleur terracotta, puis enroule de la ficel
 
 ### 4. Contenant de salle de bain façon spa
 
-Peins des bocaux à confiture en blanc ou en bleu pâle avec un effet craie. Place-les sur le bord de ta baignoire ou sur une étagère de salle de bain pour y ranger des coton-tiges, des barrettes ou des fleurs séchées. L'effet "spa maison" est immédiat. Pour une salle de bain plus structurée, l'article sur le [meuble de salle de bain en béton ciré](/guides/decoration/peindre-lino/) peut t'aider à penser la cohérence globale de la pièce.
+Peins des bocaux à confiture en blanc ou en bleu pâle avec un effet craie. Place-les sur le bord de ta baignoire ou sur une étagère de salle de bain pour y ranger des coton-tiges, des barrettes ou des fleurs séchées. L'effet "spa maison" est immédiat. Pour une salle de bain plus structurée, l'article sur le [meuble de salle de bain en béton ciré](/peindre-lino/) peut t'aider à penser la cohérence globale de la pièce.
 
 ### 5. Déco avec des motifs inspirés de styles culturels
 
-Une bouteille peinte avec des motifs en arabesque ou des teintes ocre et bleu peut s'intégrer magnifiquement dans une déco orientale. Si tu te lances dans ce type d'ambiance, jette un oeil à notre article sur la [décoration marocaine](/guides/decoration/decoration-marocaine-moderne-ou-classique/) pour comprendre comment assembler les pièces cohéremment.
+Une bouteille peinte avec des motifs en arabesque ou des teintes ocre et bleu peut s'intégrer magnifiquement dans une déco orientale. Si tu te lances dans ce type d'ambiance, jette un oeil à notre article sur la [décoration marocaine](/decoration-marocaine-moderne-ou-classique/) pour comprendre comment assembler les pièces cohéremment.
 
 ## Les erreurs à éviter absolument
 
@@ -199,7 +199,7 @@ Total pour démarrer : moins de 40 euros, et tu auras largement assez de matéri
 > [!TIP]
 > Commence par des bocaux de récupération avant d'acheter des contenants neufs. Tu verras vite quel style te convient le mieux - mat ou brillant, opaque ou transparent - avant d'investir dans du matériel supplémentaire.
 
-Si tu aimes les projets DIY sur les végétaux et que tu cherches un compagnon de verdure facile à soigner pour mettre en scène tes créations, la [péperomia hope](/guides/decoration/la-peperomia-hope/) est une plante magnifique qui s'accorde très bien avec des vases peints.
+Si tu aimes les projets DIY sur les végétaux et que tu cherches un compagnon de verdure facile à soigner pour mettre en scène tes créations, la [péperomia hope](/la-peperomia-hope/) est une plante magnifique qui s'accorde très bien avec des vases peints.
 
 ## En résumé : par où commencer ?
 
@@ -212,7 +212,7 @@ Une fois que tu as le coup de main, les possibilités sont infinies : dégradés
 
 ## Sur le meme theme
 
-- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
+- [salons modernes 2026](/salons-modernes-tendances-2026/)
 
 ## FAQ
 

@@ -100,7 +100,7 @@ Le blanc total dans une chambre sans fenêtre donne un effet "hôpital" assez fr
 - **Bleu pastel très clair** : Dulux Valentine "Bleu scandinave" (environ 28 euros le pot de 2,5 L)
 - **Beige rosé** : Leroy Merlin 1825 "Poudre de riz" (20 euros le pot de 2,5 L)
 
-Si tu veux creuser les combinaisons de teintes pour ta chambre, mon guide sur [les couleurs pour une chambre adulte à deux teintes](/guides/chambre/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes/) te sera utile.
+Si tu veux creuser les combinaisons de teintes pour ta chambre, mon guide sur [les couleurs pour une chambre adulte à deux teintes](/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes/) te sera utile.
 
 ## Idée 4 : la fausse fenêtre lumineuse
 
@@ -142,7 +142,7 @@ Garde des teintes claires pour le mur texturé. Le but c'est du relief, pas de l
 
 ## Idée 8 : des textiles en nuances douces
 
-Les coussins, le plaid, le linge de lit apportent la chaleur dans une pièce qui manque de personnalité sans lumière naturelle. Privilégie le bleu pastel, le vert d'eau, le gris perle et la lavande. Ces couleurs donnent une impression de fraîcheur. Mes [tendances déco chambre 2026](/guides/chambre/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/) t'aideront à choisir.
+Les coussins, le plaid, le linge de lit apportent la chaleur dans une pièce qui manque de personnalité sans lumière naturelle. Privilégie le bleu pastel, le vert d'eau, le gris perle et la lavande. Ces couleurs donnent une impression de fraîcheur. Mes [tendances déco chambre 2026](/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/) t'aideront à choisir.
 
 **Bon plan :** housses de coussin en lin mélangé H&M Home (8-12 euros), plaids en gaze de coton La Redoute Interieurs (25-35 euros).
 
@@ -177,13 +177,13 @@ Un rail LED collé au plafond le long de la jonction avec le mur (environ 20-30 
 
 Le mobilier en bois foncé absorbe la lumière. Dans une chambre sans fenêtre, c'est l'ennemi. Préfère le bouleau, le hêtre clair, le pin blanchi ou le chêne clair.
 
-Si tu as déjà du mobilier en bois sombre, tu peux le peindre (un pot de peinture pour meuble Rust-Oleum "Chalky finish" blanc coûte environ 12 euros le 750 mL) ou le céruser pour l'éclaircir. Ça change tout sans racheter de meubles, et [mon guide pour décorer sa chambre avec peu de budget](/guides/chambre/decorer-la-chambre-a-coucher-avec-peu-dargent/) te donnera d'autres pistes.
+Si tu as déjà du mobilier en bois sombre, tu peux le peindre (un pot de peinture pour meuble Rust-Oleum "Chalky finish" blanc coûte environ 12 euros le 750 mL) ou le céruser pour l'éclaircir. Ça change tout sans racheter de meubles, et [mon guide pour décorer sa chambre avec peu de budget](/decorer-la-chambre-a-coucher-avec-peu-dargent/) te donnera d'autres pistes.
 
 ## Idée 12 : accrocher un tableau lumineux ou rétroéclairé
 
 Un tableau avec un éclairage intégré ou rétroéclairé sert de point focal décoratif et de source de lumière en même temps. C'est malin parce que ça remplit deux fonctions.
 
-Les tableaux LED avec paysages (forêt, ciel, plage) entre 40 et 100 euros sur Amazon ajoutent une profondeur visuelle qui compense l'absence de vue extérieure. Pour savoir comment bien le choisir et le positionner, consulte mon guide sur [les tableaux lumineux](/guides/decoration/choisir-tableau-lumineux/).
+Les tableaux LED avec paysages (forêt, ciel, plage) entre 40 et 100 euros sur Amazon ajoutent une profondeur visuelle qui compense l'absence de vue extérieure. Pour savoir comment bien le choisir et le positionner, consulte mon guide sur [les tableaux lumineux](/choisir-tableau-lumineux/).
 
 > [!TIP]
 > Accroche ton tableau lumineux en face de la porte d'entrée de la chambre. C'est la première chose que tu vois en entrant, et ça donne immédiatement une sensation d'ouverture et de lumière.
@@ -239,7 +239,7 @@ flowchart TD
 
 ## Sur le meme theme
 
-- [décorer sa chambre en location](/guides/chambre/decorer-chambre-coucher-location/)
+- [décorer sa chambre en location](/decorer-chambre-coucher-location/)
 
 ## FAQ
 

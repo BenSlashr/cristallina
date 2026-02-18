@@ -218,11 +218,11 @@ Avant de foncer en magasin, quelques conseils pratiques :
 
 ## Sur le meme theme
 
-- [avis peinture spectrum](/guides/couleurs/avis-peinture-spectrum/)
-- [couleurs ocres pour les murs et la décoration](/guides/couleurs/couleurs-ocres-pour-les-murs-et-la-decoration/)
-- [couleurs qui se marient avec le violet](/guides/couleurs/quelles-sont-les-couleurs-qui-se-marient-bien-avec-le-violet-en-decoration/)
-- [couleurs d'intérieur 2026](/guides/couleurs/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/)
-- [couleurs pour la salle à manger](/guides/couleurs/couleurs-pour-la-salle-a-manger-a-peindre-et-a-decorer/)
+- [avis peinture spectrum](/avis-peinture-spectrum/)
+- [couleurs ocres pour les murs et la décoration](/couleurs-ocres-pour-les-murs-et-la-decoration/)
+- [couleurs qui se marient avec le violet](/quelles-sont-les-couleurs-qui-se-marient-bien-avec-le-violet-en-decoration/)
+- [couleurs d'intérieur 2026](/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/)
+- [couleurs pour la salle à manger](/couleurs-pour-la-salle-a-manger-a-peindre-et-a-decorer/)
 
 ## FAQ sur la peinture Luxens
 

@@ -34,14 +34,14 @@ Résultat : moins de climatisation en été, moins de chauffage en hiver. C'est 
 
 C'est là où le bois écrase la concurrence. Un volet en bois, tu peux le peindre dans la couleur que tu veux : bleu lavande, vert sauge, gris perle, rouge basque, blanc cassé... Tu peux aussi le lasurer pour garder le veinage visible, un rendu naturel très tendance en ce moment.
 
-Les volets en bois s'harmonisent avec tous les styles : maison de campagne, mas provençal, pavillon des années 70, bâtiment haussmannien. Pour approfondir le sujet, consulte le guide sur les [couleurs de façades tendance en 2026](/guides/exterieur/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/).
+Les volets en bois s'harmonisent avec tous les styles : maison de campagne, mas provençal, pavillon des années 70, bâtiment haussmannien. Pour approfondir le sujet, consulte le guide sur les [couleurs de façades tendance en 2026](/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/).
 
 ### Durabilité et réparabilité
 
 Un volet en bois bien entretenu dure 30 à 50 ans. Contrairement au PVC qui jaunit ou à l'alu qui se raye, le bois se répare : lame cassée, tu la remplaces ; peinture écaillée, tu ponces et tu repeins ; gond qui grince, quelques gouttes d'huile et c'est reparti.
 
 > [!TIP]
-> Si tu veux gagner du temps sur la rénovation de tes volets, la technique de [peinture sans poncer](/guides/decoration/peindre-sans-poncer/) fonctionne aussi sur le bois extérieur. Il faut juste utiliser un primaire d'accrochage adapté aux conditions extérieures.
+> Si tu veux gagner du temps sur la rénovation de tes volets, la technique de [peinture sans poncer](/peindre-sans-poncer/) fonctionne aussi sur le bois extérieur. Il faut juste utiliser un primaire d'accrochage adapté aux conditions extérieures.
 
 ## Les essences de bois : laquelle choisir ?
 
@@ -184,7 +184,7 @@ Quelques associations qui fonctionnent bien cette année :
 
 - **Façade blanche + volets bleu gris** : élégant et intemporel. Pense au "Bleu Breton" de Tollens.
 - **Façade pierre + volets vert olive** : le vert apporte de la douceur sans dénaturer le caractère de la pierre.
-- **Façade enduit beige + volets terracotta** : ambiance méditerranéenne garantie. Ça marche du tonnerre avec des [murs en crépi](/guides/decoration/crepir-un-mur-interieur/) chauds.
+- **Façade enduit beige + volets terracotta** : ambiance méditerranéenne garantie. Ça marche du tonnerre avec des [murs en crépi](/crepir-un-mur-interieur/) chauds.
 - **Façade sombre (gris anthracite) + volets bois naturel lasuré** : duo contemporain, le veinage contraste avec la façade lisse.
 
 ```mermaid
@@ -233,7 +233,7 @@ Pour les dimensions, mesure l'embrasure et retire 10 mm en largeur et hauteur po
 
 ## Sur le meme theme
 
-- [portes coulissantes leroy merlin](/guides/decoration/les-portes-coulissantes-disponible-chez-leroy-merlin/)
+- [portes coulissantes leroy merlin](/les-portes-coulissantes-disponible-chez-leroy-merlin/)
 
 ## FAQ : les questions qu'on me pose le plus
 
@@ -243,7 +243,7 @@ L'épaisseur standard est de 27 mm pour les volets battants. C'est un bon compro
 
 ### Volets en bois ou en PVC : quel est le meilleur choix ?
 
-Le PVC est moins cher (50-100 EUR la paire) et ne demande quasiment aucun entretien. Mais il jaunit avec le temps, se déforme sous forte chaleur, et offre un rendu plat. Le bois coûte plus cher mais dure plus longtemps, se répare et se personnalise. Mon avis : si tu comptes rester dans ta maison plus de 10 ans, le bois est le meilleur investissement. Pour les [façades modernes](/guides/decoration/facades-de-maisons-modernes-2026/), les deux peuvent fonctionner selon le style recherché.
+Le PVC est moins cher (50-100 EUR la paire) et ne demande quasiment aucun entretien. Mais il jaunit avec le temps, se déforme sous forte chaleur, et offre un rendu plat. Le bois coûte plus cher mais dure plus longtemps, se répare et se personnalise. Mon avis : si tu comptes rester dans ta maison plus de 10 ans, le bois est le meilleur investissement. Pour les [façades modernes](/facades-de-maisons-modernes-2026/), les deux peuvent fonctionner selon le style recherché.
 
 ### Comment protéger des volets en bois neufs avant la pose ?
 

@@ -174,7 +174,7 @@ Si tu redécores souvent ou si tu as beaucoup de tableaux à accrocher, un **rai
 
 Tu peux déplacer tes tableaux à l'infini sans refaire un seul trou. C'est ce qu'utilisent les hôtels et les espaces de coworking design. Ça commence à 30-40€ pour un mètre linéaire chez des marques comme Artiteq ou Picture Hanging Systems.
 
-C'est aussi parfait si tu aimes changer régulièrement ta déco - quelque chose dont on parle d'ailleurs dans notre guide sur les [salons modernes et élégants 2026](/guides/decoration/salons-modernes-et-elegants-2026/), où ce type de flexibilité décorative prend tout son sens.
+C'est aussi parfait si tu aimes changer régulièrement ta déco - quelque chose dont on parle d'ailleurs dans notre guide sur les [salons modernes et élégants 2026](/salons-modernes-et-elegants-2026/), où ce type de flexibilité décorative prend tout son sens.
 
 ---
 
@@ -214,7 +214,7 @@ Les **languettes Command** restent la solution numéro 1 pour les locataires. El
 
 Les **bandes velcro adhésives** sont une alternative pour les cadres légers. Tu colles le côté mâle sur le mur, le côté femelle sur le dos du cadre. Chaque bande tient environ 1 à 2 kg selon le modèle.
 
-Enfin, pour les grands formats sans perçage, pense aux **chevalets de présentation** posés au sol - ça fait un effet galerie très tendance, et c'est ce qu'on voit beaucoup dans les intérieurs [style déco française romantique](/guides/decoration/decoration-francaise-idees-et-photos-romantiques/) où l'art trône librement dans l'espace sans être fixé aux murs.
+Enfin, pour les grands formats sans perçage, pense aux **chevalets de présentation** posés au sol - ça fait un effet galerie très tendance, et c'est ce qu'on voit beaucoup dans les intérieurs [style déco française romantique](/decoration-francaise-idees-et-photos-romantiques/) où l'art trône librement dans l'espace sans être fixé aux murs.
 
 > [!IMPORTANT]
 > Avant d'utiliser des languettes adhésives chez un locataire, teste toujours sur une petite zone discrète. Sur certaines peintures anciennes ou papiers peints, le retrait peut quand même arracher la surface. Mieux vaut le savoir avant d'accrocher.
@@ -251,7 +251,7 @@ flowchart TD
 
 Pour un résultat cohérent, choisis un point commun entre tes cadres : soit la couleur du passe-partout (tous blancs ou tous noirs), soit le style des cadres (tous bois naturel, tous métal doré), soit le thème des oeuvres. Tu peux mixer des formats complètement différents à partir du moment où ce fil conducteur existe.
 
-La déco minimaliste, par exemple, mise sur peu de cadres mais très bien choisis et bien espacés. Si c'est ton style, notre article sur la [décoration minimaliste : idées et photos faciles](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/) t'aidera à aller dans ce sens.
+La déco minimaliste, par exemple, mise sur peu de cadres mais très bien choisis et bien espacés. Si c'est ton style, notre article sur la [décoration minimaliste : idées et photos faciles](/decoration-minimaliste-idees-et-photos-faciles/) t'aidera à aller dans ce sens.
 
 Sur un mur de galerie, évite de placer un tableau très lourd (plus de 5 kg) avec seulement des languettes adhésives. Le poids cumulé des cadres et les vibrations liées à l'ouverture des portes peuvent avoir raison des languettes avec le temps. Pour les formats lourds d'une gallery wall, perce franchement.
 
@@ -260,8 +260,8 @@ Sur un mur de galerie, évite de placer un tableau très lourd (plus de 5 kg) av
 
 ## Sur le meme theme
 
-- [choisir un tableau mural](/guides/decoration/choisir-tableau-mural/)
-- [cadre tableau mural végétal](/guides/decoration/choisir-cadre-tableau-mural-vegetal/)
+- [choisir un tableau mural](/choisir-tableau-mural/)
+- [cadre tableau mural végétal](/choisir-cadre-tableau-mural-vegetal/)
 
 <div class="my-8">
   <img src="/images/pinterest-d-coration-minimaliste--pur--scandinave-simple-blanc-1771238008500.jpg" alt="Bien accrocher tableau mural - style et ambiance" class="w-full rounded-lg shadow-sm" loading="lazy" />

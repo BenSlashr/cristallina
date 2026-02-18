@@ -62,7 +62,7 @@ C'est là que beaucoup de gens butent. "Vert", ça couvre un spectre énorme - d
 
 **Le vert céladon** - ce vert très pâle, presque eau de mer - est plus doux et plus lumineux. Il se rapproche du vert clair et convient bien aux petites cuisines car il n'assombrit pas l'espace. Associé à un bois chaud comme le hêtre ou le pin, ça donne une ambiance un peu scandinave, très fraîche.
 
-**Le vert kaki ou olive** est le plus terre-à-terre du groupe. Plus chaud, plus terreux, il s'associe particulièrement bien avec les bois foncés type noyer ou chêne fumé. Si tu aimes cet univers, regarde aussi ce qu'on propose sur [la cuisine olive](/guides/cuisine/cuisine-olive/) - les deux esthétiques sont proches et les conseils se recoupent souvent.
+**Le vert kaki ou olive** est le plus terre-à-terre du groupe. Plus chaud, plus terreux, il s'associe particulièrement bien avec les bois foncés type noyer ou chêne fumé. Si tu aimes cet univers, regarde aussi ce qu'on propose sur [la cuisine olive](/cuisine-olive/) - les deux esthétiques sont proches et les conseils se recoupent souvent.
 
 > [!TIP]
 > Avant de commander tes facades, teste les échantillons de peinture sur un carton de 50x50 cm. Observe-les à différentes heures de la journée - un vert sauge peut virer au gris le soir sous lumière artificielle.
@@ -165,7 +165,7 @@ La cuisine verte et bois est étonnamment caméléon au niveau du style.
 
 **Version scandinave** : vert céladon ou vert pâle, bois blond type chêne ou frêne, aucune poignée (systèmes push-to-open), luminaires épurés. Très propre et lumineux.
 
-Ces associations de couleurs fonctionnent aussi ailleurs dans la maison. Si tu aimes jouer avec les teintes chaudes et terreuses, l'article sur les [couleurs compatibles avec l'orange pour les murs et la décoration](/guides/couleurs/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) peut t'inspirer pour penser l'ensemble du rez-de-chaussée de façon cohérente.
+Ces associations de couleurs fonctionnent aussi ailleurs dans la maison. Si tu aimes jouer avec les teintes chaudes et terreuses, l'article sur les [couleurs compatibles avec l'orange pour les murs et la décoration](/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) peut t'inspirer pour penser l'ensemble du rez-de-chaussée de façon cohérente.
 
 ## Entretien : quelques points à savoir
 
@@ -179,7 +179,7 @@ Le bois, surtout sur les facades exposées à la vapeur (proche du four ou de la
 
 La cuisine verte et bois est l'une de ces combinations qui vieillissent bien - elle n'est pas une tendance qui va disparaître dans deux ans. Elle existe depuis les cuisines campagnardes traditionnelles et elle s'est modernisée sans perdre son âme. Le tout est de choisir la bonne nuance de vert pour ton espace et de la marier avec un bois qui la complète plutôt que de la concurrencer.
 
-Si tu es sensible à cette palette terreuse et naturelle, elle peut s'étendre à d'autres pièces de la maison. Une [chambre en teintes terracotta](/guides/chambre/deco-terracotta-chambre/) joue dans le même registre chaud et naturel, et les deux pièces peuvent se parler si on choisit bien les couleurs de transition.
+Si tu es sensible à cette palette terreuse et naturelle, elle peut s'étendre à d'autres pièces de la maison. Une [chambre en teintes terracotta](/deco-terracotta-chambre/) joue dans le même registre chaud et naturel, et les deux pièces peuvent se parler si on choisit bien les couleurs de transition.
 
 Commence par un test - une poignée de porte, un meuble relooké, un mur en peinture chalk paint - avant de t'engager sur une cuisine complète. Tu verras très vite si l'ambiance te correspond.
 
@@ -188,8 +188,8 @@ Commence par un test - une poignée de porte, un meuble relooké, un mur en pein
 
 ## Sur le meme theme
 
-- [changer les portes d'une cuisine ikea faktum](/guides/cuisine/changer-portes-cuisines-ikea-faktum/)
-- [cuisine rustique chic](/guides/cuisine/le-charme-de-la-cuisine-rustique-un-look-retro-chic-incontournable/)
+- [changer les portes d'une cuisine ikea faktum](/changer-portes-cuisines-ikea-faktum/)
+- [cuisine rustique chic](/le-charme-de-la-cuisine-rustique-un-look-retro-chic-incontournable/)
 
 ## FAQ
 

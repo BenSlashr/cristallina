@@ -147,7 +147,7 @@ C'est ici que la personnalité entre en jeu. Le shabby chic se construit détail
 
 Les anglaises appellent ça le "vignette" - composer de petits tableaux sur une surface (une commode, une étagère, un rebord de fenêtres). La règle : impair toujours. 3 objets, 5 objets, jamais 2 ni 4. Varie les hauteurs, les matières, les textures.
 
-Si tu aimes les ambiances romantiques mais avec une touche de modernité, jette un oeil à nos idées pour une [décoration marocaine moderne ou classique](/guides/decoration/decoration-marocaine-moderne-ou-classique/) - certains éléments se marient étonnamment bien avec le shabby chic.
+Si tu aimes les ambiances romantiques mais avec une touche de modernité, jette un oeil à nos idées pour une [décoration marocaine moderne ou classique](/decoration-marocaine-moderne-ou-classique/) - certains éléments se marient étonnamment bien avec le shabby chic.
 
 ```mermaid
 flowchart LR
@@ -179,7 +179,7 @@ Ajoute des coussins en tissus différents mais dans la même palette - mixe le l
 
 Le sol ? Si tu peux, un parquet en bois clair ou un carrelage blanc. Sinon, un grand tapis en laine ou en coton tissé dans les tons naturels fait très bien l'affaire - Maisons du Monde a des modèles autour de 79-149 euros.
 
-Pour plus d'idées sur la déco salon, tu peux aussi aller voir nos [salons modernes et élégants 2026](/guides/decoration/salons-modernes-et-elegants-2026/) - certaines associations de textures fonctionnent bien au-delà des styles.
+Pour plus d'idées sur la déco salon, tu peux aussi aller voir nos [salons modernes et élégants 2026](/salons-modernes-et-elegants-2026/) - certaines associations de textures fonctionnent bien au-delà des styles.
 
 ### La chambre
 
@@ -200,7 +200,7 @@ Les petits détails qui font tout : une vieille balance de cuisine comme accesso
 
 ## Shabby chic vs autres styles : les limites
 
-Le shabby chic se marie bien avec d'autres univers. Avec le style normand ou breton, il gagne en caractère. Avec le [style maison rustique moderne](/guides/decoration/maisons-rustiques-modernes-idees-et-photos-de-decoration/), il prend une dimension plus contemporaine - c'est un mélange très tendance en ce moment.
+Le shabby chic se marie bien avec d'autres univers. Avec le style normand ou breton, il gagne en caractère. Avec le [style maison rustique moderne](/maisons-rustiques-modernes-idees-et-photos-de-decoration/), il prend une dimension plus contemporaine - c'est un mélange très tendance en ce moment.
 
 Par contre, il supporte mal les lignes trop épurées du minimalisme ou les couleurs franches du style "colorblock". Dans ces cas, il devient incohérent visuellement.
 
@@ -235,8 +235,8 @@ La grande force du shabby chic, c'est qu'on peut le faire avec très peu. Voilà
 
 ## Sur le meme theme
 
-- [décoration vintage](/guides/decoration/decoration-vintage-50-images-et-idees-pour-linspiration/)
-- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+- [décoration vintage](/decoration-vintage-50-images-et-idees-pour-linspiration/)
+- [décoration art déco](/50-idees-de-decoration-art-deco/)
 
 ## FAQ
 

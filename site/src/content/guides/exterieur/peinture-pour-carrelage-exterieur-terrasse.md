@@ -170,7 +170,7 @@ Un carrelage peint en extérieur tient entre 3 et 7 ans selon le produit, l'expo
 
 **Retouches ponctuelles.** Garde un fond de pot de ta peinture. Si tu remarques un éclat ou une zone qui commence à s'user (souvent devant la porte ou au pied de la table), un coup de pinceau localement prolonge la durée de vie de l'ensemble. Ponce légèrement la zone au papier de verre fin (grain 120) avant de retoucher.
 
-Si tu cherches aussi à sécuriser ta terrasse pendant cette rénovation, jette un oeil à mon [guide pour rénover une terrasse en toute sécurité](/guides/exterieur/renovez-votre-terrasse-pour-la-securite/). Les deux chantiers se combinent bien.
+Si tu cherches aussi à sécuriser ta terrasse pendant cette rénovation, jette un oeil à mon [guide pour rénover une terrasse en toute sécurité](/renovez-votre-terrasse-pour-la-securite/). Les deux chantiers se combinent bien.
 
 > [!TIP]
 > Place des patins en feutre sous les pieds de tes meubles de jardin. Les pieds métalliques rayent la peinture à chaque déplacement. Un jeu de patins coûte 3-5 euros et évite des retouches.
@@ -183,7 +183,7 @@ Les tons moyens sont le bon compromis : galet, gris pierre, terre cuite, sable, 
 
 Pour un style plus méditerranéen, le rouge oxyde ou la terre ocrée V33 donnent un beau cachet. Ça s'accorde bien avec de la pierre naturelle, du bois et des plantes vertes.
 
-Si tu te poses aussi la question pour le carrelage intérieur, la démarche est différente : tu trouveras les bons produits dans le [guide peinture carrelage cuisine](/guides/cuisine/peinture-pour-carrelage-cuisine/) et le [guide peinture sur carrelage intérieur](/guides/couleurs/la-peinture-sur-carrelage-une-methode-pour-renover-votre-interieur/).
+Si tu te poses aussi la question pour le carrelage intérieur, la démarche est différente : tu trouveras les bons produits dans le [guide peinture carrelage cuisine](/peinture-pour-carrelage-cuisine/) et le [guide peinture sur carrelage intérieur](/la-peinture-sur-carrelage-une-methode-pour-renover-votre-interieur/).
 
 ## Les erreurs les plus courantes (et comment les éviter)
 
@@ -195,7 +195,7 @@ Si tu te poses aussi la question pour le carrelage intérieur, la démarche est 
 
 **Peindre en plein soleil.** La peinture sèche trop vite, laisse des traces de rouleau et n'adhère pas correctement. Peins le matin tôt ou en fin de journée, quand la terrasse est à l'ombre.
 
-Si tu réfléchis aussi à d'autres aménagements pour ta terrasse, regarde la [différence entre pergola et tonnelle](/guides/exterieur/difference-pergola-tonnelle/) pour créer un coin ombragé au-dessus de ton nouveau carrelage peint.
+Si tu réfléchis aussi à d'autres aménagements pour ta terrasse, regarde la [différence entre pergola et tonnelle](/difference-pergola-tonnelle/) pour créer un coin ombragé au-dessus de ton nouveau carrelage peint.
 
 ---
 
@@ -204,7 +204,7 @@ Repeindre le carrelage de ta terrasse, c'est le meilleur rapport effort-résulta
 
 ## Sur le meme theme
 
-- [parasols de terrasse pour cafés et restaurants](/guides/exterieur/le-guide-ultime-des-parasols-de-terrasse-pour-cafes-hotels-et-restaurants/)
+- [parasols de terrasse pour cafés et restaurants](/le-guide-ultime-des-parasols-de-terrasse-pour-cafes-hotels-et-restaurants/)
 
 ## Questions fréquentes
 

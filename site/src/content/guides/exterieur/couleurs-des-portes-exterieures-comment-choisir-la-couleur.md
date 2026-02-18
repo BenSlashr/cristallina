@@ -54,7 +54,7 @@ La référence à retenir : "Railings" de Farrow & Ball (un noir légèrement bl
 
 Si tu as une maison dans le sud, une bastide, ou simplement une façade aux tons chauds, les couleurs terracotta et ocre sont tes alliées. Un rouille doux, un terre de Sienne, un rose ancien - ces teintes apportent une chaleur immédiate et s'intègrent dans le paysage comme si elles avaient toujours été là.
 
-Pour retrouver les tendances complètes sur les tons chauds en façade, jette un oeil à notre guide sur les [couleurs pour les extérieurs et les façades de maisons 2026](/guides/exterieur/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/).
+Pour retrouver les tendances complètes sur les tons chauds en façade, jette un oeil à notre guide sur les [couleurs pour les extérieurs et les façades de maisons 2026](/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/).
 
 ### Le rouge classique et le bordeaux
 
@@ -147,7 +147,7 @@ flowchart LR
 
 ### Les associations par style de maison
 
-- **Maison contemporaine** (façade blanche, toit plat) : noir, gris anthracite, bleu nuit, vert forêt. Si tu veux en savoir plus sur ce style, notre guide sur les [maisons modernes 2026](/guides/exterieur/maisons-modernes-2026-images-dexterieur-et-dinterieur/) te donnera plein d'idées.
+- **Maison contemporaine** (façade blanche, toit plat) : noir, gris anthracite, bleu nuit, vert forêt. Si tu veux en savoir plus sur ce style, notre guide sur les [maisons modernes 2026](/maisons-modernes-2026-images-dexterieur-et-dinterieur/) te donnera plein d'idées.
 - **Maison traditionnelle** (enduit, tuiles) : vert anglais, bordeaux, bleu marine, gris moyen.
 - **Maison en pierre** : rouge brique, vert sauge, bleu ardoise, noir avec ferronneries.
 - **Maison en brique** : jaune moutarde, vert olive, bleu canard, noir.
@@ -211,13 +211,13 @@ Les couleurs affichées sur ton téléphone ou ton ordinateur ne sont jamais fid
 
 La poignée, la serrure, le heurtoir, le numéro de maison - ces petits détails comptent énormément. Sur une porte noire ou bleu nuit, des accessoires en laiton brossé font un effet magnifique. Sur une porte verte ou terracotta, le noir mat ou le fer forgé sont plus adaptés. Et si tu cherches de jolies poignées sans te ruiner, Leroy Merlin propose une gamme de poignées d'entrée design entre 30 et 80 EUR.
 
-Pour trouver d'autres idées déco qui s'accordent avec ta porte d'entrée, notre guide sur les [couleurs de peinture tendance 2026](/guides/couleurs/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/) peut te donner des pistes pour créer un fil conducteur entre l'extérieur et l'intérieur de ta maison.
+Pour trouver d'autres idées déco qui s'accordent avec ta porte d'entrée, notre guide sur les [couleurs de peinture tendance 2026](/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026/) peut te donner des pistes pour créer un fil conducteur entre l'extérieur et l'intérieur de ta maison.
 
 
 ## Sur le meme theme
 
-- [construire un pool house](/guides/exterieur/construire-pool-house/)
-- [maisons modernes en adobe](/guides/exterieur/maisons-modernes-en-adobe-images-dinterieurs-et-dexterieurs/)
+- [construire un pool house](/construire-pool-house/)
+- [maisons modernes en adobe](/maisons-modernes-en-adobe-images-dinterieurs-et-dexterieurs/)
 
 ## FAQ - Couleur porte d'entrée
 

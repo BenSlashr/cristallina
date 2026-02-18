@@ -44,7 +44,7 @@ La peinture murale extérieure, c'est bien pour une teinte unie. Mais dès que t
 
 L'autre avantage, c'est la facilité de remplacement. Une peinture fatiguée demande décapage, apprêt et deux couches. Un papier peint, tu le décolles et tu en poses un neuf. C'est aussi plus tolérant sur les imperfections du mur : la fibre de verre masque les petites fissures et les irrégularités que la peinture, elle, met en évidence.
 
-Et si tu hésites entre peinture et revêtement pour tes façades, jette un oeil au guide sur les [couleurs pour les extérieurs et façades 2026](/guides/exterieur/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) qui compare les deux approches.
+Et si tu hésites entre peinture et revêtement pour tes façades, jette un oeil au guide sur les [couleurs pour les extérieurs et façades 2026](/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) qui compare les deux approches.
 
 ## Les matériaux en détail : fibre de verre, alu, toile technique
 
@@ -104,7 +104,7 @@ Poser un papier peint d'extérieur en fibre de verre n'est pas très différent 
 
 Le mur doit être propre, sec, solide et le plus lisse possible. Si tu as un enduit qui s'effrite ou de la mousse, commence par un nettoyage haute pression (80 à 100 bars max). Laisse sécher 48 à 72h. Rebouche les fissures et les trous avec un enduit de rebouchage extérieur (type Toupret, 8-12 euros le pot de 1 kg). Ponce les zones rebouchées au grain 80 puis dépoussiére.
 
-Sur un parpaing brut, il faudra passer un enduit de lissage extérieur sur toute la surface (type Weber ou Parexlanko, 15-25 euros le sac de 15 kg). Sans cette étape, la texture grossière du parpaing se verra à travers le revêtement. Si le sujet t'intéresse, le guide pour [rénover ta terrasse en sécurité](/guides/exterieur/renovez-votre-terrasse-pour-la-securite/) détaille aussi la préparation des supports extérieurs.
+Sur un parpaing brut, il faudra passer un enduit de lissage extérieur sur toute la surface (type Weber ou Parexlanko, 15-25 euros le sac de 15 kg). Sans cette étape, la texture grossière du parpaing se verra à travers le revêtement. Si le sujet t'intéresse, le guide pour [rénover ta terrasse en sécurité](/renovez-votre-terrasse-pour-la-securite/) détaille aussi la préparation des supports extérieurs.
 
 ### Choisir la bonne colle
 
@@ -160,7 +160,7 @@ Les UV sont l'ennemi principal. Un revêtement exposé plein sud perdra en inten
 
 ## Inspirations : où poser du papier peint d'extérieur ?
 
-Le mur de la terrasse, c'est l'emplacement classique. Un motif tropical, un panoramique de forêt ou un simple effet béton ciré peut complètement changer l'ambiance de ton espace repas extérieur. Si tu cherches aussi à [ombrager ta terrasse](/guides/exterieur/ombrager-terrasse/), un mur décoré associé à une pergola crée un vrai salon de jardin.
+Le mur de la terrasse, c'est l'emplacement classique. Un motif tropical, un panoramique de forêt ou un simple effet béton ciré peut complètement changer l'ambiance de ton espace repas extérieur. Si tu cherches aussi à [ombrager ta terrasse](/ombrager-terrasse/), un mur décoré associé à une pergola crée un vrai salon de jardin.
 
 **Le muret de piscine** est un autre spot populaire. Un revêtement imitation mosaïque bleu ou imitation bois donne un aspect haut de gamme à un muret en parpaing à moindre coût.
 
@@ -168,7 +168,7 @@ Le mur de la terrasse, c'est l'emplacement classique. Un motif tropical, un pano
 
 **Le mur de clôture** entre voisins est souvent moche et sans intérêt. Un habillage en fibre de verre imitation pierre sèche ou imitation crépi coloré change la donne pour 100 à 300 euros.
 
-Et pour aller plus loin dans la personnalisation de ta façade, le guide sur la [peinture pour carrelage extérieur](/guides/exterieur/peinture-pour-carrelage-exterieur-terrasse/) complète bien cette approche si tu as aussi un sol à rénover.
+Et pour aller plus loin dans la personnalisation de ta façade, le guide sur la [peinture pour carrelage extérieur](/peinture-pour-carrelage-exterieur-terrasse/) complète bien cette approche si tu as aussi un sol à rénover.
 
 ## Combien ça coûte au total ?
 
@@ -197,7 +197,7 @@ La pose sur bois (bardage, palissade) est possible mais demande un traitement pr
 
 ## Sur le meme theme
 
-- [pergola ou tonnelle](/guides/exterieur/difference-pergola-tonnelle/)
+- [pergola ou tonnelle](/difference-pergola-tonnelle/)
 
 ## FAQ
 

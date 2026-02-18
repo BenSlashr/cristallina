@@ -120,7 +120,7 @@ C'est la pose la plus répandue : les carreaux muraux sont posés à l'horizonta
 
 ### Pose verticale (la tendance 2026)
 
-Poser les carreaux métro à la verticale, c'est LA tendance du moment. Ça donne immédiatement un effet plus moderne et plus original que la pose classique. L'avantage supplémentaire : ça fait paraître le plafond plus haut. Dans une [douche italienne](/guides/salle-de-bain/douche-italienne/), l'effet est spectaculaire.
+Poser les carreaux métro à la verticale, c'est LA tendance du moment. Ça donne immédiatement un effet plus moderne et plus original que la pose classique. L'avantage supplémentaire : ça fait paraître le plafond plus haut. Dans une [douche italienne](/douche-italienne/), l'effet est spectaculaire.
 
 ### Pose en chevrons (herringbone)
 
@@ -200,7 +200,7 @@ Un des gros avantages du carrelage métro, c'est son entretien simple. La surfac
 
 **Les joints** : si tu as opté pour un joint ciment classique, un passage régulier au bicarbonate de soude + brosse à dents évite le jaunissement. Avec un joint époxy, un simple coup d'éponge suffit.
 
-Pour des inspirations sur les styles de [salle de bain tendance en 2026](/guides/salle-de-bain/salles-de-bains-modernes-2026-modeles-designs-decoration/), tu peux mixer le carrelage métro avec d'autres matériaux comme le bois ou le béton ciré.
+Pour des inspirations sur les styles de [salle de bain tendance en 2026](/salles-de-bains-modernes-2026-modeles-designs-decoration/), tu peux mixer le carrelage métro avec d'autres matériaux comme le bois ou le béton ciré.
 
 ## 5 erreurs courantes à éviter
 
@@ -212,7 +212,7 @@ Pour des inspirations sur les styles de [salle de bain tendance en 2026](/guides
 
 4. **Oublier le traitement des angles.** Les angles sortants (coins de murs, niches) demandent des baguettes de finition ou des coupes à 45 degrés. C'est un détail, mais c'est lui qui donne un rendu pro ou amateur.
 
-5. **Poser du carrelage métro brillant au sol.** Les carreaux muraux ne sont pas conçus pour le sol - ils sont trop glissants et pas assez résistants à l'usure. Pour le sol, oriente-toi vers un [carrelage adapté à la douche italienne](/guides/salle-de-bain/carrelage-douche-italienne/) avec un bon indice antidérapant.
+5. **Poser du carrelage métro brillant au sol.** Les carreaux muraux ne sont pas conçus pour le sol - ils sont trop glissants et pas assez résistants à l'usure. Pour le sol, oriente-toi vers un [carrelage adapté à la douche italienne](/carrelage-douche-italienne/) avec un bon indice antidérapant.
 
 ## Style métro et déco : les combinaisons qui fonctionnent
 
@@ -222,9 +222,9 @@ Le carrelage métro s'adapte à presque tous les univers déco. Voici mes combos
 
 **Métro vert sauge + terrazzo au sol + noir mat** : ambiance contemporaine avec du caractère. C'est le trio que je vois partout sur les projets de rénovation en 2026, et je comprends pourquoi.
 
-**Métro noir + joints blancs + [style industriel](/guides/salle-de-bain/salle-de-bain-industrielle/)** : le contraste graphique maximum. Ajoute des étagères en métal noir et des accessoires en cuivre pour un rendu loft new-yorkais.
+**Métro noir + joints blancs + [style industriel](/salle-de-bain-industrielle/)** : le contraste graphique maximum. Ajoute des étagères en métal noir et des accessoires en cuivre pour un rendu loft new-yorkais.
 
-**Métro couleur pastel + miroir vintage + plantes** : ambiance rétro et douce, parfaite pour une salle de bains parentale. Un miroir chiné en brocante (20-60 EUR) et quelques [plantes de salle de bain](/guides/salle-de-bain/plantes-salle-de-bains/) vertes complètent le tableau.
+**Métro couleur pastel + miroir vintage + plantes** : ambiance rétro et douce, parfaite pour une salle de bains parentale. Un miroir chiné en brocante (20-60 EUR) et quelques [plantes de salle de bain](/plantes-salle-de-bains/) vertes complètent le tableau.
 
 ## FAQ
 

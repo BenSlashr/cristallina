@@ -76,7 +76,7 @@ C'est l'étape qu'on bacle souvent, et c'est une erreur. Un bon sol, c'est la ba
 </div>
 
 
-Commence par délimiter ta zone avec des bordures. Des bordures propres en acier Corten, en pierre naturelle ou en bambou donnent une finition nette qui est vraiment le truc qui fait la différence entre un jardin amateur et un jardin soigné. Pour tout ce qui concerne la pose et les options disponibles, jette un oeil a notre guide sur [comment poser une bordure de jardin sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/) - c'est exactement le type d'installation qui convient ici.
+Commence par délimiter ta zone avec des bordures. Des bordures propres en acier Corten, en pierre naturelle ou en bambou donnent une finition nette qui est vraiment le truc qui fait la différence entre un jardin amateur et un jardin soigné. Pour tout ce qui concerne la pose et les options disponibles, jette un oeil a notre guide sur [comment poser une bordure de jardin sans béton](/poser-bordure-jardin-sans-beton/) - c'est exactement le type d'installation qui convient ici.
 
 Ensuite, pose un géotextile (feutre anti-mauvaises herbes) sur toute la surface du jardin sec. Ce tissu laisse passer l'eau mais bloque la végétation. Sans lui, dans 6 mois, tu passes la moitié de ton temps a désherber entre les cailloux.
 
@@ -125,7 +125,7 @@ C'est la phase la plus fun et la plus technique a la fois. Les éléments minér
 
 **Les pierres.** Choisis des pierres de tailles variées avec des formes intéressantes - ni trop rondes, ni trop anguleuses. Les galets plats conviennent bien pour marquer des chemins. Les rochers plus grands servent d'éléments focaux. Souviens-toi de la règle des impairs.
 
-Pour aller plus loin avec les galets dans un contexte déco extérieur, notre article sur les [5 astuces de déco massif avec galets](/guides/decoration/5-astuces-de-deco-massif-avec-galets/) te donnera plein d'idées sur la façon de les utiliser et de les combiner.
+Pour aller plus loin avec les galets dans un contexte déco extérieur, notre article sur les [5 astuces de déco massif avec galets](/5-astuces-de-deco-massif-avec-galets/) te donnera plein d'idées sur la façon de les utiliser et de les combiner.
 
 **Les chemins.** Des pierres plates posées en pas japonais (avec des espaces entre chaque) créent un chemin qui invite a la promenade lente. La distance entre chaque pierre correspond a un pas naturel - environ 50-60 cm entre les centres.
 
@@ -154,7 +154,7 @@ Un bassin creusé avec quelques poissons koi (les célèbres carpes japonaises) 
 
 Le tsukubai - un vasque en pierre ou en bambou avec un filet d'eau - est une option traditionnelle que tu peux trouver dans les jardineries spécialisées japonaises ou chez des artisans. C'est l'élément le plus authentique et souvent le plus beau.
 
-**L'espace de contemplation.** Un banc simple en bois de teck ou en bambou, face au jardin, suffit. Pas besoin d'un mobilier de jardin complet. Si tu as envie d'un espace de travail ou de repos plus structuré dans ton extérieur, notre article sur le [bureau de jardin en 5m2](/guides/exterieur/bureau-de-jardin-de-5m2-un-mauvais-concept-qui-etait-cense-etre-sympa/) explore d'autres façons d'aménager l'extérieur pour des usages du quotidien.
+**L'espace de contemplation.** Un banc simple en bois de teck ou en bambou, face au jardin, suffit. Pas besoin d'un mobilier de jardin complet. Si tu as envie d'un espace de travail ou de repos plus structuré dans ton extérieur, notre article sur le [bureau de jardin en 5m2](/bureau-de-jardin-de-5m2-un-mauvais-concept-qui-etait-cense-etre-sympa/) explore d'autres façons d'aménager l'extérieur pour des usages du quotidien.
 
 **Les éléments décoratifs zen.** Une lanterne en pierre japonaise (tôrô), un gong, quelques baguettes de bambou formant une structure géométrique... Ces details ajoutent de l'authenticité sans surcharger. La règle : chaque élément doit avoir sa raison d'etre. Si tu ne peux pas répondre a "pourquoi cet objet est la ?", il n'y a pas sa place.
 
@@ -183,8 +183,8 @@ Un jardin zen n'est pas un jardin sans entretien - c'est un mythe. Mais l'entret
 
 ## Sur le meme theme
 
-- [conteneur maritime au jardin](/guides/exterieur/comment-transformer-votre-jardin-avec-un-conteneur-maritime/)
-- [jardins verticaux](/guides/exterieur/jardins-verticaux-de-40-photos-dinspiration-verte/)
+- [conteneur maritime au jardin](/comment-transformer-votre-jardin-avec-un-conteneur-maritime/)
+- [jardins verticaux](/jardins-verticaux-de-40-photos-dinspiration-verte/)
 
 ## Questions fréquentes sur le jardin zen
 

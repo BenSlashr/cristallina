@@ -80,7 +80,7 @@ graph LR
 
 La tonnelle se monte en 30 minutes à 2 heures selon le modèle. Aucun outil spécifique, aucune démarche administrative. Tu la poses, tu la déposes, point.
 
-Pour la pergola, c'est une autre histoire. Un kit basique se monte en une journée à deux personnes. Une pergola sur mesure nécessite l'intervention d'un professionnel (1 à 3 jours de pose). Et côté administratif, attention : si ta pergola dépasse 5 m2, tu dois déposer une déclaration préalable de travaux en mairie. Au-delà de 20 m2, c'est un permis de construire. C'est le même principe que pour [construire un pool house](/guides/exterieur/construire-pool-house/) - renseigne-toi avant de lancer les travaux.
+Pour la pergola, c'est une autre histoire. Un kit basique se monte en une journée à deux personnes. Une pergola sur mesure nécessite l'intervention d'un professionnel (1 à 3 jours de pose). Et côté administratif, attention : si ta pergola dépasse 5 m2, tu dois déposer une déclaration préalable de travaux en mairie. Au-delà de 20 m2, c'est un permis de construire. C'est le même principe que pour [construire un pool house](/construire-pool-house/) - renseigne-toi avant de lancer les travaux.
 
 ### 4. La personnalisation et le style
 
@@ -90,7 +90,7 @@ La tonnelle offre moins d'options, mais elle a ses atouts : rideaux latéraux po
 
 ### 5. L'impact sur la valeur de ta maison
 
-Une pergola bien intégrée, surtout un modèle bioclimatique, ajoute de la valeur à ton bien immobilier. Les agents estiment cette plus-value entre 5 et 10 % du prix de la terrasse aménagée. Si tu veux en savoir plus sur les modèles à lames orientables, j'ai écrit un [guide complet sur la pergola bioclimatique](/guides/exterieur/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) qui détaille tout ça.
+Une pergola bien intégrée, surtout un modèle bioclimatique, ajoute de la valeur à ton bien immobilier. Les agents estiment cette plus-value entre 5 et 10 % du prix de la terrasse aménagée. Si tu veux en savoir plus sur les modèles à lames orientables, j'ai écrit un [guide complet sur la pergola bioclimatique](/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) qui détaille tout ça.
 
 La tonnelle, par définition temporaire, n'a aucun impact sur la valeur immobilière. Mais ce n'est pas son rôle non plus.
 
@@ -149,7 +149,7 @@ La pergola s'impose si :
 - Tu envisages d'y installer un salon de jardin permanent, un coin repas ou un spa
 - Tu habites dans une région venteuse ou pluvieuse et tu as besoin d'une protection fiable
 
-L'idéal, c'est de penser ta pergola en même temps que l'aménagement global de ton extérieur. Si tu refais ta [terrasse](/guides/exterieur/renovez-votre-terrasse-pour-la-securite/), c'est le moment parfait pour intégrer les fondations de la pergola dans le chantier.
+L'idéal, c'est de penser ta pergola en même temps que l'aménagement global de ton extérieur. Si tu refais ta [terrasse](/renovez-votre-terrasse-pour-la-securite/), c'est le moment parfait pour intégrer les fondations de la pergola dans le chantier.
 
 ```mermaid
 graph TD
@@ -177,7 +177,7 @@ Il existe une catégorie intermédiaire qu'on oublie souvent : la tonnelle fixe 
 
 C'est la solution parfaite si tu aimes l'esthétique romantique du jardin à la française. Recouverte d'une vigne, d'un rosier grimpant ou d'une glycine, une tonnelle en fer forgé devient un élément décoratif à part entière. L'ombrage est alors naturel, vivant, et il évolue avec les saisons.
 
-Pour ce type de projet végétalisé, tu peux t'inspirer des idées de [jardins verticaux](/guides/exterieur/jardins-verticaux-de-40-photos-dinspiration-verte/) qui fonctionnent aussi sur les structures type treilles et tonnelles.
+Pour ce type de projet végétalisé, tu peux t'inspirer des idées de [jardins verticaux](/jardins-verticaux-de-40-photos-dinspiration-verte/) qui fonctionnent aussi sur les structures type treilles et tonnelles.
 
 ## Entretien : ce qu'il faut prévoir
 
@@ -213,7 +213,7 @@ L'un n'empêche pas l'autre : beaucoup de gens commencent avec une tonnelle le t
 
 ## Sur le meme theme
 
-- [peinture carrelage extérieur terrasse](/guides/exterieur/peinture-pour-carrelage-exterieur-terrasse/)
+- [peinture carrelage extérieur terrasse](/peinture-pour-carrelage-exterieur-terrasse/)
 
 ## FAQ
 

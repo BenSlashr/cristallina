@@ -202,7 +202,7 @@ Les façades mates avec un léger grain (effet lin, effet ciment, effet bois bro
 
 ### Le vert sauge et les teintes terreuses
 
-Si tu veux de la couleur sans te lasser, le vert sauge, le terracotta doux et le bleu gris sont des valeurs sures en 2026. Ces teintes se marient bien avec un plan de travail en bois et des poignées dorées ou noires. Pour plus d'inspiration sur les palettes de couleurs en cuisine, regarde notre guide sur les [couleurs de cuisine tendance 2026](/guides/cuisine/couleurs-de-cuisine-2026/).
+Si tu veux de la couleur sans te lasser, le vert sauge, le terracotta doux et le bleu gris sont des valeurs sures en 2026. Ces teintes se marient bien avec un plan de travail en bois et des poignées dorées ou noires. Pour plus d'inspiration sur les palettes de couleurs en cuisine, regarde notre guide sur les [couleurs de cuisine tendance 2026](/couleurs-de-cuisine-2026/).
 
 ### Le Shaker revisité
 
@@ -227,8 +227,8 @@ Quand tu remplaces les façades, pense aussi aux éléments qu'on oublie souvent
 
 Le changement de façades peut être le point de départ d'une petite transformation plus large. Si tes caissons Faktum sont en bon état, tu peux aussi :
 
-- **Réorganiser tes rangements intérieurs** avec des séparateurs, tiroirs internes et accessoires. On en parle en détail dans notre guide sur l'[organisation des armoires de cuisine](/guides/cuisine/organisation-armoire-cuisine/).
-- **Revoir la disposition générale** si tu rêves d'une ouverture sur le salon. Les caissons Faktum peuvent rester en place pendant que tu fais abattre une cloison - les façades neuves arriveront après. Jette un oeil aux possibilités de la [cuisine américaine en 2026](/guides/cuisine/cuisine-americaine-2026-dessins-et-modeles/) pour des idées de configuration.
+- **Réorganiser tes rangements intérieurs** avec des séparateurs, tiroirs internes et accessoires. On en parle en détail dans notre guide sur l'[organisation des armoires de cuisine](/organisation-armoire-cuisine/).
+- **Revoir la disposition générale** si tu rêves d'une ouverture sur le salon. Les caissons Faktum peuvent rester en place pendant que tu fais abattre une cloison - les façades neuves arriveront après. Jette un oeil aux possibilités de la [cuisine américaine en 2026](/cuisine-americaine-2026-dessins-et-modeles/) pour des idées de configuration.
 
 > [!IMPORTANT]
 > Avant de toucher à un mur porteur pour ouvrir ta cuisine, fais toujours intervenir un bureau d'études structure. Un mur porteur mal géré, c'est un risque réel pour la sécurité de ton logement.
@@ -236,8 +236,8 @@ Le changement de façades peut être le point de départ d'une petite transforma
 
 ## Sur le meme theme
 
-- [cuisine haut de gamme en seine-et-marne](/guides/cuisine/cuisine-haut-gamme-77-ai-concept/)
-- [cuisine olive](/guides/cuisine/cuisine-olive/)
+- [cuisine haut de gamme en seine-et-marne](/cuisine-haut-gamme-77-ai-concept/)
+- [cuisine olive](/cuisine-olive/)
 
 ## FAQ
 

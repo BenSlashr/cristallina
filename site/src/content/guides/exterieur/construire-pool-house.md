@@ -87,7 +87,7 @@ Il n'y a pas un seul modèle. Ton choix dépend de ton budget, de ton terrain et
 
 C'est la version la plus légère : une structure avec un toit, mais sans murs ou avec un seul côté fermé. Le reste est ouvert sur le jardin et la piscine. C'est idéal si tu veux surtout un coin ombragé avec une cuisine d'été, sans investir dans un vrai bâtiment clos.
 
-Budget : 3 000 à 10 000 euros pour une structure en bois de 15 à 25 m2, hors aménagement intérieur. Si tu cherches l'option couverte et architecturale, regarde du côté des [pergolas bioclimatiques](/guides/exterieur/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) qui se marient bien avec un espace piscine.
+Budget : 3 000 à 10 000 euros pour une structure en bois de 15 à 25 m2, hors aménagement intérieur. Si tu cherches l'option couverte et architecturale, regarde du côté des [pergolas bioclimatiques](/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort/) qui se marient bien avec un espace piscine.
 
 ### Le pool house fermé en dur
 
@@ -103,7 +103,7 @@ Budget kit : 5 000 à 18 000 euros hors dalle et aménagement. Ajoute 2 000 à 4
 
 ### Le pool house container
 
-Pour un look industriel et moderne, certains recyclent un container maritime transformé. C'est solide, rapide à poser et original. Ça s'intègre bien si ta maison a un [style contemporain avec des lignes nettes](/guides/exterieur/maisons-modernes-2026-images-dexterieur-et-dinterieur/). En revanche, il faut bien traiter l'isolation thermique pour éviter l'effet "four" en été.
+Pour un look industriel et moderne, certains recyclent un container maritime transformé. C'est solide, rapide à poser et original. Ça s'intègre bien si ta maison a un [style contemporain avec des lignes nettes](/maisons-modernes-2026-images-dexterieur-et-dinterieur/). En revanche, il faut bien traiter l'isolation thermique pour éviter l'effet "four" en été.
 
 Budget : 8 000 à 25 000 euros selon le niveau de transformation.
 
@@ -131,7 +131,7 @@ Oublie le bois naturel au sol pour un pool house - trop glissant quand c'est mou
 - **Dalles composites** : 30 à 60 euros le m2, imitent le bois sans les inconvénients.
 
 > [!NOTE]
-> Pour le revêtement de sol en zone humide, assure-toi que le classement antidérapant est au minimum R11. C'est indiqué sur la fiche technique de chaque produit. Si tu hésites, notre guide sur la [sécurisation des terrasses](/guides/exterieur/renovez-votre-terrasse-pour-la-securite/) détaille bien les normes.
+> Pour le revêtement de sol en zone humide, assure-toi que le classement antidérapant est au minimum R11. C'est indiqué sur la fiche technique de chaque produit. Si tu hésites, notre guide sur la [sécurisation des terrasses](/renovez-votre-terrasse-pour-la-securite/) détaille bien les normes.
 
 ### Pour la toiture
 
@@ -196,7 +196,7 @@ Un pool house a besoin au minimum :
 - De prises étanches (norme IP44 minimum) pour le frigo, la plancha électrique, les éclairages
 - D'un éclairage extérieur pour les soirées (spots encastrés, guirlandes raccordées)
 
-Budget électricité : entre 1 500 et 3 500 euros en faisant appel à un électricien. Si tu récupères l'eau de pluie pour ta piscine avec une pompe de relevage, la partie électrique doit être dimensionnée en conséquence - j'en parle en détail dans [le guide sur la récupération d'eau de piscine](/guides/exterieur/recuperation-eau-piscine/).
+Budget électricité : entre 1 500 et 3 500 euros en faisant appel à un électricien. Si tu récupères l'eau de pluie pour ta piscine avec une pompe de relevage, la partie électrique doit être dimensionnée en conséquence - j'en parle en détail dans [le guide sur la récupération d'eau de piscine](/recuperation-eau-piscine/).
 
 > [!IMPORTANT]
 > Toute installation électrique dans un pool house doit respecter la norme NF C 15-100. C'est obligatoire et ça conditionne ton assurance habitation. Un circuit non conforme, c'est un sinistre non couvert en cas de problème.
@@ -244,7 +244,7 @@ Mon conseil : commence par lister tes vrais besoins. Un pool house de 15 m2 bien
 
 ## Sur le meme theme
 
-- [couleurs facades maison 2026](/guides/exterieur/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/)
+- [couleurs facades maison 2026](/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/)
 
 ## FAQ
 

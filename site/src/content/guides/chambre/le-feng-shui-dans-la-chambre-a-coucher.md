@@ -226,7 +226,7 @@ Pour continuer à transformer ta chambre, jette un oeil à mon article sur la [d
 
 ## Sur le meme theme
 
-- [décorer sa chambre en location](/guides/chambre/decorer-chambre-coucher-location/)
+- [décorer sa chambre en location](/decorer-chambre-coucher-location/)
 
 ## FAQ
 

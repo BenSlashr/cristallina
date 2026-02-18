@@ -171,7 +171,7 @@ Adapter le produit à la zone, c'est un réflexe malin :
 
 Ce découpage par zone te permet aussi d'économiser. La résine époxy coûte 50-70 euros le pot, la peinture acrylique 25-35 euros. Pas besoin de mettre de l'époxy partout.
 
-Pour aller plus loin sur le choix de la peinture adaptée à ta douche, mon [guide complet sur la peinture pour carrelage de douche](/guides/salle-de-bain/peinture-pour-carrelage-douche/) détaille chaque type de produit.
+Pour aller plus loin sur le choix de la peinture adaptée à ta douche, mon [guide complet sur la peinture pour carrelage de douche](/peinture-pour-carrelage-douche/) détaille chaque type de produit.
 
 ## Erreur 7 : oublier les joints
 
@@ -201,7 +201,7 @@ Voici le vrai coût d'un projet de peinture carrelage salle de bain mené correc
 
 C'est un budget raisonnable comparé au remplacement complet du carrelage (1500-3000 euros en moyenne). Et si ta technique est bonne, le résultat tient 4 à 5 ans sans retouche.
 
-Si tu prévois un relooking plus complet de ta salle de bain, jette un oeil à mon guide sur les [tendances salle de bain 2026](/guides/salle-de-bain/amenager-une-salle-de-bain-en-2026-styles-et-conseils/) pour t'inspirer avant de choisir tes couleurs.
+Si tu prévois un relooking plus complet de ta salle de bain, jette un oeil à mon guide sur les [tendances salle de bain 2026](/amenager-une-salle-de-bain-en-2026-styles-et-conseils/) pour t'inspirer avant de choisir tes couleurs.
 
 ## Quelle finition choisir
 
@@ -213,13 +213,13 @@ Le choix entre mat, satiné et brillant n'est pas qu'une question de goût en sa
 
 **Le mat**, c'est non en zone humide. Il absorbe l'humidité, se tache vite et jaunit avec le temps. Si tu veux un rendu mat, limite-le aux murs les plus éloignés de l'eau.
 
-Pour plus d'inspiration sur les styles de salles de bain modernes et les associations de couleurs, découvre notre sélection de [salles de bain design 2026](/guides/salle-de-bain/salles-de-bains-modernes-2026-modeles-designs-decoration/).
+Pour plus d'inspiration sur les styles de salles de bain modernes et les associations de couleurs, découvre notre sélection de [salles de bain design 2026](/salles-de-bains-modernes-2026-modeles-designs-decoration/).
 
 
 ## Sur le meme theme
 
-- [carrelage métro salle de bain](/guides/salle-de-bain/carrelage-metro-salle-de-bain/)
-- [peinture pour carrelage cuisine](/guides/cuisine/peinture-pour-carrelage-cuisine/)
+- [carrelage métro salle de bain](/carrelage-metro-salle-de-bain/)
+- [peinture pour carrelage cuisine](/peinture-pour-carrelage-cuisine/)
 
 ## FAQ
 

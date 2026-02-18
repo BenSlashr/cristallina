@@ -133,7 +133,7 @@ Pour les enfants qui veulent dessiner à la craie sans limite, ou pour un vrai m
 
 C'est le spot numéro 1 et pour cause : le tableau ardoise dans la cuisine, c'est un classique qui fonctionne toujours. Menu de la semaine, liste de courses, recette du jour, petit mot pour la famille. Place-le à côté du frigo ou au-dessus du plan de travail, à hauteur des yeux (centre du tableau à environ 160 cm du sol).
 
-Pour un look cohérent, associe-le avec des accessoires en bois naturel ou en métal noir mat. Si tu cherches à créer une ambiance naturelle et épurée, notre guide sur la [déco minimaliste](/guides/decoration/decoration-minimaliste-idees-et-photos-faciles/) te donnera plein d'idées complémentaires.
+Pour un look cohérent, associe-le avec des accessoires en bois naturel ou en métal noir mat. Si tu cherches à créer une ambiance naturelle et épurée, notre guide sur la [déco minimaliste](/decoration-minimaliste-idees-et-photos-faciles/) te donnera plein d'idées complémentaires.
 
 ### Dans l'entrée
 
@@ -194,7 +194,7 @@ Le poids est la variable clé. Un petit panneau mélaminé de 2 kg se fixe avec 
 </div>
 
 
-Pour les méthodes détaillées selon ton type de mur (placo, béton, brique), consulte notre guide complet pour [bien accrocher un tableau mural](/guides/decoration/bien-accrocher-tableau-mural/) - tu y trouveras les bonnes fixations pour chaque poids.
+Pour les méthodes détaillées selon ton type de mur (placo, béton, brique), consulte notre guide complet pour [bien accrocher un tableau mural](/bien-accrocher-tableau-mural/) - tu y trouveras les bonnes fixations pour chaque poids.
 
 **Quelques règles rapides** :
 
@@ -203,7 +203,7 @@ Pour les méthodes détaillées selon ton type de mur (placo, béton, brique), c
 - Laisse 15-20 cm de marge entre le tableau et le meuble en dessous
 - Vérifie l'horizontalité avec un niveau à bulle avant de fixer
 
-Si tu aimes les compositions murales mélangées (ardoise + cadres + plantes), tu trouveras des idées d'agencement dans notre guide sur les [cadres et tableaux végétaux](/guides/decoration/choisir-cadre-tableau-mural-vegetal/).
+Si tu aimes les compositions murales mélangées (ardoise + cadres + plantes), tu trouveras des idées d'agencement dans notre guide sur les [cadres et tableaux végétaux](/choisir-cadre-tableau-mural-vegetal/).
 
 ---
 
@@ -228,7 +228,7 @@ Les chevalets double-face combinent un côté ardoise noire et un côté tableau
 </div>
 
 
-**Mes recommandations** : le chevalet Janod "Splash" (environ 50 euros, réglable en hauteur, bois massif) et le modèle Smoby (environ 35 euros, plastique résistant, avec rangement intégré pour les accessoires). Si tu cherches aussi un tableau blanc pour ton usage perso, jette un oeil à notre guide sur les [tableaux Velleda](/guides/decoration/choisir-tableau-velleda/) qui compare tous les formats et surfaces.
+**Mes recommandations** : le chevalet Janod "Splash" (environ 50 euros, réglable en hauteur, bois massif) et le modèle Smoby (environ 35 euros, plastique résistant, avec rangement intégré pour les accessoires). Si tu cherches aussi un tableau blanc pour ton usage perso, jette un oeil à notre guide sur les [tableaux Velleda](/choisir-tableau-velleda/) qui compare tous les formats et surfaces.
 
 > [!TIP]
 > Pour un chevalet d'enfant, choisis un modèle avec des pieds réglables en hauteur. Les enfants grandissent vite, et un chevalet trop bas oblige à se baisser en permanence. La hauteur d'écriture doit arriver entre l'épaule et le menton de l'enfant.
@@ -238,7 +238,7 @@ Les chevalets double-face combinent un côté ardoise noire et un côté tableau
 
 ## Sur le meme theme
 
-- [tableau planning et pense-bête](/guides/decoration/choisir-tableau-planning-pense-bete/)
+- [tableau planning et pense-bête](/choisir-tableau-planning-pense-bete/)
 
 ## FAQ
 

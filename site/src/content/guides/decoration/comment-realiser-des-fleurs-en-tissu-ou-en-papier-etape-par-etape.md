@@ -166,19 +166,19 @@ Découpe des bandes de tissu d'environ 3 cm de large et 40 à 50 cm de long. Pli
 
 Sécurise toutes les 5 cm avec du fil ou de la colle à chaud au niveau de la base. Continue d'ajouter des bandes jusqu'à obtenir le volume voulu. L'aspect imparfait et irrégulier est justement ce qui rend ces fleurs jolies - elles ont du caractère.
 
-Ce type de fleur se marie très bien avec le style boho ou une [décoration marocaine moderne](/guides/decoration/decoration-marocaine-moderne-ou-classique/). On peut les accrocher en grappe au mur, les intégrer dans une couronne murale ou les coller sur un cadre miroir.
+Ce type de fleur se marie très bien avec le style boho ou une [décoration marocaine moderne](/decoration-marocaine-moderne-ou-classique/). On peut les accrocher en grappe au mur, les intégrer dans une couronne murale ou les coller sur un cadre miroir.
 
 ## Idées déco pour utiliser tes créations
 
 Une fois tes fleurs faites, comment les valoriser ?
 
-**Un tableau floral** : colle tes fleurs sur une toile tendue peinte en blanc cassé ou noir. Varie les tailles, les matières, les reliefs. Tu peux aussi [peindre des bocaux en verre](/guides/decoration/comment-peindre-des-bocaux-ou-des-bouteilles-en-verre/) pour créer des vases qui s'accordent avec tes créations.
+**Un tableau floral** : colle tes fleurs sur une toile tendue peinte en blanc cassé ou noir. Varie les tailles, les matières, les reliefs. Tu peux aussi [peindre des bocaux en verre](/comment-peindre-des-bocaux-ou-des-bouteilles-en-verre/) pour créer des vases qui s'accordent avec tes créations.
 
 **Une guirlande pour une étagère** : enfile tes fleurs en papier sur du fil de lin à l'aide d'une aiguille passée dans le centre de chaque fleur. Suspend cette guirlande devant une étagère ou le long d'une fenêtre.
 
 **Une couronne murale** : prends un cercle en bois ou en osier (Maisons du Monde en propose autour de 8 €) et colle tes fleurs dessus avec un pistolet à colle. Mixe fleurs en tissu, en papier, et pourquoi pas des petites branches séchées.
 
-**Un vase bouquet permanent** : assemble tes fleurs en papier crépon sur des tiges en fil de fer de longueurs différentes, et dispose-les dans un vase. Ca ressemble vraiment à un vrai bouquet de loin. Et ça ne jaunit pas, ne perd pas ses pétales, ne demande pas d'eau. Parfait à côté d'une [péperomia hope](/guides/decoration/la-peperomia-hope/) ou d'une autre plante verte pour mélanger le naturel et le fait main.
+**Un vase bouquet permanent** : assemble tes fleurs en papier crépon sur des tiges en fil de fer de longueurs différentes, et dispose-les dans un vase. Ca ressemble vraiment à un vrai bouquet de loin. Et ça ne jaunit pas, ne perd pas ses pétales, ne demande pas d'eau. Parfait à côté d'une [péperomia hope](/la-peperomia-hope/) ou d'une autre plante verte pour mélanger le naturel et le fait main.
 
 > [!IMPORTANT]
 > Si tu prévois d'exposer tes fleurs en papier dans une pièce très lumineuse, opte pour des papiers crépons ou de soie résistants à la décoloration UV. Les gammes Canson ou Clairefontaine ont des versions "premium" qui durent beaucoup plus longtemps que les versions low-cost.
@@ -186,8 +186,8 @@ Une fois tes fleurs faites, comment les valoriser ?
 
 ## Sur le meme theme
 
-- [fabriquer un four à pizza](/guides/decoration/fabriquer-four-a-pizza/)
-- [artisanat recyclé pour la maison](/guides/decoration/artisanat-avec-des-materiaux-recycles-pour-la-maison/)
+- [fabriquer un four à pizza](/fabriquer-four-a-pizza/)
+- [artisanat recyclé pour la maison](/artisanat-avec-des-materiaux-recycles-pour-la-maison/)
 
 ## Questions fréquentes
 

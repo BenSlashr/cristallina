@@ -129,7 +129,7 @@ graph TD
 
 **Autour de la baignoire** : si tu as une grande salle de bains, des plantes au sol de chaque côté de la baignoire créent un effet spa vraiment réussi. Vise des plantes de 40-60 cm de hauteur pour garder les proportions.
 
-Si tu repenses toute ta déco, jette un oeil à [nos modèles de salles de bains modernes 2026](/guides/salle-de-bain/salles-de-bains-modernes-2026-modeles-designs-decoration/) pour voir comment intégrer le végétal dans différents styles.
+Si tu repenses toute ta déco, jette un oeil à [nos modèles de salles de bains modernes 2026](/salles-de-bains-modernes-2026-modeles-designs-decoration/) pour voir comment intégrer le végétal dans différents styles.
 
 ### La règle du drainage
 
@@ -197,7 +197,7 @@ Toutes les 2-3 semaines, passe un chiffon humide sur les grandes feuilles. Ça r
 
 ### Le style spa zen
 
-Pour une salle de bains épurée type [salle de bain industrielle](/guides/salle-de-bain/salle-de-bain-industrielle/), mise sur des plantes en pots en ciment ou en terre cuite noire. Un monstera dans un pot cylindrique graphite, quelques cactus colonnes sur une étagère en métal, c'est stylé et cohérent.
+Pour une salle de bains épurée type [salle de bain industrielle](/salle-de-bain-industrielle/), mise sur des plantes en pots en ciment ou en terre cuite noire. Un monstera dans un pot cylindrique graphite, quelques cactus colonnes sur une étagère en métal, c'est stylé et cohérent.
 
 ### La jungle tropicale
 
@@ -207,13 +207,13 @@ Dans une salle de bains plus grande, tu peux superposer les niveaux : plantes ha
 
 Si tu n'as pas beaucoup de place, une rangée de 5-6 petits pots identiques avec différentes plantes compactes (peperomia, bromelia, haworthia) crée un effet collection très tendance. Des pots blancs ou terracotta basiques d'Ikea à 2€-5€ pièce font très bien l'affaire.
 
-La [peperomia hope](/guides/decoration/la-peperomia-hope/) est particulièrement adaptée à cet usage : compacte, graphique avec ses petites feuilles rondes, et elle supporte bien les variations de conditions.
+La [peperomia hope](/la-peperomia-hope/) est particulièrement adaptée à cet usage : compacte, graphique avec ses petites feuilles rondes, et elle supporte bien les variations de conditions.
 
 
 ## Sur le meme theme
 
-- [carrelage métro salle de bain](/guides/salle-de-bain/carrelage-metro-salle-de-bain/)
-- [rangement salle de bains](/guides/salle-de-bain/idees-de-rangement-et-de-placards-pour-la-salle-de-bains/)
+- [carrelage métro salle de bain](/carrelage-metro-salle-de-bain/)
+- [rangement salle de bains](/idees-de-rangement-et-de-placards-pour-la-salle-de-bains/)
 
 ## FAQ
 

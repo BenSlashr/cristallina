@@ -190,7 +190,7 @@ Pour la chambre, joue la carte de la douceur. La déco africaine peut être trè
 - Une lampe de chevet avec un pied en céramique artisanale
 - Des coussins en raphia ou en lin brodé de motifs africains
 
-Si tu cherches des idées pour composer une [chambre dans un style végétal et exotique](/guides/chambre/decorer-une-chambre-dans-un-style-jungle/), la déco africaine s'y prête vraiment bien.
+Si tu cherches des idées pour composer une [chambre dans un style végétal et exotique](/decorer-une-chambre-dans-un-style-jungle/), la déco africaine s'y prête vraiment bien.
 
 ### L'entrée et le couloir
 
@@ -205,11 +205,11 @@ C'est probablement la question la plus fréquente : comment intégrer des pièce
 
 **Fond moderne + objets africains** - Des murs blancs, un mobilier aux lignes épurées, un sol en béton ciré ou en parquet clair... et tu poses là-dessus des coussins wax, un tapis en jute, un masque en bois. Le contraste entre la modernité du fond et la chaleur des objets crée un équilibre naturel.
 
-**Le style "ethno-chic"** - C'est le mélange le plus courant en France : base scandinave (bois clair, blanc, lignes simples) enrichie de touches africaines. Les [salons modernes](/guides/decoration/salons-modernes-et-elegants-2026/) intègrent ce type de mix sans difficulté.
+**Le style "ethno-chic"** - C'est le mélange le plus courant en France : base scandinave (bois clair, blanc, lignes simples) enrichie de touches africaines. Les [salons modernes](/salons-modernes-et-elegants-2026/) intègrent ce type de mix sans difficulté.
 
 **Le style "afro-bohème"** - Plus libre, plus coloré. On mélange wax, macramé, plantes vertes, rotin, coussins de sol. C'est joyeux, décontracté, et ça reflète une personnalité assumée.
 
-La [décoration marocaine](/guides/decoration/decoration-marocaine-moderne-ou-classique/) partage beaucoup de codes avec la déco africaine - les deux styles se mixent très bien si tu veux créer un intérieur inspiré de tout le continent.
+La [décoration marocaine](/decoration-marocaine-moderne-ou-classique/) partage beaucoup de codes avec la déco africaine - les deux styles se mixent très bien si tu veux créer un intérieur inspiré de tout le continent.
 
 ## DIY : 3 projets simples pour une touche africaine
 
@@ -225,7 +225,7 @@ La [décoration marocaine](/guides/decoration/decoration-marocaine-moderne-ou-cl
 
 ## Sur le meme theme
 
-- [décoration art déco](/guides/decoration/50-idees-de-decoration-art-deco/)
+- [décoration art déco](/50-idees-de-decoration-art-deco/)
 
 ## FAQ
 
@@ -236,4 +236,4 @@ La déco ethnique est un terme parapluie qui englobe des influences du monde ent
 La clé, c'est de mixer. Ne crée pas une pièce 100% africaine - intègre les objets dans un décor contemporain, varie les tailles et les hauteurs, et évite d'accumuler trop de petits objets. Trois belles pièces bien placées valent mieux que vingt bibelots.
 
 **La déco africaine est-elle adaptée aux petits espaces ?**
-Oui, et c'est même un atout. Les [couleurs qui donnent de la profondeur](/guides/couleurs/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece/) comme l'ocre et le terracotta réchauffent les petits volumes sans les écraser. Les paniers muraux et les textiles n'encombrent pas l'espace au sol. Un petit studio avec un mur ocre, deux paniers tressés et un coussin bogolan aura déjà un vrai caractère.
+Oui, et c'est même un atout. Les [couleurs qui donnent de la profondeur](/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece/) comme l'ocre et le terracotta réchauffent les petits volumes sans les écraser. Les paniers muraux et les textiles n'encombrent pas l'espace au sol. Un petit studio avec un mur ocre, deux paniers tressés et un coussin bogolan aura déjà un vrai caractère.

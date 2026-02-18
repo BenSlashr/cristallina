@@ -38,7 +38,7 @@ Ce qui change vraiment cette année, c'est le retour des matières brutes et cha
 
 La maison blanche avec toit plat reste une valeur sûre. Mais en 2026, on ne se contente plus du blanc uni. Les façades jouent avec les textures : enduit gratté côtoyant des panneaux de métal brossé, pierre de parement sur le rez-de-chaussée, bois composite sur l'étage. Ce mix de matières, c'est ce qui donne du caractère à une construction qui pourrait sinon paraître froide.
 
-Pour la couleur, si tu veux sortir du blanc, les teintes de terre sont très présentes : anthracite, gris clair, sable, ocre pâle. Si tu cherches des idées précises pour choisir ta palette extérieure, notre article sur les [couleurs pour les extérieurs et les façades de maisons 2026](/guides/exterieur/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) te donnera des pistes concrètes avec des codes couleurs.
+Pour la couleur, si tu veux sortir du blanc, les teintes de terre sont très présentes : anthracite, gris clair, sable, ocre pâle. Si tu cherches des idées précises pour choisir ta palette extérieure, notre article sur les [couleurs pour les extérieurs et les façades de maisons 2026](/couleurs-pour-les-exterieurs-et-les-facades-de-maisons-2026/) te donnera des pistes concrètes avec des codes couleurs.
 
 ### Le toit, élément de design à part entière
 
@@ -132,7 +132,7 @@ Le plan en L ou en U avec un îlot central est le plus demandé pour les espaces
 
 Si tu veux transformer une pièce sans tout refaire, joue sur les textures murales. En 2026, les enduits à la chaux ou les bétons décoratifs sont partout. Ils apportent cette imperfection contrôlée qui fait tout le charme des intérieurs modernes contemporains.
 
-Pour les murs intérieurs en pierre apparente ou en brique, tu peux aussi regarder du côté des techniques d'application - notre guide sur [comment crépir un mur intérieur](/guides/decoration/crepir-un-mur-interieur/) explique les différentes méthodes selon le rendu souhaité.
+Pour les murs intérieurs en pierre apparente ou en brique, tu peux aussi regarder du côté des techniques d'application - notre guide sur [comment crépir un mur intérieur](/crepir-un-mur-interieur/) explique les différentes méthodes selon le rendu souhaité.
 
 ## Matériaux tendance : le métal, le marbre et la pierre
 
@@ -180,7 +180,7 @@ Une maison moderne en 2026, c'est aussi une maison qui s'ouvre sur l'extérieur.
 
 Les carreaux de terrasse grand format (60x60 ou 80x80 cm) en grès cérame antidérapant sont très utilisés pour créer une continuité visuelle entre intérieur et extérieur. Les teintes béton ou pierre fonctionnent particulièrement bien pour cet effet de fluidité espace intérieur-extérieur.
 
-Pour délimiter les espaces dans le jardin, les bordures de parterre jouent un rôle esthétique dans un aménagement contemporain. Notre guide sur [comment poser une bordure de jardin sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/) te montrera des techniques propres et faciles pour structurer ton jardin avec des lignes nettes.
+Pour délimiter les espaces dans le jardin, les bordures de parterre jouent un rôle esthétique dans un aménagement contemporain. Notre guide sur [comment poser une bordure de jardin sans béton](/poser-bordure-jardin-sans-beton/) te montrera des techniques propres et faciles pour structurer ton jardin avec des lignes nettes.
 
 > [!TIP]
 > Pour une terrasse moderne à petit budget, associe des dalles grès cérame (Castorama propose des modèles 60x60 cm à partir de 20 €/m²) avec un claustra en aluminium anthracite. L'effet est très architectural pour moins de 150 €/m² de terrasse finie.
@@ -201,8 +201,8 @@ La maison moderne en 2026, c'est avant tout une maison qui vit bien et qui vieil
 
 ## Sur le meme theme
 
-- [maisons modernes en adobe](/guides/exterieur/maisons-modernes-en-adobe-images-dinterieurs-et-dexterieurs/)
-- [couleur porte d'entrée](/guides/exterieur/couleurs-des-portes-exterieures-comment-choisir-la-couleur/)
+- [maisons modernes en adobe](/maisons-modernes-en-adobe-images-dinterieurs-et-dexterieurs/)
+- [couleur porte d'entrée](/couleurs-des-portes-exterieures-comment-choisir-la-couleur/)
 
 ## Questions fréquentes sur les maisons modernes 2026
 

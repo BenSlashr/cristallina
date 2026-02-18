@@ -33,7 +33,7 @@ Côté matières, les options :
 - **Bureau assis-debout** : investissement plus lourd (350-800€) mais franchement utile pour les longues sessions. Le Bekant d'Ikea démarre à 459€ avec la version électrique.
 
 > [!TIP]
-> Si tu veux un bureau entièrement personnalisé sans te ruiner, pense à [fabriquer ton bureau avec des caissons](/guides/decoration/fabriquer-un-bureau-avec-des-caissons/). Ca permet d'avoir exactement la longueur et la configuration voulues, avec rangement intégré.
+> Si tu veux un bureau entièrement personnalisé sans te ruiner, pense à [fabriquer ton bureau avec des caissons](/fabriquer-un-bureau-avec-des-caissons/). Ca permet d'avoir exactement la longueur et la configuration voulues, avec rangement intégré.
 
 ## Le setup écran : moniteur ou double écran ?
 
@@ -173,7 +173,7 @@ C'est là que ca devient fun. L'ambiance d'un setup gaming, c'est beaucoup l'éc
 
 Pour la déco autour : les panneaux acoustiques colorés (qui absorbent aussi un peu le son, pratique pour les voisins), les figurines de jeux vidéo, quelques plantes pour apporter du vivant... et voilà, le setup a de la personnalité.
 
-Si ton setup gaming est dans ta chambre et que tu cherches une ambiance cohérente avec le reste de la pièce, jette un oeil à [comment décorer une chambre dans un style jungle](/guides/chambre/decorer-une-chambre-dans-un-style-jungle/) pour voir comment intégrer des touches naturelles même dans un espace tech.
+Si ton setup gaming est dans ta chambre et que tu cherches une ambiance cohérente avec le reste de la pièce, jette un oeil à [comment décorer une chambre dans un style jungle](/decorer-une-chambre-dans-un-style-jungle/) pour voir comment intégrer des touches naturelles même dans un espace tech.
 
 > [!TIP]
 > Trust me : un fond de mur peint dans une teinte sombre (anthracite, bleu marine, vert bouteille) derrière ton setup amplifie x10 l'effet des LEDs et donne une vraie identité visuelle à ta station.
@@ -189,7 +189,7 @@ Un setup bien organisé, ca facilite aussi la session : plus besoin de chercher 
 - **Organisateur de bureau** (Ikea Kvissle, 15€ ou Yamazaki, 30-40€) : pour les petits accessoires
 - **Etagère murale au-dessus du setup** : pour les jeux physiques, figurines et manettes en exposition
 
-Pour garder tout ca propre au quotidien, les memes réflexes que pour [ranger une chambre](/guides/chambre/ranger-chambre/) s'appliquent : une place définie pour chaque objet, et on y revient à chaque fois.
+Pour garder tout ca propre au quotidien, les memes réflexes que pour [ranger une chambre](/ranger-chambre/) s'appliquent : une place définie pour chaque objet, et on y revient à chaque fois.
 
 > [!IMPORTANT]
 > Pense à la ventilation de ta pièce. Un PC gaming chauffe, et une pièce mal ventilée monte vite en température. Si ton bureau est dans un espace confiné, prévois une solution d'aération ou au moins quelques degrés de marge dans la configuration thermique de ta machine.
@@ -225,8 +225,8 @@ Voici trois niveaux de setup pour t'aider à te positionner :
 
 ## Sur le meme theme
 
-- [peindre sans poncer](/guides/decoration/peindre-sans-poncer/)
-- [décoration petit salon](/guides/decoration/decoration-petit-salon/)
+- [peindre sans poncer](/peindre-sans-poncer/)
+- [décoration petit salon](/decoration-petit-salon/)
 
 ## FAQ
 

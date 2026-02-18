@@ -180,10 +180,10 @@ Le prix d'entrée fait peur, mais un ofuro en hinoki bien entretenu, ca dure 30 
 
 ## Sur le meme theme
 
-- [meuble salle de bain béton ciré](/guides/salle-de-bain/meuble-salle-de-bain-beton-cire/)
-- [entretenir un bain nordique](/guides/salle-de-bain/comment-entretenir-un-bain-nordique/)
-- [baignoire scandinave](/guides/salle-de-bain/baignoire-scandinave/)
-- [salle de bain industrielle](/guides/salle-de-bain/salle-de-bain-industrielle/)
+- [meuble salle de bain béton ciré](/meuble-salle-de-bain-beton-cire/)
+- [entretenir un bain nordique](/comment-entretenir-un-bain-nordique/)
+- [baignoire scandinave](/baignoire-scandinave/)
+- [salle de bain industrielle](/salle-de-bain-industrielle/)
 
 ## FAQ
 

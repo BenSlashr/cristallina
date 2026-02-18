@@ -65,7 +65,7 @@ Les options concrètes :
 - **Travertin** : carrelage en pierre naturelle au fini usé, parfait pour le sol (40-80 euros le m2)
 - **Grès cérame imitation pierre** : l'alternative budget qui imite la pierre à la perfection, à partir de 15 euros le m2
 
-Pour le sol, le [carrelage de douche italienne](/guides/salle-de-bain/carrelage-douche-italienne/) en grès cérame effet pierre est un choix solide qui combine esthétique rustique et facilité d'entretien.
+Pour le sol, le [carrelage de douche italienne](/carrelage-douche-italienne/) en grès cérame effet pierre est un choix solide qui combine esthétique rustique et facilité d'entretien.
 
 ### La céramique artisanale
 
@@ -99,7 +99,7 @@ Quelques combinaisons qui marchent à tous les coups :
 - **Beige sable + terracotta + laiton brossé** : plus chaleureux, ambiance méditerranéenne
 - **Gris perle + chêne fumé + vert sauge** : subtil et apaisant, idéal pour les petites salles de bain
 
-Pour les murs, la peinture à la chaux donne un fini légèrement texturé qui colle parfaitement au style. La [décoration shabby chic](/guides/decoration/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/) partage d'ailleurs cet amour des finitions patinées et des teintes poudrées.
+Pour les murs, la peinture à la chaux donne un fini légèrement texturé qui colle parfaitement au style. La [décoration shabby chic](/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration/) partage d'ailleurs cet amour des finitions patinées et des teintes poudrées.
 
 ## Les éléments clés à choisir
 
@@ -113,7 +113,7 @@ Pour les murs, la peinture à la chaux donne un fini légèrement texturé qui c
 La vasque donne le ton de toute la salle de bain. En rustique moderne, on préfère les formes organiques ou les matériaux bruts :
 
 - **Vasque en pierre naturelle** (100-400 euros) : ronde, posée sur un plan en bois, elle crée un point focal immédiat
-- **Vasque en béton ciré** (150-350 euros) : texture minérale et forme géométrique, l'alliance parfaite entre brut et design. Les [meubles en béton ciré](/guides/salle-de-bain/meuble-salle-de-bain-beton-cire/) sont d'ailleurs une tendance forte du moment.
+- **Vasque en béton ciré** (150-350 euros) : texture minérale et forme géométrique, l'alliance parfaite entre brut et design. Les [meubles en béton ciré](/meuble-salle-de-bain-beton-cire/) sont d'ailleurs une tendance forte du moment.
 - **Vasque en céramique mate** (60-200 euros) : la valeur sure, en finition mate blanche ou colorée
 
 ### La robinetterie : le détail qui change tout
@@ -197,7 +197,7 @@ Les bonnes options :
 
 Si ta salle de bain a la chance d'avoir une fenêtre, exploite la lumière naturelle au maximum. Un store en lin plutôt qu'un rideau occultant laissera filtrer cette lumière douce qui met en valeur les textures du bois et de la pierre.
 
-Pour aller plus loin sur les stratégies d'éclairage, le guide sur la [baignoire scandinave](/guides/salle-de-bain/baignoire-scandinave/) aborde aussi l'importance de la lumière dans les salles de bain à ambiance naturelle.
+Pour aller plus loin sur les stratégies d'éclairage, le guide sur la [baignoire scandinave](/baignoire-scandinave/) aborde aussi l'importance de la lumière dans les salles de bain à ambiance naturelle.
 
 ## Budget : combien ça coûte une salle de bain rustique moderne ?
 
@@ -243,7 +243,7 @@ flowchart LR
 
 ## Sur le meme theme
 
-- [carrelage métro salle de bain](/guides/salle-de-bain/carrelage-metro-salle-de-bain/)
+- [carrelage métro salle de bain](/carrelage-metro-salle-de-bain/)
 
 ## FAQ
 

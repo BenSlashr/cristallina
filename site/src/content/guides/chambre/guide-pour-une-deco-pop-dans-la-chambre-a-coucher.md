@@ -45,7 +45,7 @@ C'est LA question centrale. En déco pop, la couleur n'est pas un détail - c'es
 - **Bleu électrique** : profond mais vif, il structure et dynamise
 - **Rouge vermillon** : le classique Warhol, à utiliser en accent
 - **Vert pomme** : frais et décalé, parfait en petites touches
-- **Orange vif** : la couleur qui réchauffe tout (si tu aimes l'orange en déco, jette un oeil à notre guide sur les [couleurs compatibles avec l'orange](/guides/couleurs/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/))
+- **Orange vif** : la couleur qui réchauffe tout (si tu aimes l'orange en déco, jette un oeil à notre guide sur les [couleurs compatibles avec l'orange](/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/))
 
 ### Comment doser sans que ça devienne un arc-en-ciel
 
@@ -193,13 +193,13 @@ Le Pop Art, c'est l'art accessible par définition. Quelques idées :
 - Miroir avec cadre coloré ou ondulé (le miroir "wavy" très tendance en ce moment, autour de 30 euros sur Amazon)
 
 > [!WARNING]
-> Le piège de la déco pop, c'est l'accumulation. Choisis tes accessoires avec soin : mieux vaut 5 objets bien choisis et bien placés que 20 bibelots qui encombrent. Si tu veux des astuces pour [bien ranger ta chambre](/guides/chambre/ranger-chambre/) et garder ton style pop net, c'est par ici.
+> Le piège de la déco pop, c'est l'accumulation. Choisis tes accessoires avec soin : mieux vaut 5 objets bien choisis et bien placés que 20 bibelots qui encombrent. Si tu veux des astuces pour [bien ranger ta chambre](/ranger-chambre/) et garder ton style pop net, c'est par ici.
 
 ## 3 ambiances pop à copier
 
 ### Pop pastel - la version douce
 
-Pour celles qui veulent du pop sans l'intensité maximale. Base blanche, touches de rose poudré, lavande et menthe. Mobilier blanc ou bois clair. Art mural aux couleurs douces. C'est une approche qui convient bien si tu cherches une atmosphère à la fois colorée et [propice au sommeil](/guides/chambre/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes/).
+Pour celles qui veulent du pop sans l'intensité maximale. Base blanche, touches de rose poudré, lavande et menthe. Mobilier blanc ou bois clair. Art mural aux couleurs douces. C'est une approche qui convient bien si tu cherches une atmosphère à la fois colorée et [propice au sommeil](/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes/).
 
 ### Pop graphique noir et blanc + une couleur
 
@@ -245,8 +245,8 @@ Tu vois : avec moins de 200 euros, tu peux déjà donner un sacré coup de pop �
 
 ## Sur le meme theme
 
-- [chambre style jungle](/guides/chambre/decorer-une-chambre-dans-un-style-jungle/)
-- [déco terracotta chambre](/guides/chambre/deco-terracotta-chambre/)
+- [chambre style jungle](/decorer-une-chambre-dans-un-style-jungle/)
+- [déco terracotta chambre](/deco-terracotta-chambre/)
 
 ## FAQ
 

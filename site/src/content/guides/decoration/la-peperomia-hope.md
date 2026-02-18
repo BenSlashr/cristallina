@@ -13,7 +13,7 @@ pubDate: 2026-02-17
 
 Le Peperomia Hope, c'est la plante retombante qui met tout le monde d'accord. Petites feuilles rondes et charnues, tiges souples qui cascadent d'une étagère ou d'une suspension, et surtout : une réputation de plante "facile" qui tient vraiment ses promesses. Si tu cherches une plante d'intérieur qui apporte du volume et de la douceur sans exiger un doctorat en botanique, tu es au bon endroit.
 
-Je l'adore parce qu'elle s'adapte à presque toutes les ambiances déco - que tu sois plutôt [déco marocaine chaleureuse](/guides/decoration/decoration-marocaine-moderne-ou-classique/) ou minimalisme scandinave. Et surtout, elle pardonne pas mal d'erreurs de débutant. Mais "facile" ne veut pas dire "zéro effort". Alors on va voir ensemble comment en prendre soin correctement pour qu'elle reste belle longtemps.
+Je l'adore parce qu'elle s'adapte à presque toutes les ambiances déco - que tu sois plutôt [déco marocaine chaleureuse](/decoration-marocaine-moderne-ou-classique/) ou minimalisme scandinave. Et surtout, elle pardonne pas mal d'erreurs de débutant. Mais "facile" ne veut pas dire "zéro effort". Alors on va voir ensemble comment en prendre soin correctement pour qu'elle reste belle longtemps.
 
 ## Peperomia Hope : portrait rapide de cette petite merveille
 
@@ -132,7 +132,7 @@ Le Peperomia Hope est une plante tropicale, mais pas capricieuse. Voici ses pré
 **Humidité** : entre 40 et 60%, ce qui correspond à l'hygrométrie normale d'un intérieur chauffé. Pas besoin de brumisateur, pas besoin de plateau de billes d'argile, pas besoin de l'installer dans la salle de bain. Si ton air est vraiment très sec (chauffage électrique à fond en plein hiver), un petit humidificateur à côté fera l'affaire - mais c'est rarement utile.
 
 > [!TIP]
-> Tu aménages une pièce et tu veux y intégrer des plantes ? Pense à la [déco de chambre avec des couleurs chaudes](/guides/chambre/deco-terracotta-chambre/) - le Peperomia Hope s'intègre parfaitement avec les tons terracotta et les matières naturelles comme le raphia ou le bois clair.
+> Tu aménages une pièce et tu veux y intégrer des plantes ? Pense à la [déco de chambre avec des couleurs chaudes](/deco-terracotta-chambre/) - le Peperomia Hope s'intègre parfaitement avec les tons terracotta et les matières naturelles comme le raphia ou le bois clair.
 
 ## Engrais : quand et comment nourrir ta plante
 
@@ -215,7 +215,7 @@ Le Peperomia Hope est versatile en déco. Voici les spots qui fonctionnent le mi
 - **Suspension macramé** devant une fenêtre est ou ouest : classique et efficace. Une suspension macramé chez H&M Home ou Maisons du Monde coûte 10-25€
 - **Étagère haute** dans le salon ou la chambre : ses tiges retombantes créent un joli rideau végétal
 - **Bureau** près d'une fenêtre : plante compacte et apaisante, parfaite pour un espace de travail
-- **Salle de bain lumineuse** : si tu as une fenêtre dans ta [salle de bain en béton ciré](/guides/salle-de-bain/meuble-salle-de-bain-beton-cire/) ou une salle d'eau bien éclairée, l'humidité naturelle lui plaira
+- **Salle de bain lumineuse** : si tu as une fenêtre dans ta [salle de bain en béton ciré](/meuble-salle-de-bain-beton-cire/) ou une salle d'eau bien éclairée, l'humidité naturelle lui plaira
 
 Évite les courants d'air (près d'une porte d'entrée, d'une climatisation, d'une bouche de ventilation). Les variations brusques de température stressent la plante et provoquent la chute des feuilles.
 
@@ -225,7 +225,7 @@ Le Peperomia Hope est versatile en déco. Voici les spots qui fonctionnent le mi
 
 ## Sur le meme theme
 
-- [scindapsus pictus](/guides/decoration/entretenir-du-scindapsus-pictus-la-plante-robuste-qui-a-tout-pour-plaire/)
+- [scindapsus pictus](/entretenir-du-scindapsus-pictus-la-plante-robuste-qui-a-tout-pour-plaire/)
 
 ## FAQ
 

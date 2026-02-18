@@ -48,7 +48,7 @@ Chez Leroy Merlin, la gamme V33 propose des verts jungle très bien fichés entr
 
 Le vert seul, ça peut vite devenir étouffant. Il se marie parfaitement avec :
 
-- Le **terracotta** pour réchauffer l'ensemble (d'ailleurs, si tu aimes ce jeu de couleurs, jette un oeil à notre article sur la [déco terracotta chambre](/guides/chambre/deco-terracotta-chambre/))
+- Le **terracotta** pour réchauffer l'ensemble (d'ailleurs, si tu aimes ce jeu de couleurs, jette un oeil à notre article sur la [déco terracotta chambre](/deco-terracotta-chambre/))
 - Le **beige chaud** et le **crème** pour les fonds neutres
 - Le **noir mat** pour structurer et apporter du graphisme
 - Les **tons ocre** et **moutarde** en petites touches
@@ -103,7 +103,7 @@ graph TD
 
 - **Le monstera** : la plante emblématique du style. Un beau specimen chez Jardiland tourne autour de 20-40€ selon la taille. Ses grandes feuilles découpées font toute la déco à elles seules.
 - **Le pothos** : impossible à tuer, il chute magnifiquement d'une étagère ou grimpe sur un treillis. Environ 8-12€ en jardinerie ou 5-6€ chez Lidl ou Aldi quand ils en ont.
-- **La peperomia** : plante compacte parfaite pour une table de nuit. La [Peperomia Hope](/guides/decoration/la-peperomia-hope/) est particulièrement facile à entretenir et a de petites feuilles rondes très mignonnes.
+- **La peperomia** : plante compacte parfaite pour une table de nuit. La [Peperomia Hope](/la-peperomia-hope/) est particulièrement facile à entretenir et a de petites feuilles rondes très mignonnes.
 - **Le ficus lyrata** : le grand arbre statement de la décoration. Prévoir entre 40 et 120€ selon la taille. Exigeant sur la lumière mais spectaculaire.
 - **Le strelitzia** : aka l'oiseau de paradis. Grandes feuilles banane, look ultra tropical. Environ 25-50€.
 
@@ -185,7 +185,7 @@ Le style jungle, c'est aussi la faune. Pas besoin de couvrir ton lit de léopard
 Ce qui donne l'effet "wow" dans une chambre jungle, c'est la densité et la superposition. Pas de murs nus, pas de surfaces vides, mais tout ça avec de l'ordre.
 
 **La tête de lit :**
-Derrière le lit, crée une vraie composition : papier peint ou mur peint en vert foncé, branches séchées avec des guirlandes lumineuses, tableau botanique encadré. La [déco chambre Harry Potter](/guides/chambre/deco-chambre-harry-potter/) use du même principe de scénographie dense et immersive - c'est inspirant même si l'univers est différent.
+Derrière le lit, crée une vraie composition : papier peint ou mur peint en vert foncé, branches séchées avec des guirlandes lumineuses, tableau botanique encadré. La [déco chambre Harry Potter](/deco-chambre-harry-potter/) use du même principe de scénographie dense et immersive - c'est inspirant même si l'univers est différent.
 
 **Le coin "jungle corner" :**
 Choisis un angle de ta chambre et densifie : 2-3 plantes de hauteurs variées, une lampe de sol, un panier en osier, une étagère murale avec des petites plantes et des livres. Ce coin devient le coeur vivant de ta pièce.
@@ -224,7 +224,7 @@ La bonne nouvelle : les plantes et les textiles s'achètent au fur et à mesure.
 
 ## Pour aller plus loin
 
-Si tu veux approfondir tes idées de déco chambre au-delà du style jungle, notre article sur les [tendances décoration chambre 2026](/guides/chambre/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/) te donnera une vision plus large de ce qui se fait en ce moment.
+Si tu veux approfondir tes idées de déco chambre au-delà du style jungle, notre article sur les [tendances décoration chambre 2026](/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/) te donnera une vision plus large de ce qui se fait en ce moment.
 
 La chambre jungle est un style vivant, au sens propre. Elle évolue avec tes plantes qui grandissent, avec les saisons, avec les nouvelles pièces que tu ajoutes. C'est ce qui en fait un style aussi attachant : ta chambre ne sera jamais tout à fait terminée, et c'est très bien comme ça.
 
@@ -233,7 +233,7 @@ La chambre jungle est un style vivant, au sens propre. Elle évolue avec tes pla
 
 ## Sur le meme theme
 
-- [déco pop chambre](/guides/chambre/guide-pour-une-deco-pop-dans-la-chambre-a-coucher/)
+- [déco pop chambre](/guide-pour-une-deco-pop-dans-la-chambre-a-coucher/)
 
 ## Questions fréquentes
 

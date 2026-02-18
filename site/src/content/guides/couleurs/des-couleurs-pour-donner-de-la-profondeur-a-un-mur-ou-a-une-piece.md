@@ -56,7 +56,7 @@ Le secret, c'est de ne pas peindre toute la pièce en sombre. Le contraste est c
 - Plafond peint dans la même teinte que les murs = espace cocon, très enveloppant
 - Mur d'accentuation sombre isolé = point focal fort, profondeur marquée
 
-Pour les associations, tu peux regarder du côté des [palettes tendance 2026 pour les murs et la décoration du salon](/guides/decoration/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) - il y a de belles idées de combinaisons sombres/claires déjà testées.
+Pour les associations, tu peux regarder du côté des [palettes tendance 2026 pour les murs et la décoration du salon](/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) - il y a de belles idées de combinaisons sombres/claires déjà testées.
 
 ## Couleurs claires : élargir et faire respirer
 
@@ -128,7 +128,7 @@ Dans une chambre, la profondeur se joue souvent sur le mur de tête de lit. C'es
 
 Un beau bleu canard (Benjamin Moore "Teal Ocean" ou Ressource "Bleu Céladon profond"), un vert bouteille ou un anthracite chaud sur ce seul mur : ça crée une vraie personnalité sans alourdir l'espace. Les autres murs restent clairs, et l'équilibre est parfait.
 
-Pour la salle à manger, les approches sont similaires - si tu veux creuser la question, regarde aussi nos conseils sur les [couleurs pour la salle à manger](/guides/couleurs/couleurs-pour-la-salle-a-manger-a-peindre-et-a-decorer/) où les palettes sont déjà sélectionnées pour l'effet profondeur.
+Pour la salle à manger, les approches sont similaires - si tu veux creuser la question, regarde aussi nos conseils sur les [couleurs pour la salle à manger](/couleurs-pour-la-salle-a-manger-a-peindre-et-a-decorer/) où les palettes sont déjà sélectionnées pour l'effet profondeur.
 
 ## Jouer avec les bandes et les aplats
 
@@ -182,7 +182,7 @@ Par exemple :
 Le contraste entre les zones crée une perception de profondeur et de volume. Chaque espace a sa propre identité, et l'ensemble paraît plus grand qu'il ne l'est.
 
 > [!TIP]
-> Pour les espaces ouverts, teste des peintures comme la gamme Spectrum chez Leroy Merlin - [l'avis sur la peinture Spectrum](/guides/couleurs/avis-peinture-spectrum/) montre que le rapport qualité-prix est très bon pour ce type de projets où tu as besoin de plusieurs couleurs différentes sans te ruiner.
+> Pour les espaces ouverts, teste des peintures comme la gamme Spectrum chez Leroy Merlin - [l'avis sur la peinture Spectrum](/avis-peinture-spectrum/) montre que le rapport qualité-prix est très bon pour ce type de projets où tu as besoin de plusieurs couleurs différentes sans te ruiner.
 
 ## Erreurs courantes à éviter
 
@@ -223,8 +223,8 @@ Mon conseil si tu hésites encore : commence par un seul mur d'accentuation. Un 
 
 ## Sur le meme theme
 
-- [couleurs ocres pour les murs et la décoration](/guides/couleurs/couleurs-ocres-pour-les-murs-et-la-decoration/)
-- [couleurs compatibles avec l'orange](/guides/couleurs/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/)
+- [couleurs ocres pour les murs et la décoration](/couleurs-ocres-pour-les-murs-et-la-decoration/)
+- [couleurs compatibles avec l'orange](/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/)
 
 ## Questions fréquentes
 

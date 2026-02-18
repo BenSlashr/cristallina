@@ -78,7 +78,7 @@ Quelques variantes qui fonctionnent :
 - **Gris chaud (avec des sous-tons beiges) + prune** : rendu cocooning et raffiné
 
 > [!TIP]
-> Pour un salon qui marie le violet et le gris, regarde du côté des [palettes tendance pour les murs et la déco](/guides/decoration/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) - tu y trouveras des combinaisons testées avec les proportions exactes à respecter.
+> Pour un salon qui marie le violet et le gris, regarde du côté des [palettes tendance pour les murs et la déco](/couleurs-du-salon-2026-palettes-de-murs-et-de-decors/) - tu y trouveras des combinaisons testées avec les proportions exactes à respecter.
 
 ## Le blanc et le crème : pour diluer et équilibrer
 
@@ -122,7 +122,7 @@ Quelques associations concrètes :
 
 - **Violet lavande + bleu marine** : rendu très élégant, presque classique
 - **Violet vif + bleu électrique** : audacieux, énergique, à réserver à des petites surfaces
-- **Prune + bleu gris** : sophistiqué, idéal pour une [chambre adulte avec deux couleurs dominantes](/guides/chambre/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes/)
+- **Prune + bleu gris** : sophistiqué, idéal pour une [chambre adulte avec deux couleurs dominantes](/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes/)
 
 Le bleu profond (midnight blue, bleu pétrole) avec un violet chaud est une de mes associations favorites pour les chambres. C'est reposant sans être ennuyeux.
 
@@ -167,7 +167,7 @@ La couleur seule ne fait pas tout. Les matériaux et les textures amplifient ou 
 - **Bois clair (chêne, frêne)** : équilibre et réchauffe les violets froids
 - **Béton/gris** : donne un côté urbain et contemporain aux violets vifs
 
-Si tu cherches des peintures de qualité pour tester ces associations, tu peux regarder les retours sur la [gamme Spectrum](/guides/couleurs/avis-peinture-spectrum/) qui propose des violets très bien formulés avec une bonne couvrance.
+Si tu cherches des peintures de qualité pour tester ces associations, tu peux regarder les retours sur la [gamme Spectrum](/avis-peinture-spectrum/) qui propose des violets très bien formulés avec une bonne couvrance.
 
 > [!WARNING]
 > Avec le violet, évite le marron chocolat et le rouge vif en grandes surfaces. Ces associations ont tendance à "salir" le violet et à créer un rendu lourd et peu lisible. Garde-les pour des tout petits accents si tu veux vraiment les utiliser.
@@ -211,8 +211,8 @@ Trust me : le violet, une fois qu'on sait le marier, c'est une couleur dont on n
 
 ## Sur le meme theme
 
-- [couleurs ocres pour les murs et la décoration](/guides/couleurs/couleurs-ocres-pour-les-murs-et-la-decoration/)
-- [couleurs compatibles avec l'orange](/guides/couleurs/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/)
+- [couleurs ocres pour les murs et la décoration](/couleurs-ocres-pour-les-murs-et-la-decoration/)
+- [couleurs compatibles avec l'orange](/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/)
 
 ## Questions fréquentes
 

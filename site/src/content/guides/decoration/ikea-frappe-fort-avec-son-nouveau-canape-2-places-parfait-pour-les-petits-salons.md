@@ -125,7 +125,7 @@ Le KLIPPAN fait 180 cm de large - c'est le plus large des trois modèles, ce qui
 
 ### Pour qui ?
 
-Le KLIPPAN est parfait si tu as un budget serré, si tu déménages souvent (il est léger et se démonte facilement), ou si tu veux un canapé "jetable" que tu peux relooker avec une housse trendy. Si tu veux aller plus loin sur le style de [ton canapé et sa couleur](/guides/couleurs/couleur-canape-choisir/), j'ai un guide dédié qui t'aidera à choisir la bonne teinte selon ton salon.
+Le KLIPPAN est parfait si tu as un budget serré, si tu déménages souvent (il est léger et se démonte facilement), ou si tu veux un canapé "jetable" que tu peux relooker avec une housse trendy. Si tu veux aller plus loin sur le style de [ton canapé et sa couleur](/couleur-canape-choisir/), j'ai un guide dédié qui t'aidera à choisir la bonne teinte selon ton salon.
 
 > [!WARNING]
 > Le KLIPPAN n'a pas de pieds hauts - il est posé quasi au ras du sol. Dans un petit salon, ça alourdit visuellement l'ensemble. Si tu veux contrebalancer, mise sur des meubles suspendus autour (étagères murales, meuble TV fixé au mur).
@@ -147,9 +147,9 @@ Si ton salon est plutôt carré, tu peux poser le canapé en biais dans un angle
 
 ### Les accessoires qui changent tout
 
-Un canapé 2 places un peu nu, ça peut faire vide. Les [coussins décoratifs](/guides/decoration/coussins-decoratifs-pour-les-salons-les-fauteuils-et-les-sols/) sont tes meilleurs alliés pour donner du volume et du style. Trois coussins suffisent sur un 2 places - pas plus, sinon tu n'as plus de place pour t'asseoir.
+Un canapé 2 places un peu nu, ça peut faire vide. Les [coussins décoratifs](/coussins-decoratifs-pour-les-salons-les-fauteuils-et-les-sols/) sont tes meilleurs alliés pour donner du volume et du style. Trois coussins suffisent sur un 2 places - pas plus, sinon tu n'as plus de place pour t'asseoir.
 
-Ajoute un plaid en bout d'accoudoir (chez H&M Home, les plaids en coton gaufré sont à 30 euros) et un tapis sous la table basse pour délimiter visuellement le coin salon. Si tu veux creuser le sujet et rendre ton [salon plus chaleureux](/guides/decoration/salon-plus-chaleureux/), tu trouveras dans mon guide toutes les astuces textiles et éclairage qui font la différence.
+Ajoute un plaid en bout d'accoudoir (chez H&M Home, les plaids en coton gaufré sont à 30 euros) et un tapis sous la table basse pour délimiter visuellement le coin salon. Si tu veux creuser le sujet et rendre ton [salon plus chaleureux](/salon-plus-chaleureux/), tu trouveras dans mon guide toutes les astuces textiles et éclairage qui font la différence.
 
 ```mermaid
 flowchart LR
@@ -171,7 +171,7 @@ flowchart LR
 
 Si tu vis dans un studio, le canapé doit jouer double ou triple rôle : assise le jour, couchage la nuit, rangement en permanence. Le TORNSBORG est clairement le mieux adapté pour ça. Sa fonction lit est un vrai atout, et son look soigné évite l'effet "canapé de dépannage" qu'on retrouve souvent dans les studios.
 
-Pour plus d'idées sur l'organisation d'un [petit salon bien décoré](/guides/decoration/decoration-petit-salon/), mon guide complet couvre les couleurs, les miroirs, et toutes les astuces gain de place que j'utilise chez moi.
+Pour plus d'idées sur l'organisation d'un [petit salon bien décoré](/decoration-petit-salon/), mon guide complet couvre les couleurs, les miroirs, et toutes les astuces gain de place que j'utilise chez moi.
 
 ## Le tableau comparatif des trois modèles
 
@@ -204,7 +204,7 @@ Les canapés IKEA à housses amovibles ont un gros avantage sur la concurrence :
 
 ## Sur le meme theme
 
-- [salons modernes 2026](/guides/decoration/salons-modernes-tendances-2026/)
+- [salons modernes 2026](/salons-modernes-tendances-2026/)
 
 ## FAQ
 

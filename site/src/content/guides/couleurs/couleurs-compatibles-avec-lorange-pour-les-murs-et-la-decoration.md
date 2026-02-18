@@ -252,11 +252,11 @@ Tout ne va pas avec l'orange. Voici les combinaisons qui coincent :
 
 ## Sur le meme theme
 
-- [couleurs ocres pour les murs et la décoration](/guides/couleurs/couleurs-ocres-pour-les-murs-et-la-decoration/)
-- [couleur taupe](/guides/couleurs/couleur-taupe/)
-- [couleurs qui se marient avec le violet](/guides/couleurs/quelles-sont-les-couleurs-qui-se-marient-bien-avec-le-violet-en-decoration/)
-- [couleurs pour donner de la profondeur](/guides/couleurs/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece/)
-- [couleurs pour la salle à manger](/guides/couleurs/couleurs-pour-la-salle-a-manger-a-peindre-et-a-decorer/)
+- [couleurs ocres pour les murs et la décoration](/couleurs-ocres-pour-les-murs-et-la-decoration/)
+- [couleur taupe](/couleur-taupe/)
+- [couleurs qui se marient avec le violet](/quelles-sont-les-couleurs-qui-se-marient-bien-avec-le-violet-en-decoration/)
+- [couleurs pour donner de la profondeur](/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece/)
+- [couleurs pour la salle à manger](/couleurs-pour-la-salle-a-manger-a-peindre-et-a-decorer/)
 
 ## FAQ
 

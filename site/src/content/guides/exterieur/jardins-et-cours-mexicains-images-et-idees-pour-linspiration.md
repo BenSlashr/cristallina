@@ -160,7 +160,7 @@ Ici, on peut vraiment structurer l'espace :
 - **Un point d'eau** : une petite fontaine à poser (marque Ubbink, 80-200 €) ou un bac vasque en pierre.
 - **Un coin repas** sous une pergola légère habillée de bougainvillier.
 
-Si tu veux explorer d'autres approches de cloisonnement de l'espace, [poser une bordure de jardin sans béton](/guides/exterieur/poser-bordure-jardin-sans-beton/) est une technique simple et économique pour délimiter tes massifs.
+Si tu veux explorer d'autres approches de cloisonnement de l'espace, [poser une bordure de jardin sans béton](/poser-bordure-jardin-sans-beton/) est une technique simple et économique pour délimiter tes massifs.
 
 ### Le grand jardin (plus de 50 m²)
 
@@ -233,7 +233,7 @@ Au-delà des pots de plantation, la décoration sculptée fait partie intégrant
 - **Des masques aztèques** en résine pour habiller un mur.
 
 > [!TIP]
-> Si tu aimes le côté zen et épuré des jardins d'inspiration orientale, sache que les jardins mexicains et les [jardins zen](/guides/exterieur/comment-creer-un-jardin-zen-en-7-etapes/) partagent un point commun : l'utilisation du gravier et des pierres pour structurer l'espace. Les deux styles peuvent même se mélanger subtilement dans un jardin moderne.
+> Si tu aimes le côté zen et épuré des jardins d'inspiration orientale, sache que les jardins mexicains et les [jardins zen](/comment-creer-un-jardin-zen-en-7-etapes/) partagent un point commun : l'utilisation du gravier et des pierres pour structurer l'espace. Les deux styles peuvent même se mélanger subtilement dans un jardin moderne.
 
 ---
 
@@ -278,15 +278,15 @@ Pour nourrir ton imagination, voici quelques références visuelles que tu peux 
 - **Les jardins de Luis Barragán** : l'architecte mexicain du XXe siècle a sublimé les murs de couleur, les plans d'eau et la végétation sobre. Ses réalisations sont une leçon de modernité.
 - **Les cours intérieures d'Oaxaca** : roses fuchsia et bougainvilliers, carrelage noir et blanc, végétation exubérante.
 
-Ces références te donneront une palette d'idées applicables même dans un contexte européen. Si le style mexicain t'attire par son côté chaleureux et coloré, tu pourrais aussi jeter un oeil à la [décoration marocaine](/guides/decoration/decoration-marocaine-moderne-ou-classique/) - les deux styles partagent un amour des textures, des couleurs vives et des carreaux artisanaux.
+Ces références te donneront une palette d'idées applicables même dans un contexte européen. Si le style mexicain t'attire par son côté chaleureux et coloré, tu pourrais aussi jeter un oeil à la [décoration marocaine](/decoration-marocaine-moderne-ou-classique/) - les deux styles partagent un amour des textures, des couleurs vives et des carreaux artisanaux.
 
 ---
 
 
 ## Sur le meme theme
 
-- [jardins intérieurs modernes](/guides/exterieur/jardins-interieurs-modernes-photos-et-conseils-de-conception/)
-- [jardins verticaux](/guides/exterieur/jardins-verticaux-de-40-photos-dinspiration-verte/)
+- [jardins intérieurs modernes](/jardins-interieurs-modernes-photos-et-conseils-de-conception/)
+- [jardins verticaux](/jardins-verticaux-de-40-photos-dinspiration-verte/)
 
 ## FAQ
 

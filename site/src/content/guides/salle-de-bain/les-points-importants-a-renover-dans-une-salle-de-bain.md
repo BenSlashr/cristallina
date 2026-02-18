@@ -48,7 +48,7 @@ Quand tu ouvres les murs pour rénover, c'est LE moment de vérifier et upgrader
 
 **L'état des canalisations** : si ta maison a plus de 30 ans, les canalisations en cuivre peuvent être corrodées, et celles en plomb (encore présentes dans certains immeubles anciens) doivent être remplacées. Un diagnostic plomberie coûte entre 100 et 200 euros - c'est un petit investissement qui t'évitera des dégâts des eaux.
 
-**L'évacuation** : le diamètre de tes évacuations doit être adapté à tes équipements. Une douche à l'italienne demande une évacuation en diamètre 50 mm minimum avec une pente de 1 cm par mètre. Si tu veux en savoir plus sur ce sujet, j'ai un guide complet sur la [douche italienne](/guides/salle-de-bain/douche-italienne/) qui détaille toute la partie technique.
+**L'évacuation** : le diamètre de tes évacuations doit être adapté à tes équipements. Une douche à l'italienne demande une évacuation en diamètre 50 mm minimum avec une pente de 1 cm par mètre. Si tu veux en savoir plus sur ce sujet, j'ai un guide complet sur la [douche italienne](/douche-italienne/) qui détaille toute la partie technique.
 
 **Le chauffe-eau** : une rénovation, c'est le bon moment pour passer à un chauffe-eau thermodynamique. Le coût est plus élevé (entre 2000 et 4000 euros pose incluse), mais les économies sur ta facture d'eau chaude vont de 50 à 70 % par rapport à un cumulus électrique classique.
 
@@ -114,7 +114,7 @@ Le sol de la salle de bain, c'est un choix technique autant qu'esthétique. Il d
 
 **Le vinyle/PVC clipsable** : option économique et rapide à poser. Les gammes Gerflor ou Quick-Step proposent des lames vinyle imitation bois étanches à partir de 15 euros le m2. Pose possible en DIY, ce qui réduit le budget total.
 
-**Le béton ciré** : superbe rendu, pas de joints, surface continue. Mais il demande une préparation du support impeccable et une pose par un pro. Budget : 80 à 150 euros le m2 pose incluse. Si ce matériau t'intéresse, jette un oeil à notre guide [meuble salle de bain en béton ciré](/guides/salle-de-bain/meuble-salle-de-bain-beton-cire/) pour des idées d'association.
+**Le béton ciré** : superbe rendu, pas de joints, surface continue. Mais il demande une préparation du support impeccable et une pose par un pro. Budget : 80 à 150 euros le m2 pose incluse. Si ce matériau t'intéresse, jette un oeil à notre guide [meuble salle de bain en béton ciré](/meuble-salle-de-bain-beton-cire/) pour des idées d'association.
 
 **La pierre naturelle** : travertin, ardoise, marbre. Le summum du chic, mais un budget conséquent (60 à 200 euros le m2) et un entretien régulier (imperméabilisation annuelle).
 
@@ -142,7 +142,7 @@ Combien de fois j'ai vu des salles de bain rénovées à grands frais mais sans 
 
 **Colonne de rangement** : si tu as la place, une colonne étroite (30 à 40 cm de large) ajoute énormément de capacité de stockage. Castorama en propose à partir de 89 euros dans la gamme GoodHome.
 
-Pour d'autres idées d'organisation, tu peux consulter notre article sur les [idées de rangement et placards pour la salle de bain](/guides/salle-de-bain/idees-de-rangement-et-de-placards-pour-la-salle-de-bains/) qui va plus en détail.
+Pour d'autres idées d'organisation, tu peux consulter notre article sur les [idées de rangement et placards pour la salle de bain](/idees-de-rangement-et-de-placards-pour-la-salle-de-bains/) qui va plus en détail.
 
 ## L'étanchéité : l'invisible qui protège tout
 
@@ -196,7 +196,7 @@ Je ne vais pas te donner de fourchette vague type "ça dépend". Voici des chiff
 
 ## Sur le meme theme
 
-- [salle de bain rustique moderne](/guides/salle-de-bain/salles-de-bains-rustiques-decoration-et-design-modernes/)
+- [salle de bain rustique moderne](/salles-de-bains-rustiques-decoration-et-design-modernes/)
 
 ## Les erreurs les plus courantes
 
@@ -204,7 +204,7 @@ Pour finir, voici les pièges que je vois le plus souvent et que tu peux facilem
 
 **Déplacer la plomberie sans nécessité** : chaque mètre de canalisation déplacé, c'est 200 à 500 euros de plus et un risque de problème supplémentaire. Si possible, garde les arrivées et évacuations d'eau à leur emplacement actuel.
 
-**Choisir l'esthétique avant la fonction** : une douche magnifique avec un drain mal positionné qui accumule l'eau stagnante, c'est le genre de frustration quotidienne qui te fera regretter tes choix. Si tu cherches des idées qui allient style et praticité, le guide sur les [salles de bains modernes 2026](/guides/salle-de-bain/salles-de-bains-modernes-2026-modeles-designs-decoration/) te donnera de bonnes pistes.
+**Choisir l'esthétique avant la fonction** : une douche magnifique avec un drain mal positionné qui accumule l'eau stagnante, c'est le genre de frustration quotidienne qui te fera regretter tes choix. Si tu cherches des idées qui allient style et praticité, le guide sur les [salles de bains modernes 2026](/salles-de-bains-modernes-2026-modeles-designs-decoration/) te donnera de bonnes pistes.
 
 **Négliger l'éclairage** : une seule source lumineuse au plafond, c'est le truc le plus courant et le plus dommage. Trois sources bien placées coûtent à peine plus cher mais changent complètement l'expérience.
 

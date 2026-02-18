@@ -73,7 +73,7 @@ Le vert olive reste très fort cette année. C'est plus discret que le teal, plu
 - Mobilier : velours moutarde ou tissu lin
 - Accessoires : poteries naturelles, osier, plantes tropicales
 
-Tu hésites entre les deux ? Consulte aussi notre guide sur les [salons modernes et elegants 2026](/guides/decoration/salons-modernes-et-elegants-2026/) pour voir comment ces palettes s'intègrent dans différents styles de déco.
+Tu hésites entre les deux ? Consulte aussi notre guide sur les [salons modernes et elegants 2026](/salons-modernes-et-elegants-2026/) pour voir comment ces palettes s'intègrent dans différents styles de déco.
 
 ### Palette 3 - Terracotta soleil doux
 
@@ -150,7 +150,7 @@ Choisir la couleur des murs c'est la moitié du travail. Le reste, c'est savoir 
 - Bois clair ou pin naturel
 - A éviter : le blanc pur trop froid, préfère le chaux ou le blanc cassé
 
-Si tu cherches à affiner tes associations de couleurs, notre article sur les [couleurs compatibles avec l'orange pour les murs et la decoration](/guides/couleurs/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) te donnera des idées pour travailler les tonalités chaudes dans tout l'appartement.
+Si tu cherches à affiner tes associations de couleurs, notre article sur les [couleurs compatibles avec l'orange pour les murs et la decoration](/couleurs-compatibles-avec-lorange-pour-les-murs-et-la-decoration/) te donnera des idées pour travailler les tonalités chaudes dans tout l'appartement.
 
 ## Budget : ce que ça coûte vraiment de repeindre son salon
 
@@ -192,7 +192,7 @@ Une peinture mate velours et une peinture satinée dans la même teinte ne donne
 **4. Négliger les transitions avec les autres pièces**
 Si ton salon est ouvert sur la cuisine ou le couloir, pense à la cohérence de l'ensemble. Pas besoin d'utiliser la même couleur partout - mais les teintes doivent dialoguer. En 2026, on aime les palettes qui "voyagent" d'une pièce à l'autre avec des variations de ton.
 
-Pour de l'inspiration sur la cohérence de couleurs dans toute la maison, jette un oeil à notre guide sur la [decoration de la chambre a coucher 2026](/guides/chambre/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/) qui explore les mêmes palettes dans un autre contexte.
+Pour de l'inspiration sur la cohérence de couleurs dans toute la maison, jette un oeil à notre guide sur la [decoration de la chambre a coucher 2026](/decoration-de-la-chambre-a-coucher-2026-tendances-et-photos/) qui explore les mêmes palettes dans un autre contexte.
 
 ## Le plan d'action en 5 etapes
 
@@ -222,8 +222,8 @@ La couleur de ton salon en 2026, c'est avant tout une histoire de cohérence ent
 
 ## Sur le meme theme
 
-- [salon brun](/guides/decoration/salons-bruns-idees-et-images/)
-- [bleu salon](/guides/decoration/bleu-salon/)
+- [salon brun](/salons-bruns-idees-et-images/)
+- [bleu salon](/bleu-salon/)
 
 ## FAQ - Couleurs salon 2026
 

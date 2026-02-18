@@ -14,7 +14,9 @@ export async function getStaticPaths() {
   const allPages = await getCollection('guides', ({ data }) =>
     !data.pubDate || data.pubDate.valueOf() <= now.valueOf()
   );
-  return allPages.map((entry) => {
+  // Only generate hub/index pages here - individual guides are at /{slug}/ via [slug].astro
+  const hubs = allPages.filter((entry) => entry.data.type === 'hub' || entry.id === 'index');
+  return hubs.map((entry) => {
     let slug = entry.id;
     if (slug === 'index') slug = '';
     else if (slug.endsWith('/index')) slug = slug.slice(0, -'/index'.length);
@@ -154,7 +156,7 @@ const schemas: Record<string, unknown>[] = [schemaArticle, schemaBreadcrumb];
           <div class="space-y-2">
             {children.map((child, i) => (
               <a
-                href={`/guides/${child.id}`}
+                href={`/${child.id.split('/').pop()}/`}
                 class="flex items-center gap-3 px-4 py-3 rounded-lg border border-border hover:border-primary/30 transition-all cursor-pointer group"
               >
                 <span class="w-6 h-6 rounded-full bg-primary/10 text-primary text-xs font-semibold flex items-center justify-center flex-shrink-0">
@@ -174,33 +176,6 @@ const schemas: Record<string, unknown>[] = [schemaArticle, schemaBreadcrumb];
       <article class="prose-custom">
         <Content />
       </article>
-
-      <!-- Sibling navigation -->
-      {!isHub && siblings.length > 1 && (
-        <nav class="mt-12 flex justify-between gap-4">
-          {(() => {
-            const idx = siblings.findIndex((s) => s.id === entry.id);
-            const prev = idx > 0 ? siblings[idx - 1] : null;
-            const next = idx < siblings.length - 1 ? siblings[idx + 1] : null;
-            return (
-              <>
-                {prev ? (
-                  <a href={`/guides/${prev.id}`} class="flex-1 p-4 rounded-card border border-border hover:border-primary/30 transition-all cursor-pointer">
-                    <span class="text-xs text-text-muted">&larr; Precedent</span>
-                    <p class="text-sm font-medium text-text-primary">{prev.data.title}</p>
-                  </a>
-                ) : <div />}
-                {next ? (
-                  <a href={`/guides/${next.id}`} class="flex-1 p-4 rounded-card border border-border hover:border-primary/30 transition-all cursor-pointer text-right">
-                    <span class="text-xs text-text-muted">Suivant &rarr;</span>
-                    <p class="text-sm font-medium text-text-primary">{next.data.title}</p>
-                  </a>
-                ) : <div />}
-              </>
-            );
-          })()}
-        </nav>
-      )}
 
       <!-- Cross-links -->
       <section class="mt-12">
