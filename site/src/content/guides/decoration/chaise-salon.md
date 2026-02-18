@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 8
-image: "/images/guides/chaise-salon.webp"
+image: "/images/guides/unsplash-chaise-salon-1771336607N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: shopping
 parent: shopping
 order: 3
-image: "/images/guides/ikea-lance-son-nouveau-support-pour-casque-design-a-un-prix-totalement-fou.webp"
+image: "/images/guides/unsplash-ikea-lance-son-nouveau-support-pour-casque-design-a-un-prix-totalement-fou-1771343608N.jpg"
 readingTime: "8 min"
 pubDate: 2026-03-12
 faqSchema: true

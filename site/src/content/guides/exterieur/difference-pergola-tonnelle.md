@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 10
-image: "/images/guides/difference-pergola-tonnelle.webp"
+image: "/images/guides/unsplash-difference-pergola-tonnelle-1771326601N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

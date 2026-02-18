@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 10
-image: "/images/guides/choisir-tableau-enfant.webp"
+image: "/images/guides/unsplash-choisir-tableau-enfant-1771343610N.jpg"
 readingTime: "9 min"
 pubDate: 2026-03-19
 faqSchema: true

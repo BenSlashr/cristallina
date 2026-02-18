@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 6
-image: "/images/guides/choisir-tapis-imprime.webp"
+image: "/images/guides/unsplash-choisir-tapis-imprime-1771326660N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

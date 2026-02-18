@@ -5,7 +5,7 @@ type: guide
 branch: cuisine
 parent: cuisine
 order: 3
-image: "/images/guides/decoration-cuisine.webp"
+image: "/images/guides/unsplash-decoration-cuisine-1771340867N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

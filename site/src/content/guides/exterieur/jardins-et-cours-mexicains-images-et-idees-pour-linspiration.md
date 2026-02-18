@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 3
-image: "/images/guides/jardins-et-cours-mexicains-images-et-idees-pour-linspiration.webp"
+image: "/images/guides/unsplash-jardins-et-cours-mexicains-images-et-idees-pour-linspiration-1771322190N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

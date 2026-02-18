@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 6
-image: "/images/guides/choisir-tableau-lumineux.webp"
+image: "/images/guides/unsplash-choisir-tableau-lumineux-1771340809N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

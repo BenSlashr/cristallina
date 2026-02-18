@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 2
-image: "/images/guides/decoration-japonaise-20-images-et-idees.webp"
+image: "/images/guides/unsplash-decoration-japonaise-20-images-et-idees-1771340868N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

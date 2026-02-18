@@ -5,7 +5,6 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 4
-image: "/images/guides/peinture-pour-carrelage-exterieur-terrasse.webp"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,6 @@ type: guide
 branch: chambre
 parent: chambre
 order: 1
-image: "/images/guides/ranger-chambre.webp"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

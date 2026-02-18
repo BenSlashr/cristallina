@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 5
-image: "/images/guides/tuile-transparente-cout-et-usage.webp"
+image: "/images/guides/unsplash-tuile-transparente-cout-et-usage-1771317328N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

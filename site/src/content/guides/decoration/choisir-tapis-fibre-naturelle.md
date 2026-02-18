@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 7
-image: "/images/guides/choisir-tapis-fibre-naturelle.webp"
+image: "/images/guides/unsplash-choisir-tapis-fibre-naturelle-1771336608N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

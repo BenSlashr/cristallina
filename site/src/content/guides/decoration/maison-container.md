@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 8
-image: "/images/guides/maison-container.webp"
+image: "/images/guides/unsplash-maison-container-1771315862N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

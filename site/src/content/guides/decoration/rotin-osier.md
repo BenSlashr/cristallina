@@ -5,7 +5,6 @@ type: guide
 branch: decoration
 parent: decoration
 order: 10
-image: "/images/guides/rotin-osier.webp"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 9
-image: "/images/guides/le-lustre-style-baroque.webp"
+image: "/images/guides/unsplash-le-lustre-style-baroque-1771340866N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

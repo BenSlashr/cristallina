@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 2
-image: "/images/guides/comment-enduir-un-mur-en-parpaing.webp"
+image: "/images/guides/unsplash-comment-enduir-un-mur-en-parpaing-1771317849N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: rangement
 parent: rangement
 order: 2
-image: "/images/guides/ikea-cartonne-avec-ce-rangement-bureau-decouverte-du-must-have-de-la-saison.webp"
+image: "/images/guides/unsplash-ikea-cartonne-avec-ce-rangement-bureau-decouverte-du-must-have-de-la-saison-1771343551N.jpg"
 readingTime: "9 min"
 pubDate: 2026-03-11
 faqSchema: true

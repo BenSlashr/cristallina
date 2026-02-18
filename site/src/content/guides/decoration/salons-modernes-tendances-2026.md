@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 6
-image: "/images/guides/salons-modernes-tendances-2026.webp"
+image: "/images/guides/unsplash-salons-modernes-tendances-2026-1771336659N.jpg"
 readingTime: "12 min"
 faqSchema: true
 pubDate: 2026-02-17

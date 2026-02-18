@@ -5,7 +5,7 @@ type: guide
 branch: couleurs
 parent: couleurs
 order: 6
-image: "/images/guides/couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026.webp"
+image: "/images/guides/unsplash-couleurs-dinterieur-de-mur-et-de-peinture-a-la-mode-2026-1771322247N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 6
-image: "/images/guides/decoration-marocaine-moderne-ou-classique.webp"
+image: "/images/guides/unsplash-decoration-marocaine-moderne-ou-classique-1771275692N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

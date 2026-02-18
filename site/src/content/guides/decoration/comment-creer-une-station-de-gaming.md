@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 9
-image: "/images/guides/comment-creer-une-station-de-gaming.webp"
+image: "/images/guides/unsplash-comment-creer-une-station-de-gaming-1771317790N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

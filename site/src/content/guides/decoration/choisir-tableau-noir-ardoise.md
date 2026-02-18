@@ -5,7 +5,6 @@ type: guide
 branch: decoration
 parent: decoration
 order: 3
-image: "/images/guides/choisir-tableau-noir-ardoise.webp"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

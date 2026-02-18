@@ -5,7 +5,6 @@ type: guide
 branch: chambre
 parent: chambre
 order: 2
-image: "/images/guides/deco-chambre-harry-potter.webp"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

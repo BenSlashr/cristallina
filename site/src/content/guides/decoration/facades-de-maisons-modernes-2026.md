@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 6
-image: "/images/guides/facades-de-maisons-modernes-2026.webp"
+image: "/images/guides/unsplash-facades-de-maisons-modernes-2026-1771317850N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

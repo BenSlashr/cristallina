@@ -5,7 +5,7 @@ type: guide
 branch: cuisine
 parent: cuisine
 order: 9
-image: "/images/guides/peinture-pour-carrelage-cuisine.webp"
+image: "/images/guides/unsplash-peinture-pour-carrelage-cuisine-1771320323N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 4
-image: "/images/guides/coussins-decoratifs-pour-les-salons-les-fauteuils-et-les-sols.webp"
+image: "/images/guides/unsplash-coussins-decoratifs-pour-les-salons-les-fauteuils-et-les-sols-1771340808N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 6
-image: "/images/guides/comment-creer-un-jardin-zen-en-7-etapes.webp"
+image: "/images/guides/unsplash-comment-creer-un-jardin-zen-en-7-etapes-1771319556N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

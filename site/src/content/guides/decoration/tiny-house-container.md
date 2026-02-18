@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 4
-image: "/images/guides/tiny-house-container.webp"
+image: "/images/guides/unsplash-tiny-house-container-1771332107N.jpg"
 readingTime: "12 min"
 faqSchema: true
 pubDate: 2026-02-17

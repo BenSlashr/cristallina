@@ -5,7 +5,7 @@ type: guide
 branch: shopping
 parent: shopping
 order: 5
-image: "/images/guides/cohue-chez-ikea-avec-letagere-murale-prisee-a-prix-imbattable.webp"
+image: "/images/guides/unsplash-cohue-chez-ikea-avec-letagere-murale-prisee-a-prix-imbattable-1771343551N.jpg"
 readingTime: "9 min"
 pubDate: 2026-03-14
 faqSchema: true

@@ -5,7 +5,7 @@ type: guide
 branch: salle-de-bain
 parent: salle-de-bain
 order: 6
-image: "/images/guides/douche-italienne.webp"
+image: "/images/guides/unsplash-douche-italienne-1771320323N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

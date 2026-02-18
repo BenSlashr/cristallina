@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 1
-image: "/images/guides/installer-eclairage-exterieur-sans-fil.webp"
+image: "/images/guides/unsplash-installer-eclairage-exterieur-sans-fil-1771341919N.jpg"
 readingTime: "10 min"
 pubDate: 2026-02-17
 faqSchema: true

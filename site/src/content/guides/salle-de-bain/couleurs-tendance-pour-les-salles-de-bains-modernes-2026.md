@@ -5,7 +5,7 @@ type: guide
 branch: salle-de-bain
 parent: salle-de-bain
 order: 7
-image: "/images/guides/couleurs-tendance-pour-les-salles-de-bains-modernes-2026.webp"
+image: "/images/guides/unsplash-couleurs-tendance-pour-les-salles-de-bains-modernes-2026-1771326660N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

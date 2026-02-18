@@ -5,7 +5,7 @@ type: guide
 branch: salle-de-bain
 parent: salle-de-bain
 order: 1
-image: "/images/guides/comment-entretenir-un-bain-nordique.webp"
+image: "/images/guides/unsplash-comment-entretenir-un-bain-nordique-1771322249N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

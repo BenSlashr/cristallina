@@ -5,7 +5,7 @@ type: guide
 branch: salle-de-bain
 parent: salle-de-bain
 order: 2
-image: "/images/guides/baignoire-japonaise.webp"
+image: "/images/guides/unsplash-baignoire-japonaise-1771275692N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 4
-image: "/images/guides/peindre-sans-poncer.webp"
+image: "/images/guides/unsplash-peindre-sans-poncer-1771320264N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

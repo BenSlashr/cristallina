@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 8
-image: "/images/guides/couleurs-des-portes-exterieures-comment-choisir-la-couleur.webp"
+image: "/images/guides/unsplash-couleurs-des-portes-exterieures-comment-choisir-la-couleur-1771324484N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

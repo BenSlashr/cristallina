@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 10
-image: "/images/guides/le-guide-ultime-des-parasols-de-terrasse-pour-cafes-hotels-et-restaurants.webp"
+image: "/images/guides/unsplash-le-guide-ultime-des-parasols-de-terrasse-pour-cafes-hotels-et-restaurants-1771341919N.jpg"
 readingTime: "11 min"
 pubDate: 2026-03-09
 faqSchema: true

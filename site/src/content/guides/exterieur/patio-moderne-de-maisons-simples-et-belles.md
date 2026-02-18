@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 10
-image: "/images/guides/patio-moderne-de-maisons-simples-et-belles.webp"
+image: "/images/guides/unsplash-patio-moderne-de-maisons-simples-et-belles-1771340868N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

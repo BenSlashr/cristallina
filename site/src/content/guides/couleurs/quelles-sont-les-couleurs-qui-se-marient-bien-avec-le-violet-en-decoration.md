@@ -5,7 +5,7 @@ type: guide
 branch: couleurs
 parent: couleurs
 order: 3
-image: "/images/guides/quelles-sont-les-couleurs-qui-se-marient-bien-avec-le-violet-en-decoration.webp"
+image: "/images/guides/unsplash-quelles-sont-les-couleurs-qui-se-marient-bien-avec-le-violet-en-decoration-1771319506N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

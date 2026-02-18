@@ -5,7 +5,7 @@ type: guide
 branch: salle-de-bain
 parent: salle-de-bain
 order: 2
-image: "/images/guides/les-points-importants-a-renover-dans-une-salle-de-bain.webp"
+image: "/images/guides/unsplash-les-points-importants-a-renover-dans-une-salle-de-bain-1771324484N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

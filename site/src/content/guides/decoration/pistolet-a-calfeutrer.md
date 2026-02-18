@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 6
-image: "/images/guides/pistolet-a-calfeutrer.webp"
+image: "/images/guides/unsplash-pistolet-a-calfeutrer-1771330949N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

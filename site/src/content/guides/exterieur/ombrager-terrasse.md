@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 8
-image: "/images/guides/ombrager-terrasse.webp"
+image: "/images/guides/unsplash-ombrager-terrasse-1771330951N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

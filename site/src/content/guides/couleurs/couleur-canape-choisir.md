@@ -5,7 +5,6 @@ type: guide
 branch: couleurs
 parent: couleurs
 order: 10
-image: "/images/guides/couleur-canape-choisir.webp"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

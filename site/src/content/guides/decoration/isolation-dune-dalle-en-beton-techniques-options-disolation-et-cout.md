@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 7
-image: "/images/guides/isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout.webp"
+image: "/images/guides/unsplash-isolation-dune-dalle-en-beton-techniques-options-disolation-et-cout-1771330890N.jpg"
 readingTime: "12 min"
 faqSchema: true
 pubDate: 2026-02-17

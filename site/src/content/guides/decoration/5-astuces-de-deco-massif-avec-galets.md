@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 10
-image: "/images/guides/5-astuces-de-deco-massif-avec-galets.webp"
+image: "/images/guides/unsplash-5-astuces-de-deco-massif-avec-galets-1771317341N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

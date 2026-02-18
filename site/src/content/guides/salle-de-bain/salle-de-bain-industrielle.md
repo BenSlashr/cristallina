@@ -5,7 +5,7 @@ type: guide
 branch: salle-de-bain
 parent: salle-de-bain
 order: 7
-image: "/images/guides/salle-de-bain-industrielle.webp"
+image: "/images/guides/unsplash-salle-de-bain-industrielle-1771317790N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

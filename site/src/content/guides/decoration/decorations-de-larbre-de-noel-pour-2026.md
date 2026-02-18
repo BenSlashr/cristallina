@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 7
-image: "/images/guides/decorations-de-larbre-de-noel-pour-2026.webp"
+image: "/images/guides/unsplash-decorations-de-larbre-de-noel-pour-2026-1771322248N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

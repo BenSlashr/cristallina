@@ -5,7 +5,6 @@ type: guide
 branch: decoration
 parent: decoration
 order: 3
-image: "/images/guides/les-portes-coulissantes-disponible-chez-leroy-merlin.webp"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

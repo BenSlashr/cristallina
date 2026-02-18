@@ -5,7 +5,7 @@ type: guide
 branch: couleurs
 parent: couleurs
 order: 3
-image: "/images/guides/ikea-frappe-tres-fort-avec-sa-table-ronde-minimaliste-en-deux-couleurs.webp"
+image: "/images/guides/unsplash-ikea-frappe-tres-fort-avec-sa-table-ronde-minimaliste-en-deux-couleurs-1771345925N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-03-22

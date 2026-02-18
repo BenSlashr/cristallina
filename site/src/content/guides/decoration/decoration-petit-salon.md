@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 1
-image: "/images/guides/decoration-petit-salon.webp"
+image: "/images/guides/unsplash-decoration-petit-salon-1771330949N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

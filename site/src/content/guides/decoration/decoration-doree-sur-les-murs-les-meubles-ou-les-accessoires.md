@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 4
-image: "/images/guides/decoration-doree-sur-les-murs-les-meubles-ou-les-accessoires.webp"
+image: "/images/guides/unsplash-decoration-doree-sur-les-murs-les-meubles-ou-les-accessoires-1771322191N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

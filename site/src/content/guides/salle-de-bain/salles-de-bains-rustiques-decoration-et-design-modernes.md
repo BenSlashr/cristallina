@@ -5,7 +5,7 @@ type: guide
 branch: salle-de-bain
 parent: salle-de-bain
 order: 5
-image: "/images/guides/salles-de-bains-rustiques-decoration-et-design-modernes.webp"
+image: "/images/guides/unsplash-salles-de-bains-rustiques-decoration-et-design-modernes-1771336608N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

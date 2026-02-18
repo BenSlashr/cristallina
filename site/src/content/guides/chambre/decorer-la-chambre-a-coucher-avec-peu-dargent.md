@@ -5,7 +5,7 @@ type: guide
 branch: chambre
 parent: chambre
 order: 3
-image: "/images/guides/decorer-la-chambre-a-coucher-avec-peu-dargent.webp"
+image: "/images/guides/unsplash-decorer-la-chambre-a-coucher-avec-peu-dargent-1771336667N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

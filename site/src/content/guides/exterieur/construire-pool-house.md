@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 6
-image: "/images/guides/construire-pool-house.webp"
+image: "/images/guides/unsplash-construire-pool-house-1771324425N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

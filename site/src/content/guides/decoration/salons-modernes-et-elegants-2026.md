@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 5
-image: "/images/guides/salons-modernes-et-elegants-2026.webp"
+image: "/images/guides/unsplash-salons-modernes-et-elegants-2026-1771315921N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: chambre
 parent: chambre
 order: 3
-image: "/images/guides/chambre-sans-fenetre.webp"
+image: "/images/guides/unsplash-chambre-sans-fenetre-1771341979N.jpg"
 readingTime: "10 min"
 pubDate: 2026-02-17
 faqSchema: true

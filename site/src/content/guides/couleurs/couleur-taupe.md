@@ -5,7 +5,7 @@ type: guide
 branch: couleurs
 parent: couleurs
 order: 8
-image: "/images/guides/couleur-taupe.webp"
+image: "/images/guides/unsplash-couleur-taupe-1771341979N.jpg"
 readingTime: "10 min"
 pubDate: 2026-03-07
 faqSchema: true

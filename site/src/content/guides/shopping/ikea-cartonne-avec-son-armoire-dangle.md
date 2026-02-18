@@ -5,7 +5,7 @@ type: guide
 branch: shopping
 parent: shopping
 order: 9
-image: "/images/guides/ikea-cartonne-avec-son-armoire-dangle.webp"
+image: "/images/guides/unsplash-ikea-cartonne-avec-son-armoire-dangle-1771341919N.jpg"
 readingTime: "9 min"
 pubDate: 2026-03-08
 faqSchema: true

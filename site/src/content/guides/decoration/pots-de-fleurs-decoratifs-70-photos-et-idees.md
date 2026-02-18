@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 4
-image: "/images/guides/pots-de-fleurs-decoratifs-70-photos-et-idees.webp"
+image: "/images/guides/unsplash-pots-de-fleurs-decoratifs-70-photos-et-idees-1771325699N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

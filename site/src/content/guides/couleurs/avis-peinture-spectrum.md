@@ -5,7 +5,6 @@ type: guide
 branch: couleurs
 parent: couleurs
 order: 7
-image: "/images/guides/avis-peinture-spectrum.webp"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 8
-image: "/images/guides/la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort.webp"
+image: "/images/guides/unsplash-la-pergola-bioclimatique-lalliance-parfaite-entre-esthetique-et-confort-1771319507N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

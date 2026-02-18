@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 7
-image: "/images/guides/renovez-votre-terrasse-pour-la-securite.webp"
+image: "/images/guides/unsplash-renovez-votre-terrasse-pour-la-securite-1771320323N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

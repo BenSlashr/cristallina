@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 6
-image: "/images/guides/decoration-maritime-50-photos-et-idees-modernes.webp"
+image: "/images/guides/unsplash-decoration-maritime-50-photos-et-idees-modernes-1771325699N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

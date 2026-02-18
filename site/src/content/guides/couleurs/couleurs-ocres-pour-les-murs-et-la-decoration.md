@@ -5,7 +5,6 @@ type: guide
 branch: couleurs
 parent: couleurs
 order: 2
-image: "/images/guides/couleurs-ocres-pour-les-murs-et-la-decoration.webp"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

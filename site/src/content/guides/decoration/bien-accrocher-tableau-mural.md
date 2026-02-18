@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 8
-image: "/images/guides/bien-accrocher-tableau-mural.webp"
+image: "/images/guides/unsplash-bien-accrocher-tableau-mural-1771320323N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

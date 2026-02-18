@@ -5,7 +5,7 @@ type: guide
 branch: shopping
 parent: shopping
 order: 7
-image: "/images/guides/cohue-chez-ikea-avec-cette-lampe-articulee-super-design-a-moins-de-5-euros.webp"
+image: "/images/guides/unsplash-cohue-chez-ikea-avec-cette-lampe-articulee-super-design-a-moins-de-5-euros-1771341920N.jpg"
 readingTime: "8 min"
 pubDate: 2026-02-17
 faqSchema: true

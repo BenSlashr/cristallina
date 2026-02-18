@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 7
-image: "/images/guides/salon-plus-chaleureux.webp"
+image: "/images/guides/unsplash-salon-plus-chaleureux-1771340809N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

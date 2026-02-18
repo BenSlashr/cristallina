@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 5
-image: "/images/guides/decoration-francaise-idees-et-photos-romantiques.webp"
+image: "/images/guides/unsplash-decoration-francaise-idees-et-photos-romantiques-1771319506N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

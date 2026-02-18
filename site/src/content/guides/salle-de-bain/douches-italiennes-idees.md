@@ -5,7 +5,7 @@ type: guide
 branch: salle-de-bain
 parent: salle-de-bain
 order: 9
-image: "/images/guides/douches-italiennes-idees.webp"
+image: "/images/guides/unsplash-douches-italiennes-idees-1771317282N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

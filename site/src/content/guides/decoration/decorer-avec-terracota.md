@@ -5,7 +5,6 @@ type: guide
 branch: decoration
 parent: decoration
 order: 9
-image: "/images/guides/decorer-avec-terracota.webp"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

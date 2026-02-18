@@ -5,7 +5,6 @@ type: guide
 branch: cuisine
 parent: cuisine
 order: 4
-image: "/images/guides/changer-portes-cuisines-ikea-faktum.webp"
 readingTime: "10 min"
 pubDate: 2026-02-17
 faqSchema: true

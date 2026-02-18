@@ -5,7 +5,6 @@ type: guide
 branch: decoration
 parent: decoration
 order: 5
-image: "/images/guides/bleu-salon.webp"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: cuisine
 parent: cuisine
 order: 1
-image: "/images/guides/cuisine-olive.webp"
+image: "/images/guides/unsplash-cuisine-olive-1771275751N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

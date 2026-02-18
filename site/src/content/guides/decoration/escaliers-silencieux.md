@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 4
-image: "/images/guides/escaliers-silencieux.webp"
+image: "/images/guides/unsplash-escaliers-silencieux-1771315099N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 3
-image: "/images/guides/appartement-traversant.webp"
+image: "/images/guides/unsplash-appartement-traversant-1771314103N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 3
-image: "/images/guides/recuperation-eau-piscine.webp"
+image: "/images/guides/unsplash-recuperation-eau-piscine-1771320263N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 6
-image: "/images/guides/bureau-de-jardin-de-5m2-un-mauvais-concept-qui-etait-cense-etre-sympa.webp"
+image: "/images/guides/unsplash-bureau-de-jardin-de-5m2-un-mauvais-concept-qui-etait-cense-etre-sympa-1771314102N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

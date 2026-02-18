@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 10
-image: "/images/guides/decoration-minimaliste-idees-et-photos-faciles.webp"
+image: "/images/guides/unsplash-decoration-minimaliste-idees-et-photos-faciles-1771319566N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

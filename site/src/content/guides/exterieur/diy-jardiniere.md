@@ -5,7 +5,6 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 10
-image: "/images/guides/diy-jardiniere.webp"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

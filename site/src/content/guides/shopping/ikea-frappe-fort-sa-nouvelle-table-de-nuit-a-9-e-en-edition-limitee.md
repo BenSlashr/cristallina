@@ -5,7 +5,7 @@ type: guide
 branch: shopping
 parent: shopping
 order: 6
-image: "/images/guides/ikea-frappe-fort-sa-nouvelle-table-de-nuit-a-9-e-en-edition-limitee.webp"
+image: "/images/guides/unsplash-ikea-frappe-fort-sa-nouvelle-table-de-nuit-a-9-e-en-edition-limitee-1771343551N.jpg"
 readingTime: "8 min"
 pubDate: 2026-03-15
 faqSchema: true

@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 9
-image: "/images/guides/comment-nettoyer-une-table-en-ceramique.webp"
+image: "/images/guides/unsplash-comment-nettoyer-une-table-en-ceramique-1771315099N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

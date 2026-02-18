@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 9
-image: "/images/guides/6-idees-pour-fabriquer-des-jardinieres-suspendues-maison.webp"
+image: "/images/guides/unsplash-6-idees-pour-fabriquer-des-jardinieres-suspendues-maison-1771330949N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

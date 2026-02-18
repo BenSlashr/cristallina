@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 9
-image: "/images/guides/installation-et-usage-dune-tuile-chatiere.webp"
+image: "/images/guides/unsplash-installation-et-usage-dune-tuile-chatiere-1771326661N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

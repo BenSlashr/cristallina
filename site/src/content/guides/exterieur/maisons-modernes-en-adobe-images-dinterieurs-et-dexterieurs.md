@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 2
-image: "/images/guides/maisons-modernes-en-adobe-images-dinterieurs-et-dexterieurs.webp"
+image: "/images/guides/unsplash-maisons-modernes-en-adobe-images-dinterieurs-et-dexterieurs-1771317281N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

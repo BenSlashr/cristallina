@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 5
-image: "/images/guides/crepir-un-mur-interieur.webp"
+image: "/images/guides/unsplash-crepir-un-mur-interieur-1771275754N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: chambre
 parent: chambre
 order: 9
-image: "/images/guides/decorer-une-chambre-dans-un-style-jungle.webp"
+image: "/images/guides/unsplash-decorer-une-chambre-dans-un-style-jungle-1771315922N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

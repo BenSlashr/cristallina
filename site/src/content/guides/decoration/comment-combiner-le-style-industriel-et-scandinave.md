@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 10
-image: "/images/guides/comment-combiner-le-style-industriel-et-scandinave.webp"
+image: "/images/guides/unsplash-comment-combiner-le-style-industriel-et-scandinave-1771336608N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

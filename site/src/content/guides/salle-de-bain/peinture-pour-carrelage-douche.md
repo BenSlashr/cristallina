@@ -5,7 +5,7 @@ type: guide
 branch: salle-de-bain
 parent: salle-de-bain
 order: 9
-image: "/images/guides/peinture-pour-carrelage-douche.webp"
+image: "/images/guides/unsplash-peinture-pour-carrelage-douche-1771325756N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

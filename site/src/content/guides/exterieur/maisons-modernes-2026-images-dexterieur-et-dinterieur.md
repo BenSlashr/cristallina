@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 1
-image: "/images/guides/maisons-modernes-2026-images-dexterieur-et-dinterieur.webp"
+image: "/images/guides/unsplash-maisons-modernes-2026-images-dexterieur-et-dinterieur-1771314157N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

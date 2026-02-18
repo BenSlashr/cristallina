@@ -5,7 +5,6 @@ type: guide
 branch: decoration
 parent: decoration
 order: 2
-image: "/images/guides/table-basse-japonaise-kotatsu.webp"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

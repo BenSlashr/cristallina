@@ -5,7 +5,7 @@ type: guide
 branch: salle-de-bain
 parent: salle-de-bain
 order: 10
-image: "/images/guides/baignoire-scandinave.webp"
+image: "/images/guides/unsplash-baignoire-scandinave-1771315862N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

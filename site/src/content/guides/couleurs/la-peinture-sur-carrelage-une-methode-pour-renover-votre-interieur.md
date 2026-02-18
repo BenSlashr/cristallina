@@ -5,7 +5,7 @@ type: guide
 branch: couleurs
 parent: couleurs
 order: 5
-image: "/images/guides/la-peinture-sur-carrelage-une-methode-pour-renover-votre-interieur.webp"
+image: "/images/guides/unsplash-la-peinture-sur-carrelage-une-methode-pour-renover-votre-interieur-1771317790N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: cuisine
 parent: cuisine
 order: 1
-image: "/images/guides/petites-cuisines-modernes-2026-designs-et-modeles.webp"
+image: "/images/guides/unsplash-petites-cuisines-modernes-2026-designs-et-modeles-1771320265N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

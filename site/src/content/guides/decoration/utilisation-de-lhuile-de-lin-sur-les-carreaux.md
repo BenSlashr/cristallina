@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 7
-image: "/images/guides/utilisation-de-lhuile-de-lin-sur-les-carreaux.webp"
+image: "/images/guides/unsplash-utilisation-de-lhuile-de-lin-sur-les-carreaux-1771343550N.jpg"
 readingTime: "10 min"
 pubDate: 2026-03-16
 faqSchema: true

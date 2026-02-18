@@ -5,7 +5,7 @@ type: guide
 branch: shopping
 parent: shopping
 order: 2
-image: "/images/guides/ikea-cet-indispensable-pour-secher-son-linge-meme-en-automne-a-moins-de-6-euros.webp"
+image: "/images/guides/unsplash-ikea-cet-indispensable-pour-secher-son-linge-meme-en-automne-a-moins-de-6-euros-1771345926N.jpg"
 readingTime: "8 min"
 faqSchema: true
 pubDate: 2026-03-21

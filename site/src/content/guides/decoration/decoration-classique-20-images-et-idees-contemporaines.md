@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 10
-image: "/images/guides/decoration-classique-20-images-et-idees-contemporaines.webp"
+image: "/images/guides/unsplash-decoration-classique-20-images-et-idees-contemporaines-1771330890N.jpg"
 readingTime: "12 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 10
-image: "/images/guides/comment-peindre-des-bocaux-ou-des-bouteilles-en-verre.webp"
+image: "/images/guides/unsplash-comment-peindre-des-bocaux-ou-des-bouteilles-en-verre-1771315099N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

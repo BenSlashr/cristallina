@@ -5,7 +5,7 @@ type: guide
 branch: cuisine
 parent: cuisine
 order: 6
-image: "/images/guides/cuisine-haut-gamme-77-ai-concept.webp"
+image: "/images/guides/unsplash-cuisine-haut-gamme-77-ai-concept-1771315923N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

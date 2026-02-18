@@ -5,7 +5,7 @@ type: guide
 branch: salle-de-bain
 parent: salle-de-bain
 order: 3
-image: "/images/guides/carrelage-douche-italienne.webp"
+image: "/images/guides/unsplash-carrelage-douche-italienne-1771275752N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

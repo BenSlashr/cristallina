@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 3
-image: "/images/guides/installer-serre-tunnel.webp"
+image: "/images/guides/unsplash-installer-serre-tunnel-1771324427N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

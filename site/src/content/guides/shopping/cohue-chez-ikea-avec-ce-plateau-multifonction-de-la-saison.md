@@ -5,7 +5,7 @@ type: guide
 branch: shopping
 parent: shopping
 order: 6
-image: "/images/guides/cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison.webp"
+image: "/images/guides/unsplash-cohue-chez-ikea-avec-ce-plateau-multifonction-de-la-saison-1771341919N.jpg"
 readingTime: "8 min"
 pubDate: 2026-02-17
 faqSchema: true

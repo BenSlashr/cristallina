@@ -5,7 +5,7 @@ type: guide
 branch: chambre
 parent: chambre
 order: 3
-image: "/images/guides/deco-terracotta-chambre.webp"
+image: "/images/guides/unsplash-deco-terracotta-chambre-1771275752N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

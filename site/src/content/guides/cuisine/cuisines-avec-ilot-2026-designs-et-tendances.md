@@ -5,7 +5,6 @@ type: guide
 branch: cuisine
 parent: cuisine
 order: 1
-image: "/images/guides/cuisines-avec-ilot-2026-designs-et-tendances.webp"
 readingTime: "12 min"
 faqSchema: true
 pubDate: 2026-02-17

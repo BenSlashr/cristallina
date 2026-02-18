@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 9
-image: "/images/guides/decirer-un-meuble-en-bois-les-astuces-pratiques.webp"
+image: "/images/guides/unsplash-decirer-un-meuble-en-bois-les-astuces-pratiques-1771336665N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

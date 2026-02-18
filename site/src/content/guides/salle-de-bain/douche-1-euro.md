@@ -5,7 +5,7 @@ type: guide
 branch: salle-de-bain
 parent: salle-de-bain
 order: 1
-image: "/images/guides/douche-1-euro.webp"
+image: "/images/guides/unsplash-douche-1-euro-1771315862N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

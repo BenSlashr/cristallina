@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 5
-image: "/images/guides/piece-trop-chaude.webp"
+image: "/images/guides/unsplash-piece-trop-chaude-1771325757N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

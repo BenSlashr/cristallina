@@ -5,7 +5,7 @@ type: guide
 branch: chambre
 parent: chambre
 order: 4
-image: "/images/guides/decorer-chambre-coucher-location.webp"
+image: "/images/guides/unsplash-decorer-chambre-coucher-location-1771343550N.jpg"
 readingTime: "10 min"
 pubDate: 2026-03-13
 faqSchema: true

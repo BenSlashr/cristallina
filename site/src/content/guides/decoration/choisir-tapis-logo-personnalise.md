@@ -5,7 +5,6 @@ type: guide
 branch: decoration
 parent: decoration
 order: 4
-image: "/images/guides/choisir-tapis-logo-personnalise.webp"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-03-23

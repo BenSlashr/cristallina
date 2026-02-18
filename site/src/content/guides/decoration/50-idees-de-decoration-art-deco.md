@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 5
-image: "/images/guides/50-idees-de-decoration-art-deco.webp"
+image: "/images/guides/unsplash-50-idees-de-decoration-art-deco-1771326601N.jpg"
 readingTime: "12 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 5
-image: "/images/guides/ikea-frappe-fort-avec-son-nouveau-canape-2-places-parfait-pour-les-petits-salons.webp"
+image: "/images/guides/unsplash-ikea-frappe-fort-avec-son-nouveau-canape-2-places-parfait-pour-les-petits-salons-1771341978N.jpg"
 readingTime: "9 min"
 pubDate: 2026-02-17
 faqSchema: true

@@ -5,7 +5,7 @@ type: guide
 branch: chambre
 parent: chambre
 order: 2
-image: "/images/guides/le-feng-shui-dans-la-chambre-a-coucher.webp"
+image: "/images/guides/unsplash-le-feng-shui-dans-la-chambre-a-coucher-1771336608N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

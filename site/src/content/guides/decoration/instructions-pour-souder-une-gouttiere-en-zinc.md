@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 9
-image: "/images/guides/instructions-pour-souder-une-gouttiere-en-zinc.webp"
+image: "/images/guides/unsplash-instructions-pour-souder-une-gouttiere-en-zinc-1771314162N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

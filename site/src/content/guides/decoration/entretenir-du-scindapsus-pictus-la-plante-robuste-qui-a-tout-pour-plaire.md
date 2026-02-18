@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 5
-image: "/images/guides/entretenir-du-scindapsus-pictus-la-plante-robuste-qui-a-tout-pour-plaire.webp"
+image: "/images/guides/unsplash-entretenir-du-scindapsus-pictus-la-plante-robuste-qui-a-tout-pour-plaire-1771322192N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

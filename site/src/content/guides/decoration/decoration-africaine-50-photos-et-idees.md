@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 7
-image: "/images/guides/decoration-africaine-50-photos-et-idees.webp"
+image: "/images/guides/unsplash-decoration-africaine-50-photos-et-idees-1771324427N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 4
-image: "/images/guides/fabriquer-un-bureau-avec-des-caissons.webp"
+image: "/images/guides/unsplash-fabriquer-un-bureau-avec-des-caissons-1771315862N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

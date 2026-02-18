@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 2
-image: "/images/guides/choisir-cadre-tableau-mural-vegetal.webp"
+image: "/images/guides/unsplash-choisir-cadre-tableau-mural-vegetal-1771322190N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

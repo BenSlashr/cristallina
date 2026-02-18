@@ -5,7 +5,7 @@ type: guide
 branch: cuisine
 parent: cuisine
 order: 4
-image: "/images/guides/cuisines-modernes-2026-designs-modeles.webp"
+image: "/images/guides/unsplash-cuisines-modernes-2026-designs-modeles-1771336667N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 1
-image: "/images/guides/erreurs-rideaux.webp"
+image: "/images/guides/unsplash-erreurs-rideaux-1771324485N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 6
-image: "/images/guides/artisanat-avec-des-materiaux-recycles-pour-la-maison.webp"
+image: "/images/guides/unsplash-artisanat-avec-des-materiaux-recycles-pour-la-maison-1771332049N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 5
-image: "/images/guides/papier-peint-dexterieur.webp"
+image: "/images/guides/unsplash-papier-peint-dexterieur-1771332049N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

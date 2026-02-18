@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 8
-image: "/images/guides/couleurs-du-salon-2026-palettes-de-murs-et-de-decors.webp"
+image: "/images/guides/unsplash-couleurs-du-salon-2026-palettes-de-murs-et-de-decors-1771317849N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

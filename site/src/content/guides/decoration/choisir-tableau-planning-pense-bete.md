@@ -5,7 +5,6 @@ type: guide
 branch: decoration
 parent: decoration
 order: 2
-image: "/images/guides/choisir-tableau-planning-pense-bete.webp"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

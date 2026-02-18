@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 9
-image: "/images/guides/remplacer-roulette-veranda.webp"
+image: "/images/guides/unsplash-remplacer-roulette-veranda-1771332048N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

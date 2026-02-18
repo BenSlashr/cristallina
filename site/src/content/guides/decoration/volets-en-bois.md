@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 4
-image: "/images/guides/volets-en-bois.webp"
+image: "/images/guides/unsplash-volets-en-bois-1771324485N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

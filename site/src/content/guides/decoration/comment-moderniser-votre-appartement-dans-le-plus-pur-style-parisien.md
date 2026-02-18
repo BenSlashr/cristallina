@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 8
-image: "/images/guides/comment-moderniser-votre-appartement-dans-le-plus-pur-style-parisien.webp"
+image: "/images/guides/unsplash-comment-moderniser-votre-appartement-dans-le-plus-pur-style-parisien-1771322249N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: cuisine
 parent: cuisine
 order: 8
-image: "/images/guides/le-charme-de-la-cuisine-rustique-un-look-retro-chic-incontournable.webp"
+image: "/images/guides/unsplash-le-charme-de-la-cuisine-rustique-un-look-retro-chic-incontournable-1771325758N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

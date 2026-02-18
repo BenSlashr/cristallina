@@ -5,7 +5,6 @@ type: guide
 branch: decoration
 parent: decoration
 order: 8
-image: "/images/guides/brise-vue.webp"
 readingTime: "10 min"
 pubDate: 2026-03-17
 faqSchema: true

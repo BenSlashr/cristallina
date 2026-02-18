@@ -5,7 +5,7 @@ type: guide
 branch: chambre
 parent: chambre
 order: 1
-image: "/images/guides/guide-pour-une-deco-pop-dans-la-chambre-a-coucher.webp"
+image: "/images/guides/unsplash-guide-pour-une-deco-pop-dans-la-chambre-a-coucher-1771326601N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 1
-image: "/images/guides/comment-peut-on-semer-du-gazon-sans-rouleau.webp"
+image: "/images/guides/unsplash-comment-peut-on-semer-du-gazon-sans-rouleau-1771317851N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

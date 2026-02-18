@@ -5,7 +5,6 @@ type: guide
 branch: decoration
 parent: decoration
 order: 7
-image: "/images/guides/parquet-tache.webp"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,6 @@ type: guide
 branch: cuisine
 parent: cuisine
 order: 7
-image: "/images/guides/couleurs-de-cuisine-2026.webp"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

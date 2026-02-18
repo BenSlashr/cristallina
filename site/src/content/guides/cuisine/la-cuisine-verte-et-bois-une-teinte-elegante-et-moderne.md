@@ -5,7 +5,7 @@ type: guide
 branch: cuisine
 parent: cuisine
 order: 8
-image: "/images/guides/la-cuisine-verte-et-bois-une-teinte-elegante-et-moderne.webp"
+image: "/images/guides/unsplash-la-cuisine-verte-et-bois-une-teinte-elegante-et-moderne-1771315099N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

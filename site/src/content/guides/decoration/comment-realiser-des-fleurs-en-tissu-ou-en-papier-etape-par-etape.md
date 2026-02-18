@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 7
-image: "/images/guides/comment-realiser-des-fleurs-en-tissu-ou-en-papier-etape-par-etape.webp"
+image: "/images/guides/unsplash-comment-realiser-des-fleurs-en-tissu-ou-en-papier-etape-par-etape-1771315922N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

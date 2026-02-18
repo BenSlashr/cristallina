@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 10
-image: "/images/guides/decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration.webp"
+image: "/images/guides/unsplash-decoration-shabby-chic-idees-et-photos-de-style-et-de-decoration-1771317790N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: cuisine
 parent: cuisine
 order: 1
-image: "/images/guides/cuisine.webp"
+image: "/images/guides/unsplash-cuisine-1771343608N.jpg"
 readingTime: "11 min"
 pubDate: 2026-03-10
 faqSchema: true

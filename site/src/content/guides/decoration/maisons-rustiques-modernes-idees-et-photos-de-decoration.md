@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 4
-image: "/images/guides/maisons-rustiques-modernes-idees-et-photos-de-decoration.webp"
+image: "/images/guides/unsplash-maisons-rustiques-modernes-idees-et-photos-de-decoration-1771317343N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

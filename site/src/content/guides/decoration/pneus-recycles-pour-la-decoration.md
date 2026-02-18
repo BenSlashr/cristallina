@@ -5,7 +5,6 @@ type: guide
 branch: decoration
 parent: decoration
 order: 8
-image: "/images/guides/pneus-recycles-pour-la-decoration.webp"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

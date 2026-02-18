@@ -5,7 +5,7 @@ type: guide
 branch: shopping
 parent: shopping
 order: 9
-image: "/images/guides/ikea-frappe-fort-avec-le-produit-indispensable-pour-le-bricolage-a-moins-de-13-euros.webp"
+image: "/images/guides/unsplash-ikea-frappe-fort-avec-le-produit-indispensable-pour-le-bricolage-a-moins-de-13-euros-1771343610N.jpg"
 readingTime: "8 min"
 pubDate: 2026-03-18
 faqSchema: true

@@ -5,7 +5,6 @@ type: guide
 branch: salle-de-bain
 parent: salle-de-bain
 order: 2
-image: "/images/guides/peinture-pour-carrelage-salle-de-bain-les-choses-a-eviter.webp"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

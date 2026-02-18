@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 2
-image: "/images/guides/decoration-vintage-50-images-et-idees-pour-linspiration.webp"
+image: "/images/guides/unsplash-decoration-vintage-50-images-et-idees-pour-linspiration-1771332049N.jpg"
 readingTime: "12 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: couleurs
 parent: couleurs
 order: 10
-image: "/images/guides/des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece.webp"
+image: "/images/guides/unsplash-des-couleurs-pour-donner-de-la-profondeur-a-un-mur-ou-a-une-piece-1771320264N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

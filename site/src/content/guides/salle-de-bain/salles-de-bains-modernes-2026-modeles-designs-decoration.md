@@ -5,7 +5,7 @@ type: guide
 branch: salle-de-bain
 parent: salle-de-bain
 order: 1
-image: "/images/guides/salles-de-bains-modernes-2026-modeles-designs-decoration.webp"
+image: "/images/guides/unsplash-salles-de-bains-modernes-2026-modeles-designs-decoration-1771319564N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

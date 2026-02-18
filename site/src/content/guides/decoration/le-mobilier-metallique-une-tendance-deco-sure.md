@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 1
-image: "/images/guides/le-mobilier-metallique-une-tendance-deco-sure.webp"
+image: "/images/guides/unsplash-le-mobilier-metallique-une-tendance-deco-sure-1771325699N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

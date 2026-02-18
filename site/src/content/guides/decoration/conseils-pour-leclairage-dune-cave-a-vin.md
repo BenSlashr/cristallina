@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 8
-image: "/images/guides/conseils-pour-leclairage-dune-cave-a-vin.webp"
+image: "/images/guides/unsplash-conseils-pour-leclairage-dune-cave-a-vin-1771332048N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

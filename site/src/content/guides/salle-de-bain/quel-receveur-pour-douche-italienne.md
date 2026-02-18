@@ -5,7 +5,7 @@ type: guide
 branch: salle-de-bain
 parent: salle-de-bain
 order: 4
-image: "/images/guides/quel-receveur-pour-douche-italienne.webp"
+image: "/images/guides/unsplash-quel-receveur-pour-douche-italienne-1771317849N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

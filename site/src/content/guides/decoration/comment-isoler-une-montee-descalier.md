@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 9
-image: "/images/guides/comment-isoler-une-montee-descalier.webp"
+image: "/images/guides/unsplash-comment-isoler-une-montee-descalier-1771275693N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

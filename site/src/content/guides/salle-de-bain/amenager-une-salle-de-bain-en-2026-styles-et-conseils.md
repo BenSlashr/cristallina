@@ -5,7 +5,7 @@ type: guide
 branch: salle-de-bain
 parent: salle-de-bain
 order: 3
-image: "/images/guides/amenager-une-salle-de-bain-en-2026-styles-et-conseils.webp"
+image: "/images/guides/unsplash-amenager-une-salle-de-bain-en-2026-styles-et-conseils-1771317340N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

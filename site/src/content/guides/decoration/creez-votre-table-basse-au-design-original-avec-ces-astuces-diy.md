@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 4
-image: "/images/guides/creez-votre-table-basse-au-design-original-avec-ces-astuces-diy.webp"
+image: "/images/guides/unsplash-creez-votre-table-basse-au-design-original-avec-ces-astuces-diy-1771326602N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

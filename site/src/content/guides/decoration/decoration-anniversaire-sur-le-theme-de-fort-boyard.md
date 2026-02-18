@@ -5,7 +5,6 @@ type: guide
 branch: decoration
 parent: decoration
 order: 5
-image: "/images/guides/decoration-anniversaire-sur-le-theme-de-fort-boyard.webp"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

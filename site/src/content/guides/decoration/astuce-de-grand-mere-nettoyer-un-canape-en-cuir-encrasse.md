@@ -5,7 +5,6 @@ type: guide
 branch: decoration
 parent: decoration
 order: 8
-image: "/images/guides/astuce-de-grand-mere-nettoyer-un-canape-en-cuir-encrasse.webp"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

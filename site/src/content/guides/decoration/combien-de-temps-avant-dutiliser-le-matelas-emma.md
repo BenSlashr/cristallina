@@ -5,7 +5,6 @@ type: guide
 branch: decoration
 parent: decoration
 order: 3
-image: "/images/guides/combien-de-temps-avant-dutiliser-le-matelas-emma.webp"
 readingTime: "8 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: salle-de-bain
 parent: salle-de-bain
 order: 2
-image: "/images/guides/idees-de-rangement-et-de-placards-pour-la-salle-de-bains.webp"
+image: "/images/guides/unsplash-idees-de-rangement-et-de-placards-pour-la-salle-de-bains-1771320319N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

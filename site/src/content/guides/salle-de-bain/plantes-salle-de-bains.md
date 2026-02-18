@@ -5,7 +5,7 @@ type: guide
 branch: salle-de-bain
 parent: salle-de-bain
 order: 5
-image: "/images/guides/plantes-salle-de-bains.webp"
+image: "/images/guides/unsplash-plantes-salle-de-bains-1771320264N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

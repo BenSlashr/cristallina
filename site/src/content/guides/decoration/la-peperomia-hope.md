@@ -5,7 +5,6 @@ type: guide
 branch: decoration
 parent: decoration
 order: 8
-image: "/images/guides/decoration/la-peperomia-hope.webp"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

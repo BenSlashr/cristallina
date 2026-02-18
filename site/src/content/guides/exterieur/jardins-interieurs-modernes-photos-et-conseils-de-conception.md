@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 5
-image: "/images/guides/jardins-interieurs-modernes-photos-et-conseils-de-conception.webp"
+image: "/images/guides/unsplash-jardins-interieurs-modernes-photos-et-conseils-de-conception-1771330890N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

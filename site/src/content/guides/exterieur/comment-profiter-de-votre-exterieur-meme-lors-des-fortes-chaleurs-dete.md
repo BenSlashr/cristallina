@@ -5,7 +5,6 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 2
-image: "/images/guides/comment-profiter-de-votre-exterieur-meme-lors-des-fortes-chaleurs-dete.webp"
 readingTime: "11 min"
 pubDate: 2026-02-17
 faqSchema: true

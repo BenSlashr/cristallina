@@ -5,7 +5,7 @@ type: guide
 branch: cuisine
 parent: cuisine
 order: 8
-image: "/images/guides/cuisine-americaine-2026-dessins-et-modeles.webp"
+image: "/images/guides/unsplash-cuisine-americaine-2026-dessins-et-modeles-1771340867N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

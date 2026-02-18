@@ -5,7 +5,6 @@ type: guide
 branch: rangement
 parent: rangement
 order: 1
-image: "/images/guides/rangement-soutien-gorge.webp"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

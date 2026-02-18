@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 5
-image: "/images/guides/toiture-shingle-les-caracteristiques-le-cout-et-le-devis.webp"
+image: "/images/guides/unsplash-toiture-shingle-les-caracteristiques-le-cout-et-le-devis-1771324486N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

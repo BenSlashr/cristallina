@@ -5,7 +5,7 @@ type: guide
 branch: cuisine
 parent: cuisine
 order: 1
-image: "/images/guides/organisation-armoire-cuisine.webp"
+image: "/images/guides/unsplash-organisation-armoire-cuisine-1771336667N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: shopping
 parent: shopping
 order: 1
-image: "/images/guides/ikea-frappe-fort-avec-cette-etagere-design-et-tres-pratique-qui-saccroche-au-mur-tres-facilement.webp"
+image: "/images/guides/unsplash-ikea-frappe-fort-avec-cette-etagere-design-et-tres-pratique-qui-saccroche-au-mur-tres-facilement-1771345925N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-03-20

@@ -5,7 +5,7 @@ type: guide
 branch: exterieur
 parent: exterieur
 order: 9
-image: "/images/guides/jardins-verticaux-de-40-photos-dinspiration-verte.webp"
+image: "/images/guides/unsplash-jardins-verticaux-de-40-photos-dinspiration-verte-1771324428N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

@@ -5,7 +5,7 @@ type: guide
 branch: chambre
 parent: chambre
 order: 6
-image: "/images/guides/les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes.webp"
+image: "/images/guides/unsplash-les-meilleures-options-de-couleurs-pour-une-chambre-dadulte-a-deux-teintes-1771317282N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17

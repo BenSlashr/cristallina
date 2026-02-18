@@ -5,7 +5,7 @@ type: guide
 branch: couleurs
 parent: couleurs
 order: 7
-image: "/images/guides/couleurs-pour-la-salle-a-manger-a-peindre-et-a-decorer.webp"
+image: "/images/guides/unsplash-couleurs-pour-la-salle-a-manger-a-peindre-et-a-decorer-1771319506N.jpg"
 readingTime: "9 min"
 faqSchema: true
 pubDate: 2026-02-17

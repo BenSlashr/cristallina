@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 4
-image: "/images/guides/appartements-modernes-60-photos-et-conseils-de-decoration.webp"
+image: "/images/guides/unsplash-appartements-modernes-60-photos-et-conseils-de-decoration-1771319565N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

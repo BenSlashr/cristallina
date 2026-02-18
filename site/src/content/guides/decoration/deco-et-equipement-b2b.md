@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 8
-image: "/images/guides/deco-et-equipement-b2b.webp"
+image: "/images/guides/unsplash-deco-et-equipement-b2b-1771326662N.jpg"
 readingTime: "11 min"
 faqSchema: true
 pubDate: 2026-02-17

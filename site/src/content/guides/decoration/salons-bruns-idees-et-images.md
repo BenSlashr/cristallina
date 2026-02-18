@@ -5,7 +5,7 @@ type: guide
 branch: decoration
 parent: decoration
 order: 7
-image: "/images/guides/salons-bruns-idees-et-images.webp"
+image: "/images/guides/unsplash-salons-bruns-idees-et-images-1771325758N.jpg"
 readingTime: "10 min"
 faqSchema: true
 pubDate: 2026-02-17
